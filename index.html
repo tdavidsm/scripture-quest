@@ -62,6 +62,50 @@
         <div class="difficulties" id="difficulties"></div>
       </div>
 
+      <div class="mode-picker">
+        <h2 class="pick-label">Choose the run</h2>
+        <div class="modes" id="modes">
+          <button class="mode-tab selected" data-mode="quest" type="button">Full Quest</button>
+          <button class="mode-tab" data-mode="custom" type="button">Custom Run</button>
+        </div>
+      </div>
+
+      <div class="custom-builder" id="customBuilder" hidden>
+        <div class="filter-group">
+          <div class="filter-head"><span class="filter-label">Question types</span>
+            <button class="filter-all" id="catsAll" type="button">All</button></div>
+          <div class="chipset" id="catChips"></div>
+        </div>
+        <div class="filter-group" id="chapterGroup">
+          <div class="filter-head"><span class="filter-label">Study chapters</span>
+            <span class="filter-note">limits Random Access</span>
+            <button class="filter-all" id="chaptersAll" type="button">All</button></div>
+          <div class="chipset" id="chapterChips"></div>
+        </div>
+        <div class="filter-group" id="summaryGroup">
+          <div class="filter-head"><span class="filter-label">Ten Commandments</span>
+            <span class="filter-note">summary shown?</span></div>
+          <div class="chipset seg" id="summarySeg">
+            <button class="seg-btn selected" data-sum="all" type="button">Both</button>
+            <button class="seg-btn" data-sum="with" type="button">With summary</button>
+            <button class="seg-btn" data-sum="without" type="button">Number only</button>
+          </div>
+        </div>
+        <div class="filter-group">
+          <button class="filter-disclose" id="refsToggle" type="button" aria-expanded="false">
+            <span>Limit to Bible books / chapters</span><span class="chev">▸</span>
+          </button>
+          <div class="refs-panel" id="refsPanel" hidden>
+            <div class="refs-controls">
+              <input id="refSearch" type="text" placeholder="Search e.g. Matthew, Genesis 1…" autocomplete="off" />
+              <button class="filter-all" id="refsClear" type="button">Clear</button>
+            </div>
+            <div class="refs-list" id="refsList"></div>
+          </div>
+        </div>
+        <p class="filter-count" id="filterCount">—</p>
+      </div>
+
       <button id="startBtn" class="btn btn-primary btn-lg" disabled>Begin the Quest</button>
       <p id="bestLine" class="best-line" hidden></p>
     </div>
@@ -144,6 +188,7 @@
 </div>
 
 <script src="assets/data.js"></script>
+<script src="assets/filters.js"></script>
 <script src="assets/cloud.js"></script>
 <script src="assets/game.js"></script>
 </body>

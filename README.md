@@ -29,8 +29,19 @@ A live **Treasury** panel shows your collection filling up as you play.
   | Champion | 10s | 3 | 5:00 |
 
   Running out of wrong-answer chances **or** overall time ends the run.
-- **Difficulty ramp** — easier passage sets feed the early tiers, the hardest sets
-  the gemstones, so the quest gets tougher as you climb.
+- **Difficulty ramp** — in the Full Quest, easier passage sets feed the early tiers
+  and the hardest feed the gemstones, so the quest gets tougher as you climb.
+- **Custom Run builder** — scope a run to exactly the questions you want to drill:
+  - **Question types** (Random Access, Cross-References, Ten Commandments, Theme,
+    Geographical Location, Names & Titles of God, Jewish Feasts, Unique Words, and
+    the words-in-N-passages types).
+  - **Study chapters** (Proverbs 3/4, Matthew 5/6/7 — each question's chapter is read
+    from its answer options, so it's exact even in the "mixed" set).
+  - **Ten Commandments summary** — choose the easier "Commandment #5 — Honor your
+    father and mother" variant, the harder "Commandment #5" (number only), or both.
+  - **Any Bible book/chapter** — limit to questions that reference a chosen chapter
+    anywhere (e.g. only questions touching Matthew 5, or a range you pick), with a
+    live "N questions match" count. The tiered treasure game runs on the filtered set.
 - **Scoring** — points for correct answers, plus time and streak bonuses.
 - Keyboard support (A–D or 1–4), fully responsive, works offline once loaded.
 - Entirely self-contained: no build step, no external code, no tracking.
@@ -125,6 +136,7 @@ The included empty `.nojekyll` file tells GitHub Pages to serve the files direct
 index.html                     Page shell (start / game / end screens)
 assets/style.css               All styling and the parchment theme
 assets/game.js                 Game logic, treasure SVG icons, scoring
+assets/filters.js              Question categories/chapters/refs + Custom Run filtering
 assets/cloud.js                Shared cross-browser sync (repo files on `data` branch)
 assets/data.js                 4,686 parsed questions (generated from the banks)
 build_data.py                  Rebuilds assets/data.js from the banks

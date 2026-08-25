@@ -131,6 +131,8 @@
   /* ---------- state ---------- */
   const S = {
     profile: null,      // current scholar name
+    mode: "quest",      // "quest" | "custom"
+    filters: null,      // custom-run filters { cats, chapters, summary, refs }
     division: null, difficulty: null,
     bands: [],          // per-tier full question pools (not consumed)
     usedKeys: null,     // Set of question keys used this run
@@ -373,6 +375,7 @@
         S.division = d.key;
         dc.querySelectorAll(".opt-card").forEach((x) => x.classList.remove("selected"));
         el.classList.add("selected");
+        if (S.mode === "custom") renderCustomBuilder(S.division);
         refreshStart();
       });
       dc.appendChild(el);
@@ -402,7 +405,9 @@
     });
   }
   function refreshStart() {
-    $("startBtn").disabled = !(S.profile && S.division && S.difficulty);
+    let ok = !!(S.profile && S.division && S.difficulty);
+    if (ok && S.mode === "custom") ok = QM.count(S.division, S.filters) > 0;
+    $("startBtn").disabled = !ok;
     const bl = $("bestLine");
     const p = curProfile();
     if (p && S.division && p.best[S.division]) {
@@ -422,7 +427,13 @@
      ============================================================ */
   function startGame() {
     const cfg = diffCfg();
-    S.bands = buildPools(S.division);
+    if (S.mode === "custom") {
+      const pool = QM.filterPool(S.division, S.filters);
+      if (!pool.length) return;              // nothing matches — shouldn't happen (guarded)
+      S.bands = TIERS.map(() => pool);       // one filtered pool feeds every tier
+    } else {
+      S.bands = buildPools(S.division);
+    }
     S.usedKeys = new Set();
     S.tier = 0; S.itemInTier = 0; S.qIndex = 0;
     S.score = 0; S.streak = 0; S.bestStreak = 0; S.correct = 0; S.attempts = 0;
@@ -852,6 +863,120 @@
     });
   }
 
+  /* ============================================================
+     CUSTOM RUN BUILDER
+     ============================================================ */
+  function defaultFilters(div) {
+    return {
+      cats: new Set(QM.categories(div).map((c) => c.key)),
+      chapters: new Set(QM.chapters(div)),
+      summary: "all",
+      refs: new Set(),
+    };
+  }
+  function toggleChip(set, key, btn) {
+    if (set.has(key)) { set.delete(key); btn.classList.remove("on"); }
+    else { set.add(key); btn.classList.add("on"); }
+  }
+  function renderCustomBuilder(div) {
+    if (!div) return;
+    S.filters = defaultFilters(div);
+
+    const catBox = $("catChips"); catBox.innerHTML = "";
+    QM.categories(div).forEach((c) => {
+      const b = document.createElement("button");
+      b.type = "button"; b.className = "fchip on"; b.textContent = c.name; b.dataset.cat = c.key;
+      b.addEventListener("click", () => { toggleChip(S.filters.cats, c.key, b); afterFilterChange(); });
+      catBox.appendChild(b);
+    });
+
+    const chs = QM.chapters(div);
+    $("chapterGroup").style.display = chs.length ? "" : "none";
+    const chBox = $("chapterChips"); chBox.innerHTML = "";
+    chs.forEach((ch) => {
+      const b = document.createElement("button");
+      b.type = "button"; b.className = "fchip on"; b.textContent = ch; b.dataset.ch = ch;
+      b.addEventListener("click", () => { toggleChip(S.filters.chapters, ch, b); afterFilterChange(); });
+      chBox.appendChild(b);
+    });
+
+    $("summarySeg").querySelectorAll(".seg-btn").forEach((x) =>
+      x.classList.toggle("selected", x.dataset.sum === "all"));
+
+    const list = $("refsList"); list.innerHTML = "";
+    QM.references(div).forEach(({ ref, count }) => {
+      const row = document.createElement("label");
+      row.className = "ref-item"; row.dataset.ref = ref.toLowerCase();
+      row.innerHTML = `<input type="checkbox"><span class="rn">${escapeHtml(ref)}</span><span class="rc">${count}</span>`;
+      row.querySelector("input").addEventListener("change", (e) => {
+        if (e.target.checked) S.filters.refs.add(ref); else S.filters.refs.delete(ref);
+        afterFilterChange();
+      });
+      list.appendChild(row);
+    });
+    $("refSearch").value = "";
+    afterFilterChange();
+  }
+  function afterFilterChange() {
+    if (S.mode !== "custom" || !S.division) { $("filterCount").textContent = ""; return; }
+    const n = QM.count(S.division, S.filters);
+    const el = $("filterCount");
+    el.textContent = n ? `${n} question${n === 1 ? "" : "s"} match your filters` : "No questions match — widen your filters";
+    el.classList.toggle("zero", n === 0);
+    refreshStart();
+  }
+  function selectAllChips(boxId, set, dataKey) {
+    const chips = Array.from($(boxId).children);
+    const allOn = chips.every((c) => c.classList.contains("on"));
+    chips.forEach((c) => {
+      const key = c.dataset[dataKey];
+      if (allOn) { set.delete(key); c.classList.remove("on"); }
+      else { set.add(key); c.classList.add("on"); }
+    });
+    afterFilterChange();
+  }
+  function setupCustomUI() {
+    $("modes").querySelectorAll(".mode-tab").forEach((tab) => {
+      tab.addEventListener("click", () => {
+        S.mode = tab.dataset.mode;
+        $("modes").querySelectorAll(".mode-tab").forEach((t) => t.classList.toggle("selected", t === tab));
+        const custom = S.mode === "custom";
+        $("customBuilder").hidden = !custom;
+        $("startBtn").textContent = custom ? "Begin Custom Run" : "Begin the Quest";
+        if (custom) {
+          if (S.division) renderCustomBuilder(S.division);
+          else $("filterCount").textContent = "Choose a division above to build your run.";
+        }
+        refreshStart();
+      });
+    });
+    $("catsAll").addEventListener("click", () => selectAllChips("catChips", S.filters.cats, "cat"));
+    $("chaptersAll").addEventListener("click", () => selectAllChips("chapterChips", S.filters.chapters, "ch"));
+    $("summarySeg").querySelectorAll(".seg-btn").forEach((b) => {
+      b.addEventListener("click", () => {
+        S.filters.summary = b.dataset.sum;
+        $("summarySeg").querySelectorAll(".seg-btn").forEach((x) => x.classList.toggle("selected", x === b));
+        afterFilterChange();
+      });
+    });
+    $("refsToggle").addEventListener("click", () => {
+      const p = $("refsPanel"), willOpen = p.hidden;
+      p.hidden = !willOpen;
+      $("refsToggle").setAttribute("aria-expanded", String(willOpen));
+    });
+    $("refSearch").addEventListener("input", () => {
+      const q = $("refSearch").value.trim().toLowerCase();
+      $("refsList").querySelectorAll(".ref-item").forEach((it) => {
+        it.style.display = it.dataset.ref.includes(q) ? "" : "none";
+      });
+    });
+    $("refsClear").addEventListener("click", () => {
+      if (S.filters) S.filters.refs.clear();
+      $("refsList").querySelectorAll("input").forEach((cb) => (cb.checked = false));
+      afterFilterChange();
+    });
+  }
+
   /* ---------- wire up ---------- */
   $("startBtn").addEventListener("click", startGame);
   $("quitBtn").addEventListener("click", () => {
@@ -873,6 +998,7 @@
 
   renderStart();
   refreshStart();
+  setupCustomUI();
   setupCloudUI();
   loadLeaderboard();
 })();

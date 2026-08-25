@@ -16,17 +16,41 @@ def clean(s):
     # normalise the non-breaking hyphen used in answer keys
     return s.replace("‑", "-").strip()
 
+def derive_category(title):
+    """Map a set's heading to a (category-key, study-chapter) pair."""
+    t = title.lower()
+    if "random access" in t:
+        chap = None
+        if "random access," in t:
+            chap = title.split("Random Access,", 1)[1].strip()
+            if "mixed" in chap.lower():
+                chap = "Mixed"
+        return "random", chap
+    if "cross-reference" in t or "cross reference" in t: return "xref", None
+    if "feast" in t: return "feasts", None
+    if "unique words" in t: return "unique", None
+    if "exactly two" in t: return "words2", None
+    if "three or four" in t or "exactly three" in t: return "words3", None
+    if "geographical" in t: return "geo", None
+    if "names for god" in t or "titles of the persons" in t or "trinity" in t: return "names", None
+    if "ten commandments" in t: return "commandments", None
+    if "theme" in t: return "theme", None
+    return "other", None
+
 def parse(path):
     lines = open(path, encoding="utf-8").read().splitlines()
     sets, keys, cur, i = {}, {}, None, 0
+    titles = {}
     qmark   = re.compile(r"^\*\*(\d+)\.\*\*\s*(.*)$")
-    setmark = re.compile(r"^#\s*SET\s+(\d+)", re.I)
+    setmark = re.compile(r"^#\s*SET\s+(\d+)\s*(?:[—-]\s*(.*))?$", re.I)
     keymark = re.compile(r"Answer key\s*[—-]\s*SET\s+(\d+)\s*:\s*(.*)$", re.I)
     while i < len(lines):
         line = lines[i]
         ms = setmark.match(line)
         if ms:
-            cur = int(ms.group(1)); sets.setdefault(cur, []); i += 1; continue
+            cur = int(ms.group(1)); sets.setdefault(cur, [])
+            titles[cur] = (ms.group(2) or "").strip()
+            i += 1; continue
         mk = keymark.search(line)
         if mk:
             s = int(mk.group(1)); d = {}
@@ -59,15 +83,19 @@ def parse(path):
             order = ["A", "B", "C", "D"]
             out.append({"q": q["q"], "o": [q["opts"][x] for x in order],
                         "a": order.index(L), "s": s})
-    return out, (max(sets) if sets else 0)
+    set_meta = {}
+    for s, title in titles.items():
+        cat, chap = derive_category(title)
+        set_meta[str(s)] = {"t": title, "c": cat, "ch": chap}
+    return out, (max(sets) if sets else 0), set_meta
 
 def main():
     here = os.path.dirname(os.path.abspath(__file__))
     data, meta = {}, {}
     for div, fname in BANKS.items():
-        qs, maxset = parse(os.path.join(here, fname))
+        qs, maxset, set_meta = parse(os.path.join(here, fname))
         data[div] = qs
-        meta[div] = {"sets": maxset, "count": len(qs)}
+        meta[div] = {"sets": maxset, "count": len(qs), "setMeta": set_meta}
         print(f"{div:8s} {len(qs):5d} questions across {maxset} sets")
     payload = {"meta": meta, "data": data}
     js = "window.QUIZ_DATA=" + json.dumps(payload, ensure_ascii=False,
