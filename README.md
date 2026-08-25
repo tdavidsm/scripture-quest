@@ -13,14 +13,35 @@ A live **Treasury** panel shows your collection filling up as you play.
 
 ## Features
 
+- **Persistent scholars** — create a named profile; the game remembers each
+  scholar's best scores and their full right/wrong history per question, stored
+  in the browser (per device — see note below).
+- **Adaptive review** — questions you've missed are re-asked about **3× more
+  often** than fresh ones, and questions you've mastered fade out, so practice
+  concentrates on your weak spots.
 - **Three divisions** — Primary (1,071 Qs), Junior (1,226 Qs), Senior (2,389 Qs).
-- **Three clock speeds** — Scribe (35s), Pilgrim (25s), Champion (15s) per question.
+- **Three difficulty levels**, each setting three limits at once:
+
+  | Level | Per-question | Wrong answers allowed | Overall run time |
+  |---|---|---|---|
+  | Scribe | 25s | 5 | 10:00 |
+  | Pilgrim | 15s | 4 | 7:00 |
+  | Champion | 10s | 3 | 5:00 |
+
+  Running out of wrong-answer chances **or** overall time ends the run.
 - **Difficulty ramp** — easier passage sets feed the early tiers, the hardest sets
   the gemstones, so the quest gets tougher as you climb.
 - **Scoring** — points for correct answers, plus time and streak bonuses.
-- **Best-score memory** — your best run per division is saved in the browser.
 - Keyboard support (A–D or 1–4), fully responsive, works offline once loaded.
 - Entirely self-contained: no build step, no external code, no tracking.
+
+> **A note on “users”:** because this is a static site with no server, scholar
+> profiles live in the browser's `localStorage`. They persist across visits on the
+> same browser/device, but do not sync between devices. Moving to true cross-device
+> accounts would require adding a backend.
+
+The difficulty limits are plain constants at the top of `assets/game.js`
+(the `DIFFICULTIES` array) — edit them there to retune.
 
 ## Play locally
 

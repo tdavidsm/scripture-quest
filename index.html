@@ -23,6 +23,16 @@
       <p class="tagline">Answer the passages true and swift. Gather clay and stone, iron and bronze,
         silver and gold — and at the last, the twelve gemstones of the breastplate.</p>
 
+      <div class="profile-picker">
+        <h2 class="pick-label">Who is playing?</h2>
+        <div class="profiles" id="profiles"></div>
+        <div class="new-profile" id="newProfile">
+          <input id="newProfileInput" type="text" maxlength="22" autocomplete="off"
+                 placeholder="New scholar's name…" />
+          <button id="addProfileBtn" class="btn btn-ghost btn-sm" type="button">Add</button>
+        </div>
+      </div>
+
       <div class="division-picker">
         <h2 class="pick-label">Choose your division</h2>
         <div class="divisions" id="divisions"></div>
@@ -47,12 +57,17 @@
       <main class="quiz-panel">
         <header class="hud">
           <button id="quitBtn" class="btn btn-ghost btn-sm" title="Return to start">‹ Quit</button>
-          <div class="hud-stats">
-            <div class="stat"><span class="stat-num" id="scoreVal">0</span><span class="stat-lbl">Score</span></div>
-            <div class="stat"><span class="stat-num" id="streakVal">0</span><span class="stat-lbl">Streak</span></div>
-            <div class="stat"><span class="stat-num" id="accVal">100%</span><span class="stat-lbl">Accuracy</span></div>
+          <div class="lives" id="lives" title="Wrong answers remaining"></div>
+          <div class="run-clock" id="runClock" title="Time left in this run">
+            <span class="run-clock-icon">⧗</span><span id="runClockText">5:00</span>
           </div>
         </header>
+        <div class="hud-stats">
+          <div class="stat"><span class="stat-num" id="scoreVal">0</span><span class="stat-lbl">Score</span></div>
+          <div class="stat"><span class="stat-num" id="streakVal">0</span><span class="stat-lbl">Streak</span></div>
+          <div class="stat"><span class="stat-num" id="accVal">100%</span><span class="stat-lbl">Accuracy</span></div>
+          <div class="stat"><span class="stat-num" id="playerVal">—</span><span class="stat-lbl">Scholar</span></div>
+        </div>
 
         <div class="tier-banner" id="tierBanner">
           <span class="tier-banner-icon" id="tierBannerIcon"></span>

@@ -71,6 +71,14 @@
       <polyline points="9,14 20,4 31,14" fill="none" stroke="#ffffff" stroke-width=".8" opacity=".55"/>
       <line x1="20" y1="17" x2="20" y2="37" stroke="#ffffff" stroke-width=".7" opacity=".3"/>
       <polygon points="14,12 20,4 20,9" fill="#ffffff" opacity=".35"/></svg>`,
+    heart: () => `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+      <path d="M12 21s-7.5-4.9-7.5-10.5A4 4 0 0 1 12 7.2 4 4 0 0 1 19.5 10.5C19.5 16.1 12 21 12 21z"
+            fill="#9b3b3b" stroke="#7a2e2e" stroke-width="1"/>
+      <path d="M8.5 8.2a3 3 0 0 1 2.4-1.1" fill="none" stroke="#d98a8a" stroke-width="1.2" stroke-linecap="round" opacity=".8"/></svg>`,
+    heartLost: () => `<svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+      <path d="M12 21s-7.5-4.9-7.5-10.5A4 4 0 0 1 12 7.2 4 4 0 0 1 19.5 10.5C19.5 16.1 12 21 12 21z"
+            fill="none" stroke="#8a7a5a" stroke-width="1.2" opacity=".55"/>
+      <path d="M12 7.5 l-1.6 4 2.4 1.5 -1.8 3.5" fill="none" stroke="#8a7a5a" stroke-width="1" opacity=".5" stroke-linejoin="round"/></svg>`,
   };
 
   /* 12 stones of the breastplate (Exodus 28:17-20) */
@@ -106,23 +114,35 @@
     { key: "junior",  name: "Junior",   desc: "middle" },
     { key: "senior",  name: "Senior",   desc: "advanced" },
   ];
+  // perQ  = seconds per question
+  // maxWrong = wrong answers allowed before the run ends
+  // runTime = overall seconds for the whole run
   const DIFFICULTIES = [
-    { key: "scribe",   name: "Scribe",   desc: "35s · relaxed", time: 35 },
-    { key: "pilgrim",  name: "Pilgrim",  desc: "25s · standard", time: 25 },
-    { key: "champion", name: "Champion", desc: "15s · swift",    time: 15 },
+    { key: "scribe",   name: "Scribe",   perQ: 25, maxWrong: 5, runTime: 600 },
+    { key: "pilgrim",  name: "Pilgrim",  perQ: 15, maxWrong: 4, runTime: 420 },
+    { key: "champion", name: "Champion", perQ: 10, maxWrong: 3, runTime: 300 },
   ];
+  const diffCfg = () => DIFFICULTIES.find((d) => d.key === S.difficulty);
+  function fmtTime(sec) {
+    sec = Math.max(0, Math.ceil(sec));
+    return Math.floor(sec / 60) + ":" + String(sec % 60).padStart(2, "0");
+  }
 
   /* ---------- state ---------- */
   const S = {
+    profile: null,      // current scholar name
     division: null, difficulty: null,
-    pools: [],          // per-tier arrays of question objects (shuffled)
+    bands: [],          // per-tier full question pools (not consumed)
+    usedKeys: null,     // Set of question keys used this run
     tier: 0, itemInTier: 0,
     qIndex: 0,          // overall question count
     score: 0, streak: 0, bestStreak: 0,
     correct: 0, attempts: 0,
     current: null,      // current question
     timer: null, timeLeft: 0, timeTotal: 0, answered: false,
-    startTime: 0,
+    lives: 0, maxWrong: 0,
+    runTimer: null, runLeft: 0, runTime: 0,
+    startTime: 0, ended: false,
   };
   const TOTAL_ITEMS = TIERS.reduce((a, t) => a + t.count, 0);
 
@@ -195,9 +215,124 @@
   }
 
   /* ============================================================
+     PROFILES  (persistent scholars, stored in this browser)
+     ============================================================ */
+  const STORE_KEY = "scripture-quest-v2";
+  let STORE = loadStore();
+
+  function loadStore() {
+    try {
+      const s = JSON.parse(localStorage.getItem(STORE_KEY));
+      if (s && s.profiles) return s;
+    } catch (e) {}
+    return { profiles: {}, current: null };
+  }
+  function saveStore() {
+    try { localStorage.setItem(STORE_KEY, JSON.stringify(STORE)); } catch (e) {}
+  }
+  function curProfile() { return STORE.profiles[S.profile]; }
+  function makeProfile(name) {
+    STORE.profiles[name] = { created: Date.now(), best: {}, q: {}, runs: 0, lastPlayed: 0 };
+    saveStore();
+  }
+
+  // stable per-question key: division + short hash of the text
+  function hstr(s) {
+    let h = 5381;
+    for (let i = 0; i < s.length; i++) h = ((h << 5) + h + s.charCodeAt(i)) | 0;
+    return (h >>> 0).toString(36);
+  }
+  function qkey(q) { return S.division[0] + hstr(q.q); }
+
+  // higher weight -> asked more often. Favors previously-wrong and unseen
+  // questions; fades ones the scholar has mastered.
+  function weightOf(q) {
+    const p = curProfile();
+    const st = p && p.q[qkey(q)];
+    if (!st) return 1.2;                                   // unseen: slight favor
+    if (st.w > st.c) return Math.min(10, 2 + (st.w - st.c) * 2);   // struggling
+    if (st.w === st.c) return st.w > 0 ? 1.6 : 1.2;        // even record
+    return Math.max(0.3, 1.2 - (st.c - st.w) * 0.3);       // mastered: fades
+  }
+  function weightedPick(cands) {
+    let total = 0;
+    const ws = cands.map((q) => { const w = weightOf(q); total += w; return w; });
+    let r = Math.random() * total;
+    for (let i = 0; i < cands.length; i++) { r -= ws[i]; if (r <= 0) return i; }
+    return cands.length - 1;
+  }
+  // record the outcome of the current question against the scholar's history
+  function recordOutcome(correct) {
+    const p = curProfile();
+    if (!p) return;
+    const k = qkey(S.current);
+    const st = p.q[k] || { c: 0, w: 0 };
+    if (correct) st.c++; else st.w++;
+    st.last = Date.now();
+    p.q[k] = st;
+    p.lastPlayed = Date.now();
+    saveStore();
+  }
+
+  /* ============================================================
      START SCREEN
      ============================================================ */
+  const cap = (s) => s.charAt(0).toUpperCase() + s.slice(1);
+  function initials(name) {
+    const parts = name.trim().split(/\s+/);
+    return ((parts[0][0] || "?") + (parts[1] ? parts[1][0] : "")).toUpperCase();
+  }
+
+  function renderProfiles() {
+    const box = $("profiles");
+    box.innerHTML = "";
+    const names = Object.keys(STORE.profiles).sort(
+      (a, b) => (STORE.profiles[b].lastPlayed || 0) - (STORE.profiles[a].lastPlayed || 0)
+    );
+    names.forEach((name) => {
+      const chip = document.createElement("div");
+      chip.className = "profile-chip" + (S.profile === name ? " selected" : "");
+      chip.innerHTML =
+        `<span class="avatar">${escapeHtml(initials(name))}</span>` +
+        `<span class="pname">${escapeHtml(name)}</span>` +
+        `<button class="chip-del" title="Remove ${escapeHtml(name)}" aria-label="Remove ${escapeHtml(name)}">×</button>`;
+      chip.addEventListener("click", (e) => {
+        if (e.target.classList.contains("chip-del")) { e.stopPropagation(); delProfile(name); return; }
+        selectProfile(name);
+      });
+      box.appendChild(chip);
+    });
+  }
+  function selectProfile(name) {
+    S.profile = name;
+    STORE.current = name;
+    saveStore();
+    renderProfiles();
+    refreshStart();
+  }
+  function addProfile() {
+    const input = $("newProfileInput");
+    const name = input.value.trim().replace(/\s+/g, " ");
+    if (!name) return;
+    if (STORE.profiles[name]) { selectProfile(name); input.value = ""; return; }
+    makeProfile(name);
+    input.value = "";
+    selectProfile(name);
+  }
+  function delProfile(name) {
+    if (!window.confirm(`Remove "${name}" and all of their saved progress?`)) return;
+    delete STORE.profiles[name];
+    if (S.profile === name) S.profile = null;
+    if (STORE.current === name) STORE.current = null;
+    saveStore();
+    renderProfiles();
+    refreshStart();
+  }
+
   function renderStart() {
+    if (STORE.current && STORE.profiles[STORE.current]) S.profile = STORE.current;
+    renderProfiles();
+
     const dc = $("divisions");
     dc.innerHTML = "";
     DIVISIONS.forEach((d) => {
@@ -221,7 +356,8 @@
       const el = document.createElement("button");
       el.className = "opt-card";
       el.dataset.key = f.key;
-      el.innerHTML = `<span class="opt-name">${f.name}</span><span class="opt-desc">${f.desc}</span>`;
+      el.innerHTML = `<span class="opt-name">${f.name}</span>` +
+        `<span class="opt-desc">${f.perQ}s each · ${f.maxWrong} lives · ${fmtTime(f.runTime)}</span>`;
       el.addEventListener("click", () => {
         S.difficulty = f.key;
         fc.querySelectorAll(".opt-card").forEach((x) => x.classList.remove("selected"));
@@ -231,32 +367,91 @@
       fc.appendChild(el);
       if (i === 1) el.click(); // default: Pilgrim
     });
+
+    $("addProfileBtn").addEventListener("click", addProfile);
+    $("newProfileInput").addEventListener("keydown", (e) => {
+      if (e.key === "Enter") { e.preventDefault(); addProfile(); }
+    });
   }
   function refreshStart() {
-    $("startBtn").disabled = !(S.division && S.difficulty);
-    const best = loadBest();
+    $("startBtn").disabled = !(S.profile && S.division && S.difficulty);
     const bl = $("bestLine");
-    if (S.division && best[S.division]) {
-      const b = best[S.division];
+    const p = curProfile();
+    if (p && S.division && p.best[S.division]) {
+      const b = p.best[S.division];
       bl.hidden = false;
-      bl.textContent = `Your best in ${cap(S.division)}: ${b.score} points · ${b.items}/${TOTAL_ITEMS} treasures`;
+      bl.textContent = `${S.profile}'s best in ${cap(S.division)}: ${b.score} points · ${b.items}/${TOTAL_ITEMS} treasures`;
+    } else if (S.profile) {
+      bl.hidden = false;
+      bl.textContent = `Playing as ${S.profile}. Choose a division and clock to begin.`;
     } else {
       bl.hidden = true;
     }
   }
-  const cap = (s) => s.charAt(0).toUpperCase() + s.slice(1);
 
   /* ============================================================
      GAME
      ============================================================ */
   function startGame() {
-    S.pools = buildPools(S.division);
+    const cfg = diffCfg();
+    S.bands = buildPools(S.division);
+    S.usedKeys = new Set();
     S.tier = 0; S.itemInTier = 0; S.qIndex = 0;
     S.score = 0; S.streak = 0; S.bestStreak = 0; S.correct = 0; S.attempts = 0;
-    S.timeTotal = DIFFICULTIES.find((d) => d.key === S.difficulty).time;
+    S.timeTotal = cfg.perQ;
+    S.maxWrong = cfg.maxWrong; S.lives = cfg.maxWrong;
+    S.runTime = cfg.runTime; S.runLeft = cfg.runTime;
+    S.ended = false;
     S.startTime = Date.now();
+    $("playerVal").textContent = S.profile || "—";
     buildCollection();
+    renderLives();
     show("game");
+    startRunTimer();
+    nextQuestion();
+  }
+
+  /* ---------- lives ---------- */
+  function renderLives() {
+    const el = $("lives");
+    el.innerHTML = "";
+    for (let i = 0; i < S.maxWrong; i++) {
+      const h = document.createElement("span");
+      const lost = i >= S.lives;
+      h.className = "heart" + (lost ? " lost" : "");
+      h.innerHTML = lost ? ICONS.heartLost() : ICONS.heart();
+      el.appendChild(h);
+    }
+  }
+  function loseLife() {
+    S.lives = Math.max(0, S.lives - 1);
+    renderLives();
+    const justLost = $("lives").children[S.lives];
+    if (justLost) justLost.classList.add("pop");
+  }
+
+  /* ---------- overall run timer ---------- */
+  function startRunTimer() {
+    clearInterval(S.runTimer);
+    updateRunClock();
+    S.runTimer = setInterval(() => {
+      S.runLeft -= 1;
+      updateRunClock();
+      if (S.runLeft <= 0) { clearInterval(S.runTimer); endGame(false, "time"); }
+    }, 1000);
+  }
+  function updateRunClock() {
+    const el = $("runClock");
+    $("runClockText").textContent = fmtTime(S.runLeft);
+    el.classList.toggle("warn", S.runLeft <= 60 && S.runLeft > 20);
+    el.classList.toggle("danger", S.runLeft <= 20);
+  }
+
+  // decide what happens after the feedback pause on an answered question
+  function proceed() {
+    if (S.ended) return;
+    if (S.lives <= 0) { endGame(false, "lives"); return; }
+    if (S.tier >= TIERS.length) { endGame(true); return; }
     nextQuestion();
   }
 
@@ -289,11 +484,16 @@
   }
 
   function nextQuestion() {
+    if (S.ended) return;
     if (S.tier >= TIERS.length) return endGame(true);
     const tier = TIERS[S.tier];
-    let pool = S.pools[S.tier];
-    if (!pool || pool.length === 0) { S.pools[S.tier] = buildPools(S.division)[S.tier]; pool = S.pools[S.tier]; }
-    S.current = pool.pop();
+    const band = S.bands[S.tier];
+    // draw from questions not yet used this run, weighted toward the scholar's
+    // previously-missed ones; if the band is exhausted, allow reuse
+    let cands = band.filter((q) => !S.usedKeys.has(qkey(q)));
+    if (cands.length === 0) cands = band;
+    S.current = cands[weightedPick(cands)];
+    S.usedKeys.add(qkey(S.current));
     S.answered = false;
     S.qIndex++;
 
@@ -378,6 +578,7 @@
       const streakBonus = Math.min(S.streak, 10) * 5;
       const gained = 100 + timeBonus + streakBonus;
       S.score += gained;
+      recordOutcome(true);
       const fb = $("feedback");
       fb.className = "feedback good";
       fb.textContent = `✔ Correct!  +${gained}` + (S.streak > 1 ? `  ·  ${S.streak} streak` : "");
@@ -386,12 +587,15 @@
       earnItem();
     } else {
       S.streak = 0;
+      recordOutcome(false);
+      loseLife();
       const fb = $("feedback");
       fb.className = "feedback bad";
-      fb.textContent = "The answer was " + ["A", "B", "C", "D"][correctIdx] + ".";
+      fb.textContent = "The answer was " + ["A", "B", "C", "D"][correctIdx] +
+        (S.lives > 0 ? "." : ".  Out of chances!");
       sndBad();
       updateHud();
-      setTimeout(nextQuestion, 1600);
+      setTimeout(proceed, 1600);
     }
   }
 
@@ -400,6 +604,8 @@
     S.answered = true;
     S.attempts++;
     S.streak = 0;
+    recordOutcome(false);
+    loseLife();
     const buttons = Array.from($("answers").children);
     buttons.forEach((b, bi) => {
       b.disabled = true;
@@ -408,10 +614,11 @@
     });
     const fb = $("feedback");
     fb.className = "feedback bad";
-    fb.textContent = "Time! The answer was " + ["A", "B", "C", "D"][S.current.a] + ".";
+    fb.textContent = "Time! The answer was " + ["A", "B", "C", "D"][S.current.a] +
+      (S.lives > 0 ? "." : ".  Out of chances!");
     sndBad();
     updateHud();
-    setTimeout(nextQuestion, 1600);
+    setTimeout(proceed, 1600);
   }
 
   function earnItem() {
@@ -433,12 +640,13 @@
       const next = TIERS[S.tier];
       const fb = $("feedback");
       setTimeout(() => {
+        if (S.ended) return;
         fb.className = "feedback good";
         fb.textContent = `✦ ${TIERS[ti].name} complete! On to ${next.name}.`;
       }, 700);
-      setTimeout(nextQuestion, 1900);
+      setTimeout(proceed, 1900);
     } else {
-      setTimeout(nextQuestion, 1300);
+      setTimeout(proceed, 1300);
     }
   }
 
@@ -452,17 +660,35 @@
   /* ============================================================
      END SCREEN
      ============================================================ */
-  function endGame(won) {
+  function endGame(won, reason) {
+    if (S.ended) return;
+    S.ended = true;
     clearInterval(S.timer);
+    clearInterval(S.runTimer);
     const itemsEarned = TIERS.slice(0, S.tier).reduce((a, t) => a + t.count, 0) + S.itemInTier;
-    const secs = Math.round((Date.now() - S.startTime) / 1000);
     const acc = S.attempts ? Math.round((S.correct / S.attempts) * 100) : 0;
 
-    $("endTitle").textContent = won ? "The Treasury is Full!" : "Quest Paused";
-    $("endSub").textContent = won
-      ? "You have gathered every treasure of the Word — from humble clay to the twelve gemstones of the breastplate. Well done, good and faithful scholar."
-      : "You may return and take up the quest again whenever you are ready.";
-    $("endCrest").innerHTML = won ? ICONS.gem(GEMS[0]) : ICONS.clay();
+    let title, sub, crest;
+    if (won) {
+      title = "The Treasury is Full!";
+      sub = "You have gathered every treasure of the Word — from humble clay to the twelve gemstones of the breastplate. Well done, good and faithful scholar.";
+      crest = ICONS.gem(GEMS[0]);
+    } else if (reason === "time") {
+      title = "Time Has Run Out";
+      sub = `The run's clock reached zero. You gathered ${itemsEarned} of ${TOTAL_ITEMS} treasures — take up the quest again to go further.`;
+      crest = ICONS.gold();
+    } else if (reason === "lives") {
+      title = "Out of Chances";
+      sub = `You spent your last of ${S.maxWrong} wrong answers. The ${itemsEarned} treasures you gathered are kept in your Treasury — try again.`;
+      crest = ICONS.iron();
+    } else {
+      title = "Quest Paused";
+      sub = "You may return and take up the quest again whenever you are ready.";
+      crest = ICONS.clay();
+    }
+    $("endTitle").textContent = title;
+    $("endSub").textContent = sub;
+    $("endCrest").innerHTML = crest;
 
     $("endStats").innerHTML = [
       ["Score", S.score],
@@ -479,22 +705,17 @@
     });
     $("endTreasury").innerHTML = tre || `<span style="color:#b79b6d">No treasures yet — try again!</span>`;
 
-    saveBest(S.division, S.score, itemsEarned);
+    // record into the scholar's profile
+    const p = curProfile();
+    if (p) {
+      p.runs = (p.runs || 0) + 1;
+      const prev = p.best[S.division];
+      if (!prev || S.score > prev.score) p.best[S.division] = { score: S.score, items: itemsEarned, won: !!won };
+      p.lastPlayed = Date.now();
+      saveStore();
+    }
     if (won) sndWin();
     show("end");
-  }
-
-  /* ---------- persistence ---------- */
-  const BEST_KEY = "scripture-quest-best-v1";
-  function loadBest() {
-    try { return JSON.parse(localStorage.getItem(BEST_KEY)) || {}; }
-    catch (e) { return {}; }
-  }
-  function saveBest(div, score, items) {
-    const best = loadBest();
-    const prev = best[div];
-    if (!prev || score > prev.score) best[div] = { score, items };
-    try { localStorage.setItem(BEST_KEY, JSON.stringify(best)); } catch (e) {}
   }
 
   /* ---------- util ---------- */
@@ -508,7 +729,10 @@
 
   /* ---------- wire up ---------- */
   $("startBtn").addEventListener("click", startGame);
-  $("quitBtn").addEventListener("click", () => { clearInterval(S.timer); show("start"); refreshStart(); });
+  $("quitBtn").addEventListener("click", () => {
+    S.ended = true; clearInterval(S.timer); clearInterval(S.runTimer);
+    show("start"); refreshStart();
+  });
   $("againBtn").addEventListener("click", startGame);
   $("homeBtn").addEventListener("click", () => { show("start"); refreshStart(); });
 
