@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>Scripture Quest — Treasures of the Word</title>
+<meta name="description" content="A timed Bible Bee quiz game. Answer correctly to earn treasures — clay jars, stone, iron, bronze, silver, gold, and gemstones." />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;600;700&family=EB+Garamond:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet" />
+<link rel="stylesheet" href="assets/style.css" />
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E%F0%9F%92%8E%3C/text%3E%3C/svg%3E" />
+</head>
+<body>
+<div id="app">
+
+  <!-- ===================== START SCREEN ===================== -->
+  <section id="screen-start" class="screen is-active">
+    <div class="start-card">
+      <div class="crest" aria-hidden="true"></div>
+      <h1 class="title">Scripture Quest</h1>
+      <p class="subtitle">Treasures of the Word</p>
+      <p class="tagline">Answer the passages true and swift. Gather clay and stone, iron and bronze,
+        silver and gold — and at the last, the twelve gemstones of the breastplate.</p>
+
+      <div class="division-picker">
+        <h2 class="pick-label">Choose your division</h2>
+        <div class="divisions" id="divisions"></div>
+      </div>
+
+      <div class="difficulty-picker">
+        <h2 class="pick-label">Choose the clock</h2>
+        <div class="difficulties" id="difficulties"></div>
+      </div>
+
+      <button id="startBtn" class="btn btn-primary btn-lg" disabled>Begin the Quest</button>
+      <p id="bestLine" class="best-line" hidden></p>
+    </div>
+    <p class="footnote">Questions from the National Bible Bee passage test banks (NKJV).</p>
+  </section>
+
+  <!-- ===================== GAME SCREEN ===================== -->
+  <section id="screen-game" class="screen">
+    <div class="game-grid">
+
+      <!-- Main quiz column -->
+      <main class="quiz-panel">
+        <header class="hud">
+          <button id="quitBtn" class="btn btn-ghost btn-sm" title="Return to start">‹ Quit</button>
+          <div class="hud-stats">
+            <div class="stat"><span class="stat-num" id="scoreVal">0</span><span class="stat-lbl">Score</span></div>
+            <div class="stat"><span class="stat-num" id="streakVal">0</span><span class="stat-lbl">Streak</span></div>
+            <div class="stat"><span class="stat-num" id="accVal">100%</span><span class="stat-lbl">Accuracy</span></div>
+          </div>
+        </header>
+
+        <div class="tier-banner" id="tierBanner">
+          <span class="tier-banner-icon" id="tierBannerIcon"></span>
+          <span class="tier-banner-text">
+            <span class="tier-banner-name" id="tierBannerName">Clay</span>
+            <span class="tier-banner-sub" id="tierBannerSub">Gather 5 clay jars</span>
+          </span>
+        </div>
+
+        <div class="timer-wrap">
+          <div class="timer-bar" id="timerBar"></div>
+          <span class="timer-text" id="timerText">25</span>
+        </div>
+
+        <div class="question-card">
+          <p class="q-meta" id="qMeta">Question 1</p>
+          <p class="q-text" id="qText">…</p>
+          <div class="answers" id="answers"></div>
+        </div>
+
+        <div class="feedback" id="feedback" aria-live="polite"></div>
+      </main>
+
+      <!-- Collection sidebar -->
+      <aside class="collection" id="collection" aria-label="Your treasures">
+        <h2 class="collection-title">Treasury</h2>
+        <div class="tiers" id="tiers"></div>
+      </aside>
+
+    </div>
+  </section>
+
+  <!-- ===================== END SCREEN ===================== -->
+  <section id="screen-end" class="screen">
+    <div class="end-card">
+      <div class="end-crest" id="endCrest" aria-hidden="true"></div>
+      <h1 class="end-title" id="endTitle">Quest Complete</h1>
+      <p class="end-sub" id="endSub"></p>
+      <div class="end-stats" id="endStats"></div>
+      <div class="end-treasury" id="endTreasury"></div>
+      <div class="end-actions">
+        <button id="againBtn" class="btn btn-primary btn-lg">Play Again</button>
+        <button id="homeBtn" class="btn btn-ghost btn-lg">Home</button>
+      </div>
+    </div>
+  </section>
+
+</div>
+
+<script src="assets/data.js"></script>
+<script src="assets/game.js"></script>
+</body>
+</html>

@@ -1,0 +1,527 @@
+/* ============================================================
+   Scripture Quest — game logic
+   ============================================================ */
+(function () {
+  "use strict";
+
+  /* ---------- treasure icons (self-contained SVG) ---------- */
+  const ICONS = {
+    clay: () => `<svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+      <path d="M11 17 Q11 33 20 34 Q29 33 29 17 Q29 11 20 11 Q11 11 11 17Z" fill="#b5652f"/>
+      <path d="M11 17 Q11 25 15 31 Q13 24 14 18 Q15 13 20 11 Q13 11 11 17Z" fill="#8f4a1f"/>
+      <ellipse cx="17" cy="21" rx="2.3" ry="6" fill="#d98a52" opacity=".55"/>
+      <path d="M12 12 q-4 2 -2 7" stroke="#8f4a1f" stroke-width="2.4" fill="none" stroke-linecap="round"/>
+      <path d="M28 12 q4 2 2 7" stroke="#8f4a1f" stroke-width="2.4" fill="none" stroke-linecap="round"/>
+      <rect x="16" y="6" width="8" height="7" rx="1.5" fill="#c1703a"/>
+      <ellipse cx="20" cy="6.5" rx="6" ry="2.3" fill="#d98a52"/>
+      <ellipse cx="20" cy="6.5" rx="3.4" ry="1.2" fill="#7d3f18"/></svg>`,
+    stone: () => `<svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+      <polygon points="20,6 34,13 20,20 6,13" fill="#a3a39c"/>
+      <polygon points="6,13 20,20 20,34 6,27" fill="#75756e"/>
+      <polygon points="34,13 20,20 20,34 34,27" fill="#5b5b54"/>
+      <polyline points="6,13 20,20 34,13" fill="none" stroke="#bcbcb4" stroke-width="1" opacity=".5"/>
+      <line x1="20" y1="20" x2="20" y2="34" stroke="#4a4a44" stroke-width="1" opacity=".5"/>
+      <line x1="12" y1="16.5" x2="12" y2="30" stroke="#5f5f58" stroke-width="1" opacity=".4"/></svg>`,
+    iron: () => `<svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+      <polygon points="20,3 24,20 20,25 16,20" fill="#c2cad0"/>
+      <polygon points="20,3 20,25 16,20" fill="#8f989f"/>
+      <polygon points="20,3 24,20 20,25" fill="#aab3ba"/>
+      <rect x="12" y="23" width="16" height="3.2" rx="1.6" fill="#7a5730"/>
+      <rect x="18" y="26" width="4" height="9" rx="2" fill="#4a3218"/>
+      <rect x="18.8" y="26" width="1.4" height="9" fill="#6b4a26"/>
+      <circle cx="20" cy="36" r="2.6" fill="#7a5730"/></svg>`,
+    bronze: () => `<svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+      <path d="M6 16 Q20 35 34 16 Z" fill="#b57c22"/>
+      <path d="M6 16 Q20 30 34 16 Q20 33 6 16Z" fill="#8a5e1a" opacity=".55"/>
+      <ellipse cx="20" cy="16" rx="14" ry="4.6" fill="#d9a63f"/>
+      <ellipse cx="20" cy="16" rx="10.5" ry="3" fill="#8a5e1a"/>
+      <ellipse cx="16.5" cy="15" rx="3.5" ry="1" fill="#f0cf7e" opacity=".8"/></svg>`,
+    silver: () => `<svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+      <ellipse cx="20" cy="25" rx="11" ry="9.5" fill="none" stroke="#b9bfc6" stroke-width="4.2"/>
+      <ellipse cx="20" cy="25" rx="11" ry="9.5" fill="none" stroke="#eef2f6" stroke-width="1.5"/>
+      <ellipse cx="20" cy="25" rx="11" ry="9.5" fill="none" stroke="#8b939b" stroke-width="1.5" opacity=".5" transform="rotate(20 20 25)"/>
+      <polygon points="20,4 25,10 20,16 15,10" fill="#7fb8e6"/>
+      <polygon points="20,4 25,10 20,16" fill="#a9d4f5"/>
+      <polygon points="20,4 15,10 20,16" fill="#5f9fd6"/></svg>`,
+    gold: () => `<svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+      <g fill="none" stroke="#d9a93a" stroke-width="2.2" stroke-linecap="round">
+        <path d="M20 27 V12"/>
+        <path d="M20 25 Q13.5 25 13.5 16 V12"/>
+        <path d="M20 25 Q9 24 9 15 V12"/>
+        <path d="M20 25 Q5 22 5 13 V12"/>
+        <path d="M20 25 Q26.5 25 26.5 16 V12"/>
+        <path d="M20 25 Q31 24 31 15 V12"/>
+        <path d="M20 25 Q35 22 35 13 V12"/>
+      </g>
+      <g fill="#ff9a3c">
+        <circle cx="5" cy="10.5" r="1.7"/><circle cx="9" cy="10.5" r="1.7"/><circle cx="13.5" cy="10.5" r="1.7"/>
+        <circle cx="20" cy="10.5" r="1.7"/><circle cx="26.5" cy="10.5" r="1.7"/><circle cx="31" cy="10.5" r="1.7"/>
+        <circle cx="35" cy="10.5" r="1.7"/></g>
+      <g fill="#ffd27a">
+        <circle cx="5" cy="10" r=".7"/><circle cx="9" cy="10" r=".7"/><circle cx="13.5" cy="10" r=".7"/>
+        <circle cx="20" cy="10" r=".7"/><circle cx="26.5" cy="10" r=".7"/><circle cx="31" cy="10" r=".7"/>
+        <circle cx="35" cy="10" r=".7"/></g>
+      <path d="M15 27 h10 l2 4 h-14 Z" fill="#e6bd5c"/>
+      <rect x="12" y="31" width="16" height="2.4" rx="1.2" fill="#d9a93a"/></svg>`,
+    gem: (g) => `<svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg">
+      <polygon points="20,4 31,14 20,37 9,14" fill="${g.main}"/>
+      <polygon points="20,4 31,14 20,17 9,14" fill="${g.light}"/>
+      <polygon points="9,14 20,17 20,37" fill="${g.dark}"/>
+      <polygon points="31,14 20,17 20,37" fill="${g.main}"/>
+      <polyline points="9,14 20,4 31,14" fill="none" stroke="#ffffff" stroke-width=".8" opacity=".55"/>
+      <line x1="20" y1="17" x2="20" y2="37" stroke="#ffffff" stroke-width=".7" opacity=".3"/>
+      <polygon points="14,12 20,4 20,9" fill="#ffffff" opacity=".35"/></svg>`,
+  };
+
+  /* 12 stones of the breastplate (Exodus 28:17-20) */
+  const GEMS = [
+    { name: "Sardius",   main: "#c1362f", light: "#e0655c", dark: "#8f231e" },
+    { name: "Topaz",     main: "#e8b32e", light: "#f6d675", dark: "#b3841a" },
+    { name: "Emerald",   main: "#2f9e57", light: "#63c489", dark: "#1d6e3a" },
+    { name: "Turquoise", main: "#2bb0b8", light: "#6fd6dc", dark: "#1a7d83" },
+    { name: "Sapphire",  main: "#3559b3", light: "#6b8fe0", dark: "#213c80" },
+    { name: "Diamond",   main: "#cfe3ef", light: "#ffffff", dark: "#9db6c6" },
+    { name: "Jacinth",   main: "#e07a2c", light: "#f2a565", dark: "#a8531a" },
+    { name: "Agate",     main: "#b98a5e", light: "#dcb98f", dark: "#8a6038" },
+    { name: "Amethyst",  main: "#8548b0", light: "#b07bd6", dark: "#5e2f82" },
+    { name: "Beryl",     main: "#3fb59a", light: "#78d8c2", dark: "#26816d" },
+    { name: "Onyx",      main: "#3a3a42", light: "#6d6d78", dark: "#1e1e24" },
+    { name: "Jasper",    main: "#8fae43", light: "#bcd479", dark: "#63802a" },
+  ];
+
+  /* ---------- tiers ---------- */
+  const TIERS = [
+    { key: "clay",   name: "Clay",      item: "clay jar",     count: 5,  icon: () => ICONS.clay() },
+    { key: "stone",  name: "Stone",     item: "stone block",  count: 5,  icon: () => ICONS.stone() },
+    { key: "iron",   name: "Iron",      item: "iron blade",   count: 5,  icon: () => ICONS.iron() },
+    { key: "bronze", name: "Bronze",    item: "bronze bowl",  count: 5,  icon: () => ICONS.bronze() },
+    { key: "silver", name: "Silver",    item: "silver ring",  count: 5,  icon: () => ICONS.silver() },
+    { key: "gold",   name: "Gold",      item: "gold menorah", count: 5,  icon: () => ICONS.gold() },
+    { key: "gems",   name: "Gemstones", item: "gemstone",     count: 12, gems: true, icon: (i) => ICONS.gem(GEMS[i % GEMS.length]) },
+  ];
+  const plural = (n, w) => n + " " + w + (n === 1 ? "" : "s");
+
+  const DIVISIONS = [
+    { key: "primary", name: "Primary",  desc: "youngest" },
+    { key: "junior",  name: "Junior",   desc: "middle" },
+    { key: "senior",  name: "Senior",   desc: "advanced" },
+  ];
+  const DIFFICULTIES = [
+    { key: "scribe",   name: "Scribe",   desc: "35s · relaxed", time: 35 },
+    { key: "pilgrim",  name: "Pilgrim",  desc: "25s · standard", time: 25 },
+    { key: "champion", name: "Champion", desc: "15s · swift",    time: 15 },
+  ];
+
+  /* ---------- state ---------- */
+  const S = {
+    division: null, difficulty: null,
+    pools: [],          // per-tier arrays of question objects (shuffled)
+    tier: 0, itemInTier: 0,
+    qIndex: 0,          // overall question count
+    score: 0, streak: 0, bestStreak: 0,
+    correct: 0, attempts: 0,
+    current: null,      // current question
+    timer: null, timeLeft: 0, timeTotal: 0, answered: false,
+    startTime: 0,
+  };
+  const TOTAL_ITEMS = TIERS.reduce((a, t) => a + t.count, 0);
+
+  /* ---------- dom ---------- */
+  const $ = (id) => document.getElementById(id);
+  const screens = { start: $("screen-start"), game: $("screen-game"), end: $("screen-end") };
+  function show(name) {
+    Object.values(screens).forEach((s) => s.classList.remove("is-active"));
+    screens[name].classList.add("is-active");
+    window.scrollTo(0, 0);
+  }
+
+  /* ---------- audio (WebAudio, no assets) ---------- */
+  let AC = null;
+  function beep(freqs, dur, type) {
+    try {
+      AC = AC || new (window.AudioContext || window.webkitAudioContext)();
+      const now = AC.currentTime;
+      freqs.forEach((f, i) => {
+        const o = AC.createOscillator(), g = AC.createGain();
+        o.type = type || "sine"; o.frequency.value = f;
+        o.connect(g); g.connect(AC.destination);
+        const t = now + i * 0.09;
+        g.gain.setValueAtTime(0.0001, t);
+        g.gain.exponentialRampToValueAtTime(0.18, t + 0.02);
+        g.gain.exponentialRampToValueAtTime(0.0001, t + dur);
+        o.start(t); o.stop(t + dur + 0.02);
+      });
+    } catch (e) {}
+  }
+  const sndGood = () => beep([523, 784], 0.25, "triangle");
+  const sndTier = () => beep([523, 659, 784, 1047], 0.3, "triangle");
+  const sndBad  = () => beep([196, 155], 0.25, "sawtooth");
+  const sndWin  = () => beep([523, 659, 784, 1047, 1319], 0.45, "triangle");
+
+  /* ---------- helpers ---------- */
+  function shuffle(a) {
+    for (let i = a.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [a[i], a[j]] = [a[j], a[i]];
+    }
+    return a;
+  }
+
+  /* Build one question pool per tier, using set-number difficulty bands. */
+  function buildPools(divKey) {
+    const all = window.QUIZ_DATA.data[divKey];
+    const maxSet = window.QUIZ_DATA.meta[divKey].sets;
+    const nTiers = TIERS.length;
+    const buckets = Array.from({ length: nTiers }, () => []);
+    all.forEach((q) => {
+      let band = Math.floor(((q.s - 1) / maxSet) * nTiers);
+      if (band >= nTiers) band = nTiers - 1;
+      if (band < 0) band = 0;
+      buckets[band].push(q);
+    });
+    // guarantee every tier has enough questions; borrow from neighbours if sparse
+    for (let t = 0; t < nTiers; t++) {
+      if (buckets[t].length < TIERS[t].count + 2) {
+        const merged = buckets[t].slice();
+        for (let d = 1; d < nTiers && merged.length < TIERS[t].count + 2; d++) {
+          if (buckets[t - d]) merged.push(...buckets[t - d]);
+          if (buckets[t + d]) merged.push(...buckets[t + d]);
+        }
+        buckets[t] = merged;
+      }
+      shuffle(buckets[t]);
+    }
+    return buckets;
+  }
+
+  /* ============================================================
+     START SCREEN
+     ============================================================ */
+  function renderStart() {
+    const dc = $("divisions");
+    dc.innerHTML = "";
+    DIVISIONS.forEach((d) => {
+      const n = window.QUIZ_DATA.meta[d.key].count;
+      const el = document.createElement("button");
+      el.className = "opt-card";
+      el.dataset.key = d.key;
+      el.innerHTML = `<span class="opt-name">${d.name}</span><span class="opt-desc">${d.desc} · ${n} Qs</span>`;
+      el.addEventListener("click", () => {
+        S.division = d.key;
+        dc.querySelectorAll(".opt-card").forEach((x) => x.classList.remove("selected"));
+        el.classList.add("selected");
+        refreshStart();
+      });
+      dc.appendChild(el);
+    });
+
+    const fc = $("difficulties");
+    fc.innerHTML = "";
+    DIFFICULTIES.forEach((f, i) => {
+      const el = document.createElement("button");
+      el.className = "opt-card";
+      el.dataset.key = f.key;
+      el.innerHTML = `<span class="opt-name">${f.name}</span><span class="opt-desc">${f.desc}</span>`;
+      el.addEventListener("click", () => {
+        S.difficulty = f.key;
+        fc.querySelectorAll(".opt-card").forEach((x) => x.classList.remove("selected"));
+        el.classList.add("selected");
+        refreshStart();
+      });
+      fc.appendChild(el);
+      if (i === 1) el.click(); // default: Pilgrim
+    });
+  }
+  function refreshStart() {
+    $("startBtn").disabled = !(S.division && S.difficulty);
+    const best = loadBest();
+    const bl = $("bestLine");
+    if (S.division && best[S.division]) {
+      const b = best[S.division];
+      bl.hidden = false;
+      bl.textContent = `Your best in ${cap(S.division)}: ${b.score} points · ${b.items}/${TOTAL_ITEMS} treasures`;
+    } else {
+      bl.hidden = true;
+    }
+  }
+  const cap = (s) => s.charAt(0).toUpperCase() + s.slice(1);
+
+  /* ============================================================
+     GAME
+     ============================================================ */
+  function startGame() {
+    S.pools = buildPools(S.division);
+    S.tier = 0; S.itemInTier = 0; S.qIndex = 0;
+    S.score = 0; S.streak = 0; S.bestStreak = 0; S.correct = 0; S.attempts = 0;
+    S.timeTotal = DIFFICULTIES.find((d) => d.key === S.difficulty).time;
+    S.startTime = Date.now();
+    buildCollection();
+    show("game");
+    nextQuestion();
+  }
+
+  function buildCollection() {
+    const wrap = $("tiers");
+    wrap.innerHTML = "";
+    TIERS.forEach((t, ti) => {
+      const row = document.createElement("div");
+      row.className = "tier-row";
+      row.id = "row-" + ti;
+      let slots = "";
+      for (let i = 0; i < t.count; i++) {
+        slots += `<div class="slot" id="slot-${ti}-${i}">${t.icon(i)}</div>`;
+      }
+      row.innerHTML =
+        `<div class="tier-head"><span class="tier-name">${t.name}</span>` +
+        `<span class="tier-count" id="count-${ti}">0/${t.count}</span></div>` +
+        `<div class="slots">${slots}</div>`;
+      wrap.appendChild(row);
+    });
+    updateCollectionState();
+  }
+
+  function updateCollectionState() {
+    TIERS.forEach((t, ti) => {
+      const row = $("row-" + ti);
+      row.classList.toggle("active", ti === S.tier);
+      row.classList.toggle("done", ti < S.tier);
+    });
+  }
+
+  function nextQuestion() {
+    if (S.tier >= TIERS.length) return endGame(true);
+    const tier = TIERS[S.tier];
+    let pool = S.pools[S.tier];
+    if (!pool || pool.length === 0) { S.pools[S.tier] = buildPools(S.division)[S.tier]; pool = S.pools[S.tier]; }
+    S.current = pool.pop();
+    S.answered = false;
+    S.qIndex++;
+
+    // banner
+    $("tierBannerIcon").innerHTML = tier.gems ? ICONS.gem(GEMS[S.itemInTier % GEMS.length]) : tier.icon(0);
+    $("tierBannerName").textContent = tier.name;
+    $("tierBannerSub").textContent = tier.gems
+      ? `Gather all ${tier.count} gemstones — ${GEMS[S.itemInTier % GEMS.length].name} next`
+      : `Gather ${plural(tier.count, tier.item)}`;
+
+    // meta + question
+    $("qMeta").textContent = `Question ${S.qIndex} · ${tier.name} — ${cap(tier.item)} ${S.itemInTier + 1} of ${tier.count}`;
+    const q = S.current;
+    const isVerse = /^["“]/.test(q.q);
+    $("qText").innerHTML = `<span class="${isVerse ? "lead" : ""}">${mdInline(escapeHtml(q.q))}</span>`;
+
+    // answers
+    const ac = $("answers");
+    ac.innerHTML = "";
+    const letters = ["A", "B", "C", "D"];
+    q.o.forEach((opt, i) => {
+      const b = document.createElement("button");
+      b.className = "answer";
+      b.innerHTML = `<span class="letter">${letters[i]}</span><span class="atext">${escapeHtml(opt)}</span>`;
+      b.addEventListener("click", () => answer(i, b));
+      ac.appendChild(b);
+    });
+
+    $("feedback").textContent = "";
+    $("feedback").className = "feedback";
+    updateHud();
+    updateCollectionState();
+    startTimer();
+  }
+
+  function startTimer() {
+    clearInterval(S.timer);
+    S.timeLeft = S.timeTotal;
+    const bar = $("timerBar");
+    bar.style.transition = "none";
+    bar.style.width = "100%";
+    bar.className = "timer-bar";
+    $("timerText").textContent = Math.ceil(S.timeLeft);
+    // force reflow then enable transition
+    void bar.offsetWidth;
+    bar.style.transition = "width .1s linear, background .3s ease";
+    const tick = 0.1;
+    S.timer = setInterval(() => {
+      S.timeLeft -= tick;
+      if (S.timeLeft <= 0) {
+        S.timeLeft = 0;
+        clearInterval(S.timer);
+        timeUp();
+      }
+      const pct = (S.timeLeft / S.timeTotal) * 100;
+      bar.style.width = pct + "%";
+      $("timerText").textContent = Math.ceil(S.timeLeft);
+      bar.classList.toggle("warn", pct <= 50 && pct > 25);
+      bar.classList.toggle("danger", pct <= 25);
+    }, tick * 1000);
+  }
+
+  function answer(i, btn) {
+    if (S.answered) return;
+    S.answered = true;
+    clearInterval(S.timer);
+    S.attempts++;
+    const correctIdx = S.current.a;
+    const buttons = Array.from($("answers").children);
+    buttons.forEach((b, bi) => {
+      b.disabled = true;
+      if (bi === correctIdx) b.classList.add("correct");
+      else if (bi === i) b.classList.add("wrong");
+      else b.classList.add("dim");
+    });
+
+    if (i === correctIdx) {
+      S.correct++;
+      S.streak++;
+      S.bestStreak = Math.max(S.bestStreak, S.streak);
+      const timeBonus = Math.round((S.timeLeft / S.timeTotal) * 60);
+      const streakBonus = Math.min(S.streak, 10) * 5;
+      const gained = 100 + timeBonus + streakBonus;
+      S.score += gained;
+      const fb = $("feedback");
+      fb.className = "feedback good";
+      fb.textContent = `✔ Correct!  +${gained}` + (S.streak > 1 ? `  ·  ${S.streak} streak` : "");
+      sndGood();
+      updateHud();
+      earnItem();
+    } else {
+      S.streak = 0;
+      const fb = $("feedback");
+      fb.className = "feedback bad";
+      fb.textContent = "The answer was " + ["A", "B", "C", "D"][correctIdx] + ".";
+      sndBad();
+      updateHud();
+      setTimeout(nextQuestion, 1600);
+    }
+  }
+
+  function timeUp() {
+    if (S.answered) return;
+    S.answered = true;
+    S.attempts++;
+    S.streak = 0;
+    const buttons = Array.from($("answers").children);
+    buttons.forEach((b, bi) => {
+      b.disabled = true;
+      if (bi === S.current.a) b.classList.add("correct");
+      else b.classList.add("dim");
+    });
+    const fb = $("feedback");
+    fb.className = "feedback bad";
+    fb.textContent = "Time! The answer was " + ["A", "B", "C", "D"][S.current.a] + ".";
+    sndBad();
+    updateHud();
+    setTimeout(nextQuestion, 1600);
+  }
+
+  function earnItem() {
+    const ti = S.tier, idx = S.itemInTier;
+    const slot = $(`slot-${ti}-${idx}`);
+    if (slot) slot.classList.add("filled");
+    S.itemInTier++;
+    $("count-" + ti).textContent = `${S.itemInTier}/${TIERS[ti].count}`;
+
+    const tierDone = S.itemInTier >= TIERS[ti].count;
+    if (tierDone) {
+      S.tier++;
+      S.itemInTier = 0;
+      if (S.tier >= TIERS.length) {
+        setTimeout(() => endGame(true), 1200);
+        return;
+      }
+      sndTier();
+      const next = TIERS[S.tier];
+      const fb = $("feedback");
+      setTimeout(() => {
+        fb.className = "feedback good";
+        fb.textContent = `✦ ${TIERS[ti].name} complete! On to ${next.name}.`;
+      }, 700);
+      setTimeout(nextQuestion, 1900);
+    } else {
+      setTimeout(nextQuestion, 1300);
+    }
+  }
+
+  function updateHud() {
+    $("scoreVal").textContent = S.score;
+    $("streakVal").textContent = S.streak;
+    const acc = S.attempts ? Math.round((S.correct / S.attempts) * 100) : 100;
+    $("accVal").textContent = acc + "%";
+  }
+
+  /* ============================================================
+     END SCREEN
+     ============================================================ */
+  function endGame(won) {
+    clearInterval(S.timer);
+    const itemsEarned = TIERS.slice(0, S.tier).reduce((a, t) => a + t.count, 0) + S.itemInTier;
+    const secs = Math.round((Date.now() - S.startTime) / 1000);
+    const acc = S.attempts ? Math.round((S.correct / S.attempts) * 100) : 0;
+
+    $("endTitle").textContent = won ? "The Treasury is Full!" : "Quest Paused";
+    $("endSub").textContent = won
+      ? "You have gathered every treasure of the Word — from humble clay to the twelve gemstones of the breastplate. Well done, good and faithful scholar."
+      : "You may return and take up the quest again whenever you are ready.";
+    $("endCrest").innerHTML = won ? ICONS.gem(GEMS[0]) : ICONS.clay();
+
+    $("endStats").innerHTML = [
+      ["Score", S.score],
+      ["Treasures", `${itemsEarned}/${TOTAL_ITEMS}`],
+      ["Accuracy", acc + "%"],
+      ["Best streak", S.bestStreak],
+    ].map(([l, n]) => `<div class="end-stat"><span class="n">${n}</span><span class="l">${l}</span></div>`).join("");
+
+    // treasury display
+    let tre = "";
+    TIERS.forEach((t, ti) => {
+      const earned = ti < S.tier ? t.count : (ti === S.tier ? S.itemInTier : 0);
+      for (let i = 0; i < earned; i++) tre += t.icon(i);
+    });
+    $("endTreasury").innerHTML = tre || `<span style="color:#b79b6d">No treasures yet — try again!</span>`;
+
+    saveBest(S.division, S.score, itemsEarned);
+    if (won) sndWin();
+    show("end");
+  }
+
+  /* ---------- persistence ---------- */
+  const BEST_KEY = "scripture-quest-best-v1";
+  function loadBest() {
+    try { return JSON.parse(localStorage.getItem(BEST_KEY)) || {}; }
+    catch (e) { return {}; }
+  }
+  function saveBest(div, score, items) {
+    const best = loadBest();
+    const prev = best[div];
+    if (!prev || score > prev.score) best[div] = { score, items };
+    try { localStorage.setItem(BEST_KEY, JSON.stringify(best)); } catch (e) {}
+  }
+
+  /* ---------- util ---------- */
+  function escapeHtml(s) {
+    return String(s).replace(/[&<>"]/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+  }
+  // convert **bold** (used in cross-reference / theme questions) to <strong>
+  function mdInline(s) {
+    return s.replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>");
+  }
+
+  /* ---------- wire up ---------- */
+  $("startBtn").addEventListener("click", startGame);
+  $("quitBtn").addEventListener("click", () => { clearInterval(S.timer); show("start"); refreshStart(); });
+  $("againBtn").addEventListener("click", startGame);
+  $("homeBtn").addEventListener("click", () => { show("start"); refreshStart(); });
+
+  document.addEventListener("keydown", (e) => {
+    if (!screens.game.classList.contains("is-active") || S.answered) return;
+    const k = e.key.toUpperCase();
+    const map = { A: 0, B: 1, C: 2, D: 3, "1": 0, "2": 1, "3": 2, "4": 3 };
+    if (k in map) {
+      const btn = $("answers").children[map[k]];
+      if (btn) btn.click();
+    }
+  });
+
+  renderStart();
+  refreshStart();
+})();
