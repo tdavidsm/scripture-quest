@@ -145,6 +145,46 @@ h1,h2,h3,.title,.tier-banner-name,.collection-title{font-family:"Cinzel", Georgi
 }
 .new-profile input:focus{outline:none; border-color:var(--gold); background:#fff9ea}
 
+/* cloud sync */
+.cloud-bar{display:flex; align-items:center; justify-content:center; gap:12px; margin-top:12px; flex-wrap:wrap}
+.cloud-status{font-size:.85rem; color:var(--ink-soft)}
+.cloud-status.on{color:var(--green); font-weight:600}
+.cloud-status.off{color:var(--ink-soft)}
+.cloud-setup{margin-top:12px; padding:14px; background:var(--panel); border:1px solid var(--panel-line);
+  border-radius:12px; text-align:left; max-width:460px; margin-left:auto; margin-right:auto}
+.cloud-help{font-size:.82rem; color:var(--ink-soft); line-height:1.45; margin:0 0 10px}
+.cloud-help a{color:var(--gold-deep); font-weight:600}
+.cloud-token-row{display:flex; gap:8px}
+.cloud-token-row input{flex:1; min-width:0; font-family:"EB Garamond", serif; font-size:.95rem;
+  border:1.5px solid var(--panel-line); border-radius:10px; padding:.5em .7em; background:#fff}
+.cloud-token-row input:focus{outline:none; border-color:var(--gold); background:#fff9ea}
+.cloud-msg{font-size:.82rem; margin:10px 0 0}
+.cloud-msg.ok{color:var(--green)}
+.cloud-msg.err{color:var(--bad)}
+#cloudDisconnectBtn{margin-top:10px}
+
+/* leaderboard */
+.leaderboard-card{width:min(680px,100%); margin:18px auto 0;
+  background:linear-gradient(180deg,#2a1c10,#22160c); border:1px solid #4a361c; border-radius:var(--radius);
+  padding:18px 20px 20px; color:#f3e7cf; box-shadow:0 20px 50px -30px rgba(0,0,0,.55)}
+.lb-title{font-size:.95rem; letter-spacing:.22em; text-transform:uppercase; text-align:center;
+  color:var(--gold-bright); margin:0 0 14px}
+.lb-list{list-style:none; margin:0; padding:0; display:flex; flex-direction:column; gap:6px}
+.lb-row{display:flex; align-items:center; gap:12px; padding:8px 12px; border-radius:10px;
+  background:rgba(255,255,255,.04); border:1px solid rgba(255,255,255,.06)}
+.lb-rank{font-family:"Cinzel"; font-weight:700; color:var(--gold-bright); width:1.6em; text-align:center; flex:0 0 auto}
+.lb-name{font-family:"Cinzel"; font-size:.98rem; color:#f3e7cf; flex:1; min-width:0;
+  overflow:hidden; text-overflow:ellipsis; white-space:nowrap}
+.lb-div{font-size:.72rem; color:#b79b6d; text-transform:uppercase; letter-spacing:.08em; flex:0 0 auto}
+.lb-score{font-family:"Cinzel"; font-weight:700; color:#e8d6b0; font-variant-numeric:tabular-nums; flex:0 0 auto}
+.lb-empty{color:#b79b6d; text-align:center; font-size:.9rem; font-style:italic}
+.profile-chip.cloud .avatar{background:radial-gradient(circle at 40% 35%, #7fb8e6, #3559b3)}
+.profile-chip .cloud-mark{font-size:.8rem; opacity:.7; margin-left:2px}
+.end-cloud{font-size:.9rem; margin:.6em 0 0; min-height:1.2em}
+.end-cloud.ok{color:var(--green)}
+.end-cloud.err{color:var(--bad)}
+.end-cloud.info{color:var(--ink-soft); font-style:italic}
+
 #startBtn{margin-top:.6em; width:min(320px,100%)}
 .best-line{margin-top:1em; color:var(--gold-deep); font-size:.95rem; font-style:italic}
 .footnote{margin-top:1.4em; color:var(--ink-soft); font-size:.8rem; opacity:.8; text-align:center}

@@ -31,6 +31,25 @@
                  placeholder="New scholar's name…" />
           <button id="addProfileBtn" class="btn btn-ghost btn-sm" type="button">Add</button>
         </div>
+
+        <div class="cloud-bar">
+          <span class="cloud-status" id="cloudStatus">☁ Checking cloud…</span>
+          <button id="cloudSetupBtn" class="btn btn-ghost btn-sm" type="button">Enable saving</button>
+        </div>
+        <div class="cloud-setup" id="cloudSetup" hidden>
+          <p class="cloud-help">
+            To save scores so other browsers can see them, paste a GitHub
+            <strong>fine-grained token</strong> with <strong>Contents: Read and write</strong>
+            on this one repository. It is stored only in this browser and never written into the repo.
+            <a id="cloudHelpLink" href="#" target="_blank" rel="noopener">How to make one ›</a>
+          </p>
+          <div class="cloud-token-row">
+            <input id="cloudTokenInput" type="password" autocomplete="off" placeholder="github_pat_…" />
+            <button id="cloudConnectBtn" class="btn btn-primary btn-sm" type="button">Connect</button>
+          </div>
+          <p class="cloud-msg" id="cloudMsg" hidden></p>
+          <button id="cloudDisconnectBtn" class="btn btn-ghost btn-sm" type="button" hidden>Disconnect this device</button>
+        </div>
       </div>
 
       <div class="division-picker">
@@ -46,6 +65,12 @@
       <button id="startBtn" class="btn btn-primary btn-lg" disabled>Begin the Quest</button>
       <p id="bestLine" class="best-line" hidden></p>
     </div>
+
+    <section class="leaderboard-card" id="leaderboardCard" hidden>
+      <h2 class="lb-title">Shared Leaderboard</h2>
+      <ol class="lb-list" id="lbList"></ol>
+    </section>
+
     <p class="footnote">Questions from the National Bible Bee passage test banks (NKJV).</p>
   </section>
 
@@ -108,6 +133,7 @@
       <p class="end-sub" id="endSub"></p>
       <div class="end-stats" id="endStats"></div>
       <div class="end-treasury" id="endTreasury"></div>
+      <p class="end-cloud" id="endCloud"></p>
       <div class="end-actions">
         <button id="againBtn" class="btn btn-primary btn-lg">Play Again</button>
         <button id="homeBtn" class="btn btn-ghost btn-lg">Home</button>
@@ -118,6 +144,7 @@
 </div>
 
 <script src="assets/data.js"></script>
+<script src="assets/cloud.js"></script>
 <script src="assets/game.js"></script>
 </body>
 </html>

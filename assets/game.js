@@ -302,6 +302,34 @@
       });
       box.appendChild(chip);
     });
+
+    // cloud-only scholars (saved from another browser) — click to load here
+    const localSlugs = new Set(names.map((n) => Cloud.slugify(n)));
+    const cloud = (CLOUD_INDEX && CLOUD_INDEX.scholars) || {};
+    Object.keys(cloud).forEach((slug) => {
+      if (localSlugs.has(slug)) return;
+      const nm = cloud[slug].name || slug;
+      const chip = document.createElement("div");
+      chip.className = "profile-chip cloud";
+      chip.title = "Saved on another device — click to load here";
+      chip.innerHTML =
+        `<span class="avatar">${escapeHtml(initials(nm))}</span>` +
+        `<span class="pname">${escapeHtml(nm)}</span>` +
+        `<span class="cloud-mark">☁</span>`;
+      chip.addEventListener("click", () => pullCloudScholar(slug));
+      box.appendChild(chip);
+    });
+  }
+  async function pullCloudScholar(slug) {
+    try {
+      const prof = await Cloud.getProfile(slug);
+      const name = prof.name || slug;
+      STORE.profiles[name] = prof;
+      saveStore();
+      selectProfile(name);
+    } catch (e) {
+      alert("Could not load that scholar from the cloud. Please try again.");
+    }
   }
   function selectProfile(name) {
     S.profile = name;
@@ -714,6 +742,7 @@
       p.lastPlayed = Date.now();
       saveStore();
     }
+    pushToCloud(p);
     if (won) sndWin();
     show("end");
   }
@@ -725,6 +754,102 @@
   // convert **bold** (used in cross-reference / theme questions) to <strong>
   function mdInline(s) {
     return s.replace(/\*\*([^*]+)\*\*/g, "<strong>$1</strong>");
+  }
+
+  /* ============================================================
+     CLOUD SYNC UI
+     ============================================================ */
+  let CLOUD_INDEX = { scholars: {} };
+
+  function updateCloudStatus() {
+    const st = $("cloudStatus");
+    if (Cloud.hasToken()) {
+      st.textContent = "☁ Saving on — this device syncs scores to the cloud";
+      st.className = "cloud-status on";
+      $("cloudSetupBtn").textContent = "Saving settings";
+    } else {
+      st.textContent = "☁ Viewing shared scores · saving off on this device";
+      st.className = "cloud-status off";
+      $("cloudSetupBtn").textContent = "Enable saving";
+    }
+    $("cloudDisconnectBtn").hidden = !Cloud.hasToken();
+  }
+  function setupCloudUI() {
+    $("cloudHelpLink").href = Cloud.tokenPageUrl;
+    $("cloudSetupBtn").addEventListener("click", () => {
+      const s = $("cloudSetup"); s.hidden = !s.hidden;
+    });
+    $("cloudConnectBtn").addEventListener("click", async () => {
+      const input = $("cloudTokenInput"), msg = $("cloudMsg");
+      const tok = input.value.trim();
+      if (!tok) return;
+      msg.hidden = false; msg.className = "cloud-msg"; msg.textContent = "Checking…";
+      try {
+        await Cloud.connect(tok);
+        input.value = "";
+        msg.className = "cloud-msg ok";
+        msg.textContent = "Connected. Scores finished on this device will be saved to the cloud.";
+        updateCloudStatus();
+      } catch (e) {
+        msg.className = "cloud-msg err"; msg.textContent = e.message || "Could not connect.";
+      }
+    });
+    $("cloudDisconnectBtn").addEventListener("click", () => {
+      Cloud.clearToken(); updateCloudStatus();
+      const msg = $("cloudMsg");
+      msg.hidden = false; msg.className = "cloud-msg"; msg.textContent = "Saving turned off on this device.";
+    });
+    updateCloudStatus();
+  }
+  async function loadLeaderboard() {
+    try { CLOUD_INDEX = await Cloud.getIndex(); } catch (e) { CLOUD_INDEX = { scholars: {} }; }
+    renderLeaderboard();
+    renderProfiles();
+  }
+  function bestOverall(summary) {
+    let best = { score: -1, div: null };
+    const b = summary.best || {};
+    for (const d in b) if (b[d].score > best.score) best = { score: b[d].score, div: d };
+    return best;
+  }
+  function renderLeaderboard() {
+    const list = $("lbList");
+    const scholars = (CLOUD_INDEX && CLOUD_INDEX.scholars) || {};
+    const rows = Object.keys(scholars).map((slug) => {
+      const s = scholars[slug], bo = bestOverall(s);
+      return { name: s.name || slug, score: bo.score, div: bo.div };
+    }).filter((r) => r.score >= 0).sort((a, b) => b.score - a.score).slice(0, 8);
+    $("leaderboardCard").hidden = false;
+    if (rows.length === 0) {
+      list.innerHTML = `<li class="lb-empty">No saved scores yet — enable saving and finish a run to appear here.</li>`;
+      return;
+    }
+    list.innerHTML = rows.map((r, i) =>
+      `<li class="lb-row"><span class="lb-rank">${i + 1}</span>` +
+      `<span class="lb-name">${escapeHtml(r.name)}</span>` +
+      `<span class="lb-div">${r.div ? cap(r.div) : ""}</span>` +
+      `<span class="lb-score">${r.score}</span></li>`
+    ).join("");
+  }
+  function pushToCloud(p) {
+    const el = $("endCloud");
+    if (!p) { el.textContent = ""; return; }
+    if (!Cloud.hasToken()) {
+      el.className = "end-cloud info";
+      el.textContent = "Saved on this device. Turn on cloud saving at home to share your scores.";
+      return;
+    }
+    el.className = "end-cloud info"; el.textContent = "Saving to the cloud…";
+    const forCloud = Object.assign({ name: S.profile }, p, { name: S.profile });
+    const slug = Cloud.slugify(S.profile);
+    const summary = { name: S.profile, best: p.best, runs: p.runs, updatedAt: Date.now() };
+    Cloud.saveProfile(slug, forCloud, summary).then(() => {
+      el.className = "end-cloud ok";
+      el.textContent = "✔ Saved to the cloud — other browsers can see it now.";
+    }).catch((e) => {
+      el.className = "end-cloud err";
+      el.textContent = "Couldn't save to the cloud: " + (e.message || "error") + " (kept on this device).";
+    });
   }
 
   /* ---------- wire up ---------- */
@@ -748,4 +873,6 @@
 
   renderStart();
   refreshStart();
+  setupCloudUI();
+  loadLeaderboard();
 })();

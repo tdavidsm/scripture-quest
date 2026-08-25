@@ -35,13 +35,58 @@ A live **Treasury** panel shows your collection filling up as you play.
 - Keyboard support (A–D or 1–4), fully responsive, works offline once loaded.
 - Entirely self-contained: no build step, no external code, no tracking.
 
-> **A note on “users”:** because this is a static site with no server, scholar
-> profiles live in the browser's `localStorage`. They persist across visits on the
-> same browser/device, but do not sync between devices. Moving to true cross-device
-> accounts would require adding a backend.
-
 The difficulty limits are plain constants at the top of `assets/game.js`
 (the `DIFFICULTIES` array) — edit them there to retune.
+
+## Shared scores across devices (cloud backend)
+
+Scholar profiles and a shared leaderboard are stored as JSON **files in this
+repository**, on a separate `data` branch, so they're visible from any browser:
+
+```
+data branch:
+  index.json            leaderboard / directory of all scholars
+  profiles/<slug>.json   one scholar's full saved data (scores + question history)
+```
+
+- **Viewing is public and needs no setup.** Every visitor's page reads the
+  leaderboard and can load any scholar onto their own device (the ☁ chips under
+  "Who is playing?"). Reads use the GitHub contents API, which is always fresh
+  (unlike the ~5-minute raw CDN cache).
+- **Saving is opt-in per device.** GitHub Pages can't hold a write credential
+  safely, so to *save* scores a player enables saving with a personal token:
+
+  1. On the home screen, click **Enable saving → How to make one**, or go to
+     **GitHub → Settings → Developer settings → Fine-grained tokens → Generate new**.
+  2. Scope it to **only this repository**, with **Repository permissions →
+     Contents → Read and write**. Set a short expiry if you like.
+  3. Paste it into the box and click **Connect**. The token is stored **only in
+     that browser** (`localStorage`) and is never written into the repo.
+
+  After that, finishing a run commits the scholar's file to the `data` branch and
+  updates the leaderboard, which any other browser then sees.
+
+Set this up once on each device that should be able to save (e.g. a parent or
+teacher enabling it on each child's device). A typical family/classroom shares one
+token; because it's a fine-grained token limited to this one repo, the worst case
+is a bad edit to this repo's data, which is fully recoverable from git history.
+Revoke a token anytime from GitHub settings.
+
+**Notes & limits**
+
+- The `data` branch is deliberately separate from `main`, so score-saves don't
+  trigger Pages rebuilds (GitHub caps those at ~10/hour).
+- Without a token, reads share GitHub's unauthenticated API limit of 60
+  requests/hour per IP — ample for casual viewing; with a token it's 5,000/hour.
+- Same-scholar edits from two devices are last-write-wins on that scholar's file.
+- The repo owner/name is auto-detected from the Pages URL, so forks work without
+  code changes; a fresh fork needs its own `data` branch seeded with
+  `index.json` = `{"updatedAt":0,"scholars":{}}`.
+
+> **A note on “accounts”:** this is still a static site — there are no passwords or
+> real user accounts. “Scholars” are named profiles; the token is what authorizes
+> writing their files to the repo. For a public high-stakes leaderboard you'd want
+> a real backend (e.g. a serverless function holding the token, or a hosted DB).
 
 ## Play locally
 
@@ -80,6 +125,7 @@ The included empty `.nojekyll` file tells GitHub Pages to serve the files direct
 index.html                     Page shell (start / game / end screens)
 assets/style.css               All styling and the parchment theme
 assets/game.js                 Game logic, treasure SVG icons, scoring
+assets/cloud.js                Shared cross-browser sync (repo files on `data` branch)
 assets/data.js                 4,686 parsed questions (generated from the banks)
 build_data.py                  Rebuilds assets/data.js from the banks
 .nojekyll                      Serve files as-is on GitHub Pages
