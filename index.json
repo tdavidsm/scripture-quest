@@ -1,5 +1,5 @@
 {
- "updatedAt": 1787700492705,
+ "updatedAt": 1787705054915,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -22,8 +22,8 @@
      "won": false
     }
    },
-   "runs": 4,
-   "updatedAt": 1787700491259
+   "runs": 5,
+   "updatedAt": 1787705053604
   }
  }
 }
