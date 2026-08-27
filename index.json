@@ -1,5 +1,5 @@
 {
- "updatedAt": 1787861664421,
+ "updatedAt": 1787862108876,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -34,13 +34,13 @@
    "name": "Ezekiel",
    "best": {
     "junior": {
-     "score": 2050,
-     "items": 14,
+     "score": 3460,
+     "items": 22,
      "won": false
     }
    },
-   "runs": 5,
-   "updatedAt": 1787861663003
+   "runs": 6,
+   "updatedAt": 1787862107480
   }
  }
 }
