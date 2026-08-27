@@ -1,11 +1,11 @@
 {
- "updatedAt": 1787793203509,
+ "updatedAt": 1787793294863,
  "scholars": {
   "mumz": {
    "name": "Mumz",
    "best": {
     "primary": {
-     "score": 1410,
+     "score": 1462,
      "items": 9,
      "won": false
     },
@@ -15,8 +15,8 @@
      "won": false
     }
    },
-   "runs": 34,
-   "updatedAt": 1787793202110
+   "runs": 35,
+   "updatedAt": 1787793293446
   },
   "joseph": {
    "name": "Joseph",
