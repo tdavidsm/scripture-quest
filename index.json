@@ -1,5 +1,5 @@
 {
- "updatedAt": 1787793087494,
+ "updatedAt": 1787793119057,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -15,8 +15,8 @@
      "won": false
     }
    },
-   "runs": 32,
-   "updatedAt": 1787793086111
+   "runs": 33,
+   "updatedAt": 1787793117800
   },
   "joseph": {
    "name": "Joseph",
