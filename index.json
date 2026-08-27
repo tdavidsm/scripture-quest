@@ -1,46 +1,59 @@
 {
- "updatedAt": 1787862817802,
+ "updatedAt": 1,
  "scholars": {
-  "mumz": {
-   "name": "Mumz",
-   "best": {
-    "primary": {
-     "score": 3479,
-     "items": 20,
-     "won": false
-    },
-    "senior": {
-     "score": 291,
-     "items": 2,
-     "won": false
-    }
-   },
-   "runs": 40,
-   "updatedAt": 1787862816113
-  },
-  "joseph": {
-   "name": "Joseph",
-   "best": {
-    "senior": {
-     "score": 1911,
-     "items": 12,
-     "won": false
-    }
-   },
-   "runs": 6,
-   "updatedAt": 1787772940315
-  },
-  "ezekiel": {
-   "name": "Ezekiel",
+  "miriam": {
+   "name": "Miriam",
    "best": {
     "junior": {
-     "score": 3460,
-     "items": 22,
-     "won": false
+     "score": 1500,
+     "items": 30,
+     "won": true
     }
    },
-   "runs": 6,
-   "updatedAt": 1787862107480
+   "scopes": {
+    "junior::commandments": {
+     "score": 600,
+     "items": 20,
+     "label": "Ten Commandments",
+     "division": "junior",
+     "scope": "commandments"
+    },
+    "junior::xref": {
+     "score": 900,
+     "items": 26,
+     "label": "Cross-References",
+     "division": "junior",
+     "scope": "xref"
+    }
+   },
+   "runs": 5
+  },
+  "aaron": {
+   "name": "Aaron",
+   "best": {
+    "senior": {
+     "score": 2000,
+     "items": 40,
+     "won": true
+    }
+   },
+   "scopes": {
+    "junior::commandments": {
+     "score": 750,
+     "items": 25,
+     "label": "Ten Commandments",
+     "division": "junior",
+     "scope": "commandments"
+    },
+    "senior::random:Matthew 5": {
+     "score": 1100,
+     "items": 30,
+     "label": "Random Access \u2014 Matthew 5",
+     "division": "senior",
+     "scope": "random:Matthew 5"
+    }
+   },
+   "runs": 8
   }
  }
 }
