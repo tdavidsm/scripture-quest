@@ -2,7 +2,7 @@
 ## Comprehensive Multiple-Choice Test Bank (NKJV)
 *109 passages · Genesis to Revelation*
 
-**1226 questions in 15 sets.** Sets run easiest (Set 1) to hardest (Set 13). Answer keys follow each set.
+**1204 questions in 15 sets.** Sets run easiest (Set 1) to hardest (Set 13). Answer keys follow each set.
 
 | Set | Question type | Questions |
 |---|---|---|
@@ -12,13 +12,13 @@
 | 4 | Question 10: Random Access, Matthew 6 | 34 |
 | 5 | Question 10: Random Access, Matthew 7 | 29 |
 | 6 | Question 10: Random Access, All Five Chapters Mixed | 30 |
-| 7 | Question 9: Cross-References | 120 |
-| 8 | Question 7: Jewish Feasts | 43 |
+| 7 | Question 9: Cross-References | 117 |
+| 8 | Question 7: Jewish Feasts | 40 |
 | 9 | Question 8: Unique Words (one passage only) | 152 |
 | 10 | Question 7b: Words Found in Three or Four Passages | 247 |
-| 11 | Question 6: Geographical Location | 106 |
-| 12 | Questions 5, 3 & 2: Names for God | 166 |
-| 13 | Question 4: The Ten Commandments | 42 |
+| 11 | Question 6: Geographical Location | 101 |
+| 12 | Questions 5, 3 & 2: Names for God | 164 |
+| 13 | Question 4: The Ten Commandments | 33 |
 | 14 | Question 1: Theme of the Passage | 109 |
 | 15 | Question 11: Words Found in Exactly Two Passages | 38 |
 
@@ -679,7 +679,7 @@ A) Matthew 5:29  B) Matthew 7:26  C) Proverbs 4:12  D) Matthew 6:4
 # SET 7 — Question 9: Cross-References
 *Every cross-reference printed in the document, asked in both directions.*
 
-**1.** Which passage is the cross-reference to **Matthew 5:3-12, 38-48**?
+**1.** Which passage is the cross-reference to **Matthew 5:3-12**?
 A) Luke 3:7-14  B) Luke 6:20-31  C) Luke 2:41-52  D) Luke 6:35-43
 
 **2.** Which passage is the cross-reference to **Matthew 5:3-4**?
@@ -691,355 +691,346 @@ A) Psalm 51:9-12  B) Psalm 145:1-21  C) Psalm 94:8-15  D) Psalm 126:3-6
 **4.** Which passage is the cross-reference to **Matthew 5:4**?
 A) Haggai 2:2-9  B) Haggai 1:3-11  C) Zephaniah 3:13-20  D) Hosea 10:12
 
-**5.** Which passage is **NOT** the cross-reference to **Matthew 5:4**?
-A) Psalm 145:1-21  B) Psalm 94:8-15  C) Zephaniah 3:13-20  D) Psalm 126:3-6
+**5.** Which passage is the cross-reference to **Matthew 5:5**?
+A) Psalm 37:10-11  B) Psalm 94:8-15  C) Psalm 51:9-12  D) Psalm 18:2-12
 
-**6.** Which passage is the cross-reference to **Matthew 5:5**?
-A) Psalm 51:9-12  B) Psalm 94:8-15  C) Psalm 37:10-11  D) Psalm 18:2-12
+**6.** Which passage is the cross-reference to **Matthew 5:6-7**?
+A) Zephaniah 3:13-20  B) Haggai 1:3-11  C) Hosea 10:12  D) Jeremiah 20:7-13
 
-**7.** Which passage is the cross-reference to **Matthew 5:6-7**?
-A) Zephaniah 3:13-20  B) Hosea 10:12  C) Jeremiah 20:7-13  D) Haggai 1:3-11
+**7.** Which passage is the cross-reference to **Matthew 5:6**?
+A) 1 Peter 2:15-25  B) Revelation 7:9-16  C) 1 Peter 5:1-11  D) 1 Peter 2:9-12
 
-**8.** Which passage is the cross-reference to **Matthew 5:6**?
-A) Revelation 7:9-16  B) 1 Peter 5:1-11  C) 1 Peter 2:15-25  D) 1 Peter 2:9-12
+**8.** Which passage is the cross-reference to **Matthew 5:8**?
+A) Exodus 33:12-19  B) Exodus 4:4-5  C) Leviticus 24:17-22  D) Genesis 50:16-20
 
 **9.** Which passage is the cross-reference to **Matthew 5:8**?
-A) Exodus 4:4-5  B) Genesis 50:16-20  C) Exodus 33:12-19  D) Leviticus 24:17-22
+A) Psalm 37:10-11  B) Psalm 126:3-6  C) Psalm 51:9-12  D) Psalm 94:8-15
 
 **10.** Which passage is the cross-reference to **Matthew 5:8**?
-A) Psalm 94:8-15  B) Psalm 37:10-11  C) Psalm 51:9-12  D) Psalm 126:3-6
+A) Matthew 7:11-12  B) Matthew 23:13-22  C) Matthew 23:25-28  D) Matthew 6:6
 
-**11.** Which passage is the cross-reference to **Matthew 5:8**?
-A) Matthew 7:11-12  B) Matthew 23:25-28  C) Matthew 23:13-22  D) Matthew 6:6
+**11.** Which passage is **NOT** the cross-reference to **Matthew 5:8**?
+A) Exodus 4:4-5  B) Matthew 23:25-28  C) Exodus 33:12-19  D) Psalm 51:9-12
 
-**12.** Which passage is **NOT** the cross-reference to **Matthew 5:8**?
-A) Exodus 4:4-5  B) Psalm 51:9-12  C) Matthew 23:25-28  D) Exodus 33:12-19
-
-**13.** Which passage is the cross-reference to **Matthew 5:10-12**?
+**12.** Which passage is the cross-reference to **Matthew 5:10-12**?
 A) Jeremiah 20:7-13  B) Hosea 10:12  C) Jeremiah 17:7-8  D) Jeremiah 1:4-12
 
-**14.** Which passage is the cross-reference to **Matthew 5:10-12**?
+**13.** Which passage is the cross-reference to **Matthew 5:10-12**?
 A) Hebrews 11:24-26  B) Hebrews 11:13-16  C) James 1:21-22  D) Hebrews 11:31-40
 
-**15.** Which passage is the cross-reference to **Matthew 5:10-12**?
+**14.** Which passage is the cross-reference to **Matthew 5:10-12**?
 A) James 1:21-22  B) James 2:8-10  C) James 1:23-26  D) James 1:2-4
 
-**16.** Which passage is the cross-reference to **Matthew 5:10-12**?
+**15.** Which passage is the cross-reference to **Matthew 5:10-12**?
 A) James 4:13-17  B) James 5:7-11  C) James 4:7-10  D) James 3:7-13
 
-**17.** Which passage is **NOT** the cross-reference to **Matthew 5:10-12**?
-A) James 1:2-4  B) Hebrews 11:31-40  C) Jeremiah 17:7-8  D) Jeremiah 20:7-13
+**16.** Which passage is **NOT** the cross-reference to **Matthew 5:10-12**?
+A) James 1:2-4  B) Jeremiah 17:7-8  C) Hebrews 11:31-40  D) Jeremiah 20:7-13
 
-**18.** Which passage is the cross-reference to **Matthew 5:11-12**?
-A) 1 Timothy 5:1-6  B) Hebrews 11:24-26  C) Hebrews 11:13-16  D) Hebrews 11:31-40
+**17.** Which passage is the cross-reference to **Matthew 5:11-12**?
+A) Hebrews 11:24-26  B) 1 Timothy 5:1-6  C) Hebrews 11:13-16  D) Hebrews 11:31-40
 
-**19.** Which passage is the cross-reference to **Matthew 5:13, 29-30**?
-A) Mark 9:42-50  B) Luke 2:41-52  C) Mark 8:31-38  D) Mark 7:17-28
+**18.** Which passage is the cross-reference to **Matthew 5:13**?
+A) Luke 2:41-52  B) Mark 9:42-50  C) Mark 8:31-38  D) Mark 7:17-28
 
-**20.** Which passage is the cross-reference to **Matthew 5:14-16**?
-A) James 5:7-11  B) 1 Peter 2:9-12  C) 1 Peter 2:15-25  D) 1 Peter 5:1-11
-
-**21.** Which passage is the cross-reference to **Matthew 5:20, 48**?
-A) Romans 6:10-15  B) Romans 2:8-11  C) Romans 3:1-11  D) Romans 10:1-5
-
-**22.** Which passage is the cross-reference to **Matthew 5:20**?
-A) Romans 14:4-19  B) Romans 6:10-15  C) Romans 10:1-5  D) Romans 3:1-11
-
-**23.** Which passage is the cross-reference to **Matthew 5:21-28**?
-A) Matthew 23:25-28  B) Mark 9:42-50  C) Mark 8:31-38  D) Mark 7:17-28
-
-**24.** Which passage is the cross-reference to **Matthew 5:22**?
-A) James 2:8-10  B) James 3:7-13  C) James 4:7-10  D) James 2:15-18
-
-**25.** Which passage is the cross-reference to **Matthew 5:29-30**?
-A) Romans 10:1-5  B) Romans 3:1-11  C) Romans 14:4-19  D) Romans 6:10-15
-
-**26.** Which passage is the cross-reference to **Matthew 5:33-37**?
-A) Matthew 6:6  B) Matthew 7:11-12  C) Matthew 23:13-22  D) Matthew 23:25-28
-
-**27.** Which passage is the cross-reference to **Matthew 5:34-35**?
-A) Isaiah 66:8  B) Isaiah 31:4-5  C) Isaiah 26:1-9  D) Isaiah 66:1
-
-**28.** Which passage is the cross-reference to **Matthew 5:34-35**?
-A) Acts 10:34-43  B) John 17:1-17  C) John 21:12-22  D) Acts 7:49
-
-**29.** Which passage is **NOT** the cross-reference to **Matthew 5:34-35**?
-A) Isaiah 31:4-5  B) Isaiah 66:8  C) Acts 7:49  D) Isaiah 66:1
-
-**30.** Which passage is the cross-reference to **Matthew 5:38-39**?
-A) Exodus 33:12-19  B) Leviticus 24:17-22  C) Deuteronomy 5:23-33  D) Leviticus 26:1-10
-
-**31.** Which passage is the cross-reference to **Matthew 5:38-42**?
-A) 2 Corinthians 8:1-17  B) 1 Corinthians 3:10-14  C) 1 Corinthians 15:32-33  D) 1 Corinthians 6:1-10
-
-**32.** Which passage is the cross-reference to **Matthew 5:38-48**?
+**19.** Which passage is the cross-reference to **Matthew 5:14-16**?
 A) 1 Peter 5:1-11  B) 1 Peter 2:15-25  C) 1 Peter 2:9-12  D) James 5:7-11
 
+**20.** Which passage is the cross-reference to **Matthew 5:20**?
+A) Romans 2:8-11  B) Romans 6:10-15  C) Romans 3:1-11  D) Romans 1:13-17
+
+**21.** Which passage is the cross-reference to **Matthew 5:20**?
+A) Romans 2:8-11  B) Romans 6:10-15  C) Romans 14:4-19  D) Romans 10:1-5
+
+**22.** Which passage is the cross-reference to **Matthew 5:21-28**?
+A) Matthew 23:25-28  B) Mark 7:17-28  C) Mark 9:42-50  D) Mark 8:31-38
+
+**23.** Which passage is the cross-reference to **Matthew 5:22**?
+A) James 2:15-18  B) James 4:7-10  C) James 2:8-10  D) James 3:7-13
+
+**24.** Which passage is the cross-reference to **Matthew 5:29-30**?
+A) Luke 2:41-52  B) Mark 7:17-28  C) Mark 9:42-50  D) Mark 8:31-38
+
+**25.** Which passage is the cross-reference to **Matthew 5:29-30**?
+A) Romans 3:1-11  B) Romans 10:1-5  C) Romans 14:4-19  D) Romans 6:10-15
+
+**26.** Which passage is the cross-reference to **Matthew 5:33-37**?
+A) Matthew 23:25-28  B) Matthew 6:6  C) Matthew 7:11-12  D) Matthew 23:13-22
+
+**27.** Which passage is the cross-reference to **Matthew 5:34-35**?
+A) Isaiah 66:1  B) Isaiah 26:1-9  C) Isaiah 66:8  D) Isaiah 31:4-5
+
+**28.** Which passage is the cross-reference to **Matthew 5:34-35**?
+A) John 21:12-22  B) Acts 7:49  C) John 17:1-17  D) Acts 10:34-43
+
+**29.** Which passage is the cross-reference to **Matthew 5:38-39**?
+A) Deuteronomy 5:23-33  B) Exodus 33:12-19  C) Leviticus 26:1-10  D) Leviticus 24:17-22
+
+**30.** Which passage is the cross-reference to **Matthew 5:38-48**?
+A) Luke 6:35-43  B) Luke 6:20-31  C) Luke 3:7-14  D) Luke 2:41-52
+
+**31.** Which passage is the cross-reference to **Matthew 5:38-48**?
+A) James 5:7-11  B) 1 Peter 2:9-12  C) 1 Peter 5:1-11  D) 1 Peter 2:15-25
+
+**32.** Which passage is the cross-reference to **Matthew 5:38-42**?
+A) 1 Corinthians 6:1-10  B) 2 Corinthians 8:1-17  C) 1 Corinthians 15:32-33  D) 1 Corinthians 3:10-14
+
 **33.** Which passage is the cross-reference to **Matthew 5:40-42**?
-A) Luke 6:35-43  B) Luke 2:41-52  C) Luke 6:20-31  D) Luke 3:7-14
+A) Luke 6:20-31  B) Luke 3:7-14  C) Luke 6:35-43  D) Luke 2:41-52
 
 **34.** Which passage is the cross-reference to **Matthew 5:43-48**?
-A) James 2:8-10  B) James 1:21-22  C) James 1:23-26  D) James 2:15-18
-
-**35.** Which passage is the cross-reference to **Matthew 5:44**?
-A) Job 28:3-28  B) Job 42:10-15  C) Job 9:1-13  D) Job 42:1-9
-
-**36.** Which passage is the cross-reference to **Matthew 5:44-48**?
-A) Luke 9:19-28  B) Luke 17:1-4  C) Luke 6:20-31  D) Luke 6:35-43
-
-**37.** Which passage is the cross-reference to **Matthew 5:45**?
-A) John 21:12-22  B) Acts 10:34-43  C) Romans 1:13-17  D) Acts 7:49
-
-**38.** Which passage is the cross-reference to **Matthew 5:45**?
-A) Romans 1:13-17  B) Romans 2:8-11  C) Romans 6:10-15  D) Romans 3:1-11
-
-**39.** Which passage is **NOT** the cross-reference to **Matthew 5:45**?
-A) Romans 2:8-11  B) Acts 10:34-43  C) Acts 7:49  D) Romans 1:13-17
-
-**40.** Which passage is the cross-reference to **Matthew 6:1-6**?
-A) Matthew 7:11-12  B) Matthew 6:6  C) Matthew 23:25-28  D) Matthew 23:13-22
-
-**41.** Which passage is the cross-reference to **Matthew 6:1**?
-A) Romans 14:4-19  B) Romans 6:10-15  C) Romans 3:1-11  D) Romans 10:1-5
-
-**42.** Which passage is the cross-reference to **Matthew 6:1-4**?
-A) 1 Corinthians 6:1-10  B) Galatians 2:15-21  C) 1 Corinthians 15:32-33  D) 2 Corinthians 8:1-17
-
-**43.** Which passage is the cross-reference to **Matthew 6:1-4**?
-A) 2 Corinthians 9:1-13  B) 1 Corinthians 15:32-33  C) Galatians 6:7-10  D) Galatians 2:15-21
-
-**44.** Which passage is **NOT** the cross-reference to **Matthew 6:1-4**?
-A) 2 Corinthians 8:1-17  B) 2 Corinthians 9:1-13  C) 1 Corinthians 15:32-33  D) 1 Corinthians 6:1-10
-
-**45.** Which passage is the cross-reference to **Matthew 6:5-8**?
-A) Matthew 23:13-22  B) Matthew 23:25-28  C) Matthew 7:11-12  D) Matthew 6:6
-
-**46.** Which passage is the cross-reference to **Matthew 6:5-8**?
-A) Luke 9:19-28  B) Luke 18:9-17  C) Luke 17:1-4  D) Luke 19:15-17
-
-**47.** Which passage is **NOT** the cross-reference to **Matthew 6:5-8**?
-A) Matthew 6:6  B) Matthew 23:13-22  C) Luke 18:9-17  D) Matthew 7:11-12
-
-**48.** Which passage is the cross-reference to **Matthew 6:7-8**?
-A) Ecclesiastes 3:9-17  B) Ecclesiastes 8:16-17  C) Ecclesiastes 7:13-23  D) Ecclesiastes 5:1-3
-
-**49.** Which passage is the cross-reference to **Matthew 6:9-13**?
-A) John 17:1-17  B) John 21:12-22  C) John 1:1-18  D) Acts 7:49
-
-**50.** Which passage is the cross-reference to **Matthew 6:11, 26**?
-A) Psalm 145:1-21  B) Psalm 51:9-12  C) Psalm 94:8-15  D) Psalm 126:3-6
-
-**51.** Which passage is the cross-reference to **Matthew 6:12, 14-15**?
-A) Luke 18:9-17  B) Luke 19:15-17  C) Luke 9:19-28  D) Luke 17:1-4
-
-**52.** Which passage is the cross-reference to **Matthew 6:14-15**?
-A) Genesis 50:16-20  B) Genesis 31:13  C) Exodus 4:4-5  D) Exodus 33:12-19
-
-**53.** Which passage is the cross-reference to **Matthew 6:19-21**?
-A) Proverbs 3:14-15  B) Proverbs 15:19-23  C) Proverbs 3:5-6  D) Proverbs 8:10-11
-
-**54.** Which passage is the cross-reference to **Matthew 6:19-21**?
-A) Mark 7:17-28  B) Mark 9:42-50  C) Luke 2:41-52  D) Mark 8:31-38
-
-**55.** Which passage is the cross-reference to **Matthew 6:19-21**?
-A) Hebrews 11:13-16  B) Hebrews 11:31-40  C) Philippians 4:10-13  D) 1 Timothy 5:1-6
-
-**56.** Which passage is the cross-reference to **Matthew 6:19-21**?
-A) James 1:2-4  B) Hebrews 11:24-26  C) 1 Timothy 5:1-6  D) Hebrews 11:31-40
-
-**57.** Which passage is **NOT** the cross-reference to **Matthew 6:19-21**?
-A) Hebrews 11:13-16  B) Proverbs 3:5-6  C) Proverbs 3:14-15  D) Mark 8:31-38
-
-**58.** Which passage is the cross-reference to **Matthew 6:19-21, 33**?
-A) Zephaniah 3:13-20  B) Hosea 10:12  C) Haggai 2:2-9  D) Haggai 1:3-11
-
-**59.** Which passage is the cross-reference to **Matthew 6:24**?
-A) Philippians 1:9-18  B) Ephesians 6:5-9  C) Ephesians 1:15-23  D) Galatians 6:7-10
-
-**60.** Which passage is the cross-reference to **Matthew 6:25-34**?
-A) Isaiah 66:1  B) Isaiah 66:8  C) Isaiah 31:4-5  D) Isaiah 26:1-9
-
-**61.** Which passage is the cross-reference to **Matthew 6:25-34**?
-A) Philippians 1:9-18  B) Philippians 4:10-13  C) Ephesians 6:5-9  D) 1 Timothy 5:1-6
-
-**62.** Which passage is the cross-reference to **Matthew 6:25-34**?
-A) 1 Peter 2:9-12  B) Revelation 7:9-16  C) 1 Peter 5:1-11  D) 1 Peter 2:15-25
-
-**63.** Which passage is **NOT** the cross-reference to **Matthew 6:25-34**?
-A) Philippians 4:10-13  B) Isaiah 31:4-5  C) 1 Peter 5:1-11  D) Isaiah 26:1-9
-
-**64.** Which passage is the cross-reference to **Matthew 6:33**?
-A) Proverbs 3:5-6  B) Proverbs 3:14-15  C) Proverbs 1:5-23  D) Proverbs 8:10-11
-
-**65.** Which passage is the cross-reference to **Matthew 6:34**?
-A) James 5:7-11  B) James 4:13-17  C) James 4:7-10  D) James 3:7-13
-
-**66.** Which passage is the cross-reference to **Matthew 7:1-5, 15-20**?
-A) Luke 9:19-28  B) Luke 17:1-4  C) Luke 6:20-31  D) Luke 6:35-43
-
-**67.** Which passage is the cross-reference to **Matthew 7:1-5**?
-A) Romans 10:1-5  B) Romans 6:10-15  C) Romans 14:4-19  D) Romans 3:1-11
-
-**68.** Which passage is the cross-reference to **Matthew 7:12**?
-A) Luke 2:41-52  B) Luke 6:20-31  C) Luke 6:35-43  D) Luke 3:7-14
-
-**69.** Which passage is the cross-reference to **Matthew 7:12**?
-A) Ephesians 1:15-23  B) Philippians 1:9-18  C) Ephesians 6:5-9  D) Galatians 6:7-10
-
-**70.** Which passage is the cross-reference to **Matthew 7:12**?
-A) Hebrews 11:13-16  B) Philippians 4:10-13  C) Hebrews 11:24-26  D) 1 Timothy 5:1-6
-
-**71.** Which passage is the cross-reference to **Matthew 7:12**?
 A) James 2:15-18  B) James 1:21-22  C) James 1:23-26  D) James 2:8-10
 
-**72.** Which passage is **NOT** the cross-reference to **Matthew 7:12**?
-A) Luke 3:7-14  B) 1 Timothy 5:1-6  C) Luke 6:20-31  D) Ephesians 6:5-9
+**35.** Which passage is the cross-reference to **Matthew 5:44**?
+A) Job 9:1-13  B) Job 42:10-15  C) Job 28:3-28  D) Job 42:1-9
 
-**73.** Which passage is the cross-reference to **Matthew 7:13-14**?
-A) Mark 7:17-28  B) Luke 2:41-52  C) Mark 9:42-50  D) Mark 8:31-38
+**36.** Which passage is the cross-reference to **Matthew 5:44-48**?
+A) Luke 6:20-31  B) Luke 6:35-43  C) Luke 17:1-4  D) Luke 9:19-28
 
-**74.** Which passage is the cross-reference to **Matthew 7:15-20**?
-A) Luke 6:20-31  B) Luke 2:41-52  C) Luke 6:35-43  D) Luke 3:7-14
+**37.** Which passage is the cross-reference to **Matthew 5:45**?
+A) Romans 1:13-17  B) Acts 7:49  C) Acts 10:34-43  D) John 21:12-22
 
-**75.** Which passage is the cross-reference to **Matthew 7:16-20**?
-A) Galatians 2:15-21  B) Ephesians 1:15-23  C) 2 Corinthians 9:1-13  D) Galatians 6:7-10
+**38.** Which passage is the cross-reference to **Matthew 5:45**?
+A) Romans 3:1-11  B) Romans 6:10-15  C) Romans 2:8-11  D) Romans 1:13-17
 
-**76.** Which passage is the cross-reference to **Matthew 7:16-20**?
-A) James 2:15-18  B) James 2:8-10  C) James 3:7-13  D) James 4:7-10
+**39.** Which passage is the cross-reference to **Matthew 5:48**?
+A) Romans 2:8-11  B) Romans 6:10-15  C) Romans 10:1-5  D) Romans 3:1-11
 
-**77.** Which passage is **NOT** the cross-reference to **Matthew 7:16-20**?
-A) Ephesians 1:15-23  B) James 3:7-13  C) Galatians 6:7-10  D) Galatians 2:15-21
-
-**78.** Which passage is the cross-reference to **Matthew 7:16-21**?
-A) James 2:8-10  B) James 1:23-26  C) James 3:7-13  D) James 2:15-18
-
-**79.** Which passage is the cross-reference to **Matthew 7:21-27**?
-A) James 1:21-22  B) James 1:23-26  C) James 2:8-10  D) James 1:2-4
-
-**80.** Which passage is the cross-reference to **Matthew 7:24-25**?
-A) Jeremiah 17:7-8  B) Jeremiah 20:7-13  C) Jeremiah 1:4-12  D) Hosea 10:12
-
-**81.** Which passage is the cross-reference to **Matthew 7:24-27**?
-A) Romans 14:4-19  B) 1 Corinthians 15:32-33  C) 1 Corinthians 6:1-10  D) 1 Corinthians 3:10-14
-
-**82.** Which passage is the cross-reference to **Matthew 7:24-27**?
-A) James 1:23-26  B) James 2:8-10  C) James 1:21-22  D) James 1:2-4
-
-**83.** Which passage is **NOT** the cross-reference to **Matthew 7:24-27**?
-A) James 1:21-22  B) 1 Corinthians 6:1-10  C) 1 Corinthians 15:32-33  D) 1 Corinthians 3:10-14
-
-**84.** Which passage is the cross-reference to **Proverbs 3:1-2, 9-10**?
-A) Exodus 33:12-19  B) Deuteronomy 5:23-33  C) Leviticus 26:1-10  D) Leviticus 24:17-22
-
-**85.** Which passage is the cross-reference to **Proverbs 3:1-2**?
-A) Deuteronomy 5:23-33  B) Joshua 2:8-11  C) Joshua 17:3-4  D) Leviticus 26:1-10
-
-**86.** Which passage is the cross-reference to **Proverbs 3:5-7**?
-A) Proverbs 3:5-6  B) Proverbs 1:5-23  C) Proverbs 3:14-15  D) Proverbs 8:10-11
-
-**87.** Which passage is the cross-reference to **Proverbs 3:5-7**?
-A) Proverbs 15:19-23  B) Proverbs 28:25-26  C) Proverbs 23:15-26  D) Proverbs 8:10-11
-
-**88.** Which passage is **NOT** the cross-reference to **Proverbs 3:5-7**?
-A) Proverbs 1:5-23  B) Proverbs 28:25-26  C) Proverbs 3:5-6  D) Proverbs 3:14-15
-
-**89.** Which passage is the cross-reference to **Proverbs 3:5**?
-A) Ecclesiastes 3:9-17  B) Ecclesiastes 8:16-17  C) Ecclesiastes 7:13-23  D) Ecclesiastes 5:1-3
-
-**90.** Which passage is the cross-reference to **Proverbs 3:5-6**?
-A) Isaiah 66:8  B) Isaiah 31:4-5  C) Isaiah 26:1-9  D) Isaiah 66:1
-
-**91.** Which passage is the cross-reference to **Proverbs 3:5-8**?
-A) Jeremiah 20:7-13  B) Jeremiah 1:4-12  C) Hosea 10:12  D) Jeremiah 17:7-8
-
-**92.** Which passage is the cross-reference to **Proverbs 3:7**?
-A) Ecclesiastes 7:13-23  B) Ecclesiastes 3:9-17  C) Ecclesiastes 8:16-17  D) Ecclesiastes 5:1-3
-
-**93.** Which passage is the cross-reference to **Proverbs 3:9-10**?
-A) Haggai 1:3-11  B) Haggai 2:2-9  C) Malachi 3:10  D) Matthew 6:6
-
-**94.** Which passage is the cross-reference to **Proverbs 3:9-10**?
-A) Galatians 2:15-21  B) 1 Corinthians 15:32-33  C) 2 Corinthians 9:1-13  D) 2 Corinthians 8:1-17
-
-**95.** Which passage is **NOT** the cross-reference to **Proverbs 3:9-10**?
-A) Malachi 3:10  B) 2 Corinthians 9:1-13  C) Matthew 6:6  D) Haggai 2:2-9
-
-**96.** Which passage is the cross-reference to **Proverbs 3:11-12**?
-A) Job 9:1-13  B) Job 5:17-27  C) Job 28:3-28  D) Job 42:1-9
-
-**97.** Which passage is the cross-reference to **Proverbs 3:11-12**?
-A) Psalm 51:9-12  B) Psalm 145:1-21  C) Psalm 126:3-6  D) Psalm 94:8-15
-
-**98.** Which passage is **NOT** the cross-reference to **Proverbs 3:11-12**?
-A) Job 9:1-13  B) Psalm 94:8-15  C) Job 28:3-28  D) Job 5:17-27
-
-**99.** Which passage is the cross-reference to **Proverbs 3:13-15**?
-A) 1 Kings 3:3-10  B) 1 Kings 12:6-8  C) 1 Kings 8:22-28  D) 1 Kings 18:36-39
-
-**100.** Which passage is the cross-reference to **Proverbs 3:13-15**?
-A) Proverbs 23:15-26  B) Proverbs 15:19-23  C) Proverbs 3:14-15  D) Proverbs 8:10-11
-
-**101.** Which passage is **NOT** the cross-reference to **Proverbs 3:13-15**?
-A) Proverbs 8:10-11  B) 1 Kings 3:3-10  C) 1 Kings 12:6-8  D) 1 Kings 8:22-28
-
-**102.** Which passage is the cross-reference to **Proverbs 3:13-18**?
-A) Job 42:1-9  B) Job 28:3-28  C) Job 42:10-15  D) Job 9:1-13
-
-**103.** Which passage is the cross-reference to **Proverbs 3:27-28**?
-A) Nehemiah 8:5-12  B) Esther 10:1-3  C) Job 5:17-27  D) Job 9:1-13
-
-**104.** Which passage is the cross-reference to **Proverbs 3:27-28**?
-A) Matthew 6:6  B) Matthew 23:25-28  C) Matthew 7:11-12  D) Matthew 23:13-22
-
-**105.** Which passage is the cross-reference to **Proverbs 3:27-28**?
-A) 2 Corinthians 9:1-13  B) Galatians 2:15-21  C) Galatians 6:7-10  D) Ephesians 1:15-23
-
-**106.** Which passage is **NOT** the cross-reference to **Proverbs 3:27-28**?
-A) Job 5:17-27  B) Galatians 6:7-10  C) Esther 10:1-3  D) Matthew 7:11-12
-
-**107.** Which passage is the cross-reference to **Proverbs 3:32**?
+**40.** Which passage is the cross-reference to **Matthew 6:1-6**?
 A) Matthew 7:11-12  B) Matthew 6:6  C) Matthew 23:13-22  D) Matthew 23:25-28
 
-**108.** Which passage is the cross-reference to **Proverbs 3:34**?
-A) James 2:15-18  B) James 4:7-10  C) James 3:7-13  D) James 4:13-17
+**41.** Which passage is the cross-reference to **Matthew 6:1**?
+A) Romans 10:1-5  B) Romans 6:10-15  C) Romans 3:1-11  D) Romans 14:4-19
 
-**109.** Which passage is the cross-reference to **Proverbs 3:34**?
-A) 1 Peter 5:1-11  B) 1 Peter 2:15-25  C) Revelation 7:9-16  D) 1 Peter 2:9-12
+**42.** Which passage is the cross-reference to **Matthew 6:1-4**?
+A) 1 Corinthians 15:32-33  B) 1 Corinthians 6:1-10  C) 2 Corinthians 8:1-17  D) Galatians 2:15-21
 
-**110.** Which passage is **NOT** the cross-reference to **Proverbs 3:34**?
-A) 1 Peter 5:1-11  B) James 4:7-10  C) James 3:7-13  D) James 4:13-17
+**43.** Which passage is the cross-reference to **Matthew 6:1-4**?
+A) 1 Corinthians 15:32-33  B) Galatians 6:7-10  C) Galatians 2:15-21  D) 2 Corinthians 9:1-13
 
-**111.** Which passage is the cross-reference to **Proverbs 4:1-5**?
-A) 1 Kings 12:6-8  B) 1 Kings 8:22-28  C) 1 Kings 18:36-39  D) 1 Kings 3:3-10
+**44.** Which passage is the cross-reference to **Matthew 6:5-8**?
+A) Matthew 23:25-28  B) Matthew 6:6  C) Matthew 7:11-12  D) Matthew 23:13-22
 
-**112.** Which passage is the cross-reference to **Proverbs 4:1-4, 20-23**?
-A) Proverbs 15:19-23  B) Proverbs 28:25-26  C) Proverbs 8:10-11  D) Proverbs 23:15-26
+**45.** Which passage is the cross-reference to **Matthew 6:5-8**?
+A) Luke 17:1-4  B) Luke 9:19-28  C) Luke 19:15-17  D) Luke 18:9-17
 
-**113.** Which passage is the cross-reference to **Proverbs 4:5-7**?
-A) 1 Kings 3:3-10  B) 1 Kings 8:22-28  C) 1 Kings 12:6-8  D) 1 Kings 18:36-39
+**46.** Which passage is the cross-reference to **Matthew 6:7-8**?
+A) Ecclesiastes 3:9-17  B) Ecclesiastes 8:16-17  C) Ecclesiastes 7:13-23  D) Ecclesiastes 5:1-3
 
-**114.** Which passage is the cross-reference to **Proverbs 4:5-7**?
-A) Job 42:1-9  B) Job 9:1-13  C) Job 28:3-28  D) Job 42:10-15
+**47.** Which passage is the cross-reference to **Matthew 6:9-13**?
+A) John 17:1-17  B) John 21:12-22  C) John 1:1-18  D) Acts 7:49
 
-**115.** Which passage is **NOT** the cross-reference to **Proverbs 4:5-7**?
-A) 1 Kings 3:3-10  B) Job 28:3-28  C) 1 Kings 12:6-8  D) 1 Kings 8:22-28
+**48.** Which passage is the cross-reference to **Matthew 6:11**?
+A) Psalm 145:1-21  B) Psalm 51:9-12  C) Psalm 94:8-15  D) Psalm 126:3-6
 
-**116.** Which passage is the cross-reference to **Proverbs 4:11-19**?
-A) Proverbs 28:25-26  B) Proverbs 8:10-11  C) Proverbs 23:15-26  D) Proverbs 15:19-23
+**49.** Which passage is the cross-reference to **Matthew 6:12**?
+A) Luke 18:9-17  B) Luke 19:15-17  C) Luke 9:19-28  D) Luke 17:1-4
 
-**117.** Which passage is the cross-reference to **Proverbs 4:14-19**?
-A) Proverbs 8:10-11  B) Proverbs 3:14-15  C) Proverbs 1:5-23  D) Proverbs 3:5-6
+**50.** Which passage is the cross-reference to **Matthew 6:14-15**?
+A) Genesis 50:16-20  B) Genesis 31:13  C) Exodus 4:4-5  D) Exodus 33:12-19
 
-**118.** Which passage is the cross-reference to **Proverbs 4:14-17**?
-A) 1 Corinthians 6:1-10  B) 1 Corinthians 3:10-14  C) 2 Corinthians 8:1-17  D) 1 Corinthians 15:32-33
+**51.** Which passage is the cross-reference to **Matthew 6:14-15**?
+A) Luke 17:1-4  B) Luke 19:15-17  C) Luke 18:9-17  D) Luke 9:19-28
 
-**119.** Which passage is the cross-reference to **Proverbs 4:23**?
-A) Mark 9:42-50  B) Matthew 23:25-28  C) Mark 8:31-38  D) Mark 7:17-28
+**52.** Which passage is the cross-reference to **Matthew 6:19-21**?
+A) Proverbs 3:5-6  B) Proverbs 8:10-11  C) Proverbs 15:19-23  D) Proverbs 3:14-15
 
-**120.** Which passage is the cross-reference to **Proverbs 4:25-27**?
-A) Joshua 2:8-11  B) Joshua 17:3-4  C) Judges 6:11-14  D) Joshua 23:3-14
+**53.** Which passage is the cross-reference to **Matthew 6:19-21**?
+A) Haggai 1:3-11  B) Haggai 2:2-9  C) Hosea 10:12  D) Zephaniah 3:13-20
 
-**Answer key — SET 7:** 1‑B, 2‑C, 3‑D, 4‑C, 5‑A, 6‑C, 7‑B, 8‑A, 9‑C, 10‑C, 11‑B, 12‑A, 13‑A, 14‑D, 15‑D, 16‑B, 17‑C, 18‑B, 19‑A, 20‑B, 21‑C, 22‑C, 23‑D, 24‑B, 25‑D, 26‑C, 27‑D, 28‑D, 29‑A, 30‑B, 31‑D, 32‑B, 33‑D, 34‑A, 35‑B, 36‑D, 37‑B, 38‑B, 39‑C, 40‑C, 41‑D, 42‑D, 43‑A, 44‑C, 45‑D, 46‑B, 47‑D, 48‑D, 49‑A, 50‑A, 51‑D, 52‑A, 53‑A, 54‑D, 55‑A, 56‑B, 57‑B, 58‑D, 59‑B, 60‑D, 61‑B, 62‑C, 63‑B, 64‑A, 65‑B, 66‑D, 67‑C, 68‑B, 69‑C, 70‑D, 71‑D, 72‑A, 73‑D, 74‑D, 75‑D, 76‑C, 77‑D, 78‑D, 79‑B, 80‑A, 81‑D, 82‑C, 83‑B, 84‑C, 85‑A, 86‑B, 87‑B, 88‑C, 89‑B, 90‑C, 91‑D, 92‑A, 93‑C, 94‑C, 95‑D, 96‑B, 97‑D, 98‑A, 99‑A, 100‑D, 101‑D, 102‑B, 103‑B, 104‑C, 105‑C, 106‑A, 107‑B, 108‑B, 109‑A, 110‑C, 111‑A, 112‑D, 113‑A, 114‑C, 115‑D, 116‑D, 117‑C, 118‑D, 119‑D, 120‑D
+**54.** Which passage is the cross-reference to **Matthew 6:19-21**?
+A) Luke 2:41-52  B) Mark 8:31-38  C) Mark 9:42-50  D) Mark 7:17-28
+
+**55.** Which passage is the cross-reference to **Matthew 6:19-21**?
+A) Philippians 4:10-13  B) Hebrews 11:13-16  C) Hebrews 11:31-40  D) 1 Timothy 5:1-6
+
+**56.** Which passage is the cross-reference to **Matthew 6:19-21**?
+A) 1 Timothy 5:1-6  B) James 1:2-4  C) Hebrews 11:31-40  D) Hebrews 11:24-26
+
+**57.** Which passage is **NOT** the cross-reference to **Matthew 6:19-21**?
+A) Mark 8:31-38  B) Proverbs 3:14-15  C) Hebrews 11:13-16  D) Proverbs 3:5-6
+
+**58.** Which passage is the cross-reference to **Matthew 6:24**?
+A) Ephesians 1:15-23  B) Ephesians 6:5-9  C) Galatians 6:7-10  D) Philippians 1:9-18
+
+**59.** Which passage is the cross-reference to **Matthew 6:25-34**?
+A) Isaiah 66:1  B) Isaiah 66:8  C) Isaiah 26:1-9  D) Isaiah 31:4-5
+
+**60.** Which passage is the cross-reference to **Matthew 6:25-34**?
+A) 1 Timothy 5:1-6  B) Philippians 4:10-13  C) Ephesians 6:5-9  D) Philippians 1:9-18
+
+**61.** Which passage is the cross-reference to **Matthew 6:25-34**?
+A) 1 Peter 5:1-11  B) 1 Peter 2:9-12  C) 1 Peter 2:15-25  D) Revelation 7:9-16
+
+**62.** Which passage is **NOT** the cross-reference to **Matthew 6:25-34**?
+A) 1 Peter 5:1-11  B) Isaiah 26:1-9  C) Philippians 4:10-13  D) Isaiah 31:4-5
+
+**63.** Which passage is the cross-reference to **Matthew 6:26**?
+A) Psalm 126:3-6  B) Psalm 94:8-15  C) Psalm 145:1-21  D) Psalm 51:9-12
+
+**64.** Which passage is the cross-reference to **Matthew 6:33**?
+A) Proverbs 8:10-11  B) Proverbs 3:5-6  C) Proverbs 3:14-15  D) Proverbs 1:5-23
+
+**65.** Which passage is the cross-reference to **Matthew 6:33**?
+A) Haggai 2:2-9  B) Zephaniah 3:13-20  C) Haggai 1:3-11  D) Hosea 10:12
+
+**66.** Which passage is the cross-reference to **Matthew 6:34**?
+A) James 4:7-10  B) James 5:7-11  C) James 3:7-13  D) James 4:13-17
+
+**67.** Which passage is the cross-reference to **Matthew 7:1-5**?
+A) Luke 9:19-28  B) Luke 17:1-4  C) Luke 6:20-31  D) Luke 6:35-43
+
+**68.** Which passage is the cross-reference to **Matthew 7:1-5**?
+A) Romans 14:4-19  B) Romans 3:1-11  C) Romans 10:1-5  D) Romans 6:10-15
+
+**69.** Which passage is the cross-reference to **Matthew 7:12**?
+A) Luke 3:7-14  B) Luke 2:41-52  C) Luke 6:35-43  D) Luke 6:20-31
+
+**70.** Which passage is the cross-reference to **Matthew 7:12**?
+A) Philippians 1:9-18  B) Ephesians 1:15-23  C) Galatians 6:7-10  D) Ephesians 6:5-9
+
+**71.** Which passage is the cross-reference to **Matthew 7:12**?
+A) Hebrews 11:13-16  B) Philippians 4:10-13  C) Hebrews 11:24-26  D) 1 Timothy 5:1-6
+
+**72.** Which passage is the cross-reference to **Matthew 7:12**?
+A) James 1:23-26  B) James 1:21-22  C) James 2:8-10  D) James 2:15-18
+
+**73.** Which passage is **NOT** the cross-reference to **Matthew 7:12**?
+A) Luke 6:20-31  B) 1 Timothy 5:1-6  C) Ephesians 6:5-9  D) Luke 3:7-14
+
+**74.** Which passage is the cross-reference to **Matthew 7:13-14**?
+A) Mark 7:17-28  B) Mark 8:31-38  C) Mark 9:42-50  D) Luke 2:41-52
+
+**75.** Which passage is the cross-reference to **Matthew 7:15-20**?
+A) Luke 3:7-14  B) Luke 6:20-31  C) Luke 2:41-52  D) Luke 9:19-28
+
+**76.** Which passage is the cross-reference to **Matthew 7:15-20**?
+A) Luke 17:1-4  B) Luke 9:19-28  C) Luke 6:20-31  D) Luke 6:35-43
+
+**77.** Which passage is the cross-reference to **Matthew 7:16-20**?
+A) Ephesians 1:15-23  B) 2 Corinthians 9:1-13  C) Galatians 6:7-10  D) Galatians 2:15-21
+
+**78.** Which passage is the cross-reference to **Matthew 7:16-20**?
+A) James 4:7-10  B) James 3:7-13  C) James 2:8-10  D) James 2:15-18
+
+**79.** Which passage is the cross-reference to **Matthew 7:16-21**?
+A) James 1:23-26  B) James 3:7-13  C) James 2:15-18  D) James 2:8-10
+
+**80.** Which passage is the cross-reference to **Matthew 7:21-27**?
+A) James 1:23-26  B) James 1:21-22  C) James 1:2-4  D) James 2:8-10
+
+**81.** Which passage is the cross-reference to **Matthew 7:24-25**?
+A) Jeremiah 1:4-12  B) Jeremiah 17:7-8  C) Jeremiah 20:7-13  D) Hosea 10:12
+
+**82.** Which passage is the cross-reference to **Matthew 7:24-27**?
+A) 1 Corinthians 15:32-33  B) 1 Corinthians 3:10-14  C) 1 Corinthians 6:1-10  D) Romans 14:4-19
+
+**83.** Which passage is the cross-reference to **Matthew 7:24-27**?
+A) James 1:2-4  B) James 1:23-26  C) James 1:21-22  D) James 2:8-10
+
+**84.** Which passage is the cross-reference to **Proverbs 3:1-2**?
+A) Joshua 2:8-11  B) Leviticus 26:1-10  C) Leviticus 24:17-22  D) Exodus 33:12-19
+
+**85.** Which passage is the cross-reference to **Proverbs 3:1-2**?
+A) Leviticus 24:17-22  B) Joshua 2:8-11  C) Deuteronomy 5:23-33  D) Joshua 17:3-4
+
+**86.** Which passage is the cross-reference to **Proverbs 3:5-7**?
+A) Proverbs 3:14-15  B) Proverbs 3:5-6  C) Proverbs 8:10-11  D) Proverbs 1:5-23
+
+**87.** Which passage is the cross-reference to **Proverbs 3:5-7**?
+A) Proverbs 28:25-26  B) Proverbs 8:10-11  C) Proverbs 15:19-23  D) Proverbs 23:15-26
+
+**88.** Which passage is the cross-reference to **Proverbs 3:5**?
+A) Ecclesiastes 3:9-17  B) Ecclesiastes 7:13-23  C) Ecclesiastes 8:16-17  D) Ecclesiastes 5:1-3
+
+**89.** Which passage is the cross-reference to **Proverbs 3:5-6**?
+A) Isaiah 66:1  B) Isaiah 66:8  C) Isaiah 26:1-9  D) Isaiah 31:4-5
+
+**90.** Which passage is the cross-reference to **Proverbs 3:5-8**?
+A) Jeremiah 1:4-12  B) Jeremiah 20:7-13  C) Hosea 10:12  D) Jeremiah 17:7-8
+
+**91.** Which passage is the cross-reference to **Proverbs 3:7**?
+A) Ecclesiastes 5:1-3  B) Ecclesiastes 7:13-23  C) Ecclesiastes 8:16-17  D) Ecclesiastes 3:9-17
+
+**92.** Which passage is the cross-reference to **Proverbs 3:9-10**?
+A) Deuteronomy 5:23-33  B) Exodus 33:12-19  C) Leviticus 24:17-22  D) Leviticus 26:1-10
+
+**93.** Which passage is the cross-reference to **Proverbs 3:9-10**?
+A) Malachi 3:10  B) Matthew 6:6  C) Haggai 1:3-11  D) Haggai 2:2-9
+
+**94.** Which passage is the cross-reference to **Proverbs 3:9-10**?
+A) 2 Corinthians 9:1-13  B) Galatians 2:15-21  C) 2 Corinthians 8:1-17  D) 1 Corinthians 15:32-33
+
+**95.** Which passage is **NOT** the cross-reference to **Proverbs 3:9-10**?
+A) Leviticus 24:17-22  B) 2 Corinthians 9:1-13  C) Malachi 3:10  D) Leviticus 26:1-10
+
+**96.** Which passage is the cross-reference to **Proverbs 3:11-12**?
+A) Job 9:1-13  B) Job 5:17-27  C) Job 42:1-9  D) Job 28:3-28
+
+**97.** Which passage is the cross-reference to **Proverbs 3:11-12**?
+A) Psalm 51:9-12  B) Psalm 94:8-15  C) Psalm 126:3-6  D) Psalm 145:1-21
+
+**98.** Which passage is the cross-reference to **Proverbs 3:13-15**?
+A) 1 Kings 12:6-8  B) 1 Kings 18:36-39  C) 1 Kings 3:3-10  D) 1 Kings 8:22-28
+
+**99.** Which passage is the cross-reference to **Proverbs 3:13-15**?
+A) Proverbs 23:15-26  B) Proverbs 15:19-23  C) Proverbs 8:10-11  D) Proverbs 3:14-15
+
+**100.** Which passage is the cross-reference to **Proverbs 3:13-18**?
+A) Job 28:3-28  B) Job 42:10-15  C) Job 42:1-9  D) Job 9:1-13
+
+**101.** Which passage is the cross-reference to **Proverbs 3:27-28**?
+A) Job 5:17-27  B) Esther 10:1-3  C) Nehemiah 8:5-12  D) Job 9:1-13
+
+**102.** Which passage is the cross-reference to **Proverbs 3:27-28**?
+A) Matthew 23:25-28  B) Matthew 7:11-12  C) Matthew 23:13-22  D) Matthew 6:6
+
+**103.** Which passage is the cross-reference to **Proverbs 3:27-28**?
+A) Galatians 6:7-10  B) Galatians 2:15-21  C) 2 Corinthians 9:1-13  D) Ephesians 1:15-23
+
+**104.** Which passage is **NOT** the cross-reference to **Proverbs 3:27-28**?
+A) Job 5:17-27  B) Esther 10:1-3  C) Matthew 7:11-12  D) Galatians 6:7-10
+
+**105.** Which passage is the cross-reference to **Proverbs 3:32**?
+A) Matthew 7:11-12  B) Matthew 23:13-22  C) Matthew 23:25-28  D) Matthew 6:6
+
+**106.** Which passage is the cross-reference to **Proverbs 3:34**?
+A) James 4:7-10  B) James 3:7-13  C) James 4:13-17  D) James 2:15-18
+
+**107.** Which passage is the cross-reference to **Proverbs 3:34**?
+A) 1 Peter 2:15-25  B) 1 Peter 2:9-12  C) 1 Peter 5:1-11  D) Revelation 7:9-16
+
+**108.** Which passage is the cross-reference to **Proverbs 4:1-5**?
+A) 1 Kings 18:36-39  B) 1 Kings 8:22-28  C) 1 Kings 3:3-10  D) 1 Kings 12:6-8
+
+**109.** Which passage is the cross-reference to **Proverbs 4:1-4**?
+A) Proverbs 8:10-11  B) Proverbs 28:25-26  C) Proverbs 15:19-23  D) Proverbs 23:15-26
+
+**110.** Which passage is the cross-reference to **Proverbs 4:5-7**?
+A) 1 Kings 18:36-39  B) 1 Kings 12:6-8  C) 1 Kings 3:3-10  D) 1 Kings 8:22-28
+
+**111.** Which passage is the cross-reference to **Proverbs 4:5-7**?
+A) Job 42:1-9  B) Job 9:1-13  C) Job 42:10-15  D) Job 28:3-28
+
+**112.** Which passage is the cross-reference to **Proverbs 4:11-19**?
+A) Proverbs 8:10-11  B) Proverbs 28:25-26  C) Proverbs 23:15-26  D) Proverbs 15:19-23
+
+**113.** Which passage is the cross-reference to **Proverbs 4:14-19**?
+A) Proverbs 3:14-15  B) Proverbs 3:5-6  C) Proverbs 8:10-11  D) Proverbs 1:5-23
+
+**114.** Which passage is the cross-reference to **Proverbs 4:14-17**?
+A) 2 Corinthians 8:1-17  B) 1 Corinthians 6:1-10  C) 1 Corinthians 15:32-33  D) 1 Corinthians 3:10-14
+
+**115.** Which passage is the cross-reference to **Proverbs 4:20-23**?
+A) Proverbs 28:25-26  B) Proverbs 15:19-23  C) Proverbs 23:15-26  D) Proverbs 8:10-11
+
+**116.** Which passage is the cross-reference to **Proverbs 4:23**?
+A) Mark 7:17-28  B) Mark 9:42-50  C) Mark 8:31-38  D) Matthew 23:25-28
+
+**117.** Which passage is the cross-reference to **Proverbs 4:25-27**?
+A) Joshua 23:3-14  B) Joshua 2:8-11  C) Judges 6:11-14  D) Joshua 17:3-4
+
+**Answer key — SET 7:** 1‑B, 2‑C, 3‑D, 4‑C, 5‑A, 6‑C, 7‑B, 8‑A, 9‑C, 10‑C, 11‑A, 12‑A, 13‑D, 14‑D, 15‑B, 16‑B, 17‑A, 18‑B, 19‑C, 20‑C, 21‑D, 22‑B, 23‑D, 24‑C, 25‑D, 26‑D, 27‑A, 28‑B, 29‑D, 30‑B, 31‑D, 32‑A, 33‑B, 34‑D, 35‑B, 36‑B, 37‑C, 38‑C, 39‑D, 40‑D, 41‑A, 42‑C, 43‑D, 44‑B, 45‑D, 46‑D, 47‑A, 48‑A, 49‑D, 50‑A, 51‑A, 52‑D, 53‑A, 54‑B, 55‑B, 56‑D, 57‑D, 58‑B, 59‑C, 60‑B, 61‑A, 62‑D, 63‑C, 64‑B, 65‑C, 66‑D, 67‑D, 68‑A, 69‑D, 70‑D, 71‑D, 72‑C, 73‑D, 74‑B, 75‑A, 76‑D, 77‑C, 78‑B, 79‑C, 80‑A, 81‑B, 82‑B, 83‑C, 84‑B, 85‑C, 86‑D, 87‑A, 88‑C, 89‑C, 90‑D, 91‑B, 92‑D, 93‑A, 94‑A, 95‑A, 96‑B, 97‑B, 98‑C, 99‑C, 100‑A, 101‑B, 102‑B, 103‑A, 104‑A, 105‑D, 106‑A, 107‑C, 108‑D, 109‑D, 110‑C, 111‑D, 112‑D, 113‑D, 114‑C, 115‑C, 116‑A, 117‑A
 
 ---
 
@@ -1047,135 +1038,126 @@ A) Joshua 2:8-11  B) Joshua 17:3-4  C) Judges 6:11-14  D) Joshua 23:3-14
 *All nine feast-tagged passages, asked in both directions.*
 
 **1.** Around what Jewish feast did **1 Kings 8:22-28 — "Solomon's prayer"** occur?
-A) Passover  B) Purim  C) Feast of Tabernacles  D) Tabernacles imagery
+A) Feast of Dedication  B) Passover  C) Passover Week  D) Feast of Tabernacles
 
 **2.** **1 Kings 8:22-28** carries which feast tag?
-A) Feast of Tabernacles  B) Purim  C) Pentecost  D) Tabernacles imagery
+A) Passover Week  B) Feast of Tabernacles  C) Passover  D) Feast of Dedication
 
 **3.** Around what Jewish feast did **Nehemiah 8:5-12 — "Joy of the LORD"** occur?
-A) Day of Atonement  B) Tabernacles imagery  C) Passover  D) Feast of Trumpets
+A) Feast of Tabernacles  B) Passover Week  C) Feast of Trumpets  D) Purim
 
 **4.** **Nehemiah 8:5-12** carries which feast tag?
-A) Tabernacles imagery  B) Passover  C) Day of Atonement  D) Feast of Trumpets
+A) Passover  B) Day of Atonement  C) Feast of Trumpets  D) Passover Week
 
 **5.** Around what Jewish feast did **Esther 10:1-3 — "Not withholding good"** occur?
-A) Feast of Unleavened Bread  B) Feast of Trumpets  C) Feast of Tabernacles  D) Purim
+A) Purim  B) Pentecost  C) Passover  D) Feast of Dedication
 
 **6.** **Esther 10:1-3** carries which feast tag?
-A) Day of Atonement  B) Passover  C) Feast of Trumpets  D) Purim
+A) Day of Atonement  B) Feast of Weeks  C) Purim  D) Feast of Trumpets
 
 **7.** Around what Jewish feast did **Haggai 2:2-9 — "Be strong and work"** occur?
-A) Feast of Tabernacles  B) Purim  C) Tabernacles imagery  D) Passover
+A) Feast of Tabernacles  B) Pentecost  C) Feast of Unleavened Bread  D) Feast of Trumpets
 
 **8.** **Haggai 2:2-9** carries which feast tag?
-A) Purim  B) Feast of Tabernacles  C) Passover Week  D) Tabernacles imagery
+A) Pentecost  B) Passover Week  C) Feast of Tabernacles  D) Feast of Unleavened Bread
 
 **9.** Around what Jewish feast did **Matthew 23:13-22 — "Empty oaths, empty religion"** occur?
-A) Passover Week  B) Feast of Tabernacles  C) Pentecost  D) Purim
+A) Feast of Tabernacles  B) Pentecost  C) Passover Week  D) Feast of Dedication
 
 **10.** **Matthew 23:13-22** carries which feast tag?
-A) Passover Week  B) Day of Atonement  C) Feast of Dedication  D) Feast of Unleavened Bread
+A) Passover Week  B) Pentecost  C) Feast of Dedication  D) Feast of Tabernacles
 
 **11.** Around what Jewish feast did **Matthew 23:25-28 — "Clean inside, not for show"** occur?
-A) Purim  B) Tabernacles imagery  C) Passover Week  D) Feast of Tabernacles
+A) Day of Atonement  B) Feast of Tabernacles  C) Passover Week  D) Purim
 
 **12.** **Matthew 23:25-28** carries which feast tag?
-A) Feast of Tabernacles  B) Feast of Weeks  C) Feast of Unleavened Bread  D) Passover Week
+A) Passover Week  B) Purim  C) Feast of Dedication  D) Feast of Tabernacles
 
 **13.** Around what Jewish feast did **Luke 2:41-52 — "My Father's business"** occur?
-A) Feast of Weeks  B) Passover  C) Feast of Tabernacles  D) Pentecost
+A) Passover  B) Purim  C) Day of Atonement  D) Feast of Weeks
 
 **14.** **Luke 2:41-52** carries which feast tag?
-A) Pentecost  B) Passover  C) Feast of Tabernacles  D) Feast of Trumpets
+A) Feast of Unleavened Bread  B) Feast of Weeks  C) Passover  D) Feast of Dedication
 
 **15.** Around what Jewish feast did **John 17:1-17 — "Kept in the Father's name"** occur?
-A) Feast of Unleavened Bread  B) Passover  C) Day of Atonement  D) Feast of Weeks
+A) Passover  B) Day of Atonement  C) Feast of Trumpets  D) Tabernacles imagery
 
 **16.** **John 17:1-17** carries which feast tag?
-A) Passover  B) Feast of Weeks  C) Day of Atonement  D) Pentecost
+A) Passover  B) Day of Atonement  C) Purim  D) Tabernacles imagery
 
 **17.** Around what Jewish feast did **Revelation 7:9-16 — "Hunger and thirst filled"** occur?
-A) Tabernacles imagery  B) Day of Atonement  C) Passover Week  D) Pentecost
+A) Purim  B) Feast of Weeks  C) Tabernacles imagery  D) Day of Atonement
 
 **18.** **Revelation 7:9-16** carries which feast tag?
-A) Feast of Trumpets  B) Pentecost  C) Tabernacles imagery  D) Feast of Unleavened Bread
+A) Feast of Dedication  B) Passover  C) Tabernacles imagery  D) Purim
 
 **19.** Which passage carries the feast tag **Feast of Tabernacles**?
-A) 1 Kings 8:22-28  B) 1 Kings 18:36-39  C) 1 Kings 3:3-10  D) 1 Kings 12:6-8
+A) 1 Kings 8:22-28  B) 1 Kings 3:3-10  C) 1 Kings 12:6-8  D) 1 Kings 18:36-39
 
 **20.** Which passage carries the feast tag **Feast of Tabernacles**?
-A) Haggai 2:2-9  B) Malachi 3:10  C) Matthew 6:6  D) Haggai 1:3-11
+A) Matthew 6:6  B) Malachi 3:10  C) Haggai 1:3-11  D) Haggai 2:2-9
 
-**21.** Which passage does **NOT** carry the feast tag **Feast of Tabernacles**?
-A) 1 Kings 3:3-10  B) 1 Kings 12:6-8  C) Haggai 2:2-9  D) 1 Kings 8:22-28
+**21.** Which passage carries the feast tag **Feast of Trumpets**?
+A) 1 Chronicles 11:4-9  B) Nehemiah 8:5-12  C) Nehemiah 4:6-16  D) Job 5:17-27
 
-**22.** Which passage carries the feast tag **Feast of Trumpets**?
-A) Nehemiah 4:6-16  B) 1 Chronicles 11:4-9  C) Nehemiah 8:5-12  D) Job 5:17-27
+**22.** Which passage carries the feast tag **Passover**?
+A) Luke 6:35-43  B) Luke 6:20-31  C) Luke 2:41-52  D) Luke 3:7-14
 
 **23.** Which passage carries the feast tag **Passover**?
-A) Luke 3:7-14  B) Luke 6:35-43  C) Luke 2:41-52  D) Luke 6:20-31
+A) John 21:12-22  B) John 17:1-17  C) John 1:1-18  D) Acts 7:49
 
-**24.** Which passage carries the feast tag **Passover**?
-A) John 17:1-17  B) John 21:12-22  C) John 1:1-18  D) Acts 7:49
+**24.** Which passage carries the feast tag **Passover Week**?
+A) Mark 7:17-28  B) Matthew 7:11-12  C) Matthew 23:13-22  D) Matthew 6:6
 
-**25.** Which passage does **NOT** carry the feast tag **Passover**?
-A) Luke 6:20-31  B) John 17:1-17  C) Luke 2:41-52  D) Luke 3:7-14
+**25.** Which passage carries the feast tag **Passover Week**?
+A) Mark 7:17-28  B) Matthew 23:25-28  C) Matthew 7:11-12  D) Matthew 6:6
 
-**26.** Which passage carries the feast tag **Passover Week**?
-A) Matthew 6:6  B) Matthew 23:13-22  C) Matthew 7:11-12  D) Mark 7:17-28
+**26.** Which passage carries the feast tag **Purim**?
+A) Esther 10:1-3  B) Job 9:1-13  C) Nehemiah 4:6-16  D) Job 5:17-27
 
-**27.** Which passage carries the feast tag **Passover Week**?
-A) Mark 7:17-28  B) Matthew 6:6  C) Matthew 23:25-28  D) Matthew 7:11-12
+**27.** Which passage carries the feast tag **Tabernacles imagery**?
+A) 1 Peter 2:9-12  B) Revelation 7:9-16  C) 1 Peter 2:15-25  D) 1 Peter 5:1-11
 
-**28.** Which passage does **NOT** carry the feast tag **Passover Week**?
-A) Matthew 23:25-28  B) Matthew 7:11-12  C) Matthew 23:13-22  D) Matthew 6:6
+**28.** Which of these passages is **NOT** tagged Passover or Passover Week?
+A) John 17:1-17  B) Matthew 23:13-22  C) Luke 2:41-52  D) 1 Kings 8:22-28
 
-**29.** Which passage carries the feast tag **Purim**?
-A) Nehemiah 4:6-16  B) Job 5:17-27  C) Esther 10:1-3  D) Job 9:1-13
+**29.** Which of these passages is **NOT** tagged Passover or Passover Week?
+A) Nehemiah 8:5-12  B) Matthew 23:25-28  C) Matthew 23:13-22  D) John 17:1-17
 
-**30.** Which passage carries the feast tag **Tabernacles imagery**?
-A) 1 Peter 2:9-12  B) Revelation 7:9-16  C) 1 Peter 5:1-11  D) 1 Peter 2:15-25
+**30.** Which of these passages is **NOT** tagged Passover or Passover Week?
+A) Esther 10:1-3  B) Matthew 23:25-28  C) Luke 2:41-52  D) Matthew 23:13-22
 
 **31.** Which of these passages is **NOT** tagged Passover or Passover Week?
-A) Luke 2:41-52  B) 1 Kings 8:22-28  C) John 17:1-17  D) Matthew 23:25-28
+A) Haggai 2:2-9  B) Matthew 23:13-22  C) Luke 2:41-52  D) John 17:1-17
 
 **32.** Which of these passages is **NOT** tagged Passover or Passover Week?
-A) John 17:1-17  B) Matthew 23:13-22  C) Luke 2:41-52  D) Nehemiah 8:5-12
+A) Matthew 23:13-22  B) John 17:1-17  C) Luke 2:41-52  D) Revelation 7:9-16
 
-**33.** Which of these passages is **NOT** tagged Passover or Passover Week?
-A) Esther 10:1-3  B) Matthew 23:25-28  C) Matthew 23:13-22  D) John 17:1-17
+**33.** Which of these passages carries **no** feast tag at all?
+A) 1 Kings 12:6-8  B) Luke 2:41-52  C) Nehemiah 8:5-12  D) Matthew 23:13-22
 
-**34.** Which of these passages is **NOT** tagged Passover or Passover Week?
-A) Haggai 2:2-9  B) Matthew 23:25-28  C) Luke 2:41-52  D) Matthew 23:13-22
+**34.** Which of these passages carries **no** feast tag at all?
+A) Nehemiah 8:5-12  B) 1 Kings 8:22-28  C) Esther 10:1-3  D) 1 Kings 3:3-10
 
-**35.** Which of these passages is **NOT** tagged Passover or Passover Week?
-A) Revelation 7:9-16  B) Matthew 23:13-22  C) Luke 2:41-52  D) John 17:1-17
+**35.** Which of these passages carries **no** feast tag at all?
+A) Matthew 23:13-22  B) Nehemiah 8:5-12  C) Matthew 23:25-28  D) 1 Kings 18:36-39
 
 **36.** Which of these passages carries **no** feast tag at all?
-A) 1 Kings 8:22-28  B) Haggai 2:2-9  C) Nehemiah 8:5-12  D) 1 Kings 12:6-8
+A) 1 Kings 8:22-28  B) Matthew 23:13-22  C) Luke 2:41-52  D) 2 Samuel 22:1-4
 
 **37.** Which of these passages carries **no** feast tag at all?
-A) 1 Kings 3:3-10  B) Luke 2:41-52  C) Nehemiah 8:5-12  D) Matthew 23:13-22
+A) Revelation 7:9-16  B) John 17:1-17  C) 1 Chronicles 11:4-9  D) Matthew 23:13-22
 
 **38.** Which of these passages carries **no** feast tag at all?
-A) Nehemiah 8:5-12  B) 1 Kings 8:22-28  C) Esther 10:1-3  D) 1 Kings 18:36-39
+A) 1 Kings 8:22-28  B) 1 Samuel 25:32-33  C) Nehemiah 8:5-12  D) Matthew 23:25-28
 
-**39.** Which of these passages carries **no** feast tag at all?
-A) Matthew 23:13-22  B) Nehemiah 8:5-12  C) Matthew 23:25-28  D) 2 Samuel 22:1-4
+**39.** How many of the 109 passages carry a feast tag?
+A) 14  B) 11  C) 6  D) 9
 
-**40.** Which of these passages carries **no** feast tag at all?
-A) 1 Kings 8:22-28  B) Matthew 23:13-22  C) Luke 2:41-52  D) 1 Chronicles 11:4-9
+**40.** Which feast tag is carried by two passages, 1 Kings 8:22-28 and Haggai 2:2-9?
+A) Feast of Tabernacles  B) Passover  C) Purim  D) Feast of Trumpets
 
-**41.** Which of these passages carries **no** feast tag at all?
-A) Revelation 7:9-16  B) John 17:1-17  C) 1 Samuel 25:32-33  D) Matthew 23:13-22
-
-**42.** How many of the 109 passages carry a feast tag?
-A) 6  B) 14  C) 9  D) 11
-
-**43.** Which feast tag is carried by two passages, 1 Kings 8:22-28 and Haggai 2:2-9?
-A) Purim  B) Feast of Tabernacles  C) Feast of Trumpets  D) Passover
-
-**Answer key — SET 8:** 1‑C, 2‑A, 3‑D, 4‑D, 5‑D, 6‑D, 7‑A, 8‑B, 9‑A, 10‑A, 11‑C, 12‑D, 13‑B, 14‑B, 15‑B, 16‑A, 17‑A, 18‑C, 19‑A, 20‑A, 21‑B, 22‑C, 23‑C, 24‑A, 25‑D, 26‑B, 27‑C, 28‑B, 29‑C, 30‑B, 31‑B, 32‑D, 33‑A, 34‑A, 35‑A, 36‑D, 37‑A, 38‑D, 39‑D, 40‑D, 41‑C, 42‑C, 43‑B
+**Answer key — SET 8:** 1‑D, 2‑B, 3‑C, 4‑C, 5‑A, 6‑C, 7‑A, 8‑C, 9‑C, 10‑A, 11‑C, 12‑A, 13‑A, 14‑C, 15‑A, 16‑A, 17‑C, 18‑C, 19‑A, 20‑D, 21‑B, 22‑C, 23‑B, 24‑C, 25‑B, 26‑A, 27‑B, 28‑D, 29‑A, 30‑A, 31‑A, 32‑D, 33‑A, 34‑D, 35‑D, 36‑D, 37‑C, 38‑B, 39‑D, 40‑A
 
 ---
 
@@ -1183,462 +1165,462 @@ A) Purim  B) Feast of Tabernacles  C) Feast of Trumpets  D) Passover
 *All 152 words that occur in only one of the 109 passages.*
 
 **1.** Which passage contains the only occurrence of the word **Abiezrite**?
-A) 2 Samuel 22:1-4  B) Joshua 23:3-14  C) 1 Samuel 25:32-33  D) Judges 6:11-14
+A) 1 Samuel 25:32-33  B) 2 Samuel 22:1-4  C) Joshua 23:3-14  D) Judges 6:11-14
 
 **2.** Which passage contains the only occurrence of the word **Abigail**?
-A) 1 Samuel 25:32-33  B) 2 Samuel 22:1-4  C) Judges 6:11-14  D) 1 Kings 3:3-10
+A) 2 Samuel 22:1-4  B) 1 Kings 3:3-10  C) 1 Samuel 25:32-33  D) Judges 6:11-14
 
 **3.** Which passage contains the only occurrence of the word **Achaia**?
-A) 2 Corinthians 8:1-17  B) 1 Corinthians 15:32-33  C) Galatians 2:15-21  D) 2 Corinthians 9:1-13
+A) 2 Corinthians 8:1-17  B) 2 Corinthians 9:1-13  C) 1 Corinthians 15:32-33  D) Galatians 2:15-21
 
 **4.** Which passage contains the only occurrence of the word **Ahasuerus**?
-A) Job 5:17-27  B) Job 9:1-13  C) Esther 10:1-3  D) Nehemiah 8:5-12
+A) Nehemiah 8:5-12  B) Job 5:17-27  C) Esther 10:1-3  D) Job 9:1-13
 
 **5.** Which passage contains the only occurrence of the word **Akkub**?
 A) Nehemiah 4:6-16  B) Nehemiah 8:5-12  C) 1 Chronicles 11:4-9  D) Esther 10:1-3
 
 **6.** Which passage contains the only occurrence of the word **Ammonites**?
-A) 1 Chronicles 11:4-9  B) Nehemiah 8:5-12  C) Nehemiah 4:6-16  D) 1 Kings 18:36-39
-
-**7.** Which passage contains the only occurrence of the word **Amorites**?
-A) Joshua 17:3-4  B) Joshua 2:8-11  C) Deuteronomy 5:23-33  D) Joshua 23:3-14
-
-**8.** Which passage contains the only occurrence of the word **Arabs**?
 A) 1 Chronicles 11:4-9  B) 1 Kings 18:36-39  C) Nehemiah 8:5-12  D) Nehemiah 4:6-16
 
+**7.** Which passage contains the only occurrence of the word **Amorites**?
+A) Joshua 2:8-11  B) Joshua 23:3-14  C) Joshua 17:3-4  D) Deuteronomy 5:23-33
+
+**8.** Which passage contains the only occurrence of the word **Arabs**?
+A) Nehemiah 4:6-16  B) 1 Kings 18:36-39  C) 1 Chronicles 11:4-9  D) Nehemiah 8:5-12
+
 **9.** Which passage contains the only occurrence of the word **armor**?
-A) Nehemiah 4:6-16  B) 1 Chronicles 11:4-9  C) Nehemiah 8:5-12  D) 1 Kings 18:36-39
+A) Nehemiah 8:5-12  B) Nehemiah 4:6-16  C) 1 Chronicles 11:4-9  D) 1 Kings 18:36-39
 
 **10.** Which passage contains the only occurrence of the word **Ashdodites**?
-A) Nehemiah 4:6-16  B) 1 Kings 18:36-39  C) 1 Chronicles 11:4-9  D) Nehemiah 8:5-12
+A) 1 Chronicles 11:4-9  B) Nehemiah 4:6-16  C) 1 Kings 18:36-39  D) Nehemiah 8:5-12
 
 **11.** Which passage contains the only occurrence of the word **ashes**?
 A) Job 28:3-28  B) Job 42:1-9  C) Job 42:10-15  D) Job 9:1-13
 
 **12.** Which passage contains the only occurrence of the word **Azariah**?
-A) Esther 10:1-3  B) Nehemiah 8:5-12  C) 1 Chronicles 11:4-9  D) Nehemiah 4:6-16
+A) Nehemiah 8:5-12  B) Nehemiah 4:6-16  C) Esther 10:1-3  D) 1 Chronicles 11:4-9
 
 **13.** Which passage contains the only occurrence of the word **Bani**?
-A) Nehemiah 4:6-16  B) Nehemiah 8:5-12  C) Esther 10:1-3  D) 1 Chronicles 11:4-9
+A) Nehemiah 8:5-12  B) Nehemiah 4:6-16  C) Esther 10:1-3  D) 1 Chronicles 11:4-9
 
 **14.** Which passage contains the only occurrence of the word **Baptist**?
-A) Luke 9:19-28  B) Luke 17:1-4  C) Luke 6:35-43  D) Luke 18:9-17
+A) Luke 18:9-17  B) Luke 9:19-28  C) Luke 6:35-43  D) Luke 17:1-4
 
 **15.** Which passage contains the only occurrence of the word **Barak**?
-A) Hebrews 11:31-40  B) Hebrews 11:24-26  C) Hebrews 11:13-16  D) James 1:2-4
+A) James 1:2-4  B) Hebrews 11:31-40  C) Hebrews 11:24-26  D) Hebrews 11:13-16
 
 **16.** Which passage contains the only occurrence of the word **beloved**?
 A) James 5:7-11  B) 1 Peter 2:9-12  C) 1 Peter 5:1-11  D) 1 Peter 2:15-25
 
 **17.** Which passage contains the only occurrence of the word **Bethel**?
-A) Exodus 33:12-19  B) Genesis 31:13  C) Genesis 50:16-20  D) Exodus 4:4-5
+A) Genesis 31:13  B) Exodus 33:12-19  C) Exodus 4:4-5  D) Genesis 50:16-20
 
 **18.** Which passage contains the only occurrence of the word **Bildad**?
-A) Job 9:1-13  B) Job 42:1-9  C) Job 42:10-15  D) Job 28:3-28
+A) Job 42:1-9  B) Job 28:3-28  C) Job 9:1-13  D) Job 42:10-15
 
 **19.** Which passage contains the only occurrence of the word **builder**?
-A) 1 Corinthians 3:10-14  B) Romans 14:4-19  C) 1 Corinthians 15:32-33  D) 1 Corinthians 6:1-10
+A) 1 Corinthians 6:1-10  B) 1 Corinthians 15:32-33  C) Romans 14:4-19  D) 1 Corinthians 3:10-14
 
 **20.** Which passage contains the only occurrence of the word **bull**?
-A) Job 42:1-9  B) Job 28:3-28  C) Job 9:1-13  D) Job 42:10-15
+A) Job 42:1-9  B) Job 42:10-15  C) Job 28:3-28  D) Job 9:1-13
 
 **21.** Which passage contains the only occurrence of the word **camel**?
-A) Job 42:1-9  B) Job 28:3-28  C) Job 9:1-13  D) Job 42:10-15
+A) Job 42:1-9  B) Job 28:3-28  C) Job 42:10-15  D) Job 9:1-13
 
 **22.** Which passage contains the only occurrence of the word **cloud**?
-A) Psalm 18:2-12  B) Psalm 51:9-12  C) Psalm 37:10-11  D) Psalm 94:8-15
+A) Psalm 94:8-15  B) Psalm 37:10-11  C) Psalm 18:2-12  D) Psalm 51:9-12
 
 **23.** Which passage contains the only occurrence of the word **crown**?
-A) 1 Peter 2:15-25  B) 1 Peter 2:9-12  C) 1 Peter 5:1-11  D) Revelation 7:9-16
+A) 1 Peter 2:9-12  B) Revelation 7:9-16  C) 1 Peter 2:15-25  D) 1 Peter 5:1-11
 
 **24.** Which passage contains the only occurrence of the word **cup**?
-A) Matthew 6:6  B) Matthew 23:13-22  C) Matthew 23:25-28  D) Matthew 7:11-12
-
-**25.** Which passage contains the only occurrence of the word **dew**?
-A) Zephaniah 3:13-20  B) Hosea 10:12  C) Haggai 2:2-9  D) Haggai 1:3-11
-
-**26.** Which passage contains the only occurrence of the word **dish**?
 A) Matthew 23:13-22  B) Matthew 6:6  C) Matthew 7:11-12  D) Matthew 23:25-28
 
+**25.** Which passage contains the only occurrence of the word **dew**?
+A) Haggai 2:2-9  B) Hosea 10:12  C) Zephaniah 3:13-20  D) Haggai 1:3-11
+
+**26.** Which passage contains the only occurrence of the word **dish**?
+A) Matthew 7:11-12  B) Matthew 23:25-28  C) Matthew 6:6  D) Matthew 23:13-22
+
 **27.** Which passage contains the only occurrence of the word **dog**?
-A) Mark 8:31-38  B) Matthew 23:25-28  C) Mark 9:42-50  D) Mark 7:17-28
+A) Matthew 23:25-28  B) Mark 8:31-38  C) Mark 7:17-28  D) Mark 9:42-50
 
 **28.** Which passage contains the only occurrence of the word **donkey**?
-A) Job 28:3-28  B) Job 42:10-15  C) Job 9:1-13  D) Job 42:1-9
+A) Job 9:1-13  B) Job 42:10-15  C) Job 42:1-9  D) Job 28:3-28
 
 **29.** Which passage contains the only occurrence of the word **Eleazar**?
-A) Deuteronomy 5:23-33  B) Joshua 23:3-14  C) Joshua 17:3-4  D) Joshua 2:8-11
+A) Joshua 23:3-14  B) Deuteronomy 5:23-33  C) Joshua 17:3-4  D) Joshua 2:8-11
 
 **30.** Which passage contains the only occurrence of the word **Eliphaz**?
-A) Job 9:1-13  B) Job 42:1-9  C) Job 28:3-28  D) Job 42:10-15
+A) Job 42:10-15  B) Job 42:1-9  C) Job 28:3-28  D) Job 9:1-13
 
 **31.** Which passage contains the only occurrence of the word **Ephesus**?
-A) 1 Corinthians 6:1-10  B) 2 Corinthians 8:1-17  C) 1 Corinthians 15:32-33  D) 1 Corinthians 3:10-14
+A) 1 Corinthians 15:32-33  B) 2 Corinthians 8:1-17  C) 1 Corinthians 3:10-14  D) 1 Corinthians 6:1-10
 
 **32.** Which passage contains the only occurrence of the word **Ethiopia**?
-A) Job 9:1-13  B) Job 28:3-28  C) Job 42:1-9  D) Job 42:10-15
+A) Job 42:1-9  B) Job 28:3-28  C) Job 42:10-15  D) Job 9:1-13
 
 **33.** Which passage contains the only occurrence of the word **Ezra**?
-A) Nehemiah 8:5-12  B) 1 Chronicles 11:4-9  C) Esther 10:1-3  D) Nehemiah 4:6-16
+A) Esther 10:1-3  B) Nehemiah 4:6-16  C) 1 Chronicles 11:4-9  D) Nehemiah 8:5-12
 
 **34.** Which passage contains the only occurrence of the word **faithful**?
-A) Luke 18:9-17  B) Luke 19:15-17  C) Luke 9:19-28  D) Luke 17:1-4
+A) Luke 9:19-28  B) Luke 17:1-4  C) Luke 18:9-17  D) Luke 19:15-17
 
 **35.** Which passage contains the only occurrence of the word **farmer**?
-A) James 4:7-10  B) James 4:13-17  C) James 3:7-13  D) James 5:7-11
+A) James 3:7-13  B) James 4:7-10  C) James 5:7-11  D) James 4:13-17
 
 **36.** Which passage contains the only occurrence of the word **feast**?
-A) Luke 6:35-43  B) Luke 6:20-31  C) Luke 3:7-14  D) Luke 2:41-52
+A) Luke 3:7-14  B) Luke 2:41-52  C) Luke 6:20-31  D) Luke 6:35-43
 
 **37.** Which passage contains the only occurrence of the word **fig**?
-A) James 2:8-10  B) James 4:7-10  C) James 3:7-13  D) James 2:15-18
+A) James 4:7-10  B) James 2:8-10  C) James 3:7-13  D) James 2:15-18
 
 **38.** Which passage contains the only occurrence of the word **fish**?
-A) John 17:1-17  B) John 21:12-22  C) John 1:1-18  D) Acts 7:49
+A) Acts 7:49  B) John 17:1-17  C) John 21:12-22  D) John 1:1-18
 
 **39.** Which passage contains the only occurrence of the word **fruitful**?
-A) Deuteronomy 5:23-33  B) Exodus 33:12-19  C) Leviticus 26:1-10  D) Leviticus 24:17-22
+A) Exodus 33:12-19  B) Leviticus 24:17-22  C) Leviticus 26:1-10  D) Deuteronomy 5:23-33
 
 **40.** Which passage contains the only occurrence of the word **Galilee**?
-A) John 21:12-22  B) Acts 7:49  C) Acts 10:34-43  D) Romans 1:13-17
+A) Acts 10:34-43  B) Romans 1:13-17  C) John 21:12-22  D) Acts 7:49
 
 **41.** Which passage contains the only occurrence of the word **gather**?
-A) Haggai 2:2-9  B) Haggai 1:3-11  C) Zephaniah 3:13-20  D) Hosea 10:12
+A) Hosea 10:12  B) Haggai 2:2-9  C) Zephaniah 3:13-20  D) Haggai 1:3-11
 
 **42.** Which passage contains the only occurrence of the word **Gibeon**?
-A) 1 Kings 3:3-10  B) 1 Kings 12:6-8  C) 1 Kings 18:36-39  D) 1 Kings 8:22-28
-
-**43.** Which passage contains the only occurrence of the word **Gilead**?
-A) Joshua 2:8-11  B) Deuteronomy 5:23-33  C) Joshua 17:3-4  D) Joshua 23:3-14
-
-**44.** Which passage contains the only occurrence of the word **grave**?
-A) Job 28:3-28  B) Job 42:1-9  C) Job 9:1-13  D) Job 5:17-27
-
-**45.** Which passage contains the only occurrence of the word **Haggai**?
-A) Hosea 10:12  B) Haggai 1:3-11  C) Haggai 2:2-9  D) Zephaniah 3:13-20
-
-**46.** Which passage contains the only occurrence of the word **Hanan**?
-A) Esther 10:1-3  B) Nehemiah 8:5-12  C) Nehemiah 4:6-16  D) 1 Chronicles 11:4-9
-
-**47.** Which passage contains the only occurrence of the word **harvest**?
-A) Leviticus 24:17-22  B) Exodus 33:12-19  C) Leviticus 26:1-10  D) Deuteronomy 5:23-33
-
-**48.** Which passage contains the only occurrence of the word **hay**?
-A) 1 Corinthians 6:1-10  B) 1 Corinthians 15:32-33  C) 1 Corinthians 3:10-14  D) Romans 14:4-19
-
-**49.** Which passage contains the only occurrence of the word **Hepher**?
-A) Joshua 23:3-14  B) Joshua 2:8-11  C) Deuteronomy 5:23-33  D) Joshua 17:3-4
-
-**50.** Which passage contains the only occurrence of the word **Hodijah**?
-A) Nehemiah 4:6-16  B) Esther 10:1-3  C) 1 Chronicles 11:4-9  D) Nehemiah 8:5-12
-
-**51.** Which passage contains the only occurrence of the word **Hoglah**?
-A) Joshua 23:3-14  B) Joshua 2:8-11  C) Joshua 17:3-4  D) Deuteronomy 5:23-33
-
-**52.** Which passage contains the only occurrence of the word **humility**?
-A) Revelation 7:9-16  B) 1 Peter 2:15-25  C) 1 Peter 5:1-11  D) 1 Peter 2:9-12
-
-**53.** Which passage contains the only occurrence of the word **hypocrisy**?
-A) Matthew 6:6  B) Matthew 23:25-28  C) Matthew 23:13-22  D) Matthew 7:11-12
-
-**54.** Which passage contains the only occurrence of the word **incense**?
 A) 1 Kings 12:6-8  B) 1 Kings 18:36-39  C) 1 Kings 8:22-28  D) 1 Kings 3:3-10
 
+**43.** Which passage contains the only occurrence of the word **Gilead**?
+A) Deuteronomy 5:23-33  B) Joshua 17:3-4  C) Joshua 23:3-14  D) Joshua 2:8-11
+
+**44.** Which passage contains the only occurrence of the word **grave**?
+A) Job 28:3-28  B) Job 5:17-27  C) Job 9:1-13  D) Job 42:1-9
+
+**45.** Which passage contains the only occurrence of the word **Haggai**?
+A) Haggai 2:2-9  B) Hosea 10:12  C) Haggai 1:3-11  D) Zephaniah 3:13-20
+
+**46.** Which passage contains the only occurrence of the word **Hanan**?
+A) Nehemiah 4:6-16  B) Esther 10:1-3  C) Nehemiah 8:5-12  D) 1 Chronicles 11:4-9
+
+**47.** Which passage contains the only occurrence of the word **harvest**?
+A) Leviticus 24:17-22  B) Deuteronomy 5:23-33  C) Exodus 33:12-19  D) Leviticus 26:1-10
+
+**48.** Which passage contains the only occurrence of the word **hay**?
+A) 1 Corinthians 6:1-10  B) 1 Corinthians 15:32-33  C) Romans 14:4-19  D) 1 Corinthians 3:10-14
+
+**49.** Which passage contains the only occurrence of the word **Hepher**?
+A) Joshua 23:3-14  B) Joshua 2:8-11  C) Joshua 17:3-4  D) Deuteronomy 5:23-33
+
+**50.** Which passage contains the only occurrence of the word **Hodijah**?
+A) 1 Chronicles 11:4-9  B) Nehemiah 4:6-16  C) Nehemiah 8:5-12  D) Esther 10:1-3
+
+**51.** Which passage contains the only occurrence of the word **Hoglah**?
+A) Deuteronomy 5:23-33  B) Joshua 17:3-4  C) Joshua 23:3-14  D) Joshua 2:8-11
+
+**52.** Which passage contains the only occurrence of the word **humility**?
+A) 1 Peter 2:9-12  B) Revelation 7:9-16  C) 1 Peter 2:15-25  D) 1 Peter 5:1-11
+
+**53.** Which passage contains the only occurrence of the word **hypocrisy**?
+A) Matthew 23:25-28  B) Matthew 23:13-22  C) Matthew 7:11-12  D) Matthew 6:6
+
+**54.** Which passage contains the only occurrence of the word **incense**?
+A) 1 Kings 18:36-39  B) 1 Kings 12:6-8  C) 1 Kings 8:22-28  D) 1 Kings 3:3-10
+
 **55.** Which passage contains the only occurrence of the word **Jacob**?
-A) Exodus 4:4-5  B) Exodus 33:12-19  C) Genesis 50:16-20  D) Genesis 31:13
+A) Genesis 50:16-20  B) Genesis 31:13  C) Exodus 33:12-19  D) Exodus 4:4-5
 
 **56.** Which passage contains the only occurrence of the word **James**?
-A) Luke 18:9-17  B) Luke 6:35-43  C) Luke 17:1-4  D) Luke 9:19-28
+A) Luke 9:19-28  B) Luke 17:1-4  C) Luke 6:35-43  D) Luke 18:9-17
 
 **57.** Which passage contains the only occurrence of the word **Jamin**?
-A) Esther 10:1-3  B) 1 Chronicles 11:4-9  C) Nehemiah 4:6-16  D) Nehemiah 8:5-12
+A) Nehemiah 4:6-16  B) Nehemiah 8:5-12  C) Esther 10:1-3  D) 1 Chronicles 11:4-9
 
 **58.** Which passage contains the only occurrence of the word **Jebus**?
-A) 1 Chronicles 11:4-9  B) 1 Kings 18:36-39  C) Nehemiah 4:6-16  D) 1 Kings 12:6-8
+A) 1 Kings 18:36-39  B) Nehemiah 4:6-16  C) 1 Kings 12:6-8  D) 1 Chronicles 11:4-9
 
 **59.** Which passage contains the only occurrence of the word **Jebusites**?
-A) 1 Kings 18:36-39  B) 1 Chronicles 11:4-9  C) Nehemiah 4:6-16  D) 1 Kings 12:6-8
+A) 1 Kings 12:6-8  B) 1 Chronicles 11:4-9  C) Nehemiah 4:6-16  D) 1 Kings 18:36-39
 
 **60.** Which passage contains the only occurrence of the word **Jehozadak**?
-A) Haggai 1:3-11  B) Malachi 3:10  C) Matthew 6:6  D) Haggai 2:2-9
+A) Malachi 3:10  B) Matthew 6:6  C) Haggai 1:3-11  D) Haggai 2:2-9
 
 **61.** Which passage contains the only occurrence of the word **Jemimah**?
-A) Job 9:1-13  B) Job 42:10-15  C) Job 28:3-28  D) Job 42:1-9
+A) Job 28:3-28  B) Job 42:10-15  C) Job 9:1-13  D) Job 42:1-9
 
 **62.** Which passage contains the only occurrence of the word **Jephthah**?
-A) Hebrews 11:13-16  B) James 1:2-4  C) Hebrews 11:24-26  D) Hebrews 11:31-40
+A) Hebrews 11:31-40  B) Hebrews 11:13-16  C) James 1:2-4  D) Hebrews 11:24-26
 
 **63.** Which passage contains the only occurrence of the word **Jeremiah**?
-A) Jeremiah 20:7-13  B) Jeremiah 1:4-12  C) Isaiah 66:8  D) Jeremiah 17:7-8
+A) Isaiah 66:8  B) Jeremiah 17:7-8  C) Jeremiah 20:7-13  D) Jeremiah 1:4-12
 
 **64.** Which passage contains the only occurrence of the word **Jeshua**?
-A) Nehemiah 8:5-12  B) Esther 10:1-3  C) 1 Chronicles 11:4-9  D) Nehemiah 4:6-16
+A) 1 Chronicles 11:4-9  B) Esther 10:1-3  C) Nehemiah 8:5-12  D) Nehemiah 4:6-16
 
 **65.** Which passage contains the only occurrence of the word **Joab**?
-A) 1 Kings 12:6-8  B) 1 Kings 18:36-39  C) Nehemiah 4:6-16  D) 1 Chronicles 11:4-9
+A) 1 Kings 18:36-39  B) Nehemiah 4:6-16  C) 1 Kings 12:6-8  D) 1 Chronicles 11:4-9
 
 **66.** Which passage contains the only occurrence of the word **Joash**?
-A) 2 Samuel 22:1-4  B) Joshua 23:3-14  C) Judges 6:11-14  D) 1 Samuel 25:32-33
+A) 1 Samuel 25:32-33  B) 2 Samuel 22:1-4  C) Joshua 23:3-14  D) Judges 6:11-14
 
 **67.** Which passage contains the only occurrence of the word **Jonah**?
-A) John 17:1-17  B) John 1:1-18  C) Acts 7:49  D) John 21:12-22
+A) John 21:12-22  B) John 1:1-18  C) John 17:1-17  D) Acts 7:49
 
 **68.** Which passage contains the only occurrence of the word **Jozabad**?
-A) Nehemiah 4:6-16  B) 1 Chronicles 11:4-9  C) Esther 10:1-3  D) Nehemiah 8:5-12
-
-**69.** Which passage contains the only occurrence of the word **Judea**?
-A) Acts 10:34-43  B) Romans 1:13-17  C) Acts 7:49  D) John 21:12-22
-
-**70.** Which passage contains the only occurrence of the word **Kelita**?
 A) Nehemiah 8:5-12  B) Nehemiah 4:6-16  C) Esther 10:1-3  D) 1 Chronicles 11:4-9
 
+**69.** Which passage contains the only occurrence of the word **Judea**?
+A) John 21:12-22  B) Acts 7:49  C) Romans 1:13-17  D) Acts 10:34-43
+
+**70.** Which passage contains the only occurrence of the word **Kelita**?
+A) Nehemiah 4:6-16  B) Esther 10:1-3  C) Nehemiah 8:5-12  D) 1 Chronicles 11:4-9
+
 **71.** Which passage contains the only occurrence of the word **Keren-Happuch**?
-A) Job 9:1-13  B) Job 42:1-9  C) Job 28:3-28  D) Job 42:10-15
+A) Job 42:1-9  B) Job 42:10-15  C) Job 9:1-13  D) Job 28:3-28
 
 **72.** Which passage contains the only occurrence of the word **Levites**?
-A) Nehemiah 4:6-16  B) Esther 10:1-3  C) Nehemiah 8:5-12  D) 1 Chronicles 11:4-9
+A) Nehemiah 4:6-16  B) Nehemiah 8:5-12  C) Esther 10:1-3  D) 1 Chronicles 11:4-9
 
 **73.** Which passage contains the only occurrence of the word **lips**?
 A) Proverbs 15:19-23  B) Proverbs 23:15-26  C) Proverbs 8:10-11  D) Proverbs 28:25-26
 
 **74.** Which passage contains the only occurrence of the word **Maaseiah**?
-A) Nehemiah 4:6-16  B) Nehemiah 8:5-12  C) Esther 10:1-3  D) 1 Chronicles 11:4-9
+A) 1 Chronicles 11:4-9  B) Nehemiah 8:5-12  C) Esther 10:1-3  D) Nehemiah 4:6-16
 
 **75.** Which passage contains the only occurrence of the word **Macedonia**?
-A) 2 Corinthians 9:1-13  B) 2 Corinthians 8:1-17  C) 1 Corinthians 6:1-10  D) 1 Corinthians 15:32-33
+A) 2 Corinthians 9:1-13  B) 1 Corinthians 15:32-33  C) 2 Corinthians 8:1-17  D) 1 Corinthians 6:1-10
 
 **76.** Which passage contains the only occurrence of the word **Macedonians**?
-A) 1 Corinthians 15:32-33  B) 2 Corinthians 9:1-13  C) Galatians 2:15-21  D) 2 Corinthians 8:1-17
+A) 2 Corinthians 8:1-17  B) 1 Corinthians 15:32-33  C) Galatians 2:15-21  D) 2 Corinthians 9:1-13
 
 **77.** Which passage contains the only occurrence of the word **Machir**?
-A) Joshua 23:3-14  B) Joshua 2:8-11  C) Joshua 17:3-4  D) Deuteronomy 5:23-33
+A) Joshua 23:3-14  B) Deuteronomy 5:23-33  C) Joshua 2:8-11  D) Joshua 17:3-4
 
 **78.** Which passage contains the only occurrence of the word **Mahlah**?
-A) Joshua 23:3-14  B) Deuteronomy 5:23-33  C) Joshua 2:8-11  D) Joshua 17:3-4
+A) Joshua 17:3-4  B) Joshua 2:8-11  C) Deuteronomy 5:23-33  D) Joshua 23:3-14
 
 **79.** Which passage contains the only occurrence of the word **Manasseh**?
-A) Joshua 23:3-14  B) Deuteronomy 5:23-33  C) Joshua 2:8-11  D) Joshua 17:3-4
+A) Joshua 2:8-11  B) Joshua 23:3-14  C) Joshua 17:3-4  D) Deuteronomy 5:23-33
 
 **80.** Which passage contains the only occurrence of the word **Media**?
-A) Esther 10:1-3  B) Nehemiah 8:5-12  C) Job 9:1-13  D) Job 5:17-27
+A) Job 5:17-27  B) Job 9:1-13  C) Esther 10:1-3  D) Nehemiah 8:5-12
 
 **81.** Which passage contains the only occurrence of the word **Midianites**?
-A) Joshua 23:3-14  B) 1 Samuel 25:32-33  C) Judges 6:11-14  D) 2 Samuel 22:1-4
+A) 1 Samuel 25:32-33  B) 2 Samuel 22:1-4  C) Joshua 23:3-14  D) Judges 6:11-14
 
 **82.** Which passage contains the only occurrence of the word **Milcah**?
-A) Joshua 23:3-14  B) Deuteronomy 5:23-33  C) Joshua 17:3-4  D) Joshua 2:8-11
+A) Joshua 23:3-14  B) Joshua 2:8-11  C) Joshua 17:3-4  D) Deuteronomy 5:23-33
 
 **83.** Which passage contains the only occurrence of the word **Millo**?
-A) 1 Kings 18:36-39  B) 1 Kings 12:6-8  C) Nehemiah 4:6-16  D) 1 Chronicles 11:4-9
+A) 1 Chronicles 11:4-9  B) 1 Kings 18:36-39  C) Nehemiah 4:6-16  D) 1 Kings 12:6-8
 
 **84.** Which passage contains the only occurrence of the word **mirror**?
-A) James 1:21-22  B) James 2:8-10  C) James 1:23-26  D) James 1:2-4
+A) James 1:2-4  B) James 2:8-10  C) James 1:23-26  D) James 1:21-22
 
 **85.** Which passage contains the only occurrence of the word **Mordecai**?
-A) Esther 10:1-3  B) Job 5:17-27  C) Nehemiah 8:5-12  D) Job 9:1-13
+A) Nehemiah 8:5-12  B) Job 9:1-13  C) Job 5:17-27  D) Esther 10:1-3
 
 **86.** Which passage contains the only occurrence of the word **Naamathite**?
-A) Job 9:1-13  B) Job 42:10-15  C) Job 42:1-9  D) Job 28:3-28
+A) Job 42:1-9  B) Job 42:10-15  C) Job 9:1-13  D) Job 28:3-28
 
 **87.** Which passage contains the only occurrence of the word **Nehemiah**?
-A) Esther 10:1-3  B) 1 Chronicles 11:4-9  C) Nehemiah 4:6-16  D) Nehemiah 8:5-12
+A) Nehemiah 8:5-12  B) 1 Chronicles 11:4-9  C) Esther 10:1-3  D) Nehemiah 4:6-16
 
 **88.** Which passage contains the only occurrence of the word **net**?
-A) Proverbs 1:5-23  B) Proverbs 3:14-15  C) Proverbs 8:10-11  D) Proverbs 3:5-6
+A) Proverbs 3:5-6  B) Proverbs 8:10-11  C) Proverbs 3:14-15  D) Proverbs 1:5-23
 
 **89.** Which passage contains the only occurrence of the word **Noah**?
-A) Joshua 17:3-4  B) Deuteronomy 5:23-33  C) Joshua 2:8-11  D) Joshua 23:3-14
+A) Deuteronomy 5:23-33  B) Joshua 23:3-14  C) Joshua 17:3-4  D) Joshua 2:8-11
 
 **90.** Which passage contains the only occurrence of the word **Nun**?
-A) Joshua 23:3-14  B) Deuteronomy 5:23-33  C) Joshua 2:8-11  D) Joshua 17:3-4
+A) Joshua 17:3-4  B) Joshua 2:8-11  C) Deuteronomy 5:23-33  D) Joshua 23:3-14
 
 **91.** Which passage contains the only occurrence of the word **oil**?
-A) Hosea 10:12  B) Haggai 2:2-9  C) Haggai 1:3-11  D) Zephaniah 3:13-20
+A) Hosea 10:12  B) Zephaniah 3:13-20  C) Haggai 2:2-9  D) Haggai 1:3-11
 
 **92.** Which passage contains the only occurrence of the word **olives**?
-A) James 3:7-13  B) James 4:7-10  C) James 2:8-10  D) James 2:15-18
+A) James 2:15-18  B) James 2:8-10  C) James 4:7-10  D) James 3:7-13
 
 **93.** Which passage contains the only occurrence of the word **Ophir**?
-A) Job 42:10-15  B) Job 9:1-13  C) Job 42:1-9  D) Job 28:3-28
+A) Job 9:1-13  B) Job 28:3-28  C) Job 42:1-9  D) Job 42:10-15
 
 **94.** Which passage contains the only occurrence of the word **Ophrah**?
-A) 1 Samuel 25:32-33  B) 2 Samuel 22:1-4  C) Joshua 23:3-14  D) Judges 6:11-14
+A) 2 Samuel 22:1-4  B) Judges 6:11-14  C) 1 Samuel 25:32-33  D) Joshua 23:3-14
 
 **95.** Which passage contains the only occurrence of the word **Orion**?
 A) Job 5:17-27  B) Job 9:1-13  C) Job 28:3-28  D) Job 42:1-9
 
 **96.** Which passage contains the only occurrence of the word **Passover**?
-A) Luke 6:35-43  B) Luke 2:41-52  C) Luke 3:7-14  D) Luke 6:20-31
+A) Luke 6:35-43  B) Luke 2:41-52  C) Luke 6:20-31  D) Luke 3:7-14
 
 **97.** Which passage contains the only occurrence of the word **Pelaiah**?
-A) Esther 10:1-3  B) Nehemiah 8:5-12  C) Nehemiah 4:6-16  D) 1 Chronicles 11:4-9
+A) Nehemiah 8:5-12  B) Nehemiah 4:6-16  C) Esther 10:1-3  D) 1 Chronicles 11:4-9
 
 **98.** Which passage contains the only occurrence of the word **Persia**?
-A) Job 9:1-13  B) Esther 10:1-3  C) Nehemiah 8:5-12  D) Job 5:17-27
+A) Job 5:17-27  B) Nehemiah 8:5-12  C) Job 9:1-13  D) Esther 10:1-3
 
 **99.** Which passage contains the only occurrence of the word **Pharaoh**?
-A) Hebrews 11:24-26  B) Hebrews 11:13-16  C) Hebrews 11:31-40  D) 1 Timothy 5:1-6
+A) Hebrews 11:24-26  B) Hebrews 11:31-40  C) 1 Timothy 5:1-6  D) Hebrews 11:13-16
 
 **100.** Which passage contains the only occurrence of the word **plant**?
-A) Jeremiah 17:7-8  B) Jeremiah 20:7-13  C) Isaiah 66:8  D) Jeremiah 1:4-12
+A) Isaiah 66:8  B) Jeremiah 1:4-12  C) Jeremiah 17:7-8  D) Jeremiah 20:7-13
 
 **101.** Which passage contains the only occurrence of the word **Pleiades**?
-A) Job 9:1-13  B) Job 5:17-27  C) Job 42:1-9  D) Job 28:3-28
+A) Job 42:1-9  B) Job 28:3-28  C) Job 5:17-27  D) Job 9:1-13
 
 **102.** Which passage contains the only occurrence of the word **pride**?
-A) Matthew 23:25-28  B) Mark 7:17-28  C) Mark 8:31-38  D) Mark 9:42-50
+A) Matthew 23:25-28  B) Mark 8:31-38  C) Mark 9:42-50  D) Mark 7:17-28
 
 **103.** Which passage contains the only occurrence of the word **Rahab**?
-A) James 1:2-4  B) Hebrews 11:24-26  C) Hebrews 11:13-16  D) Hebrews 11:31-40
+A) James 1:2-4  B) Hebrews 11:13-16  C) Hebrews 11:31-40  D) Hebrews 11:24-26
 
 **104.** Which passage contains the only occurrence of the word **rams**?
-A) Job 9:1-13  B) Job 28:3-28  C) Job 42:10-15  D) Job 42:1-9
+A) Job 42:10-15  B) Job 28:3-28  C) Job 42:1-9  D) Job 9:1-13
 
 **105.** Which passage contains the only occurrence of the word **Red Sea**?
-A) Deuteronomy 5:23-33  B) Joshua 23:3-14  C) Joshua 2:8-11  D) Joshua 17:3-4
+A) Joshua 23:3-14  B) Joshua 17:3-4  C) Joshua 2:8-11  D) Deuteronomy 5:23-33
 
 **106.** Which passage contains the only occurrence of the word **Rehoboam**?
 A) 1 Kings 8:22-28  B) 1 Kings 18:36-39  C) 1 Kings 12:6-8  D) 1 Kings 3:3-10
 
 **107.** Which passage contains the only occurrence of the word **repentance**?
-A) Luke 6:20-31  B) Luke 2:41-52  C) Luke 3:7-14  D) Luke 6:35-43
+A) Luke 6:35-43  B) Luke 6:20-31  C) Luke 3:7-14  D) Luke 2:41-52
 
 **108.** Which passage contains the only occurrence of the word **ring**?
-A) Job 28:3-28  B) Job 42:1-9  C) Job 42:10-15  D) Job 9:1-13
+A) Job 28:3-28  B) Job 42:1-9  C) Job 9:1-13  D) Job 42:10-15
 
 **109.** Which passage contains the only occurrence of the word **river**?
-A) Hosea 10:12  B) Jeremiah 20:7-13  C) Jeremiah 17:7-8  D) Jeremiah 1:4-12
+A) Hosea 10:12  B) Jeremiah 1:4-12  C) Jeremiah 20:7-13  D) Jeremiah 17:7-8
 
 **110.** Which passage contains the only occurrence of the word **robe**?
-A) 1 Peter 2:15-25  B) 1 Peter 5:1-11  C) 1 Peter 2:9-12  D) Revelation 7:9-16
+A) Revelation 7:9-16  B) 1 Peter 2:15-25  C) 1 Peter 2:9-12  D) 1 Peter 5:1-11
 
 **111.** Which passage contains the only occurrence of the word **rod**?
-A) Genesis 31:13  B) Exodus 33:12-19  C) Genesis 50:16-20  D) Exodus 4:4-5
+A) Genesis 31:13  B) Exodus 4:4-5  C) Genesis 50:16-20  D) Exodus 33:12-19
 
 **112.** Which passage contains the only occurrence of the word **Rome**?
-A) Romans 1:13-17  B) Romans 3:1-11  C) Romans 6:10-15  D) Romans 2:8-11
+A) Romans 6:10-15  B) Romans 1:13-17  C) Romans 2:8-11  D) Romans 3:1-11
 
 **113.** Which passage contains the only occurrence of the word **roof**?
-A) Deuteronomy 5:23-33  B) Joshua 2:8-11  C) Joshua 23:3-14  D) Joshua 17:3-4
+A) Deuteronomy 5:23-33  B) Joshua 23:3-14  C) Joshua 17:3-4  D) Joshua 2:8-11
 
 **114.** Which passage contains the only occurrence of the word **sabbath**?
-A) Exodus 33:12-19  B) Leviticus 26:1-10  C) Leviticus 24:17-22  D) Deuteronomy 5:23-33
+A) Exodus 33:12-19  B) Leviticus 24:17-22  C) Leviticus 26:1-10  D) Deuteronomy 5:23-33
 
 **115.** Which passage contains the only occurrence of the word **Samson**?
-A) James 1:2-4  B) Hebrews 11:13-16  C) Hebrews 11:24-26  D) Hebrews 11:31-40
+A) Hebrews 11:31-40  B) Hebrews 11:24-26  C) Hebrews 11:13-16  D) James 1:2-4
 
 **116.** Which passage contains the only occurrence of the word **Samuel**?
-A) James 1:2-4  B) Hebrews 11:24-26  C) Hebrews 11:31-40  D) Hebrews 11:13-16
+A) Hebrews 11:13-16  B) James 1:2-4  C) Hebrews 11:24-26  D) Hebrews 11:31-40
 
 **117.** Which passage contains the only occurrence of the word **Sanballat**?
-A) Nehemiah 4:6-16  B) Nehemiah 8:5-12  C) 1 Chronicles 11:4-9  D) 1 Kings 18:36-39
+A) Nehemiah 8:5-12  B) 1 Chronicles 11:4-9  C) Nehemiah 4:6-16  D) 1 Kings 18:36-39
 
 **118.** Which passage contains the only occurrence of the word **Satan**?
-A) Mark 9:42-50  B) Luke 2:41-52  C) Mark 7:17-28  D) Mark 8:31-38
+A) Mark 8:31-38  B) Mark 7:17-28  C) Mark 9:42-50  D) Luke 2:41-52
 
 **119.** Which passage contains the only occurrence of the word **Saul**?
-A) 1 Kings 3:3-10  B) 1 Samuel 25:32-33  C) 2 Samuel 22:1-4  D) 1 Kings 8:22-28
+A) 1 Kings 3:3-10  B) 2 Samuel 22:1-4  C) 1 Kings 8:22-28  D) 1 Samuel 25:32-33
 
 **120.** Which passage contains the only occurrence of the word **Shabbethai**?
-A) Nehemiah 8:5-12  B) Nehemiah 4:6-16  C) Esther 10:1-3  D) 1 Chronicles 11:4-9
-
-**121.** Which passage contains the only occurrence of the word **Shealtiel**?
-A) Haggai 1:3-11  B) Haggai 2:2-9  C) Matthew 6:6  D) Malachi 3:10
-
-**122.** Which passage contains the only occurrence of the word **Sherebiah**?
 A) Nehemiah 4:6-16  B) 1 Chronicles 11:4-9  C) Nehemiah 8:5-12  D) Esther 10:1-3
 
+**121.** Which passage contains the only occurrence of the word **Shealtiel**?
+A) Matthew 6:6  B) Malachi 3:10  C) Haggai 2:2-9  D) Haggai 1:3-11
+
+**122.** Which passage contains the only occurrence of the word **Sherebiah**?
+A) Nehemiah 8:5-12  B) 1 Chronicles 11:4-9  C) Esther 10:1-3  D) Nehemiah 4:6-16
+
 **123.** Which passage contains the only occurrence of the word **Shuhite**?
-A) Job 9:1-13  B) Job 42:10-15  C) Job 42:1-9  D) Job 28:3-28
+A) Job 42:10-15  B) Job 42:1-9  C) Job 28:3-28  D) Job 9:1-13
 
 **124.** Which passage contains the only occurrence of the word **Sidon**?
-A) Mark 7:17-28  B) Matthew 23:25-28  C) Mark 9:42-50  D) Mark 8:31-38
+A) Mark 8:31-38  B) Mark 7:17-28  C) Mark 9:42-50  D) Matthew 23:25-28
 
 **125.** Which passage contains the only occurrence of the word **Sihon**?
-A) Joshua 23:3-14  B) Joshua 2:8-11  C) Joshua 17:3-4  D) Deuteronomy 5:23-33
+A) Joshua 23:3-14  B) Deuteronomy 5:23-33  C) Joshua 17:3-4  D) Joshua 2:8-11
 
 **126.** Which passage contains the only occurrence of the word **Simon**?
-A) John 17:1-17  B) John 21:12-22  C) John 1:1-18  D) Acts 7:49
+A) John 17:1-17  B) John 21:12-22  C) Acts 7:49  D) John 1:1-18
 
 **127.** Which passage contains the only occurrence of the word **slave**?
-A) Philippians 1:9-18  B) Galatians 6:7-10  C) Ephesians 1:15-23  D) Ephesians 6:5-9
+A) Ephesians 1:15-23  B) Galatians 6:7-10  C) Ephesians 6:5-9  D) Philippians 1:9-18
 
 **128.** Which passage contains the only occurrence of the word **sower**?
-A) 2 Corinthians 8:1-17  B) 2 Corinthians 9:1-13  C) 1 Corinthians 15:32-33  D) Galatians 2:15-21
+A) 1 Corinthians 15:32-33  B) 2 Corinthians 9:1-13  C) Galatians 2:15-21  D) 2 Corinthians 8:1-17
 
 **129.** Which passage contains the only occurrence of the word **spear**?
-A) Nehemiah 8:5-12  B) 1 Kings 18:36-39  C) Nehemiah 4:6-16  D) 1 Chronicles 11:4-9
+A) 1 Chronicles 11:4-9  B) Nehemiah 4:6-16  C) Nehemiah 8:5-12  D) 1 Kings 18:36-39
 
 **130.** Which passage contains the only occurrence of the word **stars**?
-A) Job 42:1-9  B) Job 9:1-13  C) Job 5:17-27  D) Job 28:3-28
+A) Job 5:17-27  B) Job 42:1-9  C) Job 9:1-13  D) Job 28:3-28
 
 **131.** Which passage contains the only occurrence of the word **straw**?
-A) 1 Corinthians 15:32-33  B) 1 Corinthians 3:10-14  C) 1 Corinthians 6:1-10  D) Romans 14:4-19
+A) 1 Corinthians 3:10-14  B) 1 Corinthians 15:32-33  C) Romans 14:4-19  D) 1 Corinthians 6:1-10
 
 **132.** Which passage contains the only occurrence of the word **Syro-Phoenician**?
-A) Mark 9:42-50  B) Matthew 23:25-28  C) Mark 7:17-28  D) Mark 8:31-38
+A) Matthew 23:25-28  B) Mark 8:31-38  C) Mark 7:17-28  D) Mark 9:42-50
 
 **133.** Which passage contains the only occurrence of the word **table**?
-A) Mark 7:17-28  B) Mark 9:42-50  C) Matthew 23:25-28  D) Mark 8:31-38
+A) Matthew 23:25-28  B) Mark 7:17-28  C) Mark 9:42-50  D) Mark 8:31-38
 
 **134.** Which passage contains the only occurrence of the word **Temanite**?
-A) Job 9:1-13  B) Job 28:3-28  C) Job 42:1-9  D) Job 42:10-15
+A) Job 42:10-15  B) Job 28:3-28  C) Job 42:1-9  D) Job 9:1-13
 
 **135.** Which passage contains the only occurrence of the word **threshing**?
-A) Exodus 33:12-19  B) Leviticus 26:1-10  C) Deuteronomy 5:23-33  D) Leviticus 24:17-22
+A) Leviticus 24:17-22  B) Deuteronomy 5:23-33  C) Exodus 33:12-19  D) Leviticus 26:1-10
 
 **136.** Which passage contains the only occurrence of the word **Tirzah**?
-A) Joshua 2:8-11  B) Joshua 23:3-14  C) Joshua 17:3-4  D) Deuteronomy 5:23-33
+A) Joshua 17:3-4  B) Deuteronomy 5:23-33  C) Joshua 2:8-11  D) Joshua 23:3-14
 
 **137.** Which passage contains the only occurrence of the word **Titus**?
-A) 2 Corinthians 9:1-13  B) 1 Corinthians 15:32-33  C) 1 Corinthians 6:1-10  D) 2 Corinthians 8:1-17
+A) 1 Corinthians 6:1-10  B) 1 Corinthians 15:32-33  C) 2 Corinthians 9:1-13  D) 2 Corinthians 8:1-17
 
 **138.** Which passage contains the only occurrence of the word **Tobiah**?
-A) Nehemiah 4:6-16  B) 1 Kings 18:36-39  C) 1 Chronicles 11:4-9  D) Nehemiah 8:5-12
+A) Nehemiah 8:5-12  B) Nehemiah 4:6-16  C) 1 Chronicles 11:4-9  D) 1 Kings 18:36-39
 
 **139.** Which passage contains the only occurrence of the word **tomb**?
-A) Matthew 6:6  B) Matthew 7:11-12  C) Matthew 23:13-22  D) Matthew 23:25-28
+A) Matthew 23:13-22  B) Matthew 7:11-12  C) Matthew 23:25-28  D) Matthew 6:6
 
 **140.** Which passage contains the only occurrence of the word **treasure**?
-A) Hebrews 11:13-16  B) Hebrews 11:24-26  C) Hebrews 11:31-40  D) 1 Timothy 5:1-6
+A) Hebrews 11:24-26  B) 1 Timothy 5:1-6  C) Hebrews 11:31-40  D) Hebrews 11:13-16
 
 **141.** Which passage contains the only occurrence of the word **trials**?
-A) James 1:21-22  B) James 1:23-26  C) James 1:2-4  D) James 2:8-10
+A) James 1:2-4  B) James 2:8-10  C) James 1:23-26  D) James 1:21-22
 
 **142.** Which passage contains the only occurrence of the word **Tyre**?
-A) Mark 7:17-28  B) Matthew 23:25-28  C) Mark 9:42-50  D) Mark 8:31-38
+A) Matthew 23:25-28  B) Mark 7:17-28  C) Mark 8:31-38  D) Mark 9:42-50
 
 **143.** Which passage contains the only occurrence of the word **vintage**?
-A) Leviticus 26:1-10  B) Exodus 33:12-19  C) Deuteronomy 5:23-33  D) Leviticus 24:17-22
+A) Leviticus 24:17-22  B) Leviticus 26:1-10  C) Exodus 33:12-19  D) Deuteronomy 5:23-33
 
 **144.** Which passage contains the only occurrence of the word **viper**?
-A) Luke 6:35-43  B) Luke 3:7-14  C) Luke 2:41-52  D) Luke 6:20-31
+A) Luke 3:7-14  B) Luke 6:35-43  C) Luke 2:41-52  D) Luke 6:20-31
 
 **145.** Which passage contains the only occurrence of the word **vow**?
-A) Genesis 50:16-20  B) Genesis 31:13  C) Exodus 33:12-19  D) Exodus 4:4-5
+A) Exodus 4:4-5  B) Genesis 31:13  C) Genesis 50:16-20  D) Exodus 33:12-19
 
 **146.** Which passage contains the only occurrence of the word **window**?
-A) Malachi 3:10  B) Haggai 1:3-11  C) Haggai 2:2-9  D) Matthew 6:6
+A) Haggai 2:2-9  B) Haggai 1:3-11  C) Matthew 6:6  D) Malachi 3:10
 
 **147.** Which passage contains the only occurrence of the word **wine**?
-A) Zephaniah 3:13-20  B) Haggai 1:3-11  C) Haggai 2:2-9  D) Hosea 10:12
+A) Haggai 1:3-11  B) Haggai 2:2-9  C) Hosea 10:12  D) Zephaniah 3:13-20
 
 **148.** Which passage contains the only occurrence of the word **winepress**?
-A) 1 Samuel 25:32-33  B) 2 Samuel 22:1-4  C) Joshua 23:3-14  D) Judges 6:11-14
+A) 1 Samuel 25:32-33  B) Joshua 23:3-14  C) Judges 6:11-14  D) 2 Samuel 22:1-4
 
 **149.** Which passage contains the only occurrence of the word **Zelophehad**?
-A) Joshua 17:3-4  B) Joshua 23:3-14  C) Deuteronomy 5:23-33  D) Joshua 2:8-11
+A) Joshua 2:8-11  B) Joshua 23:3-14  C) Joshua 17:3-4  D) Deuteronomy 5:23-33
 
 **150.** Which passage contains the only occurrence of the word **Zerubbabel**?
-A) Haggai 1:3-11  B) Malachi 3:10  C) Haggai 2:2-9  D) Matthew 6:6
+A) Matthew 6:6  B) Haggai 1:3-11  C) Malachi 3:10  D) Haggai 2:2-9
 
 **151.** Which passage contains the only occurrence of the word **Zeruiah**?
-A) Nehemiah 4:6-16  B) 1 Kings 18:36-39  C) 1 Chronicles 11:4-9  D) 1 Kings 12:6-8
+A) 1 Kings 18:36-39  B) 1 Chronicles 11:4-9  C) Nehemiah 4:6-16  D) 1 Kings 12:6-8
 
 **152.** Which passage contains the only occurrence of the word **Zophar**?
-A) Job 9:1-13  B) Job 28:3-28  C) Job 42:10-15  D) Job 42:1-9
+A) Job 42:1-9  B) Job 42:10-15  C) Job 28:3-28  D) Job 9:1-13
 
-**Answer key — SET 9:** 1‑D, 2‑A, 3‑D, 4‑C, 5‑B, 6‑C, 7‑B, 8‑D, 9‑A, 10‑A, 11‑B, 12‑B, 13‑B, 14‑A, 15‑A, 16‑B, 17‑B, 18‑B, 19‑A, 20‑A, 21‑D, 22‑A, 23‑C, 24‑C, 25‑D, 26‑D, 27‑D, 28‑B, 29‑C, 30‑B, 31‑C, 32‑B, 33‑A, 34‑B, 35‑D, 36‑D, 37‑C, 38‑B, 39‑C, 40‑C, 41‑C, 42‑A, 43‑C, 44‑D, 45‑B, 46‑B, 47‑C, 48‑C, 49‑D, 50‑D, 51‑C, 52‑C, 53‑B, 54‑D, 55‑A, 56‑D, 57‑D, 58‑A, 59‑B, 60‑D, 61‑B, 62‑D, 63‑B, 64‑A, 65‑D, 66‑C, 67‑D, 68‑D, 69‑A, 70‑A, 71‑D, 72‑C, 73‑B, 74‑B, 75‑B, 76‑B, 77‑C, 78‑D, 79‑D, 80‑A, 81‑C, 82‑C, 83‑D, 84‑C, 85‑A, 86‑C, 87‑D, 88‑A, 89‑A, 90‑D, 91‑C, 92‑A, 93‑D, 94‑D, 95‑B, 96‑B, 97‑B, 98‑B, 99‑A, 100‑D, 101‑A, 102‑B, 103‑D, 104‑D, 105‑C, 106‑C, 107‑C, 108‑C, 109‑C, 110‑D, 111‑D, 112‑A, 113‑B, 114‑B, 115‑D, 116‑C, 117‑A, 118‑D, 119‑C, 120‑A, 121‑B, 122‑C, 123‑C, 124‑A, 125‑B, 126‑B, 127‑D, 128‑B, 129‑C, 130‑B, 131‑B, 132‑C, 133‑A, 134‑C, 135‑B, 136‑C, 137‑D, 138‑A, 139‑D, 140‑B, 141‑C, 142‑A, 143‑A, 144‑B, 145‑B, 146‑A, 147‑B, 148‑D, 149‑A, 150‑C, 151‑C, 152‑D
+**Answer key — SET 9:** 1‑D, 2‑C, 3‑B, 4‑C, 5‑B, 6‑D, 7‑A, 8‑A, 9‑B, 10‑B, 11‑B, 12‑A, 13‑A, 14‑B, 15‑B, 16‑B, 17‑A, 18‑A, 19‑D, 20‑A, 21‑C, 22‑C, 23‑D, 24‑D, 25‑D, 26‑B, 27‑C, 28‑B, 29‑C, 30‑B, 31‑A, 32‑B, 33‑D, 34‑D, 35‑C, 36‑B, 37‑C, 38‑C, 39‑C, 40‑A, 41‑C, 42‑D, 43‑B, 44‑B, 45‑C, 46‑C, 47‑D, 48‑D, 49‑C, 50‑C, 51‑B, 52‑D, 53‑A, 54‑D, 55‑D, 56‑A, 57‑B, 58‑D, 59‑B, 60‑D, 61‑B, 62‑A, 63‑D, 64‑C, 65‑D, 66‑D, 67‑A, 68‑A, 69‑D, 70‑C, 71‑B, 72‑B, 73‑B, 74‑B, 75‑C, 76‑D, 77‑D, 78‑A, 79‑C, 80‑C, 81‑D, 82‑C, 83‑A, 84‑C, 85‑D, 86‑A, 87‑A, 88‑D, 89‑C, 90‑A, 91‑D, 92‑D, 93‑B, 94‑B, 95‑B, 96‑B, 97‑A, 98‑D, 99‑A, 100‑B, 101‑D, 102‑D, 103‑C, 104‑C, 105‑C, 106‑C, 107‑C, 108‑D, 109‑D, 110‑A, 111‑B, 112‑B, 113‑D, 114‑C, 115‑A, 116‑D, 117‑C, 118‑A, 119‑B, 120‑C, 121‑C, 122‑A, 123‑B, 124‑B, 125‑D, 126‑B, 127‑C, 128‑B, 129‑B, 130‑C, 131‑A, 132‑C, 133‑B, 134‑C, 135‑D, 136‑A, 137‑D, 138‑B, 139‑C, 140‑A, 141‑A, 142‑B, 143‑B, 144‑A, 145‑B, 146‑D, 147‑A, 148‑C, 149‑C, 150‑D, 151‑B, 152‑A
 
 ---
 
@@ -1646,430 +1628,430 @@ A) Job 9:1-13  B) Job 28:3-28  C) Job 42:10-15  D) Job 42:1-9
 *Every shared word the document lists at exactly three or exactly four passages.*
 
 **1.** Which passage does **NOT** contain the word **Abraham**?
-A) Exodus 4:4-5  B) Exodus 33:12-19  C) 1 Kings 18:36-39  D) Luke 3:7-14
+A) Exodus 4:4-5  B) 1 Kings 18:36-39  C) Luke 3:7-14  D) Exodus 33:12-19
 
 **2.** Which passage does **NOT** contain the word **Abraham**?
-A) Genesis 50:16-20  B) 1 Kings 18:36-39  C) Exodus 4:4-5  D) Luke 3:7-14
+A) Exodus 4:4-5  B) Luke 3:7-14  C) 1 Kings 18:36-39  D) Genesis 50:16-20
 
 **3.** Which passage contains the word **Abraham**?
-A) Exodus 33:12-19  B) Genesis 50:16-20  C) Genesis 31:13  D) Exodus 4:4-5
+A) Exodus 4:4-5  B) Exodus 33:12-19  C) Genesis 31:13  D) Genesis 50:16-20
 
 **4.** Which passage contains the word **Abraham**?
-A) 1 Kings 12:6-8  B) 1 Kings 3:3-10  C) 1 Kings 8:22-28  D) 1 Kings 18:36-39
+A) 1 Kings 3:3-10  B) 1 Kings 8:22-28  C) 1 Kings 18:36-39  D) 1 Kings 12:6-8
 
 **5.** Which passage contains the word **Abraham**?
-A) Luke 3:7-14  B) Luke 2:41-52  C) Luke 6:35-43  D) Luke 6:20-31
+A) Luke 6:35-43  B) Luke 2:41-52  C) Luke 6:20-31  D) Luke 3:7-14
 
 **6.** Which passage does **NOT** contain the word **advice**?
-A) 2 Corinthians 8:1-17  B) 1 Kings 12:6-8  C) 2 Samuel 22:1-4  D) 1 Samuel 25:32-33
+A) 1 Kings 12:6-8  B) 1 Samuel 25:32-33  C) 2 Samuel 22:1-4  D) 2 Corinthians 8:1-17
 
 **7.** Which passage does **NOT** contain the word **advice**?
-A) 2 Corinthians 8:1-17  B) 1 Samuel 25:32-33  C) 1 Kings 12:6-8  D) Judges 6:11-14
+A) 1 Samuel 25:32-33  B) Judges 6:11-14  C) 2 Corinthians 8:1-17  D) 1 Kings 12:6-8
 
 **8.** Which passage contains the word **advice**?
-A) Judges 6:11-14  B) 2 Samuel 22:1-4  C) 1 Samuel 25:32-33  D) 1 Kings 3:3-10
+A) Judges 6:11-14  B) 1 Kings 3:3-10  C) 1 Samuel 25:32-33  D) 2 Samuel 22:1-4
 
 **9.** Which passage contains the word **advice**?
-A) 1 Kings 18:36-39  B) 1 Kings 12:6-8  C) 1 Kings 3:3-10  D) 1 Kings 8:22-28
+A) 1 Kings 12:6-8  B) 1 Kings 18:36-39  C) 1 Kings 3:3-10  D) 1 Kings 8:22-28
 
 **10.** Which passage contains the word **advice**?
-A) 1 Corinthians 15:32-33  B) 1 Corinthians 6:1-10  C) 2 Corinthians 8:1-17  D) 2 Corinthians 9:1-13
+A) 2 Corinthians 8:1-17  B) 2 Corinthians 9:1-13  C) 1 Corinthians 15:32-33  D) 1 Corinthians 6:1-10
 
 **11.** Which passage does **NOT** contain the word **affliction**?
-A) Haggai 1:3-11  B) Zephaniah 3:13-20  C) Philippians 1:9-18  D) 2 Corinthians 8:1-17
+A) 2 Corinthians 8:1-17  B) Zephaniah 3:13-20  C) Philippians 1:9-18  D) Haggai 1:3-11
 
 **12.** Which passage does **NOT** contain the word **affliction**?
-A) 1 Corinthians 15:32-33  B) 2 Corinthians 8:1-17  C) Philippians 1:9-18  D) Hebrews 11:24-26
+A) Hebrews 11:24-26  B) Philippians 1:9-18  C) 2 Corinthians 8:1-17  D) 1 Corinthians 15:32-33
 
 **13.** Which passage contains the word **affliction**?
-A) Hosea 10:12  B) Haggai 1:3-11  C) Haggai 2:2-9  D) Zephaniah 3:13-20
+A) Haggai 1:3-11  B) Zephaniah 3:13-20  C) Hosea 10:12  D) Haggai 2:2-9
 
 **14.** Which passage contains the word **affliction**?
-A) 1 Corinthians 6:1-10  B) 1 Corinthians 15:32-33  C) 2 Corinthians 9:1-13  D) 2 Corinthians 8:1-17
+A) 1 Corinthians 15:32-33  B) 1 Corinthians 6:1-10  C) 2 Corinthians 8:1-17  D) 2 Corinthians 9:1-13
 
 **15.** Which passage contains the word **affliction**?
 A) Philippians 4:10-13  B) Philippians 1:9-18  C) Ephesians 6:5-9  D) 1 Timothy 5:1-6
 
 **16.** Which passage contains the word **affliction**?
-A) Hebrews 11:31-40  B) 1 Timothy 5:1-6  C) Hebrews 11:24-26  D) Hebrews 11:13-16
+A) Hebrews 11:13-16  B) Hebrews 11:24-26  C) 1 Timothy 5:1-6  D) Hebrews 11:31-40
 
 **17.** Which passage does **NOT** contain the word **altar**?
-A) 1 Kings 3:3-10  B) 1 Kings 12:6-8  C) 1 Kings 8:22-28  D) Matthew 23:13-22
+A) 1 Kings 8:22-28  B) 1 Kings 12:6-8  C) Matthew 23:13-22  D) 1 Kings 3:3-10
 
 **18.** Which passage does **NOT** contain the word **altar**?
-A) 1 Kings 3:3-10  B) 1 Kings 18:36-39  C) Matthew 23:13-22  D) 1 Kings 8:22-28
+A) Matthew 23:13-22  B) 1 Kings 3:3-10  C) 1 Kings 8:22-28  D) 1 Kings 18:36-39
 
 **19.** Which passage contains the word **altar**?
-A) 1 Kings 18:36-39  B) 1 Kings 3:3-10  C) 2 Samuel 22:1-4  D) 1 Kings 12:6-8
+A) 2 Samuel 22:1-4  B) 1 Kings 12:6-8  C) 1 Kings 18:36-39  D) 1 Kings 3:3-10
 
 **20.** Which passage contains the word **altar**?
-A) 2 Samuel 22:1-4  B) 1 Kings 12:6-8  C) 1 Kings 18:36-39  D) 1 Kings 8:22-28
+A) 1 Kings 8:22-28  B) 1 Kings 12:6-8  C) 2 Samuel 22:1-4  D) 1 Kings 18:36-39
 
 **21.** Which passage contains the word **altar**?
-A) Matthew 6:6  B) Matthew 23:25-28  C) Matthew 7:11-12  D) Matthew 23:13-22
+A) Matthew 23:25-28  B) Matthew 6:6  C) Matthew 23:13-22  D) Matthew 7:11-12
 
 **22.** Which passage does **NOT** contain the word **angels**?
-A) Mark 7:17-28  B) Mark 8:31-38  C) 1 Corinthians 6:1-10  D) Luke 9:19-28
+A) 1 Corinthians 6:1-10  B) Mark 8:31-38  C) Luke 9:19-28  D) Mark 7:17-28
 
 **23.** Which passage does **NOT** contain the word **angels**?
-A) Luke 9:19-28  B) Revelation 7:9-16  C) Luke 6:35-43  D) 1 Corinthians 6:1-10
+A) Revelation 7:9-16  B) Luke 9:19-28  C) 1 Corinthians 6:1-10  D) Luke 6:35-43
 
 **24.** Which passage contains the word **angels**?
-A) Luke 2:41-52  B) Mark 7:17-28  C) Mark 9:42-50  D) Mark 8:31-38
+A) Luke 2:41-52  B) Mark 9:42-50  C) Mark 7:17-28  D) Mark 8:31-38
 
 **25.** Which passage contains the word **angels**?
-A) Luke 18:9-17  B) Luke 17:1-4  C) Luke 6:35-43  D) Luke 9:19-28
+A) Luke 9:19-28  B) Luke 18:9-17  C) Luke 17:1-4  D) Luke 6:35-43
 
 **26.** Which passage contains the word **angels**?
-A) 2 Corinthians 8:1-17  B) 1 Corinthians 3:10-14  C) 1 Corinthians 15:32-33  D) 1 Corinthians 6:1-10
+A) 1 Corinthians 3:10-14  B) 1 Corinthians 6:1-10  C) 1 Corinthians 15:32-33  D) 2 Corinthians 8:1-17
 
 **27.** Which passage contains the word **angels**?
-A) Revelation 7:9-16  B) 1 Peter 2:9-12  C) 1 Peter 5:1-11  D) 1 Peter 2:15-25
+A) 1 Peter 2:15-25  B) 1 Peter 2:9-12  C) Revelation 7:9-16  D) 1 Peter 5:1-11
 
 **28.** Which passage does **NOT** contain the word **bird**?
-A) Proverbs 1:5-23  B) Job 42:1-9  C) Job 28:3-28  D) Isaiah 31:4-5
+A) Job 42:1-9  B) Isaiah 31:4-5  C) Proverbs 1:5-23  D) Job 28:3-28
 
 **29.** Which passage does **NOT** contain the word **bird**?
-A) Isaiah 31:4-5  B) James 3:7-13  C) Proverbs 3:14-15  D) Proverbs 1:5-23
+A) James 3:7-13  B) Proverbs 3:14-15  C) Isaiah 31:4-5  D) Proverbs 1:5-23
 
 **30.** Which passage contains the word **bird**?
-A) Job 28:3-28  B) Job 42:10-15  C) Job 9:1-13  D) Job 42:1-9
+A) Job 42:1-9  B) Job 42:10-15  C) Job 9:1-13  D) Job 28:3-28
 
 **31.** Which passage contains the word **bird**?
-A) Proverbs 8:10-11  B) Proverbs 1:5-23  C) Proverbs 3:14-15  D) Proverbs 3:5-6
+A) Proverbs 3:5-6  B) Proverbs 1:5-23  C) Proverbs 3:14-15  D) Proverbs 8:10-11
 
 **32.** Which passage contains the word **bird**?
-A) Isaiah 26:1-9  B) Isaiah 66:8  C) Isaiah 66:1  D) Isaiah 31:4-5
+A) Isaiah 31:4-5  B) Isaiah 26:1-9  C) Isaiah 66:1  D) Isaiah 66:8
 
 **33.** Which passage contains the word **bird**?
 A) James 2:15-18  B) James 3:7-13  C) James 4:7-10  D) James 2:8-10
 
 **34.** Which passage does **NOT** contain the word **blessing**?
-A) Haggai 2:2-9  B) Malachi 3:10  C) James 3:7-13  D) Revelation 7:9-16
+A) Malachi 3:10  B) Haggai 2:2-9  C) James 3:7-13  D) Revelation 7:9-16
 
 **35.** Which passage does **NOT** contain the word **blessing**?
-A) Malachi 3:10  B) Matthew 6:6  C) James 3:7-13  D) Revelation 7:9-16
+A) Revelation 7:9-16  B) Malachi 3:10  C) Matthew 6:6  D) James 3:7-13
 
 **36.** Which passage contains the word **blessing**?
-A) Haggai 2:2-9  B) Malachi 3:10  C) Matthew 6:6  D) Haggai 1:3-11
+A) Haggai 1:3-11  B) Haggai 2:2-9  C) Matthew 6:6  D) Malachi 3:10
 
 **37.** Which passage contains the word **blessing**?
-A) James 2:8-10  B) James 2:15-18  C) James 3:7-13  D) James 4:7-10
+A) James 4:7-10  B) James 2:8-10  C) James 2:15-18  D) James 3:7-13
 
 **38.** Which passage contains the word **blessing**?
-A) 1 Peter 2:9-12  B) 1 Peter 5:1-11  C) 1 Peter 2:15-25  D) Revelation 7:9-16
+A) 1 Peter 2:9-12  B) 1 Peter 5:1-11  C) Revelation 7:9-16  D) 1 Peter 2:15-25
 
 **39.** Which passage does **NOT** contain the word **blood**?
-A) John 1:1-18  B) Revelation 7:9-16  C) Proverbs 1:5-23  D) Proverbs 3:5-6
+A) John 1:1-18  B) Proverbs 1:5-23  C) Revelation 7:9-16  D) Proverbs 3:5-6
 
 **40.** Which passage does **NOT** contain the word **blood**?
-A) Revelation 7:9-16  B) Proverbs 1:5-23  C) Proverbs 3:14-15  D) John 1:1-18
+A) Revelation 7:9-16  B) John 1:1-18  C) Proverbs 1:5-23  D) Proverbs 3:14-15
 
 **41.** Which passage contains the word **blood**?
-A) Proverbs 3:14-15  B) Proverbs 3:5-6  C) Proverbs 8:10-11  D) Proverbs 1:5-23
+A) Proverbs 3:14-15  B) Proverbs 3:5-6  C) Proverbs 1:5-23  D) Proverbs 8:10-11
 
 **42.** Which passage contains the word **blood**?
-A) Luke 19:15-17  B) John 21:12-22  C) John 17:1-17  D) John 1:1-18
+A) Luke 19:15-17  B) John 17:1-17  C) John 21:12-22  D) John 1:1-18
 
 **43.** Which passage contains the word **blood**?
 A) 1 Peter 2:15-25  B) 1 Peter 5:1-11  C) Revelation 7:9-16  D) 1 Peter 2:9-12
 
 **44.** Which passage does **NOT** contain the word **body**?
-A) James 2:15-18  B) Romans 6:10-15  C) Ephesians 1:15-23  D) Romans 10:1-5
+A) Ephesians 1:15-23  B) Romans 10:1-5  C) James 2:15-18  D) Romans 6:10-15
 
 **45.** Which passage does **NOT** contain the word **body**?
-A) James 2:15-18  B) Ephesians 1:15-23  C) Galatians 6:7-10  D) 1 Peter 2:15-25
+A) Galatians 6:7-10  B) Ephesians 1:15-23  C) James 2:15-18  D) 1 Peter 2:15-25
 
 **46.** Which passage contains the word **body**?
-A) Romans 3:1-11  B) Romans 6:10-15  C) Romans 14:4-19  D) Romans 10:1-5
+A) Romans 3:1-11  B) Romans 10:1-5  C) Romans 6:10-15  D) Romans 14:4-19
 
 **47.** Which passage contains the word **body**?
-A) Ephesians 1:15-23  B) Ephesians 6:5-9  C) Galatians 6:7-10  D) Galatians 2:15-21
+A) Ephesians 6:5-9  B) Galatians 2:15-21  C) Galatians 6:7-10  D) Ephesians 1:15-23
 
 **48.** Which passage contains the word **body**?
-A) James 3:7-13  B) James 2:8-10  C) James 2:15-18  D) James 1:23-26
+A) James 2:8-10  B) James 3:7-13  C) James 2:15-18  D) James 1:23-26
 
 **49.** Which passage contains the word **body**?
-A) 1 Peter 2:9-12  B) James 5:7-11  C) 1 Peter 5:1-11  D) 1 Peter 2:15-25
+A) 1 Peter 2:15-25  B) 1 Peter 2:9-12  C) James 5:7-11  D) 1 Peter 5:1-11
 
 **50.** Which passage does **NOT** contain the word **bow**?
-A) Leviticus 26:1-10  B) Joshua 23:3-14  C) Leviticus 24:17-22  D) Romans 14:4-19
+A) Leviticus 26:1-10  B) Joshua 23:3-14  C) Romans 14:4-19  D) Leviticus 24:17-22
 
 **51.** Which passage does **NOT** contain the word **bow**?
-A) Deuteronomy 5:23-33  B) Leviticus 26:1-10  C) Romans 14:4-19  D) Joshua 23:3-14
+A) Romans 14:4-19  B) Joshua 23:3-14  C) Leviticus 26:1-10  D) Deuteronomy 5:23-33
 
 **52.** Which passage contains the word **bow**?
-A) Leviticus 24:17-22  B) Deuteronomy 5:23-33  C) Exodus 33:12-19  D) Leviticus 26:1-10
+A) Exodus 33:12-19  B) Leviticus 24:17-22  C) Leviticus 26:1-10  D) Deuteronomy 5:23-33
 
 **53.** Which passage contains the word **bow**?
-A) Judges 6:11-14  B) Joshua 2:8-11  C) Joshua 17:3-4  D) Joshua 23:3-14
+A) Joshua 23:3-14  B) Joshua 2:8-11  C) Joshua 17:3-4  D) Judges 6:11-14
 
 **54.** Which passage contains the word **bow**?
-A) Romans 3:1-11  B) Romans 10:1-5  C) Romans 14:4-19  D) Romans 6:10-15
+A) Romans 6:10-15  B) Romans 14:4-19  C) Romans 3:1-11  D) Romans 10:1-5
 
 **55.** Which passage does **NOT** contain the word **commandment**?
-A) Leviticus 24:17-22  B) Deuteronomy 5:23-33  C) Leviticus 26:1-10  D) Joshua 17:3-4
+A) Leviticus 24:17-22  B) Joshua 17:3-4  C) Deuteronomy 5:23-33  D) Leviticus 26:1-10
 
 **56.** Which passage does **NOT** contain the word **commandment**?
 A) Joshua 17:3-4  B) Leviticus 24:17-22  C) 2 Corinthians 8:1-17  D) Deuteronomy 5:23-33
 
 **57.** Which passage contains the word **commandment**?
-A) Leviticus 26:1-10  B) Joshua 2:8-11  C) Exodus 33:12-19  D) Leviticus 24:17-22
+A) Leviticus 26:1-10  B) Exodus 33:12-19  C) Joshua 2:8-11  D) Leviticus 24:17-22
 
 **58.** Which passage contains the word **commandment**?
-A) Leviticus 24:17-22  B) Deuteronomy 5:23-33  C) Exodus 33:12-19  D) Joshua 2:8-11
+A) Exodus 33:12-19  B) Deuteronomy 5:23-33  C) Leviticus 24:17-22  D) Joshua 2:8-11
 
 **59.** Which passage contains the word **commandment**?
-A) Joshua 17:3-4  B) Joshua 2:8-11  C) Judges 6:11-14  D) Joshua 23:3-14
+A) Joshua 23:3-14  B) Judges 6:11-14  C) Joshua 2:8-11  D) Joshua 17:3-4
 
 **60.** Which passage contains the word **commandment**?
-A) 1 Corinthians 6:1-10  B) 2 Corinthians 8:1-17  C) 1 Corinthians 15:32-33  D) 2 Corinthians 9:1-13
+A) 1 Corinthians 15:32-33  B) 1 Corinthians 6:1-10  C) 2 Corinthians 8:1-17  D) 2 Corinthians 9:1-13
 
 **61.** Which passage does **NOT** contain the word **compassion**?
-A) Exodus 33:12-19  B) James 5:7-11  C) Psalm 145:1-21  D) Exodus 4:4-5
+A) Exodus 4:4-5  B) James 5:7-11  C) Exodus 33:12-19  D) Psalm 145:1-21
 
 **62.** Which passage does **NOT** contain the word **compassion**?
-A) Psalm 145:1-21  B) James 5:7-11  C) Leviticus 24:17-22  D) Exodus 33:12-19
+A) James 5:7-11  B) Exodus 33:12-19  C) Psalm 145:1-21  D) Leviticus 24:17-22
 
 **63.** Which passage contains the word **compassion**?
-A) Exodus 33:12-19  B) Genesis 50:16-20  C) Exodus 4:4-5  D) Leviticus 24:17-22
+A) Exodus 4:4-5  B) Leviticus 24:17-22  C) Exodus 33:12-19  D) Genesis 50:16-20
 
 **64.** Which passage contains the word **compassion**?
-A) Psalm 51:9-12  B) Psalm 126:3-6  C) Psalm 94:8-15  D) Psalm 145:1-21
+A) Psalm 145:1-21  B) Psalm 94:8-15  C) Psalm 51:9-12  D) Psalm 126:3-6
 
 **65.** Which passage contains the word **compassion**?
-A) James 4:13-17  B) James 4:7-10  C) James 5:7-11  D) James 3:7-13
+A) James 4:7-10  B) James 3:7-13  C) James 5:7-11  D) James 4:13-17
 
 **66.** Which passage does **NOT** contain the word **counsel**?
-A) Job 28:3-28  B) Proverbs 1:5-23  C) Proverbs 15:19-23  D) Job 42:1-9
+A) Job 42:1-9  B) Job 28:3-28  C) Proverbs 1:5-23  D) Proverbs 15:19-23
 
 **67.** Which passage does **NOT** contain the word **counsel**?
-A) Proverbs 1:5-23  B) Proverbs 15:19-23  C) Job 42:10-15  D) Job 42:1-9
+A) Job 42:1-9  B) Job 42:10-15  C) Proverbs 15:19-23  D) Proverbs 1:5-23
 
 **68.** Which passage contains the word **counsel**?
-A) Job 28:3-28  B) Job 42:1-9  C) Job 42:10-15  D) Job 9:1-13
+A) Job 9:1-13  B) Job 42:10-15  C) Job 42:1-9  D) Job 28:3-28
 
 **69.** Which passage contains the word **counsel**?
-A) Proverbs 3:5-6  B) Proverbs 1:5-23  C) Proverbs 8:10-11  D) Proverbs 3:14-15
+A) Proverbs 1:5-23  B) Proverbs 3:5-6  C) Proverbs 8:10-11  D) Proverbs 3:14-15
 
 **70.** Which passage contains the word **counsel**?
-A) Proverbs 28:25-26  B) Proverbs 8:10-11  C) Proverbs 15:19-23  D) Proverbs 23:15-26
+A) Proverbs 8:10-11  B) Proverbs 23:15-26  C) Proverbs 15:19-23  D) Proverbs 28:25-26
 
 **71.** Which passage does **NOT** contain the word **discern**?
-A) 1 Kings 8:22-28  B) 1 Kings 3:3-10  C) Philippians 1:9-18  D) Proverbs 15:19-23
+A) 1 Kings 8:22-28  B) 1 Kings 3:3-10  C) Proverbs 15:19-23  D) Philippians 1:9-18
 
 **72.** Which passage does **NOT** contain the word **discern**?
-A) Proverbs 15:19-23  B) 1 Kings 3:3-10  C) 1 Kings 12:6-8  D) Philippians 1:9-18
+A) 1 Kings 12:6-8  B) 1 Kings 3:3-10  C) Proverbs 15:19-23  D) Philippians 1:9-18
 
 **73.** Which passage contains the word **discern**?
-A) 1 Kings 3:3-10  B) 1 Kings 8:22-28  C) 1 Kings 12:6-8  D) 1 Kings 18:36-39
+A) 1 Kings 8:22-28  B) 1 Kings 12:6-8  C) 1 Kings 18:36-39  D) 1 Kings 3:3-10
 
 **74.** Which passage contains the word **discern**?
-A) Proverbs 15:19-23  B) Proverbs 23:15-26  C) Proverbs 8:10-11  D) Proverbs 28:25-26
+A) Proverbs 8:10-11  B) Proverbs 28:25-26  C) Proverbs 15:19-23  D) Proverbs 23:15-26
 
 **75.** Which passage contains the word **discern**?
-A) Philippians 4:10-13  B) Ephesians 6:5-9  C) 1 Timothy 5:1-6  D) Philippians 1:9-18
+A) Philippians 1:9-18  B) Philippians 4:10-13  C) 1 Timothy 5:1-6  D) Ephesians 6:5-9
 
 **76.** Which passage does **NOT** contain the word **dust**?
-A) Job 28:3-28  B) Job 42:1-9  C) 1 Kings 12:6-8  D) 1 Kings 18:36-39
+A) 1 Kings 18:36-39  B) 1 Kings 12:6-8  C) Job 28:3-28  D) Job 42:1-9
 
 **77.** Which passage does **NOT** contain the word **dust**?
 A) Job 42:10-15  B) Job 28:3-28  C) Isaiah 26:1-9  D) Job 42:1-9
 
 **78.** Which passage contains the word **dust**?
-A) 1 Kings 12:6-8  B) 1 Kings 18:36-39  C) 1 Kings 8:22-28  D) 1 Kings 3:3-10
+A) 1 Kings 12:6-8  B) 1 Kings 8:22-28  C) 1 Kings 18:36-39  D) 1 Kings 3:3-10
 
 **79.** Which passage contains the word **dust**?
-A) Job 28:3-28  B) Job 9:1-13  C) Job 5:17-27  D) Job 42:10-15
+A) Job 42:10-15  B) Job 9:1-13  C) Job 28:3-28  D) Job 5:17-27
 
 **80.** Which passage contains the word **dust**?
-A) Job 42:10-15  B) Job 9:1-13  C) Job 42:1-9  D) Job 5:17-27
+A) Job 9:1-13  B) Job 5:17-27  C) Job 42:10-15  D) Job 42:1-9
 
 **81.** Which passage contains the word **dust**?
-A) Isaiah 66:1  B) Isaiah 31:4-5  C) Isaiah 26:1-9  D) Isaiah 66:8
+A) Isaiah 66:1  B) Isaiah 31:4-5  C) Isaiah 66:8  D) Isaiah 26:1-9
 
 **82.** Which passage does **NOT** contain the word **ear**?
-A) Job 42:1-9  B) Psalm 18:2-12  C) Job 28:3-28  D) Job 9:1-13
+A) Job 9:1-13  B) Psalm 18:2-12  C) Job 42:1-9  D) Job 28:3-28
 
 **83.** Which passage does **NOT** contain the word **ear**?
-A) Psalm 18:2-12  B) Job 42:1-9  C) Psalm 94:8-15  D) Job 9:1-13
+A) Psalm 94:8-15  B) Job 42:1-9  C) Job 9:1-13  D) Psalm 18:2-12
 
 **84.** Which passage contains the word **ear**?
-A) Job 28:3-28  B) Job 5:17-27  C) Job 42:10-15  D) Job 9:1-13
+A) Job 9:1-13  B) Job 5:17-27  C) Job 28:3-28  D) Job 42:10-15
 
 **85.** Which passage contains the word **ear**?
-A) Job 5:17-27  B) Job 42:10-15  C) Job 42:1-9  D) Job 9:1-13
+A) Job 42:10-15  B) Job 5:17-27  C) Job 9:1-13  D) Job 42:1-9
 
 **86.** Which passage contains the word **ear**?
 A) Psalm 37:10-11  B) Psalm 126:3-6  C) Psalm 18:2-12  D) Psalm 51:9-12
 
 **87.** Which passage contains the word **ear**?
-A) Psalm 126:3-6  B) Psalm 145:1-21  C) Psalm 51:9-12  D) Psalm 94:8-15
+A) Psalm 94:8-15  B) Psalm 145:1-21  C) Psalm 126:3-6  D) Psalm 51:9-12
 
 **88.** Which passage does **NOT** contain the word **face**?
-A) Genesis 50:16-20  B) Psalm 51:9-12  C) Genesis 31:13  D) Exodus 33:12-19
+A) Exodus 33:12-19  B) Psalm 51:9-12  C) Genesis 31:13  D) Genesis 50:16-20
 
 **89.** Which passage does **NOT** contain the word **face**?
-A) Leviticus 24:17-22  B) James 1:23-26  C) Exodus 33:12-19  D) Psalm 51:9-12
+A) Psalm 51:9-12  B) Leviticus 24:17-22  C) Exodus 33:12-19  D) James 1:23-26
 
 **90.** Which passage contains the word **face**?
-A) Exodus 4:4-5  B) Leviticus 24:17-22  C) Genesis 50:16-20  D) Genesis 31:13
+A) Exodus 4:4-5  B) Genesis 50:16-20  C) Leviticus 24:17-22  D) Genesis 31:13
 
 **91.** Which passage contains the word **face**?
-A) Leviticus 24:17-22  B) Exodus 33:12-19  C) Exodus 4:4-5  D) Leviticus 26:1-10
+A) Exodus 33:12-19  B) Leviticus 24:17-22  C) Leviticus 26:1-10  D) Exodus 4:4-5
 
 **92.** Which passage contains the word **face**?
-A) Psalm 94:8-15  B) Psalm 51:9-12  C) Psalm 126:3-6  D) Psalm 37:10-11
+A) Psalm 51:9-12  B) Psalm 94:8-15  C) Psalm 37:10-11  D) Psalm 126:3-6
 
 **93.** Which passage contains the word **face**?
-A) James 1:23-26  B) James 2:8-10  C) James 1:2-4  D) James 1:21-22
+A) James 2:8-10  B) James 1:23-26  C) James 1:2-4  D) James 1:21-22
 
 **94.** Which passage does **NOT** contain the word **forgive**?
-A) Genesis 31:13  B) Luke 6:35-43  C) Genesis 50:16-20  D) Luke 17:1-4
+A) Luke 6:35-43  B) Luke 17:1-4  C) Genesis 31:13  D) Genesis 50:16-20
 
 **95.** Which passage does **NOT** contain the word **forgive**?
-A) Luke 6:35-43  B) Exodus 4:4-5  C) Luke 17:1-4  D) Genesis 50:16-20
+A) Luke 6:35-43  B) Genesis 50:16-20  C) Exodus 4:4-5  D) Luke 17:1-4
 
 **96.** Which passage contains the word **forgive**?
-A) Exodus 4:4-5  B) Exodus 33:12-19  C) Genesis 50:16-20  D) Genesis 31:13
+A) Exodus 33:12-19  B) Exodus 4:4-5  C) Genesis 50:16-20  D) Genesis 31:13
 
 **97.** Which passage contains the word **forgive**?
 A) Luke 9:19-28  B) Luke 6:20-31  C) Luke 6:35-43  D) Luke 3:7-14
 
 **98.** Which passage contains the word **forgive**?
-A) Luke 19:15-17  B) Luke 9:19-28  C) Luke 17:1-4  D) Luke 18:9-17
+A) Luke 9:19-28  B) Luke 19:15-17  C) Luke 17:1-4  D) Luke 18:9-17
 
 **99.** Which passage does **NOT** contain the word **Gentiles**?
-A) Galatians 2:15-21  B) Romans 1:13-17  C) Romans 2:8-11  D) 1 Peter 2:9-12
+A) Romans 1:13-17  B) Romans 2:8-11  C) Galatians 2:15-21  D) 1 Peter 2:9-12
 
 **100.** Which passage does **NOT** contain the word **Gentiles**?
-A) Galatians 2:15-21  B) 1 Peter 2:9-12  C) Romans 3:1-11  D) Romans 1:13-17
+A) 1 Peter 2:9-12  B) Galatians 2:15-21  C) Romans 1:13-17  D) Romans 3:1-11
 
 **101.** Which passage contains the word **Gentiles**?
-A) Romans 2:8-11  B) Romans 1:13-17  C) Romans 3:1-11  D) Romans 6:10-15
+A) Romans 1:13-17  B) Romans 6:10-15  C) Romans 3:1-11  D) Romans 2:8-11
 
 **102.** Which passage contains the word **Gentiles**?
 A) 2 Corinthians 8:1-17  B) 2 Corinthians 9:1-13  C) Galatians 6:7-10  D) Galatians 2:15-21
 
 **103.** Which passage contains the word **Gentiles**?
-A) 1 Peter 2:9-12  B) James 5:7-11  C) 1 Peter 5:1-11  D) 1 Peter 2:15-25
+A) 1 Peter 2:9-12  B) 1 Peter 2:15-25  C) 1 Peter 5:1-11  D) James 5:7-11
 
 **104.** Which passage does **NOT** contain the word **glad**?
-A) Proverbs 23:15-26  B) Proverbs 15:19-23  C) Psalm 126:3-6  D) Psalm 145:1-21
+A) Proverbs 23:15-26  B) Psalm 126:3-6  C) Psalm 145:1-21  D) Proverbs 15:19-23
 
 **105.** Which passage does **NOT** contain the word **glad**?
-A) Proverbs 28:25-26  B) Proverbs 15:19-23  C) Proverbs 23:15-26  D) Zephaniah 3:13-20
+A) Proverbs 28:25-26  B) Zephaniah 3:13-20  C) Proverbs 15:19-23  D) Proverbs 23:15-26
 
 **106.** Which passage contains the word **glad**?
-A) Psalm 51:9-12  B) Psalm 145:1-21  C) Psalm 126:3-6  D) Psalm 94:8-15
+A) Psalm 126:3-6  B) Psalm 51:9-12  C) Psalm 94:8-15  D) Psalm 145:1-21
 
 **107.** Which passage contains the word **glad**?
-A) Proverbs 15:19-23  B) Proverbs 3:14-15  C) Proverbs 8:10-11  D) Proverbs 28:25-26
+A) Proverbs 15:19-23  B) Proverbs 8:10-11  C) Proverbs 28:25-26  D) Proverbs 3:14-15
 
 **108.** Which passage contains the word **glad**?
-A) Proverbs 23:15-26  B) Proverbs 3:14-15  C) Proverbs 8:10-11  D) Proverbs 28:25-26
+A) Proverbs 28:25-26  B) Proverbs 8:10-11  C) Proverbs 23:15-26  D) Proverbs 3:14-15
 
 **109.** Which passage contains the word **glad**?
-A) Zephaniah 3:13-20  B) Haggai 1:3-11  C) Hosea 10:12  D) Haggai 2:2-9
+A) Haggai 1:3-11  B) Hosea 10:12  C) Haggai 2:2-9  D) Zephaniah 3:13-20
 
 **110.** Which passage does **NOT** contain the word **Greek**?
-A) Mark 7:17-28  B) Romans 1:13-17  C) Mark 8:31-38  D) Romans 2:8-11
+A) Romans 1:13-17  B) Mark 7:17-28  C) Romans 2:8-11  D) Mark 8:31-38
 
 **111.** Which passage does **NOT** contain the word **Greek**?
-A) Mark 7:17-28  B) Romans 1:13-17  C) Romans 2:8-11  D) Mark 9:42-50
+A) Romans 2:8-11  B) Romans 1:13-17  C) Mark 7:17-28  D) Mark 9:42-50
 
 **112.** Which passage contains the word **Greek**?
-A) Mark 9:42-50  B) Mark 8:31-38  C) Matthew 23:25-28  D) Mark 7:17-28
+A) Matthew 23:25-28  B) Mark 7:17-28  C) Mark 9:42-50  D) Mark 8:31-38
 
 **113.** Which passage contains the word **Greek**?
-A) Romans 10:1-5  B) Romans 6:10-15  C) Romans 3:1-11  D) Romans 1:13-17
+A) Romans 1:13-17  B) Romans 10:1-5  C) Romans 6:10-15  D) Romans 3:1-11
 
 **114.** Which passage contains the word **Greek**?
-A) Romans 10:1-5  B) Romans 2:8-11  C) Romans 6:10-15  D) Romans 3:1-11
+A) Romans 6:10-15  B) Romans 3:1-11  C) Romans 10:1-5  D) Romans 2:8-11
 
 **115.** Which passage does **NOT** contain the word **humble**?
-A) Luke 17:1-4  B) 1 Peter 5:1-11  C) James 4:7-10  D) Luke 18:9-17
+A) James 4:7-10  B) 1 Peter 5:1-11  C) Luke 17:1-4  D) Luke 18:9-17
 
 **116.** Which passage does **NOT** contain the word **humble**?
-A) James 4:7-10  B) Luke 18:9-17  C) 1 Peter 5:1-11  D) Luke 19:15-17
+A) James 4:7-10  B) 1 Peter 5:1-11  C) Luke 18:9-17  D) Luke 19:15-17
 
 **117.** Which passage contains the word **humble**?
-A) Luke 19:15-17  B) Luke 9:19-28  C) Luke 18:9-17  D) Luke 17:1-4
+A) Luke 17:1-4  B) Luke 18:9-17  C) Luke 19:15-17  D) Luke 9:19-28
 
 **118.** Which passage contains the word **humble**?
-A) James 4:13-17  B) James 2:15-18  C) James 3:7-13  D) James 4:7-10
+A) James 4:13-17  B) James 4:7-10  C) James 2:15-18  D) James 3:7-13
 
 **119.** Which passage contains the word **humble**?
-A) 1 Peter 2:15-25  B) 1 Peter 5:1-11  C) 1 Peter 2:9-12  D) Revelation 7:9-16
+A) 1 Peter 2:9-12  B) Revelation 7:9-16  C) 1 Peter 5:1-11  D) 1 Peter 2:15-25
 
 **120.** Which passage does **NOT** contain the word **hypocrite**?
-A) Matthew 23:25-28  B) Matthew 7:11-12  C) Luke 6:35-43  D) Matthew 23:13-22
+A) Matthew 7:11-12  B) Luke 6:35-43  C) Matthew 23:25-28  D) Matthew 23:13-22
 
 **121.** Which passage does **NOT** contain the word **hypocrite**?
-A) Matthew 23:25-28  B) Luke 6:35-43  C) Matthew 6:6  D) Matthew 23:13-22
+A) Matthew 23:25-28  B) Luke 6:35-43  C) Matthew 23:13-22  D) Matthew 6:6
 
 **122.** Which passage contains the word **hypocrite**?
-A) Matthew 23:13-22  B) Mark 7:17-28  C) Matthew 6:6  D) Matthew 7:11-12
+A) Matthew 7:11-12  B) Matthew 6:6  C) Matthew 23:13-22  D) Mark 7:17-28
 
 **123.** Which passage contains the word **hypocrite**?
-A) Matthew 6:6  B) Mark 7:17-28  C) Matthew 7:11-12  D) Matthew 23:25-28
+A) Matthew 7:11-12  B) Matthew 6:6  C) Mark 7:17-28  D) Matthew 23:25-28
 
 **124.** Which passage contains the word **hypocrite**?
-A) Luke 6:20-31  B) Luke 9:19-28  C) Luke 6:35-43  D) Luke 17:1-4
+A) Luke 17:1-4  B) Luke 9:19-28  C) Luke 6:35-43  D) Luke 6:20-31
 
 **125.** Which passage does **NOT** contain the word **John**?
-A) Luke 9:19-28  B) John 1:1-18  C) Acts 10:34-43  D) Luke 17:1-4
+A) Acts 10:34-43  B) John 1:1-18  C) Luke 17:1-4  D) Luke 9:19-28
 
 **126.** Which passage does **NOT** contain the word **John**?
-A) Acts 10:34-43  B) John 1:1-18  C) Luke 6:35-43  D) Luke 9:19-28
+A) Luke 9:19-28  B) John 1:1-18  C) Acts 10:34-43  D) Luke 6:35-43
 
 **127.** Which passage contains the word **John**?
-A) Luke 18:9-17  B) Luke 6:35-43  C) Luke 9:19-28  D) Luke 17:1-4
+A) Luke 6:35-43  B) Luke 9:19-28  C) Luke 18:9-17  D) Luke 17:1-4
 
 **128.** Which passage contains the word **John**?
-A) John 17:1-17  B) John 21:12-22  C) Luke 19:15-17  D) John 1:1-18
+A) John 17:1-17  B) Luke 19:15-17  C) John 1:1-18  D) John 21:12-22
 
 **129.** Which passage contains the word **John**?
-A) Romans 1:13-17  B) Acts 10:34-43  C) John 21:12-22  D) Acts 7:49
+A) Acts 10:34-43  B) John 21:12-22  C) Romans 1:13-17  D) Acts 7:49
 
 **130.** Which passage does **NOT** contain the word **Judah**?
-A) Nehemiah 4:6-16  B) Haggai 2:2-9  C) Nehemiah 8:5-12  D) Isaiah 26:1-9
+A) Nehemiah 8:5-12  B) Isaiah 26:1-9  C) Nehemiah 4:6-16  D) Haggai 2:2-9
 
 **131.** Which passage does **NOT** contain the word **Judah**?
-A) 1 Chronicles 11:4-9  B) Haggai 2:2-9  C) Isaiah 26:1-9  D) Nehemiah 4:6-16
+A) 1 Chronicles 11:4-9  B) Isaiah 26:1-9  C) Nehemiah 4:6-16  D) Haggai 2:2-9
 
 **132.** Which passage contains the word **Judah**?
-A) Nehemiah 4:6-16  B) 1 Chronicles 11:4-9  C) Nehemiah 8:5-12  D) 1 Kings 18:36-39
+A) 1 Kings 18:36-39  B) Nehemiah 8:5-12  C) 1 Chronicles 11:4-9  D) Nehemiah 4:6-16
 
 **133.** Which passage contains the word **Judah**?
-A) Isaiah 26:1-9  B) Isaiah 66:1  C) Isaiah 31:4-5  D) Isaiah 66:8
+A) Isaiah 66:1  B) Isaiah 66:8  C) Isaiah 31:4-5  D) Isaiah 26:1-9
 
 **134.** Which passage contains the word **Judah**?
-A) Matthew 6:6  B) Haggai 1:3-11  C) Malachi 3:10  D) Haggai 2:2-9
+A) Haggai 1:3-11  B) Haggai 2:2-9  C) Malachi 3:10  D) Matthew 6:6
 
 **135.** Which passage does **NOT** contain the word **light**?
-A) John 1:1-18  B) 1 Peter 2:9-12  C) Job 28:3-28  D) Job 42:1-9
+A) Job 28:3-28  B) John 1:1-18  C) 1 Peter 2:9-12  D) Job 42:1-9
 
 **136.** Which passage does **NOT** contain the word **light**?
-A) Job 28:3-28  B) Job 9:1-13  C) John 1:1-18  D) 1 Peter 2:9-12
+A) 1 Peter 2:9-12  B) John 1:1-18  C) Job 9:1-13  D) Job 28:3-28
 
 **137.** Which passage contains the word **light**?
-A) Job 42:1-9  B) Job 9:1-13  C) Job 42:10-15  D) Job 28:3-28
+A) Job 42:1-9  B) Job 28:3-28  C) Job 42:10-15  D) Job 9:1-13
 
 **138.** Which passage contains the word **light**?
-A) Luke 19:15-17  B) John 21:12-22  C) John 1:1-18  D) John 17:1-17
+A) Luke 19:15-17  B) John 1:1-18  C) John 17:1-17  D) John 21:12-22
 
 **139.** Which passage contains the word **light**?
-A) 1 Peter 2:15-25  B) 1 Peter 2:9-12  C) James 5:7-11  D) 1 Peter 5:1-11
+A) 1 Peter 2:9-12  B) 1 Peter 2:15-25  C) 1 Peter 5:1-11  D) James 5:7-11
 
 **140.** Which passage does **NOT** contain the word **lion**?
-A) Hebrews 11:31-40  B) Job 42:1-9  C) Job 28:3-28  D) Isaiah 31:4-5
+A) Hebrews 11:31-40  B) Job 42:1-9  C) Isaiah 31:4-5  D) Job 28:3-28
 
 **141.** Which passage does **NOT** contain the word **lion**?
-A) Isaiah 66:1  B) Isaiah 31:4-5  C) Hebrews 11:31-40  D) 1 Peter 5:1-11
+A) Isaiah 31:4-5  B) Isaiah 66:1  C) 1 Peter 5:1-11  D) Hebrews 11:31-40
 
 **142.** Which passage contains the word **lion**?
-A) Job 42:10-15  B) Job 28:3-28  C) Job 9:1-13  D) Job 42:1-9
+A) Job 42:1-9  B) Job 42:10-15  C) Job 28:3-28  D) Job 9:1-13
 
 **143.** Which passage contains the word **lion**?
 A) Isaiah 26:1-9  B) Isaiah 31:4-5  C) Isaiah 66:8  D) Isaiah 66:1
@@ -2078,315 +2060,315 @@ A) Isaiah 26:1-9  B) Isaiah 31:4-5  C) Isaiah 66:8  D) Isaiah 66:1
 A) Hebrews 11:24-26  B) James 1:2-4  C) Hebrews 11:31-40  D) Hebrews 11:13-16
 
 **145.** Which passage contains the word **lion**?
-A) 1 Peter 2:15-25  B) 1 Peter 5:1-11  C) Revelation 7:9-16  D) 1 Peter 2:9-12
+A) 1 Peter 5:1-11  B) Revelation 7:9-16  C) 1 Peter 2:15-25  D) 1 Peter 2:9-12
 
 **146.** Which passage does **NOT** contain the word **meek**?
-A) Psalm 37:10-11  B) James 3:7-13  C) Psalm 18:2-12  D) James 1:21-22
+A) James 3:7-13  B) James 1:21-22  C) Psalm 37:10-11  D) Psalm 18:2-12
 
 **147.** Which passage does **NOT** contain the word **meek**?
-A) Psalm 51:9-12  B) James 3:7-13  C) Psalm 37:10-11  D) James 1:21-22
+A) James 3:7-13  B) Psalm 51:9-12  C) James 1:21-22  D) Psalm 37:10-11
 
 **148.** Which passage contains the word **meek**?
-A) Psalm 94:8-15  B) Psalm 51:9-12  C) Psalm 18:2-12  D) Psalm 37:10-11
+A) Psalm 37:10-11  B) Psalm 94:8-15  C) Psalm 51:9-12  D) Psalm 18:2-12
 
 **149.** Which passage contains the word **meek**?
 A) James 2:8-10  B) James 1:21-22  C) James 1:23-26  D) James 1:2-4
 
 **150.** Which passage contains the word **meek**?
-A) James 3:7-13  B) James 2:8-10  C) James 4:7-10  D) James 2:15-18
+A) James 4:7-10  B) James 3:7-13  C) James 2:8-10  D) James 2:15-18
 
 **151.** Which passage does **NOT** contain the word **merciful**?
-A) James 5:7-11  B) Luke 6:20-31  C) Luke 18:9-17  D) Luke 6:35-43
+A) Luke 6:20-31  B) Luke 6:35-43  C) Luke 18:9-17  D) James 5:7-11
 
 **152.** Which passage does **NOT** contain the word **merciful**?
-A) Luke 18:9-17  B) Luke 9:19-28  C) James 5:7-11  D) Luke 6:35-43
+A) Luke 6:35-43  B) James 5:7-11  C) Luke 9:19-28  D) Luke 18:9-17
 
 **153.** Which passage contains the word **merciful**?
-A) Luke 6:35-43  B) Luke 6:20-31  C) Luke 9:19-28  D) Luke 17:1-4
+A) Luke 17:1-4  B) Luke 6:35-43  C) Luke 9:19-28  D) Luke 6:20-31
 
 **154.** Which passage contains the word **merciful**?
-A) Luke 17:1-4  B) Luke 9:19-28  C) Luke 18:9-17  D) Luke 19:15-17
+A) Luke 17:1-4  B) Luke 18:9-17  C) Luke 9:19-28  D) Luke 19:15-17
 
 **155.** Which passage contains the word **merciful**?
-A) James 3:7-13  B) James 5:7-11  C) James 4:7-10  D) James 4:13-17
+A) James 5:7-11  B) James 4:13-17  C) James 4:7-10  D) James 3:7-13
 
 **156.** Which passage does **NOT** contain the word **offering**?
-A) 1 Kings 3:3-10  B) 1 Kings 8:22-28  C) Job 42:1-9  D) 1 Kings 18:36-39
+A) Job 42:1-9  B) 1 Kings 18:36-39  C) 1 Kings 3:3-10  D) 1 Kings 8:22-28
 
 **157.** Which passage does **NOT** contain the word **offering**?
-A) 1 Kings 12:6-8  B) 1 Kings 3:3-10  C) 1 Kings 18:36-39  D) Job 42:1-9
+A) 1 Kings 18:36-39  B) 1 Kings 3:3-10  C) Job 42:1-9  D) 1 Kings 12:6-8
 
 **158.** Which passage contains the word **offering**?
 A) 2 Samuel 22:1-4  B) 1 Kings 12:6-8  C) 1 Kings 8:22-28  D) 1 Kings 3:3-10
 
 **159.** Which passage contains the word **offering**?
-A) 1 Kings 8:22-28  B) 1 Kings 12:6-8  C) 1 Chronicles 11:4-9  D) 1 Kings 18:36-39
+A) 1 Kings 8:22-28  B) 1 Kings 12:6-8  C) 1 Kings 18:36-39  D) 1 Chronicles 11:4-9
 
 **160.** Which passage contains the word **offering**?
-A) Job 9:1-13  B) Job 42:10-15  C) Job 28:3-28  D) Job 42:1-9
+A) Job 9:1-13  B) Job 42:1-9  C) Job 42:10-15  D) Job 28:3-28
 
 **161.** Which passage does **NOT** contain the word **path**?
-A) Proverbs 1:5-23  B) Job 28:3-28  C) Job 42:1-9  D) Proverbs 3:5-6
+A) Proverbs 3:5-6  B) Proverbs 1:5-23  C) Job 42:1-9  D) Job 28:3-28
 
 **162.** Which passage does **NOT** contain the word **path**?
-A) Isaiah 26:1-9  B) Proverbs 8:10-11  C) Proverbs 3:5-6  D) Proverbs 1:5-23
+A) Proverbs 3:5-6  B) Proverbs 1:5-23  C) Isaiah 26:1-9  D) Proverbs 8:10-11
 
 **163.** Which passage contains the word **path**?
-A) Job 42:10-15  B) Job 9:1-13  C) Job 28:3-28  D) Job 42:1-9
+A) Job 42:1-9  B) Job 28:3-28  C) Job 9:1-13  D) Job 42:10-15
 
 **164.** Which passage contains the word **path**?
-A) Proverbs 8:10-11  B) Proverbs 3:14-15  C) Proverbs 15:19-23  D) Proverbs 1:5-23
+A) Proverbs 3:14-15  B) Proverbs 1:5-23  C) Proverbs 15:19-23  D) Proverbs 8:10-11
 
 **165.** Which passage contains the word **path**?
-A) Proverbs 3:14-15  B) Proverbs 3:5-6  C) Proverbs 8:10-11  D) Proverbs 15:19-23
+A) Proverbs 15:19-23  B) Proverbs 8:10-11  C) Proverbs 3:5-6  D) Proverbs 3:14-15
 
 **166.** Which passage contains the word **path**?
-A) Isaiah 31:4-5  B) Isaiah 26:1-9  C) Isaiah 66:8  D) Isaiah 66:1
+A) Isaiah 66:8  B) Isaiah 31:4-5  C) Isaiah 66:1  D) Isaiah 26:1-9
 
 **167.** Which passage does **NOT** contain the word **Pharisees**?
-A) Luke 18:9-17  B) Matthew 23:25-28  C) Matthew 7:11-12  D) Matthew 23:13-22
+A) Matthew 23:25-28  B) Matthew 7:11-12  C) Matthew 23:13-22  D) Luke 18:9-17
 
 **168.** Which passage does **NOT** contain the word **Pharisees**?
-A) Luke 18:9-17  B) Matthew 23:13-22  C) Matthew 23:25-28  D) Matthew 6:6
+A) Matthew 23:25-28  B) Matthew 23:13-22  C) Luke 18:9-17  D) Matthew 6:6
 
 **169.** Which passage contains the word **Pharisees**?
-A) Matthew 6:6  B) Matthew 23:13-22  C) Matthew 7:11-12  D) Mark 7:17-28
+A) Mark 7:17-28  B) Matthew 6:6  C) Matthew 23:13-22  D) Matthew 7:11-12
 
 **170.** Which passage contains the word **Pharisees**?
-A) Matthew 6:6  B) Matthew 7:11-12  C) Mark 7:17-28  D) Matthew 23:25-28
+A) Mark 7:17-28  B) Matthew 6:6  C) Matthew 7:11-12  D) Matthew 23:25-28
 
 **171.** Which passage contains the word **Pharisees**?
-A) Luke 9:19-28  B) Luke 19:15-17  C) Luke 18:9-17  D) Luke 17:1-4
+A) Luke 19:15-17  B) Luke 18:9-17  C) Luke 9:19-28  D) Luke 17:1-4
 
 **172.** Which passage does **NOT** contain the word **proud**?
-A) Proverbs 28:25-26  B) Job 28:3-28  C) Job 9:1-13  D) Job 5:17-27
+A) Job 9:1-13  B) Proverbs 28:25-26  C) Job 5:17-27  D) Job 28:3-28
 
 **173.** Which passage does **NOT** contain the word **proud**?
-A) Proverbs 28:25-26  B) Job 42:10-15  C) 1 Peter 5:1-11  D) Job 28:3-28
+A) Job 28:3-28  B) Job 42:10-15  C) 1 Peter 5:1-11  D) Proverbs 28:25-26
 
 **174.** Which passage contains the word **proud**?
-A) Job 5:17-27  B) Job 42:10-15  C) Job 9:1-13  D) Job 42:1-9
+A) Job 5:17-27  B) Job 42:10-15  C) Job 42:1-9  D) Job 9:1-13
 
 **175.** Which passage contains the word **proud**?
-A) Job 42:1-9  B) Job 28:3-28  C) Job 5:17-27  D) Job 42:10-15
+A) Job 5:17-27  B) Job 42:1-9  C) Job 28:3-28  D) Job 42:10-15
 
 **176.** Which passage contains the word **proud**?
-A) Proverbs 23:15-26  B) Proverbs 8:10-11  C) Proverbs 15:19-23  D) Proverbs 28:25-26
+A) Proverbs 28:25-26  B) Proverbs 8:10-11  C) Proverbs 23:15-26  D) Proverbs 15:19-23
 
 **177.** Which passage contains the word **proud**?
-A) Revelation 7:9-16  B) 1 Peter 2:15-25  C) 1 Peter 5:1-11  D) 1 Peter 2:9-12
+A) Revelation 7:9-16  B) 1 Peter 2:15-25  C) 1 Peter 2:9-12  D) 1 Peter 5:1-11
 
 **178.** Which passage does **NOT** contain the word **reap**?
-A) Psalm 145:1-21  B) 2 Corinthians 9:1-13  C) Psalm 126:3-6  D) Hosea 10:12
+A) Psalm 145:1-21  B) 2 Corinthians 9:1-13  C) Hosea 10:12  D) Psalm 126:3-6
 
 **179.** Which passage does **NOT** contain the word **reap**?
-A) Galatians 6:7-10  B) Hosea 10:12  C) 2 Corinthians 9:1-13  D) Zephaniah 3:13-20
+A) Galatians 6:7-10  B) Zephaniah 3:13-20  C) Hosea 10:12  D) 2 Corinthians 9:1-13
 
 **180.** Which passage contains the word **reap**?
 A) Psalm 126:3-6  B) Psalm 51:9-12  C) Psalm 94:8-15  D) Psalm 145:1-21
 
 **181.** Which passage contains the word **reap**?
-A) Haggai 1:3-11  B) Hosea 10:12  C) Jeremiah 20:7-13  D) Zephaniah 3:13-20
+A) Haggai 1:3-11  B) Hosea 10:12  C) Zephaniah 3:13-20  D) Jeremiah 20:7-13
 
 **182.** Which passage contains the word **reap**?
-A) 2 Corinthians 9:1-13  B) 1 Corinthians 15:32-33  C) Galatians 2:15-21  D) 2 Corinthians 8:1-17
+A) 2 Corinthians 9:1-13  B) 1 Corinthians 15:32-33  C) 2 Corinthians 8:1-17  D) Galatians 2:15-21
 
 **183.** Which passage contains the word **reap**?
-A) Ephesians 6:5-9  B) Galatians 6:7-10  C) Ephesians 1:15-23  D) Galatians 2:15-21
+A) Ephesians 6:5-9  B) Ephesians 1:15-23  C) Galatians 6:7-10  D) Galatians 2:15-21
 
 **184.** Which passage does **NOT** contain the word **riches**?
-A) 2 Corinthians 9:1-13  B) Hebrews 11:24-26  C) 2 Corinthians 8:1-17  D) Ephesians 1:15-23
+A) 2 Corinthians 8:1-17  B) Hebrews 11:24-26  C) Ephesians 1:15-23  D) 2 Corinthians 9:1-13
 
 **185.** Which passage does **NOT** contain the word **riches**?
 A) Hebrews 11:24-26  B) Ephesians 1:15-23  C) 1 Corinthians 15:32-33  D) 2 Corinthians 8:1-17
 
 **186.** Which passage contains the word **riches**?
-A) 2 Corinthians 9:1-13  B) 1 Corinthians 6:1-10  C) 1 Corinthians 15:32-33  D) 2 Corinthians 8:1-17
+A) 1 Corinthians 6:1-10  B) 1 Corinthians 15:32-33  C) 2 Corinthians 8:1-17  D) 2 Corinthians 9:1-13
 
 **187.** Which passage contains the word **riches**?
-A) Galatians 2:15-21  B) Galatians 6:7-10  C) Ephesians 1:15-23  D) Ephesians 6:5-9
+A) Galatians 6:7-10  B) Ephesians 1:15-23  C) Galatians 2:15-21  D) Ephesians 6:5-9
 
 **188.** Which passage contains the word **riches**?
-A) 1 Timothy 5:1-6  B) Hebrews 11:31-40  C) Hebrews 11:24-26  D) Hebrews 11:13-16
+A) 1 Timothy 5:1-6  B) Hebrews 11:13-16  C) Hebrews 11:24-26  D) Hebrews 11:31-40
 
 **189.** Which passage does **NOT** contain the word **rubies**?
-A) Proverbs 3:14-15  B) Job 42:1-9  C) Proverbs 8:10-11  D) Job 28:3-28
+A) Job 42:1-9  B) Proverbs 3:14-15  C) Job 28:3-28  D) Proverbs 8:10-11
 
 **190.** Which passage does **NOT** contain the word **rubies**?
-A) Proverbs 8:10-11  B) Job 28:3-28  C) Job 9:1-13  D) Proverbs 3:14-15
+A) Proverbs 8:10-11  B) Job 9:1-13  C) Job 28:3-28  D) Proverbs 3:14-15
 
 **191.** Which passage contains the word **rubies**?
-A) Job 28:3-28  B) Job 9:1-13  C) Job 42:1-9  D) Job 42:10-15
+A) Job 28:3-28  B) Job 42:10-15  C) Job 42:1-9  D) Job 9:1-13
 
 **192.** Which passage contains the word **rubies**?
-A) Proverbs 1:5-23  B) Proverbs 3:14-15  C) Proverbs 3:5-6  D) Proverbs 15:19-23
+A) Proverbs 1:5-23  B) Proverbs 15:19-23  C) Proverbs 3:5-6  D) Proverbs 3:14-15
 
 **193.** Which passage contains the word **rubies**?
-A) Proverbs 8:10-11  B) Proverbs 3:5-6  C) Proverbs 15:19-23  D) Proverbs 23:15-26
+A) Proverbs 23:15-26  B) Proverbs 3:5-6  C) Proverbs 8:10-11  D) Proverbs 15:19-23
 
 **194.** Which passage does **NOT** contain the word **sacrifice**?
-A) Ecclesiastes 5:1-3  B) 1 Kings 18:36-39  C) 1 Kings 3:3-10  D) 1 Kings 8:22-28
+A) 1 Kings 3:3-10  B) Ecclesiastes 5:1-3  C) 1 Kings 18:36-39  D) 1 Kings 8:22-28
 
 **195.** Which passage does **NOT** contain the word **sacrifice**?
-A) Ecclesiastes 5:1-3  B) Mark 9:42-50  C) 1 Kings 8:22-28  D) 1 Kings 18:36-39
+A) 1 Kings 18:36-39  B) Mark 9:42-50  C) 1 Kings 8:22-28  D) Ecclesiastes 5:1-3
 
 **196.** Which passage contains the word **sacrifice**?
-A) 1 Kings 8:22-28  B) 2 Samuel 22:1-4  C) 1 Kings 12:6-8  D) 1 Kings 3:3-10
+A) 1 Kings 3:3-10  B) 1 Kings 8:22-28  C) 2 Samuel 22:1-4  D) 1 Kings 12:6-8
 
 **197.** Which passage contains the word **sacrifice**?
-A) 1 Kings 12:6-8  B) 1 Chronicles 11:4-9  C) 1 Kings 18:36-39  D) 1 Kings 8:22-28
+A) 1 Chronicles 11:4-9  B) 1 Kings 12:6-8  C) 1 Kings 8:22-28  D) 1 Kings 18:36-39
 
 **198.** Which passage contains the word **sacrifice**?
-A) Ecclesiastes 5:1-3  B) Ecclesiastes 3:9-17  C) Ecclesiastes 8:16-17  D) Ecclesiastes 7:13-23
+A) Ecclesiastes 7:13-23  B) Ecclesiastes 8:16-17  C) Ecclesiastes 5:1-3  D) Ecclesiastes 3:9-17
 
 **199.** Which passage contains the word **sacrifice**?
-A) Luke 2:41-52  B) Mark 8:31-38  C) Mark 7:17-28  D) Mark 9:42-50
+A) Luke 2:41-52  B) Mark 7:17-28  C) Mark 9:42-50  D) Mark 8:31-38
 
 **200.** Which passage does **NOT** contain the word **scribes**?
-A) Matthew 23:25-28  B) Mark 8:31-38  C) Matthew 7:11-12  D) Matthew 23:13-22
+A) Matthew 23:13-22  B) Matthew 7:11-12  C) Mark 8:31-38  D) Matthew 23:25-28
 
 **201.** Which passage does **NOT** contain the word **scribes**?
-A) Luke 9:19-28  B) Mark 8:31-38  C) Matthew 6:6  D) Matthew 23:25-28
+A) Matthew 6:6  B) Luke 9:19-28  C) Matthew 23:25-28  D) Mark 8:31-38
 
 **202.** Which passage contains the word **scribes**?
-A) Matthew 7:11-12  B) Matthew 23:13-22  C) Mark 7:17-28  D) Matthew 6:6
+A) Matthew 7:11-12  B) Mark 7:17-28  C) Matthew 23:13-22  D) Matthew 6:6
 
 **203.** Which passage contains the word **scribes**?
-A) Matthew 23:25-28  B) Mark 7:17-28  C) Matthew 7:11-12  D) Matthew 6:6
+A) Matthew 7:11-12  B) Matthew 23:25-28  C) Mark 7:17-28  D) Matthew 6:6
 
 **204.** Which passage contains the word **scribes**?
-A) Mark 7:17-28  B) Luke 2:41-52  C) Mark 8:31-38  D) Mark 9:42-50
+A) Mark 9:42-50  B) Mark 8:31-38  C) Mark 7:17-28  D) Luke 2:41-52
 
 **205.** Which passage contains the word **scribes**?
-A) Luke 17:1-4  B) Luke 9:19-28  C) Luke 18:9-17  D) Luke 6:35-43
+A) Luke 17:1-4  B) Luke 18:9-17  C) Luke 6:35-43  D) Luke 9:19-28
 
 **206.** Which passage does **NOT** contain the word **serve**?
-A) 1 Kings 12:6-8  B) Joshua 17:3-4  C) Joshua 23:3-14  D) Romans 14:4-19
+A) Joshua 17:3-4  B) Romans 14:4-19  C) Joshua 23:3-14  D) 1 Kings 12:6-8
 
 **207.** Which passage does **NOT** contain the word **serve**?
-A) 1 Kings 12:6-8  B) Revelation 7:9-16  C) Romans 14:4-19  D) 1 Kings 8:22-28
+A) Revelation 7:9-16  B) 1 Kings 8:22-28  C) Romans 14:4-19  D) 1 Kings 12:6-8
 
 **208.** Which passage contains the word **serve**?
-A) Joshua 23:3-14  B) Judges 6:11-14  C) Joshua 17:3-4  D) Joshua 2:8-11
+A) Joshua 23:3-14  B) Joshua 2:8-11  C) Judges 6:11-14  D) Joshua 17:3-4
 
 **209.** Which passage contains the word **serve**?
-A) 1 Kings 3:3-10  B) 1 Kings 12:6-8  C) 1 Kings 8:22-28  D) 1 Kings 18:36-39
+A) 1 Kings 12:6-8  B) 1 Kings 18:36-39  C) 1 Kings 8:22-28  D) 1 Kings 3:3-10
 
 **210.** Which passage contains the word **serve**?
-A) Romans 14:4-19  B) Romans 6:10-15  C) Romans 3:1-11  D) Romans 10:1-5
+A) Romans 10:1-5  B) Romans 3:1-11  C) Romans 6:10-15  D) Romans 14:4-19
 
 **211.** Which passage contains the word **serve**?
-A) Revelation 7:9-16  B) 1 Peter 5:1-11  C) 1 Peter 2:15-25  D) 1 Peter 2:9-12
+A) Revelation 7:9-16  B) 1 Peter 2:9-12  C) 1 Peter 2:15-25  D) 1 Peter 5:1-11
 
 **212.** Which passage does **NOT** contain the word **sheep**?
-A) Job 42:10-15  B) 1 Peter 2:15-25  C) John 21:12-22  D) Job 42:1-9
+A) Job 42:10-15  B) 1 Peter 2:15-25  C) Job 42:1-9  D) John 21:12-22
 
 **213.** Which passage does **NOT** contain the word **sheep**?
-A) Job 28:3-28  B) 1 Peter 2:15-25  C) John 21:12-22  D) Job 42:10-15
+A) 1 Peter 2:15-25  B) John 21:12-22  C) Job 28:3-28  D) Job 42:10-15
 
 **214.** Which passage contains the word **sheep**?
-A) Job 42:1-9  B) Job 9:1-13  C) Job 42:10-15  D) Job 28:3-28
+A) Job 28:3-28  B) Job 42:10-15  C) Job 9:1-13  D) Job 42:1-9
 
 **215.** Which passage contains the word **sheep**?
 A) Acts 7:49  B) John 1:1-18  C) John 21:12-22  D) John 17:1-17
 
 **216.** Which passage contains the word **sheep**?
-A) 1 Peter 5:1-11  B) 1 Peter 2:15-25  C) James 5:7-11  D) 1 Peter 2:9-12
+A) 1 Peter 2:9-12  B) James 5:7-11  C) 1 Peter 2:15-25  D) 1 Peter 5:1-11
 
 **217.** Which passage does **NOT** contain the word **shepherd**?
-A) 1 Peter 5:1-11  B) 1 Peter 2:15-25  C) Isaiah 26:1-9  D) Isaiah 31:4-5
+A) 1 Peter 2:15-25  B) 1 Peter 5:1-11  C) Isaiah 26:1-9  D) Isaiah 31:4-5
 
 **218.** Which passage does **NOT** contain the word **shepherd**?
-A) Isaiah 31:4-5  B) 1 Peter 5:1-11  C) Isaiah 66:1  D) 1 Peter 2:15-25
+A) Isaiah 66:1  B) 1 Peter 5:1-11  C) Isaiah 31:4-5  D) 1 Peter 2:15-25
 
 **219.** Which passage contains the word **shepherd**?
-A) Isaiah 66:1  B) Isaiah 66:8  C) Isaiah 31:4-5  D) Isaiah 26:1-9
+A) Isaiah 26:1-9  B) Isaiah 66:8  C) Isaiah 66:1  D) Isaiah 31:4-5
 
 **220.** Which passage contains the word **shepherd**?
-A) 1 Peter 2:15-25  B) Revelation 7:9-16  C) 1 Peter 2:9-12  D) James 5:7-11
+A) 1 Peter 2:9-12  B) Revelation 7:9-16  C) James 5:7-11  D) 1 Peter 2:15-25
 
 **221.** Which passage contains the word **shepherd**?
-A) 1 Peter 2:9-12  B) James 5:7-11  C) Revelation 7:9-16  D) 1 Peter 5:1-11
+A) 1 Peter 5:1-11  B) James 5:7-11  C) 1 Peter 2:9-12  D) Revelation 7:9-16
 
 **222.** Which passage does **NOT** contain the word **sing**?
 A) Psalm 145:1-21  B) Zephaniah 3:13-20  C) Jeremiah 20:7-13  D) Psalm 126:3-6
 
 **223.** Which passage does **NOT** contain the word **sing**?
-A) Psalm 94:8-15  B) Zephaniah 3:13-20  C) Psalm 145:1-21  D) Jeremiah 20:7-13
+A) Psalm 145:1-21  B) Psalm 94:8-15  C) Zephaniah 3:13-20  D) Jeremiah 20:7-13
 
 **224.** Which passage contains the word **sing**?
 A) Psalm 126:3-6  B) Psalm 51:9-12  C) Psalm 94:8-15  D) Psalm 145:1-21
 
 **225.** Which passage contains the word **sing**?
-A) Jeremiah 17:7-8  B) Jeremiah 20:7-13  C) Hosea 10:12  D) Jeremiah 1:4-12
+A) Jeremiah 1:4-12  B) Jeremiah 20:7-13  C) Jeremiah 17:7-8  D) Hosea 10:12
 
 **226.** Which passage contains the word **sing**?
 A) Haggai 1:3-11  B) Haggai 2:2-9  C) Hosea 10:12  D) Zephaniah 3:13-20
 
 **227.** Which passage does **NOT** contain the word **Solomon**?
-A) 1 Kings 8:22-28  B) 1 Kings 18:36-39  C) 1 Kings 3:3-10  D) 1 Kings 12:6-8
+A) 1 Kings 18:36-39  B) 1 Kings 3:3-10  C) 1 Kings 12:6-8  D) 1 Kings 8:22-28
 
 **228.** Which passage does **NOT** contain the word **Solomon**?
-A) 1 Kings 3:3-10  B) 1 Kings 12:6-8  C) 1 Kings 8:22-28  D) 2 Samuel 22:1-4
+A) 1 Kings 12:6-8  B) 1 Kings 3:3-10  C) 1 Kings 8:22-28  D) 2 Samuel 22:1-4
 
 **229.** Which passage contains the word **Solomon**?
-A) 1 Kings 3:3-10  B) 1 Kings 18:36-39  C) 1 Samuel 25:32-33  D) 2 Samuel 22:1-4
+A) 1 Kings 18:36-39  B) 2 Samuel 22:1-4  C) 1 Kings 3:3-10  D) 1 Samuel 25:32-33
 
 **230.** Which passage contains the word **Solomon**?
-A) 1 Chronicles 11:4-9  B) 1 Kings 18:36-39  C) 2 Samuel 22:1-4  D) 1 Kings 8:22-28
+A) 2 Samuel 22:1-4  B) 1 Chronicles 11:4-9  C) 1 Kings 8:22-28  D) 1 Kings 18:36-39
 
 **231.** Which passage contains the word **Solomon**?
-A) 1 Kings 18:36-39  B) 1 Chronicles 11:4-9  C) 1 Kings 12:6-8  D) 2 Samuel 22:1-4
+A) 2 Samuel 22:1-4  B) 1 Chronicles 11:4-9  C) 1 Kings 18:36-39  D) 1 Kings 12:6-8
 
 **232.** Which passage does **NOT** contain the word **statutes**?
-A) Deuteronomy 5:23-33  B) 1 Kings 3:3-10  C) Leviticus 24:17-22  D) Leviticus 26:1-10
+A) Deuteronomy 5:23-33  B) Leviticus 26:1-10  C) Leviticus 24:17-22  D) 1 Kings 3:3-10
 
 **233.** Which passage does **NOT** contain the word **statutes**?
-A) 1 Kings 3:3-10  B) Deuteronomy 5:23-33  C) Leviticus 26:1-10  D) Exodus 33:12-19
+A) 1 Kings 3:3-10  B) Exodus 33:12-19  C) Deuteronomy 5:23-33  D) Leviticus 26:1-10
 
 **234.** Which passage contains the word **statutes**?
-A) Exodus 33:12-19  B) Leviticus 24:17-22  C) Leviticus 26:1-10  D) Joshua 2:8-11
+A) Leviticus 24:17-22  B) Exodus 33:12-19  C) Joshua 2:8-11  D) Leviticus 26:1-10
 
 **235.** Which passage contains the word **statutes**?
-A) Leviticus 24:17-22  B) Deuteronomy 5:23-33  C) Joshua 17:3-4  D) Joshua 2:8-11
+A) Deuteronomy 5:23-33  B) Leviticus 24:17-22  C) Joshua 17:3-4  D) Joshua 2:8-11
 
 **236.** Which passage contains the word **statutes**?
-A) 1 Kings 8:22-28  B) 1 Kings 12:6-8  C) 1 Kings 18:36-39  D) 1 Kings 3:3-10
+A) 1 Kings 3:3-10  B) 1 Kings 12:6-8  C) 1 Kings 18:36-39  D) 1 Kings 8:22-28
 
 **237.** Which passage does **NOT** contain the word **sun**?
-A) Job 28:3-28  B) Ecclesiastes 8:16-17  C) Ecclesiastes 3:9-17  D) Job 9:1-13
+A) Ecclesiastes 8:16-17  B) Job 9:1-13  C) Job 28:3-28  D) Ecclesiastes 3:9-17
 
 **238.** Which passage does **NOT** contain the word **sun**?
-A) Ecclesiastes 7:13-23  B) Ecclesiastes 8:16-17  C) Revelation 7:9-16  D) Ecclesiastes 3:9-17
+A) Revelation 7:9-16  B) Ecclesiastes 8:16-17  C) Ecclesiastes 3:9-17  D) Ecclesiastes 7:13-23
 
 **239.** Which passage contains the word **sun**?
-A) Job 42:1-9  B) Job 28:3-28  C) Job 9:1-13  D) Job 5:17-27
+A) Job 5:17-27  B) Job 42:1-9  C) Job 9:1-13  D) Job 28:3-28
 
 **240.** Which passage contains the word **sun**?
-A) Proverbs 28:25-26  B) Ecclesiastes 7:13-23  C) Ecclesiastes 5:1-3  D) Ecclesiastes 3:9-17
+A) Proverbs 28:25-26  B) Ecclesiastes 5:1-3  C) Ecclesiastes 3:9-17  D) Ecclesiastes 7:13-23
 
 **241.** Which passage contains the word **sun**?
-A) Ecclesiastes 5:1-3  B) Isaiah 26:1-9  C) Ecclesiastes 8:16-17  D) Ecclesiastes 7:13-23
+A) Ecclesiastes 7:13-23  B) Isaiah 26:1-9  C) Ecclesiastes 8:16-17  D) Ecclesiastes 5:1-3
 
 **242.** Which passage contains the word **sun**?
-A) 1 Peter 2:9-12  B) 1 Peter 5:1-11  C) Revelation 7:9-16  D) 1 Peter 2:15-25
+A) 1 Peter 2:9-12  B) 1 Peter 2:15-25  C) Revelation 7:9-16  D) 1 Peter 5:1-11
 
 **243.** Which passage does **NOT** contain the word **sword**?
-A) Leviticus 26:1-10  B) Hebrews 11:31-40  C) Leviticus 24:17-22  D) Job 5:17-27
+A) Hebrews 11:31-40  B) Leviticus 26:1-10  C) Job 5:17-27  D) Leviticus 24:17-22
 
 **244.** Which passage does **NOT** contain the word **sword**?
-A) Hebrews 11:31-40  B) Job 5:17-27  C) Deuteronomy 5:23-33  D) Leviticus 26:1-10
+A) Leviticus 26:1-10  B) Job 5:17-27  C) Deuteronomy 5:23-33  D) Hebrews 11:31-40
 
 **245.** Which passage contains the word **sword**?
-A) Exodus 33:12-19  B) Leviticus 24:17-22  C) Deuteronomy 5:23-33  D) Leviticus 26:1-10
+A) Deuteronomy 5:23-33  B) Leviticus 26:1-10  C) Leviticus 24:17-22  D) Exodus 33:12-19
 
 **246.** Which passage contains the word **sword**?
-A) Job 9:1-13  B) Job 28:3-28  C) Job 5:17-27  D) Job 42:1-9
+A) Job 5:17-27  B) Job 28:3-28  C) Job 42:1-9  D) Job 9:1-13
 
 **247.** Which passage contains the word **sword**?
-A) Hebrews 11:13-16  B) Hebrews 11:31-40  C) Hebrews 11:24-26  D) James 1:2-4
+A) Hebrews 11:13-16  B) Hebrews 11:24-26  C) Hebrews 11:31-40  D) James 1:2-4
 
-**Answer key — SET 10:** 1‑B, 2‑A, 3‑D, 4‑D, 5‑A, 6‑C, 7‑D, 8‑C, 9‑B, 10‑C, 11‑A, 12‑A, 13‑D, 14‑D, 15‑B, 16‑C, 17‑B, 18‑B, 19‑B, 20‑D, 21‑D, 22‑A, 23‑C, 24‑D, 25‑D, 26‑D, 27‑A, 28‑B, 29‑C, 30‑A, 31‑B, 32‑D, 33‑B, 34‑A, 35‑B, 36‑B, 37‑C, 38‑D, 39‑D, 40‑C, 41‑D, 42‑D, 43‑C, 44‑D, 45‑C, 46‑B, 47‑A, 48‑C, 49‑D, 50‑C, 51‑A, 52‑D, 53‑D, 54‑C, 55‑A, 56‑B, 57‑A, 58‑B, 59‑A, 60‑B, 61‑D, 62‑C, 63‑A, 64‑D, 65‑C, 66‑A, 67‑C, 68‑B, 69‑B, 70‑C, 71‑A, 72‑C, 73‑A, 74‑A, 75‑D, 76‑C, 77‑A, 78‑B, 79‑A, 80‑C, 81‑C, 82‑D, 83‑D, 84‑A, 85‑C, 86‑C, 87‑D, 88‑C, 89‑A, 90‑C, 91‑B, 92‑B, 93‑A, 94‑A, 95‑B, 96‑C, 97‑C, 98‑C, 99‑C, 100‑C, 101‑B, 102‑D, 103‑A, 104‑D, 105‑A, 106‑C, 107‑A, 108‑A, 109‑A, 110‑C, 111‑D, 112‑D, 113‑D, 114‑B, 115‑A, 116‑D, 117‑C, 118‑D, 119‑B, 120‑B, 121‑C, 122‑A, 123‑D, 124‑C, 125‑D, 126‑C, 127‑C, 128‑D, 129‑B, 130‑C, 131‑A, 132‑A, 133‑A, 134‑D, 135‑D, 136‑B, 137‑D, 138‑C, 139‑B, 140‑B, 141‑A, 142‑B, 143‑B, 144‑C, 145‑B, 146‑C, 147‑A, 148‑D, 149‑B, 150‑A, 151‑B, 152‑B, 153‑A, 154‑C, 155‑B, 156‑B, 157‑A, 158‑D, 159‑D, 160‑D, 161‑C, 162‑B, 163‑C, 164‑D, 165‑B, 166‑B, 167‑C, 168‑D, 169‑B, 170‑D, 171‑C, 172‑D, 173‑B, 174‑C, 175‑B, 176‑D, 177‑C, 178‑A, 179‑D, 180‑A, 181‑B, 182‑A, 183‑B, 184‑A, 185‑C, 186‑D, 187‑C, 188‑C, 189‑B, 190‑C, 191‑A, 192‑B, 193‑A, 194‑D, 195‑C, 196‑D, 197‑C, 198‑A, 199‑D, 200‑C, 201‑C, 202‑B, 203‑A, 204‑C, 205‑B, 206‑B, 207‑D, 208‑A, 209‑B, 210‑A, 211‑A, 212‑D, 213‑A, 214‑C, 215‑C, 216‑B, 217‑C, 218‑C, 219‑C, 220‑A, 221‑D, 222‑D, 223‑A, 224‑D, 225‑B, 226‑D, 227‑B, 228‑D, 229‑A, 230‑D, 231‑C, 232‑C, 233‑D, 234‑C, 235‑B, 236‑D, 237‑A, 238‑A, 239‑C, 240‑D, 241‑C, 242‑C, 243‑C, 244‑C, 245‑D, 246‑C, 247‑B
+**Answer key — SET 10:** 1‑D, 2‑D, 3‑A, 4‑C, 5‑D, 6‑C, 7‑B, 8‑C, 9‑A, 10‑A, 11‑D, 12‑D, 13‑B, 14‑C, 15‑B, 16‑B, 17‑B, 18‑D, 19‑D, 20‑A, 21‑C, 22‑D, 23‑D, 24‑D, 25‑A, 26‑B, 27‑C, 28‑A, 29‑B, 30‑D, 31‑B, 32‑A, 33‑B, 34‑B, 35‑C, 36‑D, 37‑D, 38‑C, 39‑D, 40‑D, 41‑C, 42‑D, 43‑C, 44‑B, 45‑A, 46‑C, 47‑D, 48‑C, 49‑A, 50‑D, 51‑D, 52‑C, 53‑A, 54‑B, 55‑A, 56‑B, 57‑A, 58‑B, 59‑D, 60‑C, 61‑A, 62‑D, 63‑C, 64‑A, 65‑C, 66‑B, 67‑B, 68‑C, 69‑A, 70‑C, 71‑A, 72‑A, 73‑D, 74‑C, 75‑A, 76‑B, 77‑A, 78‑C, 79‑C, 80‑D, 81‑D, 82‑A, 83‑C, 84‑C, 85‑D, 86‑C, 87‑A, 88‑C, 89‑B, 90‑B, 91‑A, 92‑A, 93‑B, 94‑C, 95‑C, 96‑C, 97‑C, 98‑C, 99‑B, 100‑D, 101‑A, 102‑D, 103‑A, 104‑C, 105‑A, 106‑A, 107‑A, 108‑C, 109‑D, 110‑D, 111‑D, 112‑B, 113‑A, 114‑D, 115‑C, 116‑D, 117‑B, 118‑B, 119‑C, 120‑A, 121‑D, 122‑C, 123‑D, 124‑C, 125‑C, 126‑D, 127‑B, 128‑C, 129‑A, 130‑A, 131‑A, 132‑D, 133‑D, 134‑B, 135‑D, 136‑C, 137‑B, 138‑B, 139‑A, 140‑B, 141‑B, 142‑C, 143‑B, 144‑C, 145‑A, 146‑D, 147‑B, 148‑A, 149‑B, 150‑B, 151‑A, 152‑C, 153‑B, 154‑B, 155‑A, 156‑D, 157‑D, 158‑D, 159‑C, 160‑B, 161‑C, 162‑D, 163‑B, 164‑B, 165‑C, 166‑D, 167‑B, 168‑D, 169‑C, 170‑D, 171‑B, 172‑C, 173‑B, 174‑D, 175‑C, 176‑A, 177‑D, 178‑A, 179‑B, 180‑A, 181‑B, 182‑A, 183‑C, 184‑D, 185‑C, 186‑C, 187‑B, 188‑C, 189‑A, 190‑B, 191‑A, 192‑D, 193‑C, 194‑D, 195‑C, 196‑A, 197‑D, 198‑C, 199‑C, 200‑B, 201‑A, 202‑C, 203‑B, 204‑B, 205‑D, 206‑A, 207‑B, 208‑A, 209‑A, 210‑D, 211‑A, 212‑C, 213‑C, 214‑B, 215‑C, 216‑C, 217‑C, 218‑A, 219‑D, 220‑D, 221‑A, 222‑D, 223‑B, 224‑D, 225‑B, 226‑D, 227‑A, 228‑D, 229‑C, 230‑C, 231‑D, 232‑C, 233‑B, 234‑D, 235‑A, 236‑A, 237‑C, 238‑D, 239‑C, 240‑C, 241‑C, 242‑C, 243‑D, 244‑C, 245‑B, 246‑A, 247‑C
 
 ---
 
@@ -2394,324 +2376,309 @@ A) Hebrews 11:13-16  B) Hebrews 11:31-40  C) Hebrews 11:24-26  D) James 1:2-4
 *Every passage that carries a location tag, asked in both directions.*
 
 **1.** Where does **Genesis 31:13** take place?
-A) Mt. Zion  B) Jericho  C) Haran  D) Mt. Sinai
+A) Galilee & Tyre  B) Temple, Jerusalem  C) Midian  D) Haran
 
 **2.** Where does **Genesis 50:16-20** take place?
-A) Galilee Hillside  B) Temple, Jerusalem  C) Midian  D) Egypt
+A) Gilgal  B) Plains of Moab  C) Uz  D) Egypt
 
 **3.** Where does **Exodus 4:4-5** take place?
-A) Gibeon  B) Plains of Moab  C) Uz  D) Midian
+A) Canaan  B) Jordan River  C) Midian  D) Gibeon
 
 **4.** Where does **Exodus 33:12-19** take place?
-A) Canaan  B) Jordan River  C) Mt. Sinai  D) Gibeon
-
-**5.** Where does **Leviticus 24:17-22** take place?
 A) Mt. Carmel  B) Galilee Hillside  C) Mt. Zion  D) Mt. Sinai
 
-**6.** Where does **Leviticus 26:1-10** take place?
+**5.** Where does **Leviticus 24:17-22** take place?
 A) Anathoth  B) Mt. Sinai  C) Mt. Zion  D) Galilee Hillside
 
+**6.** Where does **Leviticus 26:1-10** take place?
+A) Capernaum  B) Caesarea Philippi  C) Mt. Sinai  D) Gilgal
+
 **7.** Where does **Deuteronomy 5:23-33** take place?
-A) Capernaum  B) Caesarea Philippi  C) Plains of Moab  D) Gilgal
+A) Caesarea  B) Jebus/Jerusalem  C) Mt. Sinai  D) Plains of Moab
 
 **8.** Where does **Joshua 2:8-11** take place?
-A) Caesarea  B) Jebus/Jerusalem  C) Mt. Zion  D) Jericho
+A) Plains of Moab  B) Carmel of Judah  C) Jericho  D) Haran
 
 **9.** Where does **Joshua 17:3-4** take place?
-A) Plains of Moab  B) Carmel of Judah  C) Gilgal  D) Israel (North)
+A) Zion  B) Midian  C) Gilgal  D) Plains of Moab
 
 **10.** Where does **Joshua 23:3-14** take place?
-A) Zion  B) Midian  C) Canaan  D) Plains of Moab
+A) Shechem  B) Judah  C) Canaan  D) Haran
 
 **11.** Where does **Judges 6:11-14** take place?
-A) Shechem  B) Jordan River  C) Ophrah  D) Gilgal
+A) Haran  B) Ophrah  C) Jordan River  D) Anathoth
 
 **12.** Where does **1 Samuel 25:32-33** take place?
-A) Israel (North)  B) Carmel of Judah  C) Judah  D) Anathoth
+A) Mt. Sinai  B) Israel (North)  C) Caesarea  D) Carmel of Judah
 
 **13.** Where does **2 Samuel 22:1-4** take place?
-A) Jerusalem  B) Ophrah  C) Caesarea Philippi  D) Egypt
+A) Jerusalem  B) Shushan, Persia  C) Judah  D) Mt. Sinai
 
 **14.** Where does **1 Kings 3:3-10** take place?
-A) Gibeon  B) Judah  C) Temple, Jerusalem  D) Mt. Zion
+A) Gibeon  B) Temple, Jerusalem  C) Judah  D) Jerusalem
 
 **15.** Where does **1 Kings 8:22-28** take place?
-A) Gilgal  B) Judah  C) Caesarea  D) Jerusalem
+A) Anathoth  B) Near Bethsaida  C) Jerusalem  D) Plain in Galilee
 
 **16.** Where does **1 Kings 12:6-8** take place?
 A) Shechem  B) Haran  C) Zion  D) Mt. Carmel
 
 **17.** Where does **1 Kings 18:36-39** take place?
-A) Jericho  B) Jebus/Jerusalem  C) Mt. Carmel  D) Mt. Zion
+A) Jerusalem  B) Jericho  C) Mt. Carmel  D) Near Bethsaida
 
 **18.** Where does **1 Chronicles 11:4-9** take place?
-A) Plain in Galilee  B) Mt. Carmel  C) Jerusalem  D) Jebus/Jerusalem
+A) Israel (North)  B) Galilee & Tyre  C) Jebus/Jerusalem  D) Midian
 
 **19.** Where does **Nehemiah 4:6-16** take place?
-A) Anathoth  B) Plain in Galilee  C) Jerusalem  D) Caesarea
+A) Anathoth  B) Jerusalem  C) Mt. Zion  D) Shushan, Persia
 
 **20.** Where does **Nehemiah 8:5-12** take place?
-A) Egypt  B) Plains of Moab  C) Jerusalem  D) Mt. Carmel
+A) Plains of Moab  B) Caesarea Philippi  C) Jerusalem  D) Judea
 
 **21.** Where does **Esther 10:1-3** take place?
-A) Shechem  B) Plains of Moab  C) Gibeon  D) Shushan, Persia
+A) Shushan, Persia  B) Gibeon  C) Temple, Jerusalem  D) Near Bethsaida
 
 **22.** Where does **Job 5:17-27** take place?
-A) Uz  B) Judah  C) Jericho  D) Israel (North)
+A) Gibeon  B) Uz  C) Canaan  D) Jebus/Jerusalem
 
 **23.** Where does **Job 9:1-13** take place?
-A) Judah  B) Mt. Carmel  C) Uz  D) Midian
+A) Uz  B) Judah  C) Jerusalem  D) Jericho
 
 **24.** Where does **Job 28:3-28** take place?
-A) Uz  B) Mt. Carmel  C) Mt. Sinai  D) Temple, Jerusalem
+A) Judah  B) Mt. Carmel  C) Uz  D) Midian
 
 **25.** Where does **Job 42:1-9** take place?
-A) Capernaum  B) Mt. Zion  C) Judea  D) Uz
+A) Uz  B) Mt. Carmel  C) Mt. Sinai  D) Temple, Jerusalem
 
 **26.** Where does **Job 42:10-15** take place?
-A) Galilee & Tyre  B) Uz  C) Jerusalem  D) Carmel of Judah
+A) Capernaum  B) Mt. Zion  C) Judea  D) Uz
 
 **27.** Where does **Ecclesiastes 3:9-17** take place?
-A) Jerusalem  B) Jericho  C) Mt. Carmel  D) Judea
+A) Caesarea Philippi  B) Galilee & Tyre  C) Mt. Carmel  D) Jerusalem
 
 **28.** Where does **Ecclesiastes 5:1-3** take place?
-A) Jerusalem  B) Canaan  C) Near Bethsaida  D) Plains of Moab
+A) Jerusalem  B) Mt. Zion  C) Anathoth  D) Galilee & Tyre
 
 **29.** Where does **Ecclesiastes 7:13-23** take place?
-A) Jerusalem  B) Galilee Hillside  C) Temple, Jerusalem  D) Jebus/Jerusalem
+A) Plains of Moab  B) Jerusalem  C) Mt. Carmel  D) Mt. Sinai
 
 **30.** Where does **Ecclesiastes 8:16-17** take place?
-A) Jerusalem  B) Galilee & Tyre  C) Capernaum  D) Shechem
+A) Israel (North)  B) Jerusalem  C) Haran  D) Gilgal
 
 **31.** Where does **Isaiah 26:1-9** take place?
-A) Judah  B) Israel (North)  C) Capernaum  D) Road to Jerusalem
+A) Judah  B) Uz  C) Jericho  D) Shushan, Persia
 
 **32.** Where does **Isaiah 31:4-5** take place?
-A) Jebus/Jerusalem  B) Mt. Zion  C) Galilee Hillside  D) Near Bethsaida
+A) Mt. Zion  B) Galilee & Tyre  C) Capernaum  D) Gilgal
 
 **33.** Where does **Isaiah 66:1** take place?
-A) Temple, Jerusalem  B) Judea  C) Jerusalem  D) Road to Jerusalem
+A) Jerusalem  B) Egypt  C) Caesarea Philippi  D) Jericho
 
 **34.** Where does **Isaiah 66:8** take place?
-A) Zion  B) Israel (North)  C) Caesarea  D) Temple, Jerusalem
+A) Jebus/Jerusalem  B) Zion  C) Galilee Hillside  D) Near Bethsaida
 
 **35.** Where does **Jeremiah 1:4-12** take place?
-A) Mt. Zion  B) Jebus/Jerusalem  C) Galilee & Tyre  D) Anathoth
+A) Temple, Jerusalem  B) Judea  C) Anathoth  D) Road to Jerusalem
 
 **36.** Where does **Jeremiah 17:7-8** take place?
-A) Shechem  B) Judah  C) Mt. Sinai  D) Anathoth
+A) Judah  B) Jebus/Jerusalem  C) Caesarea  D) Zion
 
 **37.** Where does **Jeremiah 20:7-13** take place?
-A) Caesarea  B) Haran  C) Jerusalem  D) Plain in Galilee
+A) Gilgal  B) Egypt  C) Canaan  D) Jerusalem
 
 **38.** Where does **Hosea 10:12** take place?
-A) Gilgal  B) Israel (North)  C) Caesarea  D) Zion
+A) Shechem  B) Israel (North)  C) Mt. Sinai  D) Anathoth
 
 **39.** Where does **Zephaniah 3:13-20** take place?
-A) Canaan  B) Jebus/Jerusalem  C) Jerusalem  D) Mt. Carmel
+A) Anathoth  B) Israel (North)  C) Jerusalem  D) Near Bethsaida
 
 **40.** Where does **Haggai 1:3-11** take place?
-A) Haran  B) Temple, Jerusalem  C) Jerusalem  D) Canaan
+A) Gilgal  B) Judea  C) Near Bethsaida  D) Jerusalem
 
 **41.** Where does **Haggai 2:2-9** take place?
-A) Haran  B) Jerusalem  C) Mt. Sinai  D) Temple, Jerusalem
+A) Near Bethsaida  B) Jerusalem  C) Sea of Galilee  D) Shushan, Persia
 
 **42.** Where does **Malachi 3:10** take place?
-A) Egypt  B) Jerusalem  C) Gilgal  D) Caesarea Philippi
+A) Jerusalem  B) Midian  C) Caesarea  D) Egypt
 
 **43.** Where does **Matthew 6:6** take place?
-A) Gibeon  B) Capernaum  C) Plains of Moab  D) Galilee Hillside
+A) Canaan  B) Jericho  C) Galilee Hillside  D) Road to Jerusalem
 
 **44.** Where does **Matthew 7:11-12** take place?
-A) Mt. Sinai  B) Plains of Moab  C) Galilee Hillside  D) Egypt
+A) Road to Jerusalem  B) Shechem  C) Galilee Hillside  D) Zion
 
 **45.** Where does **Matthew 23:13-22** take place?
-A) Galilee & Tyre  B) Jericho  C) Shechem  D) Temple, Jerusalem
+A) Midian  B) Temple, Jerusalem  C) Mt. Sinai  D) Ophrah
 
 **46.** Where does **Matthew 23:25-28** take place?
-A) Plains of Moab  B) Uz  C) Temple, Jerusalem  D) Gilgal
+A) Midian  B) Gilgal  C) Temple, Jerusalem  D) Galilee & Tyre
 
 **47.** Where does **Mark 7:17-28** take place?
-A) Mt. Zion  B) Midian  C) Jebus/Jerusalem  D) Galilee & Tyre
+A) Temple, Jerusalem  B) Ophrah  C) Carmel of Judah  D) Galilee & Tyre
 
 **48.** Where does **Mark 8:31-38** take place?
-A) Mt. Zion  B) Caesarea Philippi  C) Jebus/Jerusalem  D) Mt. Carmel
+A) Gilgal  B) Egypt  C) Road to Jerusalem  D) Caesarea Philippi
 
 **49.** Where does **Mark 9:42-50** take place?
-A) Mt. Carmel  B) Uz  C) Jebus/Jerusalem  D) Capernaum
+A) Mt. Sinai  B) Plains of Moab  C) Capernaum  D) Galilee & Tyre
 
 **50.** Where does **Luke 2:41-52** take place?
-A) Mt. Carmel  B) Temple, Jerusalem  C) Near Bethsaida  D) Caesarea Philippi
+A) Galilee & Tyre  B) Zion  C) Temple, Jerusalem  D) Canaan
 
 **51.** Where does **Luke 3:7-14** take place?
-A) Jebus/Jerusalem  B) Caesarea  C) Jordan River  D) Gilgal
+A) Uz  B) Jordan River  C) Road to Jerusalem  D) Plains of Moab
 
 **52.** Where does **Luke 6:20-31** take place?
-A) Jerusalem  B) Jordan River  C) Ophrah  D) Plain in Galilee
+A) Haran  B) Plain in Galilee  C) Mt. Sinai  D) Jordan River
 
 **53.** Where does **Luke 6:35-43** take place?
-A) Plain in Galilee  B) Shechem  C) Jerusalem  D) Road to Jerusalem
+A) Midian  B) Uz  C) Plain in Galilee  D) Mt. Sinai
 
 **54.** Where does **Luke 9:19-28** take place?
-A) Caesarea  B) Near Bethsaida  C) Canaan  D) Jebus/Jerusalem
+A) Near Bethsaida  B) Mt. Carmel  C) Judea  D) Mt. Sinai
 
 **55.** Where does **Luke 17:1-4** take place?
-A) Road to Jerusalem  B) Sea of Galilee  C) Carmel of Judah  D) Caesarea Philippi
+A) Near Bethsaida  B) Egypt  C) Mt. Sinai  D) Road to Jerusalem
 
 **56.** Where does **Luke 18:9-17** take place?
-A) Haran  B) Near Bethsaida  C) Road to Jerusalem  D) Plains of Moab
+A) Caesarea  B) Road to Jerusalem  C) Gilgal  D) Mt. Carmel
 
 **57.** Where does **Luke 19:15-17** take place?
-A) Gibeon  B) Jericho  C) Jerusalem  D) Temple, Jerusalem
+A) Jebus/Jerusalem  B) Caesarea  C) Jericho  D) Gilgal
 
 **58.** Where does **John 1:1-18** take place?
-A) Zion  B) Judea  C) Midian  D) Temple, Jerusalem
+A) Jerusalem  B) Jordan River  C) Plain in Galilee  D) Judea
 
 **59.** Where does **John 17:1-17** take place?
-A) Israel (North)  B) Judah  C) Jerusalem  D) Capernaum
+A) Galilee & Tyre  B) Jerusalem  C) Shushan, Persia  D) Jericho
 
 **60.** Where does **John 21:12-22** take place?
-A) Jebus/Jerusalem  B) Shushan, Persia  C) Mt. Sinai  D) Sea of Galilee
+A) Mt. Carmel  B) Gilgal  C) Plains of Moab  D) Sea of Galilee
 
 **61.** Where does **Acts 7:49** take place?
-A) Caesarea  B) Plain in Galilee  C) Jericho  D) Jerusalem
+A) Zion  B) Plains of Moab  C) Judah  D) Jerusalem
 
 **62.** Where does **Acts 10:34-43** take place?
-A) Carmel of Judah  B) Caesarea  C) Uz  D) Judea
+A) Galilee & Tyre  B) Caesarea  C) Near Bethsaida  D) Plain in Galilee
 
 **63.** Which passage is set at **Galilee Hillside**?
-A) Matthew 23:25-28  B) Malachi 3:10  C) Matthew 6:6  D) Matthew 23:13-22
+A) Matthew 23:25-28  B) Matthew 6:6  C) Matthew 23:13-22  D) Malachi 3:10
 
 **64.** Which passage is set at **Galilee Hillside**?
-A) Malachi 3:10  B) Matthew 23:25-28  C) Matthew 23:13-22  D) Matthew 7:11-12
+A) Malachi 3:10  B) Matthew 23:13-22  C) Matthew 7:11-12  D) Matthew 23:25-28
 
-**65.** Which passage is **NOT** set at **Galilee Hillside**?
-A) Matthew 6:6  B) Matthew 23:25-28  C) Matthew 23:13-22  D) Matthew 7:11-12
+**65.** Which passage is set at **Jericho**?
+A) Joshua 2:8-11  B) Deuteronomy 5:23-33  C) Joshua 23:3-14  D) Joshua 17:3-4
 
 **66.** Which passage is set at **Jericho**?
-A) Joshua 23:3-14  B) Deuteronomy 5:23-33  C) Joshua 17:3-4  D) Joshua 2:8-11
+A) Luke 19:15-17  B) Luke 9:19-28  C) Luke 17:1-4  D) Luke 18:9-17
 
-**67.** Which passage is set at **Jericho**?
-A) Luke 18:9-17  B) Luke 17:1-4  C) Luke 19:15-17  D) Luke 9:19-28
+**67.** Which passage is set at **Jerusalem**?
+A) 2 Samuel 22:1-4  B) 1 Kings 3:3-10  C) 1 Samuel 25:32-33  D) Judges 6:11-14
 
-**68.** Which passage is **NOT** set at **Jericho**?
-A) Joshua 2:8-11  B) Joshua 17:3-4  C) Luke 19:15-17  D) Joshua 23:3-14
+**68.** Which passage is set at **Jerusalem**?
+A) 1 Kings 12:6-8  B) 1 Kings 8:22-28  C) 1 Kings 18:36-39  D) 1 Kings 3:3-10
 
 **69.** Which passage is set at **Jerusalem**?
-A) 1 Samuel 25:32-33  B) 2 Samuel 22:1-4  C) Judges 6:11-14  D) 1 Kings 3:3-10
+A) Esther 10:1-3  B) 1 Kings 12:6-8  C) 1 Kings 18:36-39  D) Nehemiah 4:6-16
 
 **70.** Which passage is set at **Jerusalem**?
-A) 1 Kings 8:22-28  B) 1 Kings 18:36-39  C) 1 Kings 3:3-10  D) 1 Kings 12:6-8
+A) 1 Kings 18:36-39  B) Job 5:17-27  C) Nehemiah 8:5-12  D) Esther 10:1-3
 
 **71.** Which passage is set at **Jerusalem**?
-A) 1 Kings 18:36-39  B) Nehemiah 4:6-16  C) 1 Chronicles 11:4-9  D) Esther 10:1-3
+A) Proverbs 28:25-26  B) Ecclesiastes 3:9-17  C) Proverbs 23:15-26  D) Proverbs 15:19-23
 
 **72.** Which passage is set at **Jerusalem**?
-A) 1 Chronicles 11:4-9  B) Job 5:17-27  C) Esther 10:1-3  D) Nehemiah 8:5-12
+A) Proverbs 28:25-26  B) Proverbs 23:15-26  C) Ecclesiastes 5:1-3  D) Isaiah 26:1-9
 
 **73.** Which passage is set at **Jerusalem**?
-A) Proverbs 15:19-23  B) Proverbs 28:25-26  C) Ecclesiastes 3:9-17  D) Proverbs 23:15-26
+A) Isaiah 31:4-5  B) Ecclesiastes 7:13-23  C) Isaiah 26:1-9  D) Proverbs 28:25-26
 
 **74.** Which passage is set at **Jerusalem**?
-A) Isaiah 26:1-9  B) Ecclesiastes 5:1-3  C) Proverbs 28:25-26  D) Proverbs 23:15-26
+A) Isaiah 66:8  B) Ecclesiastes 8:16-17  C) Isaiah 31:4-5  D) Isaiah 26:1-9
 
 **75.** Which passage is set at **Jerusalem**?
-A) Ecclesiastes 7:13-23  B) Proverbs 28:25-26  C) Isaiah 31:4-5  D) Isaiah 26:1-9
+A) Isaiah 26:1-9  B) Isaiah 66:8  C) Isaiah 31:4-5  D) Isaiah 66:1
 
 **76.** Which passage is set at **Jerusalem**?
-A) Isaiah 66:8  B) Isaiah 31:4-5  C) Isaiah 26:1-9  D) Ecclesiastes 8:16-17
+A) Hosea 10:12  B) Jeremiah 17:7-8  C) Jeremiah 20:7-13  D) Jeremiah 1:4-12
 
 **77.** Which passage is set at **Jerusalem**?
-A) Isaiah 31:4-5  B) Isaiah 66:1  C) Isaiah 26:1-9  D) Isaiah 66:8
+A) Hosea 10:12  B) Zephaniah 3:13-20  C) Jeremiah 1:4-12  D) Jeremiah 17:7-8
 
 **78.** Which passage is set at **Jerusalem**?
-A) Jeremiah 1:4-12  B) Jeremiah 20:7-13  C) Hosea 10:12  D) Jeremiah 17:7-8
+A) Matthew 6:6  B) Jeremiah 17:7-8  C) Haggai 1:3-11  D) Hosea 10:12
 
 **79.** Which passage is set at **Jerusalem**?
-A) Zephaniah 3:13-20  B) Jeremiah 1:4-12  C) Jeremiah 17:7-8  D) Hosea 10:12
+A) Matthew 7:11-12  B) Hosea 10:12  C) Matthew 6:6  D) Haggai 2:2-9
 
 **80.** Which passage is set at **Jerusalem**?
-A) Hosea 10:12  B) Matthew 6:6  C) Haggai 1:3-11  D) Jeremiah 17:7-8
+A) Matthew 6:6  B) Hosea 10:12  C) Malachi 3:10  D) Matthew 7:11-12
 
 **81.** Which passage is set at **Jerusalem**?
-A) Matthew 7:11-12  B) Haggai 2:2-9  C) Matthew 6:6  D) Hosea 10:12
+A) John 21:12-22  B) Luke 19:15-17  C) John 1:1-18  D) John 17:1-17
 
 **82.** Which passage is set at **Jerusalem**?
-A) Matthew 7:11-12  B) Malachi 3:10  C) Matthew 23:13-22  D) Matthew 6:6
+A) Acts 10:34-43  B) John 21:12-22  C) Acts 7:49  D) Romans 1:13-17
 
-**83.** Which passage is set at **Jerusalem**?
-A) John 17:1-17  B) John 1:1-18  C) John 21:12-22  D) Luke 19:15-17
+**83.** Which passage is set at **Judah**?
+A) Isaiah 31:4-5  B) Isaiah 26:1-9  C) Isaiah 66:1  D) Isaiah 66:8
 
-**84.** Which passage is set at **Jerusalem**?
-A) Acts 7:49  B) Romans 1:13-17  C) John 21:12-22  D) Acts 10:34-43
+**84.** Which passage is set at **Judah**?
+A) Jeremiah 20:7-13  B) Jeremiah 17:7-8  C) Hosea 10:12  D) Jeremiah 1:4-12
 
-**85.** Which passage is set at **Judah**?
-A) Isaiah 66:1  B) Isaiah 66:8  C) Isaiah 26:1-9  D) Isaiah 31:4-5
-
-**86.** Which passage is set at **Judah**?
-A) Jeremiah 17:7-8  B) Jeremiah 20:7-13  C) Jeremiah 1:4-12  D) Hosea 10:12
-
-**87.** Which passage is **NOT** set at **Judah**?
-A) Jeremiah 17:7-8  B) Isaiah 31:4-5  C) Isaiah 66:1  D) Isaiah 26:1-9
-
-**88.** Which passage is set at **Mt. Sinai**?
+**85.** Which passage is set at **Mt. Sinai**?
 A) Exodus 33:12-19  B) Deuteronomy 5:23-33  C) Genesis 50:16-20  D) Exodus 4:4-5
 
-**89.** Which passage is set at **Mt. Sinai**?
-A) Deuteronomy 5:23-33  B) Exodus 4:4-5  C) Genesis 50:16-20  D) Leviticus 24:17-22
+**86.** Which passage is set at **Mt. Sinai**?
+A) Exodus 4:4-5  B) Leviticus 24:17-22  C) Deuteronomy 5:23-33  D) Genesis 50:16-20
 
-**90.** Which passage is set at **Mt. Sinai**?
-A) Exodus 4:4-5  B) Deuteronomy 5:23-33  C) Leviticus 26:1-10  D) Joshua 2:8-11
+**87.** Which passage is set at **Mt. Sinai**?
+A) Joshua 2:8-11  B) Exodus 4:4-5  C) Deuteronomy 5:23-33  D) Leviticus 26:1-10
 
-**91.** Which passage is **NOT** set at **Mt. Sinai**?
+**88.** Which passage is **NOT** set at **Mt. Sinai**?
 A) Exodus 33:12-19  B) Exodus 4:4-5  C) Leviticus 24:17-22  D) Leviticus 26:1-10
 
-**92.** Which passage is set at **Plain in Galilee**?
-A) Luke 6:20-31  B) Luke 3:7-14  C) Luke 9:19-28  D) Luke 2:41-52
+**89.** Which passage is set at **Plain in Galilee**?
+A) Luke 6:20-31  B) Luke 9:19-28  C) Luke 2:41-52  D) Luke 3:7-14
 
-**93.** Which passage is set at **Plain in Galilee**?
-A) Luke 3:7-14  B) Luke 9:19-28  C) Luke 17:1-4  D) Luke 6:35-43
+**90.** Which passage is set at **Plain in Galilee**?
+A) Luke 3:7-14  B) Luke 17:1-4  C) Luke 9:19-28  D) Luke 6:35-43
 
-**94.** Which passage is **NOT** set at **Plain in Galilee**?
-A) Luke 2:41-52  B) Luke 6:20-31  C) Luke 6:35-43  D) Luke 3:7-14
+**91.** Which passage is set at **Road to Jerusalem**?
+A) Luke 9:19-28  B) Luke 17:1-4  C) Luke 6:35-43  D) Luke 19:15-17
 
-**95.** Which passage is set at **Road to Jerusalem**?
-A) Luke 9:19-28  B) Luke 19:15-17  C) Luke 17:1-4  D) Luke 6:35-43
+**92.** Which passage is set at **Road to Jerusalem**?
+A) Luke 9:19-28  B) Luke 18:9-17  C) Luke 6:35-43  D) Luke 19:15-17
 
-**96.** Which passage is set at **Road to Jerusalem**?
-A) Luke 18:9-17  B) Luke 6:35-43  C) Luke 9:19-28  D) Luke 19:15-17
+**93.** Which passage is set at **Temple, Jerusalem**?
+A) Matthew 23:13-22  B) Mark 7:17-28  C) Matthew 6:6  D) Matthew 7:11-12
 
-**97.** Which passage is **NOT** set at **Road to Jerusalem**?
-A) Luke 9:19-28  B) Luke 18:9-17  C) Luke 19:15-17  D) Luke 17:1-4
+**94.** Which passage is set at **Temple, Jerusalem**?
+A) Matthew 7:11-12  B) Matthew 6:6  C) Matthew 23:25-28  D) Mark 7:17-28
 
-**98.** Which passage is set at **Temple, Jerusalem**?
-A) Matthew 6:6  B) Matthew 23:13-22  C) Mark 7:17-28  D) Matthew 7:11-12
+**95.** Which passage is set at **Temple, Jerusalem**?
+A) Luke 6:35-43  B) Luke 2:41-52  C) Luke 3:7-14  D) Luke 6:20-31
 
-**99.** Which passage is set at **Temple, Jerusalem**?
-A) Matthew 7:11-12  B) Matthew 6:6  C) Mark 7:17-28  D) Matthew 23:25-28
+**96.** Which passage is **NOT** set at **Temple, Jerusalem**?
+A) Matthew 7:11-12  B) Matthew 23:13-22  C) Matthew 23:25-28  D) Luke 2:41-52
 
-**100.** Which passage is set at **Temple, Jerusalem**?
-A) Luke 3:7-14  B) Luke 6:20-31  C) Luke 2:41-52  D) Luke 6:35-43
-
-**101.** Which passage is **NOT** set at **Temple, Jerusalem**?
-A) Matthew 7:11-12  B) Luke 2:41-52  C) Matthew 23:25-28  D) Matthew 23:13-22
-
-**102.** Which passage is set at **Uz**?
+**97.** Which passage is set at **Uz**?
 A) Job 5:17-27  B) Nehemiah 4:6-16  C) Nehemiah 8:5-12  D) Esther 10:1-3
 
-**103.** Which passage is set at **Uz**?
-A) Job 9:1-13  B) Nehemiah 4:6-16  C) Nehemiah 8:5-12  D) Esther 10:1-3
+**98.** Which passage is set at **Uz**?
+A) Nehemiah 8:5-12  B) Nehemiah 4:6-16  C) Job 9:1-13  D) Esther 10:1-3
 
-**104.** Which passage is set at **Uz**?
+**99.** Which passage is set at **Uz**?
 A) Job 28:3-28  B) Psalm 18:2-12  C) Esther 10:1-3  D) Nehemiah 8:5-12
 
-**105.** Which passage is set at **Uz**?
-A) Esther 10:1-3  B) Job 42:1-9  C) Psalm 18:2-12  D) Psalm 37:10-11
+**100.** Which passage is set at **Uz**?
+A) Psalm 37:10-11  B) Job 42:1-9  C) Esther 10:1-3  D) Psalm 18:2-12
 
-**106.** Which passage is set at **Uz**?
-A) Psalm 51:9-12  B) Psalm 37:10-11  C) Psalm 18:2-12  D) Job 42:10-15
+**101.** Which passage is set at **Uz**?
+A) Job 42:10-15  B) Psalm 51:9-12  C) Psalm 37:10-11  D) Psalm 18:2-12
 
-**Answer key — SET 11:** 1‑C, 2‑D, 3‑D, 4‑C, 5‑D, 6‑B, 7‑C, 8‑D, 9‑C, 10‑C, 11‑C, 12‑B, 13‑A, 14‑A, 15‑D, 16‑A, 17‑C, 18‑D, 19‑C, 20‑C, 21‑D, 22‑A, 23‑C, 24‑A, 25‑D, 26‑B, 27‑A, 28‑A, 29‑A, 30‑A, 31‑A, 32‑B, 33‑C, 34‑A, 35‑D, 36‑B, 37‑C, 38‑B, 39‑C, 40‑C, 41‑B, 42‑B, 43‑D, 44‑C, 45‑D, 46‑C, 47‑D, 48‑B, 49‑D, 50‑B, 51‑C, 52‑D, 53‑A, 54‑B, 55‑A, 56‑C, 57‑B, 58‑B, 59‑C, 60‑D, 61‑D, 62‑B, 63‑C, 64‑D, 65‑C, 66‑D, 67‑C, 68‑B, 69‑B, 70‑A, 71‑B, 72‑D, 73‑C, 74‑B, 75‑A, 76‑D, 77‑B, 78‑B, 79‑A, 80‑C, 81‑B, 82‑B, 83‑A, 84‑A, 85‑C, 86‑A, 87‑B, 88‑A, 89‑D, 90‑C, 91‑B, 92‑A, 93‑D, 94‑D, 95‑C, 96‑A, 97‑A, 98‑B, 99‑D, 100‑C, 101‑A, 102‑A, 103‑A, 104‑A, 105‑B, 106‑D
+**Answer key — SET 11:** 1‑D, 2‑D, 3‑C, 4‑D, 5‑B, 6‑C, 7‑D, 8‑C, 9‑C, 10‑C, 11‑B, 12‑D, 13‑A, 14‑A, 15‑C, 16‑A, 17‑C, 18‑C, 19‑B, 20‑C, 21‑A, 22‑B, 23‑A, 24‑C, 25‑A, 26‑D, 27‑D, 28‑A, 29‑B, 30‑B, 31‑A, 32‑A, 33‑A, 34‑B, 35‑C, 36‑A, 37‑D, 38‑B, 39‑C, 40‑D, 41‑B, 42‑A, 43‑C, 44‑C, 45‑B, 46‑C, 47‑D, 48‑D, 49‑C, 50‑C, 51‑B, 52‑B, 53‑C, 54‑A, 55‑D, 56‑B, 57‑C, 58‑D, 59‑B, 60‑D, 61‑D, 62‑B, 63‑B, 64‑C, 65‑A, 66‑A, 67‑A, 68‑B, 69‑D, 70‑C, 71‑B, 72‑C, 73‑B, 74‑B, 75‑D, 76‑C, 77‑B, 78‑C, 79‑D, 80‑C, 81‑D, 82‑C, 83‑B, 84‑B, 85‑A, 86‑B, 87‑D, 88‑B, 89‑A, 90‑D, 91‑B, 92‑B, 93‑A, 94‑C, 95‑B, 96‑A, 97‑A, 98‑C, 99‑A, 100‑B, 101‑A
 
 ---
 
@@ -2719,504 +2686,498 @@ A) Psalm 51:9-12  B) Psalm 37:10-11  C) Psalm 18:2-12  D) Job 42:10-15
 *Rare divine titles asked directly; frequent divine names asked as NOT questions; and the passages that carry no divine name at all.*
 
 **1.** Which passage contains the divine name or title **Light**?
-A) Luke 19:15-17  B) John 1:1-18  C) John 17:1-17  D) John 21:12-22
+A) John 17:1-17  B) John 21:12-22  C) Luke 19:15-17  D) John 1:1-18
 
 **2.** Which passage contains the divine name or title **Word**?
-A) John 21:12-22  B) John 17:1-17  C) Luke 19:15-17  D) John 1:1-18
+A) Luke 19:15-17  B) John 17:1-17  C) John 1:1-18  D) John 21:12-22
 
 **3.** Which passage contains the divine name or title **LORD God of Israel**?
-A) Judges 6:11-14  B) 1 Samuel 25:32-33  C) 1 Kings 3:3-10  D) 2 Samuel 22:1-4
+A) 2 Samuel 22:1-4  B) 1 Samuel 25:32-33  C) Judges 6:11-14  D) 1 Kings 3:3-10
 
 **4.** Which passage contains the divine name or title **LORD God of Israel**?
 A) 1 Kings 8:22-28  B) 1 Kings 12:6-8  C) 1 Kings 18:36-39  D) 1 Kings 3:3-10
 
-**5.** Which passage does **NOT** contain the divine title **LORD God of Israel**?
-A) 2 Samuel 22:1-4  B) 1 Samuel 25:32-33  C) 1 Kings 8:22-28  D) Judges 6:11-14
+**5.** Which passage contains the divine name or title **Son**?
+A) Luke 6:35-43  B) Luke 3:7-14  C) Luke 6:20-31  D) Luke 2:41-52
 
 **6.** Which passage contains the divine name or title **Son**?
-A) Luke 6:20-31  B) Luke 3:7-14  C) Luke 2:41-52  D) Luke 6:35-43
+A) Acts 7:49  B) John 1:1-18  C) John 21:12-22  D) John 17:1-17
 
-**7.** Which passage contains the divine name or title **Son**?
+**7.** Which passage contains the divine name or title **Lamb**?
+A) 1 Peter 5:1-11  B) 1 Peter 2:15-25  C) Revelation 7:9-16  D) 1 Peter 2:9-12
+
+**8.** Which passage contains the divine name or title **Angel of the LORD**?
+A) Judges 6:11-14  B) 2 Samuel 22:1-4  C) Joshua 23:3-14  D) 1 Samuel 25:32-33
+
+**9.** Which passage contains the divine name or title **Presence**?
+A) Exodus 33:12-19  B) Leviticus 24:17-22  C) Genesis 50:16-20  D) Exodus 4:4-5
+
+**10.** Which passage contains the divine name or title **Almighty**?
+A) Job 28:3-28  B) Job 5:17-27  C) Job 42:1-9  D) Job 9:1-13
+
+**11.** Which passage contains the divine name or title **Chief Shepherd**?
+A) 1 Peter 2:15-25  B) 1 Peter 2:9-12  C) Revelation 7:9-16  D) 1 Peter 5:1-11
+
+**12.** Which passage contains the divine name or title **Christ of God**?
+A) Luke 17:1-4  B) Luke 6:35-43  C) Luke 9:19-28  D) Luke 18:9-17
+
+**13.** Which passage contains the divine name or title **Desire of All Nations**?
+A) Haggai 2:2-9  B) Matthew 6:6  C) Malachi 3:10  D) Haggai 1:3-11
+
+**14.** Which passage contains the divine name or title **Father of glory**?
+A) Ephesians 1:15-23  B) Galatians 2:15-21  C) Galatians 6:7-10  D) Ephesians 6:5-9
+
+**15.** Which passage contains the divine name or title **God of Abraham**?
+A) Exodus 4:4-5  B) Genesis 31:13  C) Genesis 50:16-20  D) Exodus 33:12-19
+
+**16.** Which passage contains the divine name or title **God of Bethel**?
+A) Genesis 31:13  B) Exodus 4:4-5  C) Genesis 50:16-20  D) Exodus 33:12-19
+
+**17.** Which passage contains the divine name or title **God of Isaac**?
+A) Genesis 31:13  B) Exodus 4:4-5  C) Exodus 33:12-19  D) Genesis 50:16-20
+
+**18.** Which passage contains the divine name or title **God of Israel**?
+A) 1 Kings 18:36-39  B) 1 Kings 3:3-10  C) 1 Kings 12:6-8  D) 1 Kings 8:22-28
+
+**19.** Which passage contains the divine name or title **God of Jacob**?
+A) Genesis 31:13  B) Exodus 4:4-5  C) Exodus 33:12-19  D) Genesis 50:16-20
+
+**20.** Which passage contains the divine name or title **God of all grace**?
+A) 1 Peter 2:9-12  B) 1 Peter 2:15-25  C) Revelation 7:9-16  D) 1 Peter 5:1-11
+
+**21.** Which passage contains the divine name or title **God of our Lord Jesus Christ**?
+A) Galatians 6:7-10  B) Ephesians 1:15-23  C) Galatians 2:15-21  D) Ephesians 6:5-9
+
+**22.** Which passage contains the divine name or title **God of your father**?
+A) Genesis 50:16-20  B) Genesis 31:13  C) Exodus 33:12-19  D) Exodus 4:4-5
+
+**23.** Which passage contains the divine name or title **Holy Father**?
 A) John 17:1-17  B) John 1:1-18  C) John 21:12-22  D) Acts 7:49
 
-**8.** Which passage does **NOT** contain the divine title **Son**?
-A) Luke 3:7-14  B) Luke 6:20-31  C) John 17:1-17  D) Luke 2:41-52
+**24.** Which passage contains the divine name or title **Judge of the living and the dead**?
+A) Romans 1:13-17  B) Acts 7:49  C) Acts 10:34-43  D) John 21:12-22
 
-**9.** Which passage contains the divine name or title **Lamb**?
-A) Revelation 7:9-16  B) 1 Peter 5:1-11  C) 1 Peter 2:9-12  D) 1 Peter 2:15-25
+**25.** Which passage contains the divine name or title **King of Israel**?
+A) Zephaniah 3:13-20  B) Haggai 1:3-11  C) Hosea 10:12  D) Haggai 2:2-9
 
-**10.** Which passage contains the divine name or title **Angel of the LORD**?
-A) 2 Samuel 22:1-4  B) Joshua 23:3-14  C) Judges 6:11-14  D) 1 Samuel 25:32-33
+**26.** Which passage contains the divine name or title **LORD God of Abraham, Isaac, and Israel**?
+A) 1 Kings 18:36-39  B) 1 Kings 3:3-10  C) 1 Kings 8:22-28  D) 1 Kings 12:6-8
 
-**11.** Which passage contains the divine name or title **Presence**?
-A) Genesis 50:16-20  B) Exodus 4:4-5  C) Leviticus 24:17-22  D) Exodus 33:12-19
+**27.** Which passage contains the divine name or title **LORD God of their fathers**?
+A) Exodus 4:4-5  B) Exodus 33:12-19  C) Genesis 31:13  D) Genesis 50:16-20
 
-**12.** Which passage contains the divine name or title **Almighty**?
-A) Job 42:1-9  B) Job 9:1-13  C) Job 5:17-27  D) Job 28:3-28
+**28.** Which passage contains the divine name or title **Lord GOD**?
+A) Isaiah 66:8  B) Jeremiah 20:7-13  C) Jeremiah 1:4-12  D) Jeremiah 17:7-8
 
-**13.** Which passage contains the divine name or title **Chief Shepherd**?
-A) 1 Peter 2:9-12  B) 1 Peter 5:1-11  C) 1 Peter 2:15-25  D) Revelation 7:9-16
+**29.** Which passage contains the divine name or title **Lord of both the dead and the living**?
+A) Romans 3:1-11  B) Romans 10:1-5  C) Romans 6:10-15  D) Romans 14:4-19
 
-**14.** Which passage contains the divine name or title **Christ of God**?
-A) Luke 6:35-43  B) Luke 9:19-28  C) Luke 17:1-4  D) Luke 18:9-17
+**30.** Which passage contains the divine name or title **Mighty One**?
+A) Haggai 2:2-9  B) Haggai 1:3-11  C) Zephaniah 3:13-20  D) Hosea 10:12
 
-**15.** Which passage contains the divine name or title **Desire of All Nations**?
-A) Haggai 1:3-11  B) Malachi 3:10  C) Matthew 6:6  D) Haggai 2:2-9
+**31.** Which passage contains the divine name or title **Most High**?
+A) Luke 9:19-28  B) Luke 6:35-43  C) Luke 6:20-31  D) Luke 17:1-4
 
-**16.** Which passage contains the divine name or title **Father of glory**?
-A) Galatians 6:7-10  B) Ephesians 6:5-9  C) Galatians 2:15-21  D) Ephesians 1:15-23
+**32.** Which passage contains the divine name or title **Savior**?
+A) 1 Samuel 25:32-33  B) 2 Samuel 22:1-4  C) 1 Kings 3:3-10  D) 1 Kings 8:22-28
 
-**17.** Which passage contains the divine name or title **God of Abraham**?
-A) Exodus 4:4-5  B) Exodus 33:12-19  C) Genesis 50:16-20  D) Genesis 31:13
+**33.** Which passage contains the divine name or title **Shepherd and Overseer of your souls**?
+A) 1 Peter 2:9-12  B) 1 Peter 5:1-11  C) James 5:7-11  D) 1 Peter 2:15-25
 
-**18.** Which passage contains the divine name or title **God of Bethel**?
-A) Genesis 50:16-20  B) Exodus 4:4-5  C) Genesis 31:13  D) Exodus 33:12-19
+**34.** Which passage contains the divine name or title **Son of God**?
+A) 2 Corinthians 9:1-13  B) Galatians 6:7-10  C) 2 Corinthians 8:1-17  D) Galatians 2:15-21
 
-**19.** Which passage contains the divine name or title **God of Isaac**?
-A) Genesis 50:16-20  B) Exodus 33:12-19  C) Exodus 4:4-5  D) Genesis 31:13
+**35.** Which passage contains the divine name or title **YAH**?
+A) Isaiah 26:1-9  B) Isaiah 31:4-5  C) Isaiah 66:1  D) Isaiah 66:8
 
-**20.** Which passage contains the divine name or title **God of Israel**?
-A) 1 Kings 12:6-8  B) 1 Kings 3:3-10  C) 1 Kings 18:36-39  D) 1 Kings 8:22-28
+**36.** Which passage contains the divine name or title **only begotten Son**?
+A) John 17:1-17  B) John 21:12-22  C) John 1:1-18  D) Luke 19:15-17
 
-**21.** Which passage contains the divine name or title **God of Jacob**?
-A) Exodus 4:4-5  B) Exodus 33:12-19  C) Genesis 50:16-20  D) Genesis 31:13
+**37.** Which passage contains the divine name or title **Son of Man**?
+A) Mark 9:42-50  B) Mark 7:17-28  C) Mark 8:31-38  D) Luke 2:41-52
 
-**22.** Which passage contains the divine name or title **God of all grace**?
-A) 1 Peter 2:15-25  B) Revelation 7:9-16  C) 1 Peter 5:1-11  D) 1 Peter 2:9-12
-
-**23.** Which passage contains the divine name or title **God of our Lord Jesus Christ**?
-A) Galatians 6:7-10  B) Ephesians 6:5-9  C) Galatians 2:15-21  D) Ephesians 1:15-23
-
-**24.** Which passage contains the divine name or title **God of your father**?
-A) Exodus 4:4-5  B) Genesis 31:13  C) Exodus 33:12-19  D) Genesis 50:16-20
-
-**25.** Which passage contains the divine name or title **Holy Father**?
-A) Acts 7:49  B) John 21:12-22  C) John 1:1-18  D) John 17:1-17
-
-**26.** Which passage contains the divine name or title **Judge of the living and the dead**?
-A) Romans 1:13-17  B) Acts 7:49  C) John 21:12-22  D) Acts 10:34-43
-
-**27.** Which passage contains the divine name or title **King of Israel**?
-A) Zephaniah 3:13-20  B) Hosea 10:12  C) Haggai 2:2-9  D) Haggai 1:3-11
-
-**28.** Which passage contains the divine name or title **LORD God of Abraham, Isaac, and Israel**?
-A) 1 Kings 3:3-10  B) 1 Kings 12:6-8  C) 1 Kings 8:22-28  D) 1 Kings 18:36-39
-
-**29.** Which passage contains the divine name or title **LORD God of their fathers**?
-A) Exodus 4:4-5  B) Genesis 31:13  C) Exodus 33:12-19  D) Genesis 50:16-20
-
-**30.** Which passage contains the divine name or title **Lord GOD**?
-A) Isaiah 66:8  B) Jeremiah 1:4-12  C) Jeremiah 17:7-8  D) Jeremiah 20:7-13
-
-**31.** Which passage contains the divine name or title **Lord of both the dead and the living**?
-A) Romans 6:10-15  B) Romans 3:1-11  C) Romans 10:1-5  D) Romans 14:4-19
-
-**32.** Which passage contains the divine name or title **Mighty One**?
-A) Haggai 1:3-11  B) Hosea 10:12  C) Haggai 2:2-9  D) Zephaniah 3:13-20
-
-**33.** Which passage contains the divine name or title **Most High**?
-A) Luke 6:20-31  B) Luke 17:1-4  C) Luke 9:19-28  D) Luke 6:35-43
-
-**34.** Which passage contains the divine name or title **Savior**?
-A) 1 Kings 3:3-10  B) 1 Kings 8:22-28  C) 2 Samuel 22:1-4  D) 1 Samuel 25:32-33
-
-**35.** Which passage contains the divine name or title **Shepherd and Overseer of your souls**?
-A) 1 Peter 5:1-11  B) 1 Peter 2:9-12  C) 1 Peter 2:15-25  D) James 5:7-11
-
-**36.** Which passage contains the divine name or title **Son of God**?
-A) 2 Corinthians 9:1-13  B) Galatians 2:15-21  C) Galatians 6:7-10  D) 2 Corinthians 8:1-17
-
-**37.** Which passage contains the divine name or title **YAH**?
-A) Isaiah 66:1  B) Isaiah 31:4-5  C) Isaiah 66:8  D) Isaiah 26:1-9
-
-**38.** Which passage contains the divine name or title **only begotten Son**?
-A) John 21:12-22  B) Luke 19:15-17  C) John 1:1-18  D) John 17:1-17
+**38.** Which passage contains the divine name or title **Son of Man**?
+A) Luke 3:7-14  B) Luke 6:35-43  C) Luke 2:41-52  D) Luke 6:20-31
 
 **39.** Which passage contains the divine name or title **Son of Man**?
-A) Luke 2:41-52  B) Mark 7:17-28  C) Mark 9:42-50  D) Mark 8:31-38
+A) Luke 9:19-28  B) Luke 17:1-4  C) Luke 6:35-43  D) Luke 18:9-17
 
-**40.** Which passage contains the divine name or title **Son of Man**?
-A) Luke 2:41-52  B) Luke 3:7-14  C) Luke 6:35-43  D) Luke 6:20-31
+**40.** Which passage does **NOT** contain the divine title **Son of Man**?
+A) Mark 8:31-38  B) Luke 6:20-31  C) Luke 9:19-28  D) Mark 7:17-28
 
-**41.** Which passage contains the divine name or title **Son of Man**?
-A) Luke 18:9-17  B) Luke 6:35-43  C) Luke 9:19-28  D) Luke 17:1-4
+**41.** Which passage contains the divine name or title **Spirit**?
+A) Psalm 94:8-15  B) Psalm 37:10-11  C) Psalm 126:3-6  D) Psalm 51:9-12
 
-**42.** Which passage does **NOT** contain the divine title **Son of Man**?
-A) Mark 8:31-38  B) Mark 7:17-28  C) Luke 9:19-28  D) Luke 6:20-31
-
-**43.** Which passage contains the divine name or title **Spirit**?
-A) Psalm 37:10-11  B) Psalm 51:9-12  C) Psalm 94:8-15  D) Psalm 126:3-6
-
-**44.** Which passage contains the divine name or title **Spirit**?
-A) Malachi 3:10  B) Haggai 2:2-9  C) Matthew 6:6  D) Haggai 1:3-11
-
-**45.** Which passage contains the divine name or title **Spirit**?
-A) Galatians 6:7-10  B) Galatians 2:15-21  C) 2 Corinthians 9:1-13  D) Ephesians 1:15-23
-
-**46.** Which passage does **NOT** contain the divine title **Spirit**?
-A) Galatians 6:7-10  B) Psalm 37:10-11  C) Psalm 51:9-12  D) Haggai 2:2-9
-
-**47.** Which passage contains the divine name or title **Holy Spirit**?
-A) Psalm 37:10-11  B) Psalm 94:8-15  C) Psalm 51:9-12  D) Psalm 126:3-6
-
-**48.** Which passage contains the divine name or title **Holy Spirit**?
-A) Acts 7:49  B) Romans 1:13-17  C) Acts 10:34-43  D) John 21:12-22
-
-**49.** Which passage contains the divine name or title **Holy Spirit**?
-A) Romans 14:4-19  B) Romans 6:10-15  C) Romans 10:1-5  D) Romans 3:1-11
-
-**50.** Which passage does **NOT** contain the divine title **Holy Spirit**?
-A) Romans 14:4-19  B) Psalm 37:10-11  C) Acts 10:34-43  D) Psalm 51:9-12
-
-**51.** Which passage does **NOT** contain **God**?
-A) Ecclesiastes 5:1-3  B) Romans 2:8-11  C) Proverbs 28:25-26  D) 1 Kings 3:3-10
-
-**52.** Which passage does **NOT** contain **God**?
-A) Acts 10:34-43  B) Acts 7:49  C) Romans 6:10-15  D) Joshua 2:8-11
-
-**53.** Which passage does **NOT** contain **God**?
-A) Joshua 17:3-4  B) Leviticus 26:1-10  C) Leviticus 24:17-22  D) Ephesians 6:5-9
-
-**54.** Which passage does **NOT** contain **God**?
-A) Hebrews 11:31-40  B) Psalm 145:1-21  C) Proverbs 1:5-23  D) Romans 6:10-15
-
-**55.** Which passage does **NOT** contain **God**?
-A) 2 Corinthians 8:1-17  B) 1 Peter 5:1-11  C) James 1:23-26  D) Leviticus 24:17-22
-
-**56.** Which passage does **NOT** contain **God**?
-A) Romans 1:13-17  B) Ephesians 1:15-23  C) Psalm 18:2-12  D) Luke 2:41-52
-
-**57.** Which passage **does** contain **God**?
-A) Exodus 33:12-19  B) Genesis 50:16-20  C) Exodus 4:4-5  D) Genesis 31:13
-
-**58.** Which passage **does** contain **God**?
-A) Exodus 33:12-19  B) Exodus 4:4-5  C) Leviticus 24:17-22  D) Genesis 31:13
-
-**59.** Which passage **does** contain **God**?
-A) Joshua 17:3-4  B) Leviticus 26:1-10  C) Exodus 33:12-19  D) Exodus 4:4-5
-
-**60.** Which passage **does** contain **God**?
-A) Exodus 33:12-19  B) Deuteronomy 5:23-33  C) Joshua 17:3-4  D) Exodus 4:4-5
-
-**61.** Which passage **does** contain **God**?
-A) 1 Samuel 25:32-33  B) Joshua 2:8-11  C) Judges 6:11-14  D) Joshua 17:3-4
-
-**62.** Which passage **does** contain **God**?
-A) Joshua 23:3-14  B) Joshua 17:3-4  C) 1 Samuel 25:32-33  D) Judges 6:11-14
-
-**63.** Which passage **does** contain **God**?
-A) 1 Samuel 25:32-33  B) Judges 6:11-14  C) 2 Samuel 22:1-4  D) 1 Kings 12:6-8
-
-**64.** Which passage **does** contain **God**?
-A) 1 Samuel 25:32-33  B) 1 Kings 12:6-8  C) 1 Kings 3:3-10  D) Judges 6:11-14
-
-**65.** Which passage **does** contain **God**?
-A) 1 Kings 12:6-8  B) 1 Kings 8:22-28  C) 1 Samuel 25:32-33  D) 1 Chronicles 11:4-9
-
-**66.** Which passage **does** contain **God**?
-A) 1 Chronicles 11:4-9  B) 1 Kings 12:6-8  C) 1 Kings 18:36-39  D) Esther 10:1-3
-
-**67.** Which passage **does** contain **God**?
-A) Esther 10:1-3  B) 1 Kings 12:6-8  C) 1 Chronicles 11:4-9  D) Nehemiah 4:6-16
-
-**68.** Which passage **does** contain **God**?
-A) Nehemiah 8:5-12  B) Esther 10:1-3  C) 1 Chronicles 11:4-9  D) 1 Kings 12:6-8
-
-**69.** Which passage does **NOT** contain **LORD (or Lord)**?
-A) Acts 10:34-43  B) Hosea 10:12  C) Job 9:1-13  D) Job 42:1-9
-
-**70.** Which passage does **NOT** contain **LORD (or Lord)**?
-A) Isaiah 26:1-9  B) Genesis 31:13  C) Joshua 23:3-14  D) Leviticus 24:17-22
-
-**71.** Which passage does **NOT** contain **LORD (or Lord)**?
-A) Nehemiah 8:5-12  B) 1 Corinthians 6:1-10  C) 2 Corinthians 8:1-17  D) Psalm 94:8-15
-
-**72.** Which passage does **NOT** contain **LORD (or Lord)**?
-A) Ecclesiastes 3:9-17  B) Proverbs 23:15-26  C) Philippians 4:10-13  D) Job 28:3-28
-
-**73.** Which passage does **NOT** contain **LORD (or Lord)**?
-A) Matthew 23:13-22  B) Joshua 23:3-14  C) Zephaniah 3:13-20  D) 2 Samuel 22:1-4
-
-**74.** Which passage does **NOT** contain **LORD (or Lord)**?
-A) Esther 10:1-3  B) Deuteronomy 5:23-33  C) 1 Kings 18:36-39  D) Psalm 18:2-12
-
-**75.** Which passage **does** contain **LORD (or Lord)**?
-A) Exodus 4:4-5  B) Genesis 50:16-20  C) Genesis 31:13  D) 1 Samuel 25:32-33
-
-**76.** Which passage **does** contain **LORD (or Lord)**?
-A) Exodus 33:12-19  B) Genesis 31:13  C) 1 Samuel 25:32-33  D) Genesis 50:16-20
-
-**77.** Which passage **does** contain **LORD (or Lord)**?
-A) Leviticus 24:17-22  B) 1 Samuel 25:32-33  C) Genesis 31:13  D) Genesis 50:16-20
-
-**78.** Which passage **does** contain **LORD (or Lord)**?
-A) Leviticus 26:1-10  B) 1 Samuel 25:32-33  C) Genesis 31:13  D) Genesis 50:16-20
-
-**79.** Which passage **does** contain **LORD (or Lord)**?
-A) Genesis 50:16-20  B) Genesis 31:13  C) 1 Samuel 25:32-33  D) Deuteronomy 5:23-33
-
-**80.** Which passage **does** contain **LORD (or Lord)**?
-A) 1 Samuel 25:32-33  B) Genesis 31:13  C) Genesis 50:16-20  D) Joshua 2:8-11
-
-**81.** Which passage **does** contain **LORD (or Lord)**?
-A) Genesis 50:16-20  B) 1 Samuel 25:32-33  C) 1 Kings 12:6-8  D) Joshua 17:3-4
-
-**82.** Which passage **does** contain **LORD (or Lord)**?
-A) 1 Chronicles 11:4-9  B) 1 Samuel 25:32-33  C) 1 Kings 12:6-8  D) Joshua 23:3-14
-
-**83.** Which passage **does** contain **LORD (or Lord)**?
-A) Judges 6:11-14  B) 1 Kings 12:6-8  C) 1 Samuel 25:32-33  D) 1 Chronicles 11:4-9
-
-**84.** Which passage **does** contain **LORD (or Lord)**?
-A) 2 Samuel 22:1-4  B) 1 Chronicles 11:4-9  C) 1 Kings 12:6-8  D) 1 Samuel 25:32-33
-
-**85.** Which passage **does** contain **LORD (or Lord)**?
-A) 1 Samuel 25:32-33  B) 1 Kings 3:3-10  C) 1 Chronicles 11:4-9  D) 1 Kings 12:6-8
-
-**86.** Which passage **does** contain **LORD (or Lord)**?
-A) 1 Kings 8:22-28  B) 1 Kings 12:6-8  C) 1 Chronicles 11:4-9  D) 1 Samuel 25:32-33
-
-**87.** Which passage does **NOT** contain **Christ**?
-A) John 21:12-22  B) 2 Corinthians 9:1-13  C) John 1:1-18  D) Galatians 2:15-21
-
-**88.** Which passage does **NOT** contain **Christ**?
-A) 1 Timothy 5:1-6  B) 1 Corinthians 3:10-14  C) 1 Peter 2:15-25  D) Ephesians 1:15-23
-
-**89.** Which passage does **NOT** contain **Christ**?
-A) Hebrews 11:24-26  B) Romans 10:1-5  C) 1 Corinthians 6:1-10  D) 1 Peter 2:15-25
-
-**90.** Which passage does **NOT** contain **Christ**?
-A) Romans 10:1-5  B) Romans 6:10-15  C) John 17:1-17  D) 1 Corinthians 15:32-33
-
-**91.** Which passage does **NOT** contain **Christ**?
-A) Galatians 6:7-10  B) Romans 14:4-19  C) Romans 1:13-17  D) 1 Corinthians 3:10-14
-
-**92.** Which passage does **NOT** contain **Christ**?
-A) 2 Corinthians 8:1-17  B) Romans 6:10-15  C) 1 Corinthians 6:1-10  D) Romans 1:13-17
-
-**93.** Which passage **does** contain **Christ**?
-A) Luke 19:15-17  B) Luke 18:9-17  C) John 1:1-18  D) John 21:12-22
-
-**94.** Which passage **does** contain **Christ**?
-A) Luke 19:15-17  B) John 21:12-22  C) John 17:1-17  D) Acts 7:49
-
-**95.** Which passage **does** contain **Christ**?
-A) Romans 2:8-11  B) John 21:12-22  C) Acts 7:49  D) Acts 10:34-43
-
-**96.** Which passage **does** contain **Christ**?
-A) Romans 2:8-11  B) Romans 1:13-17  C) Acts 7:49  D) Romans 3:1-11
-
-**97.** Which passage **does** contain **Christ**?
-A) 1 Corinthians 6:1-10  B) Romans 2:8-11  C) Romans 6:10-15  D) Romans 3:1-11
-
-**98.** Which passage **does** contain **Christ**?
-A) Romans 10:1-5  B) Romans 2:8-11  C) 1 Corinthians 6:1-10  D) Romans 3:1-11
-
-**99.** Which passage **does** contain **Christ**?
-A) 1 Corinthians 6:1-10  B) Romans 2:8-11  C) Romans 3:1-11  D) Romans 14:4-19
-
-**100.** Which passage **does** contain **Christ**?
-A) 1 Corinthians 15:32-33  B) 1 Corinthians 6:1-10  C) 1 Corinthians 3:10-14  D) Romans 3:1-11
-
-**101.** Which passage **does** contain **Christ**?
-A) 1 Corinthians 15:32-33  B) 2 Corinthians 8:1-17  C) 1 Corinthians 6:1-10  D) Galatians 6:7-10
-
-**102.** Which passage **does** contain **Christ**?
-A) 1 Corinthians 15:32-33  B) Galatians 6:7-10  C) 2 Corinthians 9:1-13  D) 1 Corinthians 6:1-10
-
-**103.** Which passage **does** contain **Christ**?
-A) 1 Corinthians 6:1-10  B) 1 Corinthians 15:32-33  C) Galatians 6:7-10  D) Galatians 2:15-21
-
-**104.** Which passage **does** contain **Christ**?
-A) 1 Timothy 5:1-6  B) Ephesians 1:15-23  C) Galatians 6:7-10  D) 1 Corinthians 15:32-33
-
-**105.** Which passage does **NOT** contain **Jesus**?
-A) Romans 6:10-15  B) John 17:1-17  C) Romans 14:4-19  D) Romans 10:1-5
-
-**106.** Which passage does **NOT** contain **Jesus**?
-A) Luke 18:9-17  B) Luke 19:15-17  C) Acts 10:34-43  D) Luke 2:41-52
-
-**107.** Which passage does **NOT** contain **Jesus**?
-A) John 17:1-17  B) Romans 2:8-11  C) 1 Peter 5:1-11  D) Acts 10:34-43
-
-**108.** Which passage does **NOT** contain **Jesus**?
-A) Romans 14:4-19  B) Luke 9:19-28  C) 2 Corinthians 8:1-17  D) Luke 2:41-52
-
-**109.** Which passage does **NOT** contain **Jesus**?
-A) Romans 6:10-15  B) Galatians 2:15-21  C) 2 Corinthians 8:1-17  D) 1 Corinthians 6:1-10
-
-**110.** Which passage does **NOT** contain **Jesus**?
-A) Acts 10:34-43  B) Luke 2:41-52  C) Romans 6:10-15  D) Luke 19:15-17
-
-**111.** Which passage **does** contain **Jesus**?
-A) Mark 8:31-38  B) Matthew 23:25-28  C) Mark 9:42-50  D) Mark 7:17-28
-
-**112.** Which passage **does** contain **Jesus**?
-A) Luke 6:20-31  B) Luke 6:35-43  C) Luke 2:41-52  D) Luke 3:7-14
-
-**113.** Which passage **does** contain **Jesus**?
-A) Luke 18:9-17  B) Luke 9:19-28  C) Luke 19:15-17  D) Luke 17:1-4
-
-**114.** Which passage **does** contain **Jesus**?
-A) Luke 17:1-4  B) Luke 19:15-17  C) Acts 7:49  D) John 1:1-18
-
-**115.** Which passage **does** contain **Jesus**?
-A) John 17:1-17  B) Acts 7:49  C) Luke 19:15-17  D) Luke 17:1-4
-
-**116.** Which passage **does** contain **Jesus**?
-A) John 21:12-22  B) Romans 1:13-17  C) Acts 7:49  D) Luke 19:15-17
-
-**117.** Which passage **does** contain **Jesus**?
-A) Romans 1:13-17  B) Acts 7:49  C) Acts 10:34-43  D) Romans 2:8-11
-
-**118.** Which passage **does** contain **Jesus**?
-A) Romans 3:1-11  B) Romans 2:8-11  C) Romans 6:10-15  D) Romans 10:1-5
-
-**119.** Which passage **does** contain **Jesus**?
-A) Romans 10:1-5  B) Romans 3:1-11  C) Romans 14:4-19  D) Romans 2:8-11
-
-**120.** Which passage **does** contain **Jesus**?
-A) 1 Corinthians 15:32-33  B) 1 Corinthians 3:10-14  C) Romans 10:1-5  D) 1 Corinthians 6:1-10
-
-**121.** Which passage **does** contain **Jesus**?
-A) 2 Corinthians 9:1-13  B) 1 Corinthians 6:1-10  C) 1 Corinthians 15:32-33  D) 2 Corinthians 8:1-17
-
-**122.** Which passage **does** contain **Jesus**?
-A) Galatians 6:7-10  B) Galatians 2:15-21  C) 1 Corinthians 15:32-33  D) 2 Corinthians 9:1-13
-
-**123.** Which passage does **NOT** contain **Father**?
-A) John 17:1-17  B) Luke 2:41-52  C) John 21:12-22  D) Matthew 6:6
-
-**124.** Which passage does **NOT** contain **Father**?
-A) Matthew 23:25-28  B) Matthew 7:11-12  C) Luke 2:41-52  D) Mark 8:31-38
-
-**125.** Which passage does **NOT** contain **Father**?
-A) Matthew 7:11-12  B) Matthew 6:6  C) Luke 6:35-43  D) Malachi 3:10
-
-**126.** Which passage does **NOT** contain **Father**?
-A) Luke 6:35-43  B) Luke 2:41-52  C) Luke 18:9-17  D) Matthew 6:6
-
-**127.** Which passage does **NOT** contain **Father**?
-A) Luke 9:19-28  B) Luke 19:15-17  C) Mark 8:31-38  D) Luke 6:35-43
-
-**128.** Which passage does **NOT** contain **Father**?
-A) James 3:7-13  B) Matthew 7:11-12  C) Luke 2:41-52  D) James 5:7-11
-
-**129.** Which passage **does** contain **Father**?
-A) Malachi 3:10  B) Matthew 6:6  C) Matthew 23:13-22  D) Matthew 23:25-28
-
-**130.** Which passage **does** contain **Father**?
-A) Matthew 7:11-12  B) Malachi 3:10  C) Matthew 23:13-22  D) Matthew 23:25-28
-
-**131.** Which passage **does** contain **Father**?
-A) Mark 9:42-50  B) Matthew 23:25-28  C) Mark 8:31-38  D) Mark 7:17-28
-
-**132.** Which passage **does** contain **Father**?
-A) Luke 2:41-52  B) Luke 6:20-31  C) Luke 17:1-4  D) Luke 3:7-14
-
-**133.** Which passage **does** contain **Father**?
-A) Luke 6:20-31  B) Luke 17:1-4  C) Luke 6:35-43  D) Luke 3:7-14
-
-**134.** Which passage **does** contain **Father**?
-A) Luke 18:9-17  B) Luke 6:20-31  C) Luke 9:19-28  D) Luke 17:1-4
-
-**135.** Which passage **does** contain **Father**?
-A) John 1:1-18  B) John 21:12-22  C) Luke 19:15-17  D) Luke 18:9-17
-
-**136.** Which passage **does** contain **Father**?
-A) John 21:12-22  B) Luke 19:15-17  C) John 17:1-17  D) Acts 7:49
-
-**137.** Which passage **does** contain **Father**?
-A) James 3:7-13  B) James 2:8-10  C) James 4:7-10  D) James 2:15-18
-
-**138.** Which passage does **NOT** contain **LORD of hosts**?
+**42.** Which passage contains the divine name or title **Spirit**?
 A) Matthew 6:6  B) Malachi 3:10  C) Haggai 1:3-11  D) Haggai 2:2-9
 
+**43.** Which passage contains the divine name or title **Spirit**?
+A) Ephesians 1:15-23  B) Galatians 2:15-21  C) 2 Corinthians 9:1-13  D) Galatians 6:7-10
+
+**44.** Which passage does **NOT** contain the divine title **Spirit**?
+A) Galatians 6:7-10  B) Psalm 51:9-12  C) Haggai 2:2-9  D) Psalm 37:10-11
+
+**45.** Which passage contains the divine name or title **Holy Spirit**?
+A) Psalm 51:9-12  B) Psalm 126:3-6  C) Psalm 37:10-11  D) Psalm 94:8-15
+
+**46.** Which passage contains the divine name or title **Holy Spirit**?
+A) John 21:12-22  B) Acts 10:34-43  C) Acts 7:49  D) Romans 1:13-17
+
+**47.** Which passage contains the divine name or title **Holy Spirit**?
+A) Romans 6:10-15  B) Romans 3:1-11  C) Romans 10:1-5  D) Romans 14:4-19
+
+**48.** Which passage does **NOT** contain the divine title **Holy Spirit**?
+A) Romans 14:4-19  B) Psalm 51:9-12  C) Acts 10:34-43  D) Psalm 37:10-11
+
+**49.** Which passage does **NOT** contain **God**?
+A) Job 28:3-28  B) Ecclesiastes 5:1-3  C) Proverbs 28:25-26  D) Joshua 23:3-14
+
+**50.** Which passage does **NOT** contain **God**?
+A) Psalm 51:9-12  B) Mark 9:42-50  C) Genesis 50:16-20  D) Matthew 23:25-28
+
+**51.** Which passage does **NOT** contain **God**?
+A) Job 28:3-28  B) Esther 10:1-3  C) Deuteronomy 5:23-33  D) Galatians 6:7-10
+
+**52.** Which passage does **NOT** contain **God**?
+A) Acts 10:34-43  B) 1 Corinthians 6:1-10  C) Philippians 4:10-13  D) John 1:1-18
+
+**53.** Which passage does **NOT** contain **God**?
+A) 1 Kings 18:36-39  B) Genesis 50:16-20  C) 2 Corinthians 9:1-13  D) Acts 7:49
+
+**54.** Which passage does **NOT** contain **God**?
+A) John 17:1-17  B) Matthew 7:11-12  C) Job 9:1-13  D) Luke 2:41-52
+
+**55.** Which passage **does** contain **God**?
+A) Genesis 50:16-20  B) Genesis 31:13  C) Exodus 33:12-19  D) Exodus 4:4-5
+
+**56.** Which passage **does** contain **God**?
+A) Genesis 31:13  B) Leviticus 24:17-22  C) Exodus 33:12-19  D) Exodus 4:4-5
+
+**57.** Which passage **does** contain **God**?
+A) Exodus 33:12-19  B) Exodus 4:4-5  C) Leviticus 26:1-10  D) Joshua 17:3-4
+
+**58.** Which passage **does** contain **God**?
+A) Joshua 17:3-4  B) Exodus 33:12-19  C) Deuteronomy 5:23-33  D) Exodus 4:4-5
+
+**59.** Which passage **does** contain **God**?
+A) Joshua 2:8-11  B) Judges 6:11-14  C) Joshua 17:3-4  D) 1 Samuel 25:32-33
+
+**60.** Which passage **does** contain **God**?
+A) 1 Samuel 25:32-33  B) Joshua 23:3-14  C) Judges 6:11-14  D) Joshua 17:3-4
+
+**61.** Which passage **does** contain **God**?
+A) 1 Samuel 25:32-33  B) 2 Samuel 22:1-4  C) 1 Kings 12:6-8  D) Judges 6:11-14
+
+**62.** Which passage **does** contain **God**?
+A) 1 Kings 12:6-8  B) 1 Samuel 25:32-33  C) 1 Kings 3:3-10  D) Judges 6:11-14
+
+**63.** Which passage **does** contain **God**?
+A) 1 Samuel 25:32-33  B) 1 Chronicles 11:4-9  C) 1 Kings 12:6-8  D) 1 Kings 8:22-28
+
+**64.** Which passage **does** contain **God**?
+A) 1 Kings 12:6-8  B) 1 Chronicles 11:4-9  C) Esther 10:1-3  D) 1 Kings 18:36-39
+
+**65.** Which passage **does** contain **God**?
+A) Nehemiah 4:6-16  B) 1 Chronicles 11:4-9  C) Esther 10:1-3  D) 1 Kings 12:6-8
+
+**66.** Which passage **does** contain **God**?
+A) Nehemiah 8:5-12  B) Esther 10:1-3  C) 1 Kings 12:6-8  D) 1 Chronicles 11:4-9
+
+**67.** Which passage does **NOT** contain **LORD (or Lord)**?
+A) Exodus 33:12-19  B) Exodus 4:4-5  C) Genesis 50:16-20  D) Jeremiah 1:4-12
+
+**68.** Which passage does **NOT** contain **LORD (or Lord)**?
+A) Mark 7:17-28  B) Mark 9:42-50  C) Job 28:3-28  D) Isaiah 31:4-5
+
+**69.** Which passage does **NOT** contain **LORD (or Lord)**?
+A) 1 Kings 3:3-10  B) Mark 7:17-28  C) 1 Chronicles 11:4-9  D) 1 Kings 18:36-39
+
+**70.** Which passage does **NOT** contain **LORD (or Lord)**?
+A) Haggai 2:2-9  B) Romans 2:8-11  C) Acts 7:49  D) Haggai 1:3-11
+
+**71.** Which passage does **NOT** contain **LORD (or Lord)**?
+A) Leviticus 26:1-10  B) Ecclesiastes 3:9-17  C) Jeremiah 20:7-13  D) Isaiah 66:1
+
+**72.** Which passage does **NOT** contain **LORD (or Lord)**?
+A) Psalm 94:8-15  B) Acts 7:49  C) Proverbs 15:19-23  D) Jeremiah 20:7-13
+
+**73.** Which passage **does** contain **LORD (or Lord)**?
+A) Genesis 31:13  B) Genesis 50:16-20  C) Exodus 4:4-5  D) 1 Samuel 25:32-33
+
+**74.** Which passage **does** contain **LORD (or Lord)**?
+A) Genesis 50:16-20  B) Exodus 33:12-19  C) 1 Samuel 25:32-33  D) Genesis 31:13
+
+**75.** Which passage **does** contain **LORD (or Lord)**?
+A) Genesis 31:13  B) Genesis 50:16-20  C) Leviticus 24:17-22  D) 1 Samuel 25:32-33
+
+**76.** Which passage **does** contain **LORD (or Lord)**?
+A) Genesis 31:13  B) 1 Samuel 25:32-33  C) Genesis 50:16-20  D) Leviticus 26:1-10
+
+**77.** Which passage **does** contain **LORD (or Lord)**?
+A) Deuteronomy 5:23-33  B) 1 Samuel 25:32-33  C) Genesis 50:16-20  D) Genesis 31:13
+
+**78.** Which passage **does** contain **LORD (or Lord)**?
+A) 1 Samuel 25:32-33  B) Joshua 2:8-11  C) Genesis 31:13  D) Genesis 50:16-20
+
+**79.** Which passage **does** contain **LORD (or Lord)**?
+A) 1 Samuel 25:32-33  B) 1 Kings 12:6-8  C) Genesis 50:16-20  D) Joshua 17:3-4
+
+**80.** Which passage **does** contain **LORD (or Lord)**?
+A) 1 Samuel 25:32-33  B) 1 Kings 12:6-8  C) Joshua 23:3-14  D) 1 Chronicles 11:4-9
+
+**81.** Which passage **does** contain **LORD (or Lord)**?
+A) 1 Chronicles 11:4-9  B) 1 Samuel 25:32-33  C) Judges 6:11-14  D) 1 Kings 12:6-8
+
+**82.** Which passage **does** contain **LORD (or Lord)**?
+A) 2 Samuel 22:1-4  B) 1 Kings 12:6-8  C) 1 Chronicles 11:4-9  D) 1 Samuel 25:32-33
+
+**83.** Which passage **does** contain **LORD (or Lord)**?
+A) 1 Samuel 25:32-33  B) 1 Kings 3:3-10  C) 1 Chronicles 11:4-9  D) 1 Kings 12:6-8
+
+**84.** Which passage **does** contain **LORD (or Lord)**?
+A) 1 Kings 8:22-28  B) 1 Kings 12:6-8  C) 1 Chronicles 11:4-9  D) 1 Samuel 25:32-33
+
+**85.** Which passage does **NOT** contain **Christ**?
+A) 1 Peter 2:9-12  B) Romans 1:13-17  C) 1 Peter 2:15-25  D) Romans 6:10-15
+
+**86.** Which passage does **NOT** contain **Christ**?
+A) John 21:12-22  B) Acts 10:34-43  C) Romans 14:4-19  D) 2 Corinthians 9:1-13
+
+**87.** Which passage does **NOT** contain **Christ**?
+A) 1 Peter 5:1-11  B) Galatians 6:7-10  C) Philippians 4:10-13  D) Romans 6:10-15
+
+**88.** Which passage does **NOT** contain **Christ**?
+A) Romans 14:4-19  B) Galatians 2:15-21  C) Philippians 1:9-18  D) Hebrews 11:31-40
+
+**89.** Which passage does **NOT** contain **Christ**?
+A) John 17:1-17  B) 1 Peter 5:1-11  C) Romans 1:13-17  D) James 4:7-10
+
+**90.** Which passage does **NOT** contain **Christ**?
+A) Luke 9:19-28  B) John 17:1-17  C) Hebrews 11:24-26  D) Ephesians 6:5-9
+
+**91.** Which passage **does** contain **Christ**?
+A) John 1:1-18  B) Luke 18:9-17  C) Luke 19:15-17  D) John 21:12-22
+
+**92.** Which passage **does** contain **Christ**?
+A) Acts 7:49  B) John 17:1-17  C) Luke 19:15-17  D) John 21:12-22
+
+**93.** Which passage **does** contain **Christ**?
+A) Acts 10:34-43  B) Acts 7:49  C) John 21:12-22  D) Romans 2:8-11
+
+**94.** Which passage **does** contain **Christ**?
+A) Acts 7:49  B) Romans 3:1-11  C) Romans 2:8-11  D) Romans 1:13-17
+
+**95.** Which passage **does** contain **Christ**?
+A) Romans 6:10-15  B) Romans 2:8-11  C) Romans 3:1-11  D) 1 Corinthians 6:1-10
+
+**96.** Which passage **does** contain **Christ**?
+A) Romans 3:1-11  B) Romans 10:1-5  C) 1 Corinthians 6:1-10  D) Romans 2:8-11
+
+**97.** Which passage **does** contain **Christ**?
+A) Romans 14:4-19  B) 1 Corinthians 6:1-10  C) Romans 2:8-11  D) Romans 3:1-11
+
+**98.** Which passage **does** contain **Christ**?
+A) 1 Corinthians 3:10-14  B) Romans 3:1-11  C) 1 Corinthians 15:32-33  D) 1 Corinthians 6:1-10
+
+**99.** Which passage **does** contain **Christ**?
+A) Galatians 6:7-10  B) 1 Corinthians 15:32-33  C) 2 Corinthians 8:1-17  D) 1 Corinthians 6:1-10
+
+**100.** Which passage **does** contain **Christ**?
+A) 1 Corinthians 6:1-10  B) Galatians 6:7-10  C) 2 Corinthians 9:1-13  D) 1 Corinthians 15:32-33
+
+**101.** Which passage **does** contain **Christ**?
+A) 1 Corinthians 15:32-33  B) Galatians 6:7-10  C) 1 Corinthians 6:1-10  D) Galatians 2:15-21
+
+**102.** Which passage **does** contain **Christ**?
+A) 1 Corinthians 15:32-33  B) 1 Timothy 5:1-6  C) Ephesians 1:15-23  D) Galatians 6:7-10
+
+**103.** Which passage does **NOT** contain **Jesus**?
+A) Luke 18:9-17  B) 2 Corinthians 8:1-17  C) Luke 17:1-4  D) Galatians 2:15-21
+
+**104.** Which passage does **NOT** contain **Jesus**?
+A) Luke 2:41-52  B) John 1:1-18  C) Luke 19:15-17  D) John 17:1-17
+
+**105.** Which passage does **NOT** contain **Jesus**?
+A) John 21:12-22  B) Romans 10:1-5  C) John 17:1-17  D) 1 Corinthians 3:10-14
+
+**106.** Which passage does **NOT** contain **Jesus**?
+A) Philippians 1:9-18  B) John 21:12-22  C) Romans 1:13-17  D) John 17:1-17
+
+**107.** Which passage does **NOT** contain **Jesus**?
+A) Philippians 1:9-18  B) 1 Timothy 5:1-6  C) Ephesians 1:15-23  D) Luke 18:9-17
+
+**108.** Which passage does **NOT** contain **Jesus**?
+A) Philippians 1:9-18  B) Romans 10:1-5  C) Acts 10:34-43  D) 1 Corinthians 3:10-14
+
+**109.** Which passage **does** contain **Jesus**?
+A) Mark 9:42-50  B) Mark 7:17-28  C) Mark 8:31-38  D) Matthew 23:25-28
+
+**110.** Which passage **does** contain **Jesus**?
+A) Luke 3:7-14  B) Luke 6:20-31  C) Luke 2:41-52  D) Luke 6:35-43
+
+**111.** Which passage **does** contain **Jesus**?
+A) Luke 9:19-28  B) Luke 19:15-17  C) Luke 17:1-4  D) Luke 18:9-17
+
+**112.** Which passage **does** contain **Jesus**?
+A) Acts 7:49  B) John 1:1-18  C) Luke 19:15-17  D) Luke 17:1-4
+
+**113.** Which passage **does** contain **Jesus**?
+A) John 17:1-17  B) Acts 7:49  C) Luke 19:15-17  D) Luke 17:1-4
+
+**114.** Which passage **does** contain **Jesus**?
+A) Acts 7:49  B) Romans 1:13-17  C) Luke 19:15-17  D) John 21:12-22
+
+**115.** Which passage **does** contain **Jesus**?
+A) Romans 1:13-17  B) Acts 10:34-43  C) Romans 2:8-11  D) Acts 7:49
+
+**116.** Which passage **does** contain **Jesus**?
+A) Romans 10:1-5  B) Romans 6:10-15  C) Romans 3:1-11  D) Romans 2:8-11
+
+**117.** Which passage **does** contain **Jesus**?
+A) Romans 14:4-19  B) Romans 3:1-11  C) Romans 10:1-5  D) Romans 2:8-11
+
+**118.** Which passage **does** contain **Jesus**?
+A) 1 Corinthians 15:32-33  B) 1 Corinthians 3:10-14  C) Romans 10:1-5  D) 1 Corinthians 6:1-10
+
+**119.** Which passage **does** contain **Jesus**?
+A) 2 Corinthians 9:1-13  B) 1 Corinthians 6:1-10  C) 1 Corinthians 15:32-33  D) 2 Corinthians 8:1-17
+
+**120.** Which passage **does** contain **Jesus**?
+A) 2 Corinthians 9:1-13  B) Galatians 6:7-10  C) Galatians 2:15-21  D) 1 Corinthians 15:32-33
+
+**121.** Which passage does **NOT** contain **Father**?
+A) Luke 2:41-52  B) Matthew 23:13-22  C) Matthew 7:11-12  D) Matthew 6:6
+
+**122.** Which passage does **NOT** contain **Father**?
+A) Mark 8:31-38  B) Matthew 6:6  C) John 1:1-18  D) Mark 9:42-50
+
+**123.** Which passage does **NOT** contain **Father**?
+A) Matthew 7:11-12  B) Malachi 3:10  C) John 17:1-17  D) James 3:7-13
+
+**124.** Which passage does **NOT** contain **Father**?
+A) Luke 18:9-17  B) Luke 9:19-28  C) Luke 6:35-43  D) John 1:1-18
+
+**125.** Which passage does **NOT** contain **Father**?
+A) John 17:1-17  B) Matthew 6:6  C) Luke 18:9-17  D) James 3:7-13
+
+**126.** Which passage does **NOT** contain **Father**?
+A) John 17:1-17  B) Luke 6:35-43  C) Matthew 7:11-12  D) Mark 9:42-50
+
+**127.** Which passage **does** contain **Father**?
+A) Malachi 3:10  B) Matthew 23:25-28  C) Matthew 6:6  D) Matthew 23:13-22
+
+**128.** Which passage **does** contain **Father**?
+A) Matthew 23:13-22  B) Matthew 7:11-12  C) Malachi 3:10  D) Matthew 23:25-28
+
+**129.** Which passage **does** contain **Father**?
+A) Mark 7:17-28  B) Mark 8:31-38  C) Mark 9:42-50  D) Matthew 23:25-28
+
+**130.** Which passage **does** contain **Father**?
+A) Luke 6:20-31  B) Luke 17:1-4  C) Luke 3:7-14  D) Luke 2:41-52
+
+**131.** Which passage **does** contain **Father**?
+A) Luke 3:7-14  B) Luke 17:1-4  C) Luke 6:35-43  D) Luke 6:20-31
+
+**132.** Which passage **does** contain **Father**?
+A) Luke 9:19-28  B) Luke 18:9-17  C) Luke 17:1-4  D) Luke 6:20-31
+
+**133.** Which passage **does** contain **Father**?
+A) Luke 19:15-17  B) Luke 18:9-17  C) John 21:12-22  D) John 1:1-18
+
+**134.** Which passage **does** contain **Father**?
+A) Luke 19:15-17  B) John 21:12-22  C) Acts 7:49  D) John 17:1-17
+
+**135.** Which passage **does** contain **Father**?
+A) James 2:15-18  B) James 3:7-13  C) James 2:8-10  D) James 4:7-10
+
+**136.** Which passage does **NOT** contain **LORD of hosts**?
+A) Haggai 1:3-11  B) 1 Kings 18:36-39  C) Malachi 3:10  D) 1 Chronicles 11:4-9
+
+**137.** Which passage does **NOT** contain **LORD of hosts**?
+A) Isaiah 31:4-5  B) Haggai 2:2-9  C) Malachi 3:10  D) Matthew 7:11-12
+
+**138.** Which passage does **NOT** contain **LORD of hosts**?
+A) Jeremiah 20:7-13  B) 1 Chronicles 11:4-9  C) 1 Kings 12:6-8  D) Malachi 3:10
+
 **139.** Which passage does **NOT** contain **LORD of hosts**?
-A) Isaiah 31:4-5  B) Haggai 1:3-11  C) Isaiah 66:1  D) 1 Chronicles 11:4-9
+A) Jeremiah 20:7-13  B) Jeremiah 17:7-8  C) Isaiah 31:4-5  D) Haggai 1:3-11
 
 **140.** Which passage does **NOT** contain **LORD of hosts**?
-A) Matthew 23:13-22  B) 1 Chronicles 11:4-9  C) Jeremiah 20:7-13  D) Malachi 3:10
+A) Jeremiah 20:7-13  B) Malachi 3:10  C) Haggai 1:3-11  D) Isaiah 66:8
 
 **141.** Which passage does **NOT** contain **LORD of hosts**?
-A) Haggai 2:2-9  B) Malachi 3:10  C) Zephaniah 3:13-20  D) Jeremiah 20:7-13
+A) Haggai 2:2-9  B) Jeremiah 1:4-12  C) Isaiah 31:4-5  D) Haggai 1:3-11
 
-**142.** Which passage does **NOT** contain **LORD of hosts**?
-A) 1 Chronicles 11:4-9  B) Matthew 7:11-12  C) Haggai 1:3-11  D) Jeremiah 20:7-13
+**142.** Which passage **does** contain **LORD of hosts**?
+A) Nehemiah 4:6-16  B) 1 Kings 18:36-39  C) 1 Kings 12:6-8  D) 1 Chronicles 11:4-9
 
-**143.** Which passage does **NOT** contain **LORD of hosts**?
-A) Haggai 2:2-9  B) 1 Chronicles 11:4-9  C) Matthew 23:25-28  D) Malachi 3:10
+**143.** Which passage **does** contain **LORD of hosts**?
+A) Isaiah 31:4-5  B) Isaiah 26:1-9  C) Isaiah 66:1  D) Isaiah 66:8
 
 **144.** Which passage **does** contain **LORD of hosts**?
-A) 1 Kings 12:6-8  B) 1 Kings 18:36-39  C) 1 Chronicles 11:4-9  D) Nehemiah 4:6-16
+A) Jeremiah 1:4-12  B) Jeremiah 17:7-8  C) Jeremiah 20:7-13  D) Hosea 10:12
 
 **145.** Which passage **does** contain **LORD of hosts**?
-A) Isaiah 26:1-9  B) Isaiah 66:1  C) Isaiah 31:4-5  D) Isaiah 66:8
+A) Hosea 10:12  B) Matthew 6:6  C) Zephaniah 3:13-20  D) Haggai 1:3-11
 
 **146.** Which passage **does** contain **LORD of hosts**?
-A) Hosea 10:12  B) Jeremiah 20:7-13  C) Jeremiah 1:4-12  D) Jeremiah 17:7-8
+A) Hosea 10:12  B) Haggai 2:2-9  C) Zephaniah 3:13-20  D) Matthew 6:6
 
 **147.** Which passage **does** contain **LORD of hosts**?
-A) Zephaniah 3:13-20  B) Matthew 6:6  C) Haggai 1:3-11  D) Hosea 10:12
+A) Matthew 23:13-22  B) Matthew 6:6  C) Malachi 3:10  D) Matthew 7:11-12
 
-**148.** Which passage **does** contain **LORD of hosts**?
-A) Haggai 2:2-9  B) Matthew 6:6  C) Zephaniah 3:13-20  D) Hosea 10:12
+**148.** Which passage contains **no** name or title for God?
+A) 1 Kings 12:6-8  B) 1 Kings 8:22-28  C) 1 Kings 18:36-39  D) 1 Kings 3:3-10
 
-**149.** Which passage **does** contain **LORD of hosts**?
-A) Matthew 23:13-22  B) Matthew 7:11-12  C) Matthew 6:6  D) Malachi 3:10
+**149.** Which passage contains **no** name or title for God?
+A) Nehemiah 8:5-12  B) Job 9:1-13  C) Esther 10:1-3  D) Job 5:17-27
 
 **150.** Which passage contains **no** name or title for God?
-A) 1 Kings 18:36-39  B) 1 Kings 12:6-8  C) 1 Kings 8:22-28  D) 1 Kings 3:3-10
+A) Psalm 51:9-12  B) Psalm 37:10-11  C) Psalm 18:2-12  D) Psalm 94:8-15
 
 **151.** Which passage contains **no** name or title for God?
-A) Job 9:1-13  B) Nehemiah 8:5-12  C) Job 5:17-27  D) Esther 10:1-3
+A) Proverbs 23:15-26  B) Proverbs 3:14-15  C) Proverbs 3:5-6  D) Proverbs 1:5-23
 
 **152.** Which passage contains **no** name or title for God?
-A) Psalm 37:10-11  B) Psalm 51:9-12  C) Psalm 18:2-12  D) Psalm 94:8-15
+A) Proverbs 23:15-26  B) Proverbs 3:5-6  C) Proverbs 1:5-23  D) Proverbs 8:10-11
 
 **153.** Which passage contains **no** name or title for God?
-A) Proverbs 1:5-23  B) Proverbs 3:14-15  C) Proverbs 3:5-6  D) Proverbs 23:15-26
-
-**154.** Which passage contains **no** name or title for God?
-A) Proverbs 23:15-26  B) Proverbs 1:5-23  C) Proverbs 8:10-11  D) Proverbs 3:5-6
-
-**155.** Which passage contains **no** name or title for God?
 A) Proverbs 28:25-26  B) Proverbs 23:15-26  C) Proverbs 3:5-6  D) Proverbs 15:19-23
 
+**154.** Which passage contains **no** name or title for God?
+A) Isaiah 66:8  B) Isaiah 31:4-5  C) Isaiah 26:1-9  D) Isaiah 66:1
+
+**155.** Which passage contains **no** name or title for God?
+A) Matthew 23:13-22  B) Matthew 6:6  C) Matthew 7:11-12  D) Matthew 23:25-28
+
 **156.** Which passage contains **no** name or title for God?
-A) Isaiah 26:1-9  B) Isaiah 66:8  C) Isaiah 66:1  D) Isaiah 31:4-5
+A) Luke 6:35-43  B) Luke 17:1-4  C) Luke 9:19-28  D) Luke 18:9-17
 
 **157.** Which passage contains **no** name or title for God?
-A) Matthew 23:25-28  B) Matthew 6:6  C) Matthew 7:11-12  D) Matthew 23:13-22
+A) Luke 18:9-17  B) Luke 6:35-43  C) Luke 19:15-17  D) Luke 9:19-28
 
 **158.** Which passage contains **no** name or title for God?
-A) Luke 17:1-4  B) Luke 9:19-28  C) Luke 6:35-43  D) Luke 18:9-17
+A) 1 Corinthians 15:32-33  B) 1 Corinthians 6:1-10  C) 1 Corinthians 3:10-14  D) 2 Corinthians 8:1-17
 
 **159.** Which passage contains **no** name or title for God?
-A) Luke 9:19-28  B) Luke 19:15-17  C) Luke 6:35-43  D) Luke 18:9-17
+A) James 4:13-17  B) James 4:7-10  C) James 3:7-13  D) James 1:2-4
 
 **160.** Which passage contains **no** name or title for God?
-A) 1 Corinthians 3:10-14  B) 2 Corinthians 8:1-17  C) 1 Corinthians 15:32-33  D) 1 Corinthians 6:1-10
+A) James 3:7-13  B) James 1:21-22  C) James 4:7-10  D) James 4:13-17
 
 **161.** Which passage contains **no** name or title for God?
-A) James 4:13-17  B) James 1:2-4  C) James 3:7-13  D) James 4:7-10
+A) James 4:13-17  B) James 4:7-10  C) James 3:7-13  D) James 1:23-26
 
 **162.** Which passage contains **no** name or title for God?
-A) James 3:7-13  B) James 1:21-22  C) James 4:13-17  D) James 4:7-10
+A) James 2:8-10  B) James 4:7-10  C) James 3:7-13  D) James 4:13-17
 
 **163.** Which passage contains **no** name or title for God?
-A) James 3:7-13  B) James 1:23-26  C) James 4:13-17  D) James 4:7-10
+A) James 4:7-10  B) James 2:15-18  C) James 3:7-13  D) James 4:13-17
 
-**164.** Which passage contains **no** name or title for God?
-A) James 4:7-10  B) James 2:8-10  C) James 4:13-17  D) James 3:7-13
+**164.** How many of the 109 passages contain no name or title for God?
+A) 20  B) 25  C) 16  D) 13
 
-**165.** Which passage contains **no** name or title for God?
-A) James 4:13-17  B) James 4:7-10  C) James 2:15-18  D) James 3:7-13
-
-**166.** How many of the 109 passages contain no name or title for God?
-A) 13  B) 16  C) 25  D) 20
-
-**Answer key — SET 12:** 1‑B, 2‑D, 3‑B, 4‑A, 5‑A, 6‑C, 7‑A, 8‑A, 9‑A, 10‑C, 11‑D, 12‑C, 13‑B, 14‑B, 15‑D, 16‑D, 17‑A, 18‑C, 19‑C, 20‑D, 21‑A, 22‑C, 23‑D, 24‑D, 25‑D, 26‑D, 27‑A, 28‑D, 29‑A, 30‑B, 31‑D, 32‑D, 33‑D, 34‑C, 35‑C, 36‑B, 37‑D, 38‑C, 39‑D, 40‑D, 41‑C, 42‑B, 43‑B, 44‑B, 45‑A, 46‑B, 47‑C, 48‑C, 49‑A, 50‑B, 51‑C, 52‑B, 53‑A, 54‑C, 55‑C, 56‑B, 57‑B, 58‑C, 59‑B, 60‑B, 61‑B, 62‑A, 63‑C, 64‑C, 65‑B, 66‑C, 67‑D, 68‑A, 69‑C, 70‑B, 71‑B, 72‑A, 73‑A, 74‑A, 75‑A, 76‑A, 77‑A, 78‑A, 79‑D, 80‑D, 81‑D, 82‑D, 83‑A, 84‑A, 85‑B, 86‑A, 87‑A, 88‑A, 89‑C, 90‑D, 91‑A, 92‑C, 93‑C, 94‑C, 95‑D, 96‑B, 97‑C, 98‑A, 99‑D, 100‑C, 101‑B, 102‑C, 103‑D, 104‑B, 105‑D, 106‑B, 107‑B, 108‑B, 109‑D, 110‑D, 111‑D, 112‑C, 113‑A, 114‑D, 115‑A, 116‑A, 117‑C, 118‑C, 119‑C, 120‑B, 121‑D, 122‑B, 123‑C, 124‑A, 125‑D, 126‑C, 127‑B, 128‑D, 129‑B, 130‑A, 131‑C, 132‑A, 133‑C, 134‑C, 135‑A, 136‑C, 137‑A, 138‑A, 139‑C, 140‑A, 141‑C, 142‑B, 143‑C, 144‑C, 145‑C, 146‑B, 147‑C, 148‑A, 149‑D, 150‑B, 151‑D, 152‑A, 153‑B, 154‑C, 155‑D, 156‑B, 157‑A, 158‑A, 159‑B, 160‑C, 161‑B, 162‑B, 163‑B, 164‑B, 165‑C, 166‑B
+**Answer key — SET 12:** 1‑D, 2‑C, 3‑B, 4‑A, 5‑D, 6‑D, 7‑C, 8‑A, 9‑A, 10‑B, 11‑D, 12‑C, 13‑A, 14‑A, 15‑A, 16‑A, 17‑B, 18‑D, 19‑B, 20‑D, 21‑B, 22‑A, 23‑A, 24‑C, 25‑A, 26‑A, 27‑A, 28‑C, 29‑D, 30‑C, 31‑B, 32‑B, 33‑D, 34‑D, 35‑A, 36‑C, 37‑C, 38‑D, 39‑A, 40‑D, 41‑D, 42‑D, 43‑D, 44‑D, 45‑A, 46‑B, 47‑D, 48‑D, 49‑C, 50‑D, 51‑B, 52‑C, 53‑D, 54‑B, 55‑A, 56‑B, 57‑C, 58‑C, 59‑A, 60‑B, 61‑B, 62‑C, 63‑D, 64‑D, 65‑A, 66‑A, 67‑C, 68‑B, 69‑C, 70‑B, 71‑B, 72‑C, 73‑C, 74‑B, 75‑C, 76‑D, 77‑A, 78‑B, 79‑D, 80‑C, 81‑C, 82‑A, 83‑B, 84‑A, 85‑A, 86‑A, 87‑B, 88‑D, 89‑D, 90‑A, 91‑A, 92‑B, 93‑A, 94‑D, 95‑A, 96‑B, 97‑A, 98‑A, 99‑C, 100‑C, 101‑D, 102‑C, 103‑C, 104‑C, 105‑B, 106‑C, 107‑B, 108‑B, 109‑B, 110‑C, 111‑D, 112‑B, 113‑A, 114‑D, 115‑B, 116‑B, 117‑A, 118‑B, 119‑D, 120‑C, 121‑B, 122‑D, 123‑B, 124‑A, 125‑C, 126‑D, 127‑C, 128‑B, 129‑B, 130‑D, 131‑C, 132‑A, 133‑D, 134‑D, 135‑B, 136‑B, 137‑D, 138‑C, 139‑B, 140‑D, 141‑B, 142‑D, 143‑A, 144‑C, 145‑D, 146‑B, 147‑C, 148‑A, 149‑C, 150‑B, 151‑B, 152‑D, 153‑D, 154‑A, 155‑D, 156‑B, 157‑C, 158‑A, 159‑D, 160‑B, 161‑D, 162‑A, 163‑B, 164‑C
 
 ---
 
@@ -3227,129 +3188,102 @@ A) 13  B) 16  C) 25  D) 20
 A) Deuteronomy 5:23-33  B) Leviticus 24:17-22  C) Exodus 33:12-19  D) Leviticus 26:1-10
 
 **2.** Which passage reflects **Commandment #1**?
-A) 2 Corinthians 8:1-17  B) 1 Corinthians 15:32-33  C) 1 Corinthians 3:10-14  D) 1 Corinthians 6:1-10
+A) 2 Corinthians 8:1-17  B) 1 Corinthians 6:1-10  C) 1 Corinthians 15:32-33  D) 1 Corinthians 3:10-14
 
-**3.** Which passage does **NOT** reflect **Commandment #1**?
-A) Leviticus 26:1-10  B) Leviticus 24:17-22  C) 1 Corinthians 6:1-10  D) Deuteronomy 5:23-33
+**3.** Which passage reflects **Commandment #2**?
+A) Leviticus 26:1-10  B) Exodus 33:12-19  C) Deuteronomy 5:23-33  D) Leviticus 24:17-22
 
 **4.** Which passage reflects **Commandment #2**?
+A) 1 Corinthians 6:1-10  B) 1 Corinthians 3:10-14  C) 2 Corinthians 8:1-17  D) 1 Corinthians 15:32-33
+
+**5.** Which passage reflects **Commandment #3**?
+A) Matthew 7:11-12  B) Matthew 23:13-22  C) Matthew 6:6  D) Matthew 23:25-28
+
+**6.** Which passage reflects **Commandment #4**?
 A) Deuteronomy 5:23-33  B) Exodus 33:12-19  C) Leviticus 26:1-10  D) Leviticus 24:17-22
 
-**5.** Which passage reflects **Commandment #2**?
-A) 1 Corinthians 3:10-14  B) 1 Corinthians 6:1-10  C) 1 Corinthians 15:32-33  D) 2 Corinthians 8:1-17
+**7.** Which passage reflects **Commandment #5**?
+A) Proverbs 8:10-11  B) Proverbs 1:5-23  C) Proverbs 3:5-6  D) Proverbs 3:14-15
 
-**6.** Which passage does **NOT** reflect **Commandment #2**?
-A) Leviticus 24:17-22  B) Leviticus 26:1-10  C) 1 Corinthians 6:1-10  D) Deuteronomy 5:23-33
+**8.** Which passage reflects **Commandment #5**?
+A) Proverbs 15:19-23  B) Proverbs 23:15-26  C) Proverbs 8:10-11  D) Proverbs 28:25-26
 
-**7.** Which passage reflects **Commandment #3**?
-A) Matthew 23:13-22  B) Matthew 23:25-28  C) Matthew 7:11-12  D) Matthew 6:6
-
-**8.** Which passage does **NOT** reflect **Commandment #3**?
-A) Matthew 7:11-12  B) Matthew 23:25-28  C) Matthew 23:13-22  D) Matthew 6:6
-
-**9.** Which passage reflects **Commandment #4**?
-A) Deuteronomy 5:23-33  B) Exodus 33:12-19  C) Leviticus 26:1-10  D) Leviticus 24:17-22
-
-**10.** Which passage does **NOT** reflect **Commandment #4**?
-A) Exodus 33:12-19  B) Leviticus 26:1-10  C) Leviticus 24:17-22  D) Deuteronomy 5:23-33
-
-**11.** Which passage reflects **Commandment #5**?
-A) Proverbs 3:14-15  B) Proverbs 8:10-11  C) Proverbs 3:5-6  D) Proverbs 1:5-23
-
-**12.** Which passage reflects **Commandment #5**?
-A) Proverbs 23:15-26  B) Proverbs 8:10-11  C) Proverbs 28:25-26  D) Proverbs 15:19-23
-
-**13.** Which passage reflects **Commandment #5**?
+**9.** Which passage reflects **Commandment #5**?
 A) Luke 3:7-14  B) Luke 2:41-52  C) Luke 6:35-43  D) Luke 6:20-31
 
-**14.** Which passage reflects **Commandment #5**?
-A) Philippians 4:10-13  B) 1 Timothy 5:1-6  C) Hebrews 11:13-16  D) Hebrews 11:24-26
+**10.** Which passage reflects **Commandment #5**?
+A) Philippians 4:10-13  B) 1 Timothy 5:1-6  C) Hebrews 11:24-26  D) Hebrews 11:13-16
 
-**15.** Which passage does **NOT** reflect **Commandment #5**?
-A) Proverbs 3:5-6  B) Luke 2:41-52  C) Proverbs 23:15-26  D) Proverbs 1:5-23
+**11.** Which passage does **NOT** reflect **Commandment #5**?
+A) Proverbs 1:5-23  B) Proverbs 3:5-6  C) Luke 2:41-52  D) Proverbs 23:15-26
 
-**16.** Which passage reflects **Commandment #6**?
-A) Exodus 33:12-19  B) Leviticus 24:17-22  C) Leviticus 26:1-10  D) Deuteronomy 5:23-33
+**12.** Which passage reflects **Commandment #6**?
+A) Exodus 33:12-19  B) Leviticus 26:1-10  C) Deuteronomy 5:23-33  D) Leviticus 24:17-22
 
-**17.** Which passage reflects **Commandment #6**?
-A) Mark 9:42-50  B) Mark 7:17-28  C) Matthew 23:25-28  D) Mark 8:31-38
+**13.** Which passage reflects **Commandment #6**?
+A) Matthew 23:25-28  B) Mark 8:31-38  C) Mark 9:42-50  D) Mark 7:17-28
 
-**18.** Which passage does **NOT** reflect **Commandment #6**?
-A) Leviticus 24:17-22  B) Leviticus 26:1-10  C) Mark 7:17-28  D) Exodus 33:12-19
-
-**19.** Which passage reflects **Commandment #7**?
-A) Mark 8:31-38  B) Mark 7:17-28  C) Matthew 23:25-28  D) Mark 9:42-50
-
-**20.** Which passage reflects **Commandment #7**?
-A) 1 Corinthians 15:32-33  B) 1 Corinthians 6:1-10  C) 2 Corinthians 8:1-17  D) 1 Corinthians 3:10-14
-
-**21.** Which passage does **NOT** reflect **Commandment #7**?
-A) Mark 8:31-38  B) Mark 7:17-28  C) 1 Corinthians 6:1-10  D) Mark 9:42-50
-
-**22.** Which passage reflects **Commandment #8**?
+**14.** Which passage reflects **Commandment #7**?
 A) Mark 8:31-38  B) Mark 7:17-28  C) Mark 9:42-50  D) Matthew 23:25-28
 
-**23.** Which passage reflects **Commandment #8**?
+**15.** Which passage reflects **Commandment #7**?
+A) 1 Corinthians 3:10-14  B) 2 Corinthians 8:1-17  C) 1 Corinthians 6:1-10  D) 1 Corinthians 15:32-33
+
+**16.** Which passage reflects **Commandment #8**?
+A) Mark 9:42-50  B) Mark 7:17-28  C) Mark 8:31-38  D) Matthew 23:25-28
+
+**17.** Which passage reflects **Commandment #8**?
 A) 1 Corinthians 6:1-10  B) 1 Corinthians 15:32-33  C) 1 Corinthians 3:10-14  D) 2 Corinthians 8:1-17
 
-**24.** Which passage does **NOT** reflect **Commandment #8**?
-A) 1 Corinthians 6:1-10  B) Mark 8:31-38  C) Mark 7:17-28  D) Mark 9:42-50
-
-**25.** Which passage reflects **Commandment #9**?
+**18.** Which passage reflects **Commandment #9**?
 A) Zephaniah 3:13-20  B) Haggai 1:3-11  C) Hosea 10:12  D) Haggai 2:2-9
 
-**26.** Which passage reflects **Commandment #9**?
-A) Mark 7:17-28  B) Matthew 23:25-28  C) Mark 9:42-50  D) Mark 8:31-38
+**19.** Which passage reflects **Commandment #9**?
+A) Mark 9:42-50  B) Mark 7:17-28  C) Mark 8:31-38  D) Matthew 23:25-28
 
-**27.** Which passage does **NOT** reflect **Commandment #9**?
-A) Zephaniah 3:13-20  B) Haggai 1:3-11  C) Hosea 10:12  D) Mark 7:17-28
+**20.** Which passage reflects **Commandment #10**?
+A) Mark 9:42-50  B) Matthew 23:25-28  C) Mark 7:17-28  D) Mark 8:31-38
 
-**28.** Which passage reflects **Commandment #10**?
-A) Mark 8:31-38  B) Mark 7:17-28  C) Matthew 23:25-28  D) Mark 9:42-50
+**21.** Which passage reflects **Commandment #10**?
+A) 2 Corinthians 8:1-17  B) 1 Corinthians 15:32-33  C) 1 Corinthians 6:1-10  D) 1 Corinthians 3:10-14
 
-**29.** Which passage reflects **Commandment #10**?
-A) 1 Corinthians 6:1-10  B) 1 Corinthians 15:32-33  C) 1 Corinthians 3:10-14  D) 2 Corinthians 8:1-17
+**22.** **Leviticus 26:1-10** reflects which commandment number(s)?
+A) #2, #3, #6  B) #1, #2, #4  C) #4, #6, #9  D) #3, #8, #10
 
-**30.** Which passage does **NOT** reflect **Commandment #10**?
-A) Mark 9:42-50  B) 1 Corinthians 6:1-10  C) Mark 7:17-28  D) Mark 8:31-38
+**23.** **1 Corinthians 6:1-10** reflects which commandment number(s)?
+A) #3, #5, #6, #7, #9  B) #1, #3, #5, #8, #10  C) #4, #6, #7, #8, #10  D) #1, #2, #7, #8, #10
 
-**31.** **Leviticus 26:1-10** reflects which commandment number(s)?
-A) #1, #2, #7  B) #2, #4, #10  C) #2, #5, #6  D) #1, #2, #4
+**24.** **Matthew 23:13-22** reflects which commandment number(s)?
+A) #10  B) #3  C) #9  D) #7
 
-**32.** **1 Corinthians 6:1-10** reflects which commandment number(s)?
-A) #1, #2, #7, #8, #10  B) #1, #3, #4, #6, #8  C) #3, #6, #7, #9, #10  D) #1, #2, #6, #7, #8
+**25.** **Proverbs 1:5-23** reflects which commandment number(s)?
+A) #9  B) #8  C) #5  D) #4
 
-**33.** **Matthew 23:13-22** reflects which commandment number(s)?
-A) #10  B) #5  C) #3  D) #2
+**26.** **Proverbs 23:15-26** reflects which commandment number(s)?
+A) #9  B) #6  C) #1  D) #5
 
-**34.** **Proverbs 1:5-23** reflects which commandment number(s)?
-A) #8  B) #5  C) #7  D) #6
+**27.** **Luke 2:41-52** reflects which commandment number(s)?
+A) #8  B) #6  C) #5  D) #1
 
-**35.** **Proverbs 23:15-26** reflects which commandment number(s)?
-A) #2  B) #4  C) #6  D) #5
+**28.** **1 Timothy 5:1-6** reflects which commandment number(s)?
+A) #2  B) #6  C) #4  D) #5
 
-**36.** **Luke 2:41-52** reflects which commandment number(s)?
-A) #3  B) #5  C) #8  D) #1
+**29.** **Leviticus 24:17-22** reflects which commandment number(s)?
+A) #6  B) #3  C) #1  D) #7
 
-**37.** **1 Timothy 5:1-6** reflects which commandment number(s)?
-A) #1  B) #4  C) #8  D) #5
+**30.** **Mark 7:17-28** reflects which commandment number(s)?
+A) #1, #3, #4, #6, #8  B) #6, #7, #8, #9, #10  C) #1, #2, #8, #9, #10  D) #1, #2, #6, #7, #8
 
-**38.** **Leviticus 24:17-22** reflects which commandment number(s)?
-A) #10  B) #5  C) #6  D) #1
+**31.** **Zephaniah 3:13-20** reflects which commandment number(s)?
+A) #9  B) #4  C) #2  D) #6
 
-**39.** **Mark 7:17-28** reflects which commandment number(s)?
-A) #6, #7, #8, #9, #10  B) #1, #3, #5, #6, #9  C) #1, #3, #7, #9, #10  D) #1, #3, #4, #7, #8
+**32.** Which passage is the only one reflecting **Commandment #4**?
+A) Nehemiah 8:5-12  B) Leviticus 26:1-10  C) Joshua 23:3-14  D) Deuteronomy 5:23-33
 
-**40.** **Zephaniah 3:13-20** reflects which commandment number(s)?
-A) #9  B) #2  C) #10  D) #8
+**33.** Which passage reflects the most commandments in this document?
+A) Matthew 23:13-22  B) 1 Corinthians 6:1-10  C) Leviticus 26:1-10  D) Mark 7:17-28
 
-**41.** Which passage is the only one reflecting **Commandment #4**?
-A) Deuteronomy 5:23-33  B) Joshua 23:3-14  C) Nehemiah 8:5-12  D) Leviticus 26:1-10
-
-**42.** Which passage reflects the most commandments in this document?
-A) 1 Corinthians 6:1-10  B) Leviticus 26:1-10  C) Matthew 23:13-22  D) Mark 7:17-28
-
-**Answer key — SET 13:** 1‑D, 2‑D, 3‑B, 4‑C, 5‑B, 6‑A, 7‑A, 8‑B, 9‑C, 10‑C, 11‑D, 12‑A, 13‑B, 14‑B, 15‑A, 16‑B, 17‑B, 18‑B, 19‑B, 20‑B, 21‑A, 22‑B, 23‑A, 24‑B, 25‑A, 26‑A, 27‑B, 28‑B, 29‑A, 30‑D, 31‑D, 32‑A, 33‑C, 34‑B, 35‑D, 36‑B, 37‑D, 38‑C, 39‑A, 40‑A, 41‑D, 42‑D
+**Answer key — SET 13:** 1‑D, 2‑B, 3‑A, 4‑A, 5‑B, 6‑C, 7‑B, 8‑B, 9‑B, 10‑B, 11‑B, 12‑D, 13‑D, 14‑B, 15‑C, 16‑B, 17‑A, 18‑A, 19‑B, 20‑C, 21‑C, 22‑B, 23‑D, 24‑B, 25‑C, 26‑D, 27‑C, 28‑D, 29‑A, 30‑B, 31‑A, 32‑B, 33‑D
 
 ---
 
@@ -3357,333 +3291,333 @@ A) 1 Corinthians 6:1-10  B) Leviticus 26:1-10  C) Matthew 23:13-22  D) Mark 7:17
 *One question for each of the 109 primary passages.*
 
 **1.** What is the theme of **Genesis 31:13**?
-A) Return home  B) Daughters' inheritance  C) Mighty man of valor  D) Turn neither right nor left
+A) Eye for eye — and beyond  B) Mighty man of valor  C) Sign of belief  D) Return home
 
 **2.** What is the theme of **Genesis 50:16-20**?
-A) Wise counsel  B) Keep His commands and live  C) Forgiving as forgiven  D) Turn neither right nor left
+A) Mighty man of valor  B) Forgiving as forgiven  C) Obedience brings plenty  D) Forgive as you are forgiven
 
 **3.** What is the theme of **Exodus 4:4-5**?
-A) Mighty man of valor  B) Forgiving as forgiven  C) City of David  D) Sign of belief
+A) Mighty man of valor  B) Mercy instead of judgment  C) Forgiving as forgiven  D) Sign of belief
 
 **4.** What is the theme of **Exodus 33:12-19**?
-A) God has no favorites  B) Keep His commands and live  C) Obedience brings plenty  D) Longing to see God
+A) Keep His commands and live  B) Return home  C) Longing to see God  D) The LORD, He is God
 
 **5.** What is the theme of **Leviticus 24:17-22**?
-A) Be strong and work  B) Wisdom over silver and gold  C) Keep His commands and live  D) Eye for eye — and beyond
+A) Keep His commands and live  B) Wisdom over silver and gold  C) Clean inside, not for show  D) Eye for eye — and beyond
 
 **6.** What is the theme of **Leviticus 26:1-10**?
-A) Asking for wisdom first  B) Sign of belief  C) Forgiving as forgiven  D) Obedience brings plenty
+A) Asking for wisdom first  B) Keep His commands and live  C) Obedience brings plenty  D) Eye for eye — and beyond
 
 **7.** What is the theme of **Deuteronomy 5:23-33**?
-A) Eye for eye — and beyond  B) Wisdom over silver and gold  C) Beatitudes and the Golden Rule  D) Keep His commands and live
+A) Mocked for His name  B) Keep His commands and live  C) Be strong and work  D) Praying for his accusers
 
 **8.** What is the theme of **Joshua 2:8-11**?
-A) Mighty man of valor  B) Rahab's confession  C) Sign of belief  D) Obedience brings plenty
+A) Rahab's confession  B) Keep His commands and live  C) Wise counsel  D) Asking for wisdom first
 
 **9.** What is the theme of **Joshua 17:3-4**?
-A) Daughters' inheritance  B) Asking for wisdom first  C) Wise counsel  D) Turn neither right nor left
+A) Daughters' inheritance  B) Wise counsel  C) My rock and fortress  D) Forgiving as forgiven
 
 **10.** What is the theme of **Joshua 23:3-14**?
-A) Keep His commands and live  B) Return home  C) Wise counsel  D) Turn neither right nor left
+A) My rock and fortress  B) Forgiving as forgiven  C) Wise counsel  D) Turn neither right nor left
 
 **11.** What is the theme of **Judges 6:11-14**?
-A) Keep His commands and live  B) The royal law of love  C) Mercy instead of judgment  D) Mighty man of valor
+A) Mighty man of valor  B) Sign of belief  C) Rahab's confession  D) Joy of the LORD
 
 **12.** What is the theme of **1 Samuel 25:32-33**?
-A) Return home  B) Rejecting a father's counsel  C) Wise counsel  D) Rahab's confession
+A) Wise counsel  B) Longing to see God  C) Daughters' inheritance  D) Rahab's confession
 
 **13.** What is the theme of **2 Samuel 22:1-4**?
-A) Keep His commands and live  B) Humble and free from care  C) Now my eye sees You  D) My rock and fortress
+A) Build and guard  B) Humble and free from care  C) Keep His commands and live  D) My rock and fortress
 
 **14.** What is the theme of **1 Kings 3:3-10**?
-A) Asking for wisdom first  B) Return home  C) Sign of belief  D) Comfort for those who sorrow
+A) Forgiving as forgiven  B) Praying for his accusers  C) Asking for wisdom first  D) Wisdom beyond rubies
 
 **15.** What is the theme of **1 Kings 8:22-28**?
-A) Mighty man of valor  B) Return home  C) My rock and fortress  D) Solomon's prayer
+A) Mighty man of valor  B) Rahab's confession  C) Prayer without pretense  D) Solomon's prayer
 
 **16.** What is the theme of **1 Kings 12:6-8**?
-A) Forgiving as forgiven  B) Rejecting a father's counsel  C) Sign of belief  D) Treasure in a better country
+A) Forgiving as forgiven  B) The upright walk a highway  C) A clean and pure heart  D) Rejecting a father's counsel
 
 **17.** What is the theme of **1 Kings 18:36-39**?
-A) Beatitudes and the Golden Rule  B) The LORD, He is God  C) The meek inherit  D) He feeds every living thing
+A) Wisdom is the true treasure  B) Fear Him, shun the wicked path  C) Beatitudes and the Golden Rule  D) The LORD, He is God
 
 **18.** What is the theme of **1 Chronicles 11:4-9**?
-A) Mercy instead of judgment  B) City of David  C) Not ashamed of the gospel  D) Longing to see God
+A) Eye for eye — and beyond  B) City of David  C) Joy of the LORD  D) The royal law of love
 
 **19.** What is the theme of **Nehemiah 4:6-16**?
-A) The mirror and the doer  B) Build and guard  C) Wisdom over silver and gold  D) A clean and pure heart
+A) Build and guard  B) Return home  C) Humble and free from care  D) Beatitudes and the Golden Rule
 
 **20.** What is the theme of **Nehemiah 8:5-12**?
-A) Not ashamed of the gospel  B) Fear Him, shun the wicked path  C) The LORD, He is God  D) Joy of the LORD
+A) City of David  B) The LORD defends  C) Wisdom is the true treasure  D) Joy of the LORD
 
 **21.** What is the theme of **Esther 10:1-3**?
-A) His throne, not ours to swear by  B) Good works that give light  C) Lean not on your understanding  D) Not withholding good
+A) Doers, not hearers only  B) Give good, do good  C) Lean not on your understanding  D) Not withholding good
 
 **22.** What is the theme of **Job 5:17-27**?
-A) Content, not anxious  B) Who do you say I am?  C) Do not despise correction  D) His throne, not ours to swear by
+A) Not wise in your own eyes  B) Not withholding good  C) Do not despise correction  D) Not ashamed of the gospel
 
 **23.** What is the theme of **Job 9:1-13**?
-A) Asking for wisdom first  B) Eye for eye — and beyond  C) Mighty man of valor  D) God's greatness
+A) Forgiving as forgiven  B) My rock and fortress  C) Longing to see God  D) God's greatness
 
 **24.** What is the theme of **Job 28:3-28**?
-A) Obedience brings plenty  B) Turn neither right nor left  C) Wisdom beyond rubies  D) Asking for wisdom first
+A) Wisdom beyond rubies  B) Rahab's confession  C) Turn neither right nor left  D) Longing to see God
 
 **25.** What is the theme of **Job 42:1-9**?
-A) Longing to see God  B) Who do you say I am?  C) Now my eye sees You  D) Do you love Me?
+A) Longing to see God  B) My rock and fortress  C) Keep His commands and live  D) Now my eye sees You
 
 **26.** What is the theme of **Job 42:10-15**?
-A) Praying for his accusers  B) Longing to see God  C) Forgiving as forgiven  D) Comfort for those who sorrow
+A) Sign of belief  B) Praying for his accusers  C) Longing to see God  D) Return home
 
 **27.** What is the theme of **Psalm 18:2-12**?
-A) He heard my cry  B) The LORD, He is God  C) Keep His commands and live  D) My Father's business
+A) Obedience brings plenty  B) He heard my cry  C) My son, guard your heart  D) My Father's business
 
 **28.** What is the theme of **Psalm 37:10-11**?
-A) Beatitudes and the Golden Rule  B) A soul worth more than the world  C) The meek inherit  D) Kept in the Father's name
+A) Wisdom is the true treasure  B) The meek inherit  C) The upright walk a highway  D) A soul worth more than the world
 
 **29.** What is the theme of **Psalm 51:9-12**?
-A) Wisdom over silver and gold  B) Clean inside, not for show  C) Rejecting a father's counsel  D) A clean and pure heart
+A) Trust Him, not your own heart  B) A clean and pure heart  C) Rejecting a father's counsel  D) My rock and fortress
 
 **30.** What is the theme of **Psalm 94:8-15**?
-A) Rahab's confession  B) Seek His house first  C) Blessed by His instruction  D) Faith known by its fruit
+A) Keep His commands and live  B) Sign of belief  C) Heaven is His throne  D) Blessed by His instruction
 
 **31.** What is the theme of **Psalm 126:3-6**?
-A) Longing to see God  B) Daughters' inheritance  C) Keep His commands and live  D) Mourning turned to joy
+A) Return home  B) Mighty man of valor  C) Joy in trials  D) Mourning turned to joy
 
 **32.** What is the theme of **Psalm 145:1-21**?
-A) Rahab's confession  B) Sign of belief  C) He feeds every living thing  D) Daughters' inheritance
+A) Daughters' inheritance  B) Eye for eye — and beyond  C) He feeds every living thing  D) Forgiving as forgiven
 
 **33.** What is the theme of **Proverbs 1:5-23**?
-A) Fear Him, shun the wicked path  B) Guard the heart within  C) The LORD, He is God  D) The Word made flesh
+A) The Word made flesh  B) Trust Him, seek Him first  C) Guard the heart within  D) Fear Him, shun the wicked path
 
 **34.** What is the theme of **Proverbs 3:5-6**?
-A) Trust Him, seek Him first  B) Fear Him, shun the wicked path  C) Sign of belief  D) Honor Him with the tithe
+A) Longing to see God  B) Rahab's confession  C) Trust Him, seek Him first  D) Seek His house first
 
 **35.** What is the theme of **Proverbs 3:14-15**?
-A) The LORD, He is God  B) The meek inherit  C) The LORD defends  D) Wisdom is the true treasure
+A) A soul worth more than the world  B) Fear Him, shun the wicked path  C) Wisdom is the true treasure  D) The upright walk a highway
 
 **36.** What is the theme of **Proverbs 8:10-11**?
-A) Build and guard  B) Keep His commands and live  C) Eye for eye — and beyond  D) Wisdom over silver and gold
+A) Wisdom over silver and gold  B) Return home  C) Humble and free from care  D) A clean and pure heart
 
 **37.** What is the theme of **Proverbs 15:19-23**?
-A) The meek inherit  B) Honor Him with the tithe  C) The upright walk a highway  D) Joy of the LORD
+A) The upright walk a highway  B) Rejecting a father's counsel  C) Beatitudes and the Golden Rule  D) A clean and pure heart
 
 **38.** What is the theme of **Proverbs 23:15-26**?
-A) Now my eye sees You  B) Trust Him, not your own heart  C) He heard my cry  D) My son, guard your heart
+A) Lean not on your understanding  B) Not wise in your own eyes  C) My son, guard your heart  D) My Father's business
 
 **39.** What is the theme of **Proverbs 28:25-26**?
-A) Trust Him, not your own heart  B) Lean not on your understanding  C) Clean inside, not for show  D) Not wise in your own eyes
+A) Do not despise correction  B) Cut it off; keep your salt  C) Judge not your brother  D) Trust Him, not your own heart
 
 **40.** What is the theme of **Ecclesiastes 3:9-17**?
-A) Beautiful in its time  B) Return home  C) Longing to see God  D) Faith known by its fruit
+A) Rahab's confession  B) Joy in trials  C) Beautiful in its time  D) Return home
 
 **41.** What is the theme of **Ecclesiastes 5:1-3**?
-A) Sign of belief  B) Let your words be few  C) My son, guard your heart  D) Eye for eye — and beyond
+A) My son, guard your heart  B) Eye for eye — and beyond  C) Sign of belief  D) Let your words be few
 
 **42.** What is the theme of **Ecclesiastes 7:13-23**?
-A) Not wise in your own eyes  B) Let your words be few  C) Wise counsel  D) Beautiful in its time
+A) Clean inside, not for show  B) Do not despise correction  C) Not wise in your own eyes  D) Cut it off; keep your salt
 
 **43.** What is the theme of **Ecclesiastes 8:16-17**?
-A) Lean not on your understanding  B) Do not despise correction  C) Not wise in your own eyes  D) Trust Him, not your own heart
+A) Lean not on your understanding  B) Not ashamed of the gospel  C) Not wise in your own eyes  D) Content, not anxious
 
 **44.** What is the theme of **Isaiah 26:1-9**?
-A) Obedience brings plenty  B) Perfect peace, no anxiety  C) Turn neither right nor left  D) Keep His commands and live
+A) Perfect peace, no anxiety  B) Forgiving as forgiven  C) Obedience brings plenty  D) Sign of belief
 
 **45.** What is the theme of **Isaiah 31:4-5**?
-A) Honor Him with the tithe  B) Wisdom is the true treasure  C) Not ashamed of the gospel  D) The LORD defends
+A) Joy of the LORD  B) Wisdom is the true treasure  C) A soul worth more than the world  D) The LORD defends
 
 **46.** What is the theme of **Isaiah 66:1**?
-A) Seek His house first  B) Not withholding good  C) Mourning turned to joy  D) His throne, not ours to swear by
+A) Do not despise correction  B) Longing to see God  C) Blessed by His instruction  D) His throne, not ours to swear by
 
 **47.** What is the theme of **Isaiah 66:8**?
-A) Giving from a willing heart  B) Treasure in a better country  C) A nation born at once  D) A soul worth more than the world
+A) A soul worth more than the world  B) Longing to see God  C) A nation born at once  D) Called as a youth
 
 **48.** What is the theme of **Jeremiah 1:4-12**?
-A) Called as a youth  B) Forgiving as forgiven  C) Return home  D) Treat others as family
+A) A nation born at once  B) Forgiving as forgiven  C) A soul worth more than the world  D) Called as a youth
 
 **49.** What is the theme of **Jeremiah 17:7-8**?
-A) Obedience brings plenty  B) Longing to see God  C) Return home  D) Rooted trust, unshaken
+A) Rooted trust, unshaken  B) Longing to see God  C) Wise counsel  D) Return home
 
 **50.** What is the theme of **Jeremiah 20:7-13**?
-A) Forgiving as forgiven  B) Blessed by His instruction  C) Mocked for His name  D) Comfort for those who sorrow
+A) Mocked for His name  B) Comfort for those who sorrow  C) Kept in the Father's name  D) His throne, not ours to swear by
 
 **51.** What is the theme of **Hosea 10:12**?
-A) Sow righteousness, reap mercy  B) Rahab's confession  C) Sign of belief  D) Daughters' inheritance
+A) Rahab's confession  B) Sow righteousness, reap mercy  C) Sow good, reap good  D) Turn neither right nor left
 
 **52.** What is the theme of **Zephaniah 3:13-20**?
-A) Return home  B) Who do you say I am?  C) Comfort for those who sorrow  D) Asking for wisdom first
+A) Comfort for those who sorrow  B) Sign of belief  C) Mocked for His name  D) Forgiving as forgiven
 
 **53.** What is the theme of **Haggai 1:3-11**?
-A) Asking for wisdom first  B) Seek His house first  C) Heaven is His throne  D) Mocked for His name
+A) Seek His house first  B) Blessed by His instruction  C) Keep His commands and live  D) Trust Him, seek Him first
 
 **54.** What is the theme of **Haggai 2:2-9**?
-A) Forgiving as forgiven  B) Build and guard  C) Be strong and work  D) Let your words be few
+A) Beatitudes and the Golden Rule  B) Be strong and work  C) Return home  D) The mirror and the doer
 
 **55.** What is the theme of **Malachi 3:10**?
-A) Guard the heart within  B) Honor Him with the tithe  C) The meek inherit  D) Wisdom is the true treasure
+A) The upright walk a highway  B) Trust Him, seek Him first  C) Kept in the Father's name  D) Honor Him with the tithe
 
 **56.** What is the theme of **Matthew 6:6**?
-A) Secret prayer, open reward  B) Turn neither right nor left  C) Reproach now, reward later  D) Keep His commands and live
+A) Mighty man of valor  B) Sign of belief  C) Obedience brings plenty  D) Secret prayer, open reward
 
 **57.** What is the theme of **Matthew 7:11-12**?
-A) Not withholding good  B) Eye for eye — and beyond  C) Obedience brings plenty  D) Give good, do good
+A) Return home  B) Forgiving as forgiven  C) Give good, do good  D) Who do you say I am?
 
 **58.** What is the theme of **Matthew 23:13-22**?
-A) Mighty man of valor  B) Rahab's confession  C) Turn neither right nor left  D) Empty oaths, empty religion
+A) Empty oaths, empty religion  B) Return home  C) Wise counsel  D) Turn neither right nor left
 
 **59.** What is the theme of **Matthew 23:25-28**?
-A) Not ashamed of the gospel  B) Not withholding good  C) Clean inside, not for show  D) Not wise in your own eyes
+A) A clean and pure heart  B) Do not despise correction  C) Eye for eye — and beyond  D) Clean inside, not for show
 
 **60.** What is the theme of **Mark 7:17-28**?
-A) Guard the heart within  B) The LORD, He is God  C) A clean and pure heart  D) Honor Him with the tithe
+A) A soul worth more than the world  B) The meek inherit  C) Guard the heart within  D) Fear Him, shun the wicked path
 
 **61.** What is the theme of **Mark 8:31-38**?
-A) Fear Him, shun the wicked path  B) The upright walk a highway  C) A soul worth more than the world  D) The meek inherit
+A) A soul worth more than the world  B) A nation born at once  C) The meek inherit  D) Called as a youth
 
 **62.** What is the theme of **Mark 9:42-50**?
-A) Sign of belief  B) Judge not your brother  C) My son, guard your heart  D) Cut it off; keep your salt
+A) Members yielded, sin cut off  B) Lean not on your understanding  C) Cut it off; keep your salt  D) My son, guard your heart
 
 **63.** What is the theme of **Luke 2:41-52**?
-A) Sign of belief  B) Rahab's confession  C) My rock and fortress  D) My Father's business
+A) Now my eye sees You  B) My Father's business  C) Forgiving as forgiven  D) Return home
 
 **64.** What is the theme of **Luke 3:7-14**?
-A) Fruit that proves repentance  B) Good works that give light  C) Daughters' inheritance  D) Longing to see God
+A) Mighty man of valor  B) Forgiving as forgiven  C) Fruit that proves repentance  D) Eye for eye — and beyond
 
 **65.** What is the theme of **Luke 6:20-31**?
-A) Beatitudes and the Golden Rule  B) Keep His commands and live  C) The upright walk a highway  D) Build and guard
+A) A clean and pure heart  B) Beatitudes and the Golden Rule  C) Keep His commands and live  D) Build and guard
 
 **66.** What is the theme of **Luke 6:35-43**?
-A) Joy of the LORD  B) Mercy instead of judgment  C) Forgiving as forgiven  D) City of David
+A) Mercy instead of judgment  B) Eye for eye — and beyond  C) Sign of belief  D) Return home
 
 **67.** What is the theme of **Luke 9:19-28**?
-A) Obedience brings plenty  B) Do you love Me?  C) Who do you say I am?  D) Keep His commands and live
+A) Now my eye sees You  B) Eye for eye — and beyond  C) Obedience brings plenty  D) Who do you say I am?
 
 **68.** What is the theme of **Luke 17:1-4**?
-A) Treat others as family  B) Obedience brings plenty  C) Eye for eye — and beyond  D) Forgive as you are forgiven
+A) Obedience brings plenty  B) Sign of belief  C) Eye for eye — and beyond  D) Forgive as you are forgiven
 
 **69.** What is the theme of **Luke 18:9-17**?
-A) Mighty man of valor  B) Prayer without pretense  C) Longing to see God  D) Eye for eye — and beyond
+A) Mighty man of valor  B) Return home  C) Prayer without pretense  D) Obedience brings plenty
 
 **70.** What is the theme of **Luke 19:15-17**?
-A) Rejecting a father's counsel  B) A nation born at once  C) Forgiving as forgiven  D) Faithful in a little
+A) Faithful in a little  B) Rejecting a father's counsel  C) Not wise in your own eyes  D) Joy in trials
 
 **71.** What is the theme of **John 1:1-18**?
-A) Guard the heart within  B) The Word made flesh  C) Fear Him, shun the wicked path  D) Honor Him with the tithe
+A) The LORD defends  B) The LORD, He is God  C) The Word made flesh  D) Wisdom is the true treasure
 
 **72.** What is the theme of **John 17:1-17**?
-A) A soul worth more than the world  B) The LORD defends  C) Fear Him, shun the wicked path  D) Kept in the Father's name
+A) Honor Him with the tithe  B) Beautiful in its time  C) The LORD, He is God  D) Kept in the Father's name
 
 **73.** What is the theme of **John 21:12-22**?
-A) Do you love Me?  B) Return home  C) Forgive as you are forgiven  D) Now my eye sees You
+A) Sign of belief  B) Rahab's confession  C) Who do you say I am?  D) Do you love Me?
 
 **74.** What is the theme of **Acts 7:49**?
-A) Wisdom is the true treasure  B) Sign of belief  C) Forgiving as forgiven  D) Heaven is His throne
+A) Heaven is His throne  B) The LORD, He is God  C) Return home  D) His throne, not ours to swear by
 
 **75.** What is the theme of **Acts 10:34-43**?
-A) Return home  B) Forgiving as forgiven  C) He shows no partiality  D) He heard my cry
+A) He shows no partiality  B) He feeds every living thing  C) Rahab's confession  D) Return home
 
 **76.** What is the theme of **Romans 1:13-17**?
-A) Sign of belief  B) Not ashamed of the gospel  C) The upright walk a highway  D) The LORD, He is God
+A) Mighty man of valor  B) Not ashamed of the gospel  C) The meek inherit  D) Sign of belief
 
 **77.** What is the theme of **Romans 2:8-11**?
-A) Rahab's confession  B) God has no favorites  C) Obedience brings plenty  D) Return home
+A) Daughters' inheritance  B) Longing to see God  C) God has no favorites  D) Turn neither right nor left
 
 **78.** What is the theme of **Romans 3:1-11**?
-A) Keep His commands and live  B) Return home  C) Forgiving as forgiven  D) None righteous on our own
+A) Return home  B) Obedience brings plenty  C) Eye for eye — and beyond  D) None righteous on our own
 
 **79.** What is the theme of **Romans 6:10-15**?
-A) Cut it off; keep your salt  B) Members yielded, sin cut off  C) Forgiving as forgiven  D) Turn neither right nor left
+A) Mighty man of valor  B) Members yielded, sin cut off  C) Longing to see God  D) Eye for eye — and beyond
 
 **80.** What is the theme of **Romans 10:1-5**?
-A) Their own righteousness  B) Daughters' inheritance  C) Not wise in your own eyes  D) Rahab's confession
+A) Not wise in your own eyes  B) Longing to see God  C) Mighty man of valor  D) Their own righteousness
 
 **81.** What is the theme of **Romans 14:4-19**?
-A) My son, guard your heart  B) Not wise in your own eyes  C) Judge not your brother  D) Lean not on your understanding
+A) Clean inside, not for show  B) Judge not your brother  C) Not withholding good  D) His throne, not ours to swear by
 
 **82.** What is the theme of **1 Corinthians 3:10-14**?
-A) Beatitudes and the Golden Rule  B) The Word made flesh  C) Building on the one foundation  D) Honor Him with the tithe
+A) Kept in the Father's name  B) Guard the heart within  C) Wisdom is the true treasure  D) Building on the one foundation
 
 **83.** What is the theme of **1 Corinthians 6:1-10**?
-A) Daughters' inheritance  B) Rahab's confession  C) Forgiving as forgiven  D) Accept wrong rather than sue
+A) Accept wrong rather than sue  B) Obedience brings plenty  C) Longing to see God  D) Forgiving as forgiven
 
 **84.** What is the theme of **1 Corinthians 15:32-33**?
-A) The LORD, He is God  B) Guard the heart within  C) Keep off the wicked's path  D) The Word made flesh
+A) The meek inherit  B) Beatitudes and the Golden Rule  C) Cut it off; keep your salt  D) Keep off the wicked's path
 
 **85.** What is the theme of **2 Corinthians 8:1-17**?
-A) The upright walk a highway  B) Forgiving as forgiven  C) Giving from a willing heart  D) Rejecting a father's counsel
+A) A nation born at once  B) Called as a youth  C) Giving from a willing heart  D) Rejecting a father's counsel
 
 **86.** What is the theme of **2 Corinthians 9:1-13**?
-A) Cheerful, generous sowing  B) Asking for wisdom first  C) Longing to see God  D) My rock and fortress
+A) Sign of belief  B) Cheerful, generous sowing  C) Wise counsel  D) Eye for eye — and beyond
 
 **87.** What is the theme of **Galatians 2:15-21**?
-A) Crucified with Christ  B) Wise counsel  C) Forgiving as forgiven  D) Turn neither right nor left
+A) Daughters' inheritance  B) Crucified with Christ  C) Keep His commands and live  D) Sign of belief
 
 **88.** What is the theme of **Galatians 6:7-10**?
-A) Sow righteousness, reap mercy  B) Obedience brings plenty  C) Sow good, reap good  D) Rahab's confession
+A) Rahab's confession  B) Forgiving as forgiven  C) Sign of belief  D) Sow good, reap good
 
 **89.** What is the theme of **Ephesians 1:15-23**?
-A) Daughters' inheritance  B) Eyes enlightened  C) Longing to see God  D) Obedience brings plenty
+A) Not wise in your own eyes  B) Eyes enlightened  C) Sign of belief  D) Mighty man of valor
 
 **90.** What is the theme of **Ephesians 6:5-9**?
-A) Serving one Master sincerely  B) Building on the one foundation  C) Turn neither right nor left  D) Wise counsel
+A) Serving one Master sincerely  B) Mighty man of valor  C) Return home  D) Turn neither right nor left
 
 **91.** What is the theme of **Philippians 1:9-18**?
-A) Crucified with Christ  B) Daughters' inheritance  C) Obedience brings plenty  D) Christ is preached
+A) Return home  B) Wisdom is the true treasure  C) Christ is preached  D) Heaven is His throne
 
 **92.** What is the theme of **Philippians 4:10-13**?
-A) Not ashamed of the gospel  B) Content, not anxious  C) Return home  D) Judge not your brother
+A) Return home  B) Forgiving as forgiven  C) Content, not anxious  D) Judge not your brother
 
 **93.** What is the theme of **1 Timothy 5:1-6**?
-A) Treat others as family  B) Sign of belief  C) Longing to see God  D) Forgive as you are forgiven
+A) Rahab's confession  B) Keep His commands and live  C) Forgive as you are forgiven  D) Treat others as family
 
 **94.** What is the theme of **Hebrews 11:13-16**?
-A) Rejecting a father's counsel  B) Called as a youth  C) Giving from a willing heart  D) Treasure in a better country
+A) A clean and pure heart  B) A soul worth more than the world  C) Treasure in a better country  D) Return home
 
 **95.** What is the theme of **Hebrews 11:24-26**?
-A) My rock and fortress  B) Turn neither right nor left  C) Reproach now, reward later  D) Longing to see God
+A) Forgiving as forgiven  B) My rock and fortress  C) Reproach now, reward later  D) Return home
 
 **96.** What is the theme of **Hebrews 11:31-40**?
-A) Persecuted, yet commended  B) Keep His commands and live  C) Asking for wisdom first  D) Forgiving as forgiven
+A) Persecuted, yet commended  B) Asking for wisdom first  C) Longing to see God  D) My rock and fortress
 
 **97.** What is the theme of **James 1:2-4**?
-A) Eye for eye — and beyond  B) Joy of the LORD  C) Joy in trials  D) Obedience brings plenty
+A) Joy in trials  B) Keep His commands and live  C) Not wise in your own eyes  D) Eye for eye — and beyond
 
 **98.** What is the theme of **James 1:21-22**?
-A) Return home  B) Doers, not hearers only  C) Sign of belief  D) Not withholding good
+A) Not withholding good  B) Content, not anxious  C) Doers, not hearers only  D) Return home
 
 **99.** What is the theme of **James 1:23-26**?
-A) The meek inherit  B) Build and guard  C) The mirror and the doer  D) Eye for eye — and beyond
+A) Fear Him, shun the wicked path  B) The mirror and the doer  C) The LORD, He is God  D) Joy of the LORD
 
 **100.** What is the theme of **James 2:8-10**?
-A) The royal law of love  B) Mighty man of valor  C) Wisdom is the true treasure  D) Not ashamed of the gospel
+A) The royal law of love  B) Joy of the LORD  C) The LORD defends  D) Guard the heart within
 
 **101.** What is the theme of **James 2:15-18**?
-A) Keep His commands and live  B) Fruit that proves repentance  C) Faith known by its fruit  D) Daughters' inheritance
+A) Fruit that proves repentance  B) Turn neither right nor left  C) Keep His commands and live  D) Faith known by its fruit
 
 **102.** What is the theme of **James 3:7-13**?
-A) The meek inherit  B) The tongue reveals the tree  C) The upright walk a highway  D) Honor Him with the tithe
+A) Honor Him with the tithe  B) The tongue reveals the tree  C) The Word made flesh  D) Guard the heart within
 
 **103.** What is the theme of **James 4:7-10**?
-A) Asking for wisdom first  B) Humbled, then lifted up  C) Daughters' inheritance  D) Obedience brings plenty
+A) Humbled, then lifted up  B) Eye for eye — and beyond  C) Obedience brings plenty  D) Sign of belief
 
 **104.** What is the theme of **James 4:13-17**?
-A) Not ashamed of the gospel  B) His throne, not ours to swear by  C) Tomorrow is not yours  D) Not wise in your own eyes
+A) Not withholding good  B) Clean inside, not for show  C) Judge not your brother  D) Tomorrow is not yours
 
 **105.** What is the theme of **James 5:7-11**?
-A) A soul worth more than the world  B) The Word made flesh  C) Not ashamed of the gospel  D) Patient till the harvest
+A) Not ashamed of the gospel  B) Beatitudes and the Golden Rule  C) Patient till the harvest  D) Wisdom is the true treasure
 
 **106.** What is the theme of **1 Peter 2:9-12**?
-A) Return home  B) Daughters' inheritance  C) Good works that give light  D) Obedience brings plenty
+A) Good works that give light  B) Sign of belief  C) Turn neither right nor left  D) Not withholding good
 
 **107.** What is the theme of **1 Peter 2:15-25**?
-A) Wise counsel  B) Suffering without retaliation  C) Rahab's confession  D) Forgiving as forgiven
+A) Mighty man of valor  B) Prayer without pretense  C) Suffering without retaliation  D) Wise counsel
 
 **108.** What is the theme of **1 Peter 5:1-11**?
-A) Forgiving as forgiven  B) Humble and free from care  C) Be strong and work  D) My rock and fortress
+A) Return home  B) Humble and free from care  C) Sign of belief  D) Eye for eye — and beyond
 
 **109.** What is the theme of **Revelation 7:9-16**?
-A) Keep His commands and live  B) Build and guard  C) Wisdom over silver and gold  D) Hunger and thirst filled
+A) Beatitudes and the Golden Rule  B) Wisdom over silver and gold  C) Hunger and thirst filled  D) Keep His commands and live
 
-**Answer key — SET 14:** 1‑A, 2‑C, 3‑D, 4‑D, 5‑D, 6‑D, 7‑D, 8‑B, 9‑A, 10‑D, 11‑D, 12‑C, 13‑D, 14‑A, 15‑D, 16‑B, 17‑B, 18‑B, 19‑B, 20‑D, 21‑D, 22‑C, 23‑D, 24‑C, 25‑C, 26‑A, 27‑A, 28‑C, 29‑D, 30‑C, 31‑D, 32‑C, 33‑A, 34‑A, 35‑D, 36‑D, 37‑C, 38‑D, 39‑A, 40‑A, 41‑B, 42‑A, 43‑A, 44‑B, 45‑D, 46‑D, 47‑C, 48‑A, 49‑D, 50‑C, 51‑A, 52‑C, 53‑B, 54‑C, 55‑B, 56‑A, 57‑D, 58‑D, 59‑C, 60‑A, 61‑C, 62‑D, 63‑D, 64‑A, 65‑A, 66‑B, 67‑C, 68‑D, 69‑B, 70‑D, 71‑B, 72‑D, 73‑A, 74‑D, 75‑C, 76‑B, 77‑B, 78‑D, 79‑B, 80‑A, 81‑C, 82‑C, 83‑D, 84‑C, 85‑C, 86‑A, 87‑A, 88‑C, 89‑B, 90‑A, 91‑D, 92‑B, 93‑A, 94‑D, 95‑C, 96‑A, 97‑C, 98‑B, 99‑C, 100‑A, 101‑C, 102‑B, 103‑B, 104‑C, 105‑D, 106‑C, 107‑B, 108‑B, 109‑D
+**Answer key — SET 14:** 1‑D, 2‑B, 3‑D, 4‑C, 5‑D, 6‑C, 7‑B, 8‑A, 9‑A, 10‑D, 11‑A, 12‑A, 13‑D, 14‑C, 15‑D, 16‑D, 17‑D, 18‑B, 19‑A, 20‑D, 21‑D, 22‑C, 23‑D, 24‑A, 25‑D, 26‑B, 27‑B, 28‑B, 29‑B, 30‑D, 31‑D, 32‑C, 33‑D, 34‑C, 35‑C, 36‑A, 37‑A, 38‑C, 39‑D, 40‑C, 41‑D, 42‑C, 43‑A, 44‑A, 45‑D, 46‑D, 47‑C, 48‑D, 49‑A, 50‑A, 51‑B, 52‑A, 53‑A, 54‑B, 55‑D, 56‑D, 57‑C, 58‑A, 59‑D, 60‑C, 61‑A, 62‑C, 63‑B, 64‑C, 65‑B, 66‑A, 67‑D, 68‑D, 69‑C, 70‑A, 71‑C, 72‑D, 73‑D, 74‑A, 75‑A, 76‑B, 77‑C, 78‑D, 79‑B, 80‑D, 81‑B, 82‑D, 83‑A, 84‑D, 85‑C, 86‑B, 87‑B, 88‑D, 89‑B, 90‑A, 91‑C, 92‑C, 93‑D, 94‑C, 95‑C, 96‑A, 97‑A, 98‑C, 99‑B, 100‑A, 101‑D, 102‑B, 103‑A, 104‑D, 105‑C, 106‑A, 107‑C, 108‑B, 109‑C
 
 ---
 
@@ -3691,120 +3625,120 @@ A) Keep His commands and live  B) Build and guard  C) Wisdom over silver and gol
 *Every shared word the document lists at exactly two passages. Each option names a pair of passages; only one pair is where that word actually occurs, and every other pair is the home of some other two-passage word.*
 
 **1.** Which **two** passages contain the word **boast**?
-A) 2 Corinthians 9:1-13 and James 4:13-17  B) Jeremiah 20:7-13 and Matthew 23:25-28  C) Ephesians 6:5-9 and 1 Peter 2:15-25  D) James 1:21-22 and James 1:23-26
+A) James 1:21-22 and James 1:23-26  B) 2 Corinthians 9:1-13 and James 4:13-17  C) Jeremiah 20:7-13 and Matthew 23:25-28  D) Ephesians 6:5-9 and 1 Peter 2:15-25
 
 **2.** Which **two** passages contain the word **bondservant**?
-A) James 1:21-22 and James 1:23-26  B) Matthew 6:6 and James 5:7-11  C) Jeremiah 20:7-13 and Matthew 23:25-28  D) Ephesians 6:5-9 and 1 Peter 2:15-25
+A) Ephesians 6:5-9 and 1 Peter 2:15-25  B) Jeremiah 20:7-13 and Matthew 23:25-28  C) James 1:21-22 and James 1:23-26  D) Matthew 6:6 and James 5:7-11
 
 **3.** Which **two** passages contain the word **bones**?
-A) 1 Kings 18:36-39 and Luke 9:19-28  B) Jeremiah 20:7-13 and Matthew 23:25-28  C) James 1:21-22 and James 1:23-26  D) Matthew 6:6 and James 5:7-11
+A) Matthew 6:6 and James 5:7-11  B) Jeremiah 20:7-13 and Matthew 23:25-28  C) 1 Kings 18:36-39 and Luke 9:19-28  D) James 1:21-22 and James 1:23-26
 
 **4.** Which **two** passages contain the word **doer**?
-A) 1 Kings 18:36-39 and Luke 9:19-28  B) James 1:21-22 and James 1:23-26  C) Matthew 6:6 and James 5:7-11  D) Luke 18:9-17 and 1 Peter 5:1-11
+A) Luke 18:9-17 and 1 Peter 5:1-11  B) 1 Kings 18:36-39 and Luke 9:19-28  C) Matthew 6:6 and James 5:7-11  D) James 1:21-22 and James 1:23-26
 
 **5.** Which **two** passages contain the word **door**?
-A) 1 Kings 18:36-39 and Luke 9:19-28  B) Leviticus 26:1-10 and Job 5:17-27  C) Luke 18:9-17 and 1 Peter 5:1-11  D) Matthew 6:6 and James 5:7-11
+A) Leviticus 26:1-10 and Job 5:17-27  B) Matthew 6:6 and James 5:7-11  C) Luke 18:9-17 and 1 Peter 5:1-11  D) 1 Kings 18:36-39 and Luke 9:19-28
 
 **6.** Which **two** passages contain the word **Elijah**?
-A) Psalm 18:2-12 and 1 Corinthians 3:10-14  B) Luke 18:9-17 and 1 Peter 5:1-11  C) 1 Kings 18:36-39 and Luke 9:19-28  D) Leviticus 26:1-10 and Job 5:17-27
+A) Psalm 18:2-12 and 1 Corinthians 3:10-14  B) Luke 18:9-17 and 1 Peter 5:1-11  C) Leviticus 26:1-10 and Job 5:17-27  D) 1 Kings 18:36-39 and Luke 9:19-28
 
 **7.** Which **two** passages contain the word **exalt**?
-A) Psalm 18:2-12 and 1 Corinthians 3:10-14  B) Leviticus 26:1-10 and Job 5:17-27  C) Proverbs 1:5-23 and Isaiah 26:1-9  D) Luke 18:9-17 and 1 Peter 5:1-11
+A) Psalm 18:2-12 and 1 Corinthians 3:10-14  B) Luke 18:9-17 and 1 Peter 5:1-11  C) Leviticus 26:1-10 and Job 5:17-27  D) Proverbs 1:5-23 and Isaiah 26:1-9
 
 **8.** Which **two** passages contain the word **field**?
-A) Leviticus 26:1-10 and Job 5:17-27  B) Judges 6:11-14 and Hebrews 11:31-40  C) Proverbs 1:5-23 and Isaiah 26:1-9  D) Psalm 18:2-12 and 1 Corinthians 3:10-14
+A) Judges 6:11-14 and Hebrews 11:31-40  B) Leviticus 26:1-10 and Job 5:17-27  C) Psalm 18:2-12 and 1 Corinthians 3:10-14  D) Proverbs 1:5-23 and Isaiah 26:1-9
 
 **9.** Which **two** passages contain the word **foundation**?
-A) Psalm 18:2-12 and 1 Corinthians 3:10-14  B) Exodus 33:12-19 and Psalm 145:1-21  C) Judges 6:11-14 and Hebrews 11:31-40  D) Proverbs 1:5-23 and Isaiah 26:1-9
+A) Exodus 33:12-19 and Psalm 145:1-21  B) Judges 6:11-14 and Hebrews 11:31-40  C) Psalm 18:2-12 and 1 Corinthians 3:10-14  D) Proverbs 1:5-23 and Isaiah 26:1-9
 
 **10.** Which **two** passages contain the word **gate**?
-A) Proverbs 1:5-23 and Isaiah 26:1-9  B) Job 5:17-27 and Haggai 1:3-11  C) Judges 6:11-14 and Hebrews 11:31-40  D) Exodus 33:12-19 and Psalm 145:1-21
+A) Job 5:17-27 and Haggai 1:3-11  B) Exodus 33:12-19 and Psalm 145:1-21  C) Judges 6:11-14 and Hebrews 11:31-40  D) Proverbs 1:5-23 and Isaiah 26:1-9
 
 **11.** Which **two** passages contain the word **Gideon**?
-A) Judges 6:11-14 and Hebrews 11:31-40  B) Job 5:17-27 and Haggai 1:3-11  C) Romans 1:13-17 and Romans 3:1-11  D) Exodus 33:12-19 and Psalm 145:1-21
+A) Romans 1:13-17 and Romans 3:1-11  B) Exodus 33:12-19 and Psalm 145:1-21  C) Judges 6:11-14 and Hebrews 11:31-40  D) Job 5:17-27 and Haggai 1:3-11
 
 **12.** Which **two** passages contain the word **gracious**?
-A) Ephesians 1:15-23 and Hebrews 11:13-16  B) Job 5:17-27 and Haggai 1:3-11  C) Romans 1:13-17 and Romans 3:1-11  D) Exodus 33:12-19 and Psalm 145:1-21
+A) Exodus 33:12-19 and Psalm 145:1-21  B) Ephesians 1:15-23 and Hebrews 11:13-16  C) Romans 1:13-17 and Romans 3:1-11  D) Job 5:17-27 and Haggai 1:3-11
 
 **13.** Which **two** passages contain the word **grain**?
-A) Ephesians 1:15-23 and Hebrews 11:13-16  B) Psalm 37:10-11 and 1 Corinthians 6:1-10  C) Job 5:17-27 and Haggai 1:3-11  D) Romans 1:13-17 and Romans 3:1-11
+A) Ephesians 1:15-23 and Hebrews 11:13-16  B) Job 5:17-27 and Haggai 1:3-11  C) Psalm 37:10-11 and 1 Corinthians 6:1-10  D) Romans 1:13-17 and Romans 3:1-11
 
 **14.** Which **two** passages contain the word **Greeks**?
-A) Psalm 51:9-12 and Ecclesiastes 3:9-17  B) Psalm 37:10-11 and 1 Corinthians 6:1-10  C) Ephesians 1:15-23 and Hebrews 11:13-16  D) Romans 1:13-17 and Romans 3:1-11
+A) Ephesians 1:15-23 and Hebrews 11:13-16  B) Romans 1:13-17 and Romans 3:1-11  C) Psalm 37:10-11 and 1 Corinthians 6:1-10  D) Psalm 51:9-12 and Ecclesiastes 3:9-17
 
 **15.** Which **two** passages contain the word **heavenly**?
-A) Psalm 37:10-11 and 1 Corinthians 6:1-10  B) Ephesians 1:15-23 and Hebrews 11:13-16  C) Exodus 4:4-5 and 1 Kings 18:36-39  D) Psalm 51:9-12 and Ecclesiastes 3:9-17
+A) Psalm 51:9-12 and Ecclesiastes 3:9-17  B) Psalm 37:10-11 and 1 Corinthians 6:1-10  C) Exodus 4:4-5 and 1 Kings 18:36-39  D) Ephesians 1:15-23 and Hebrews 11:13-16
 
 **16.** Which **two** passages contain the word **inherit**?
-A) Psalm 51:9-12 and Ecclesiastes 3:9-17  B) Psalm 37:10-11 and 1 Corinthians 6:1-10  C) Exodus 4:4-5 and 1 Kings 18:36-39  D) Joshua 2:8-11 and Joshua 23:3-14
+A) Psalm 51:9-12 and Ecclesiastes 3:9-17  B) Exodus 4:4-5 and 1 Kings 18:36-39  C) Joshua 2:8-11 and Joshua 23:3-14  D) Psalm 37:10-11 and 1 Corinthians 6:1-10
 
 **17.** Which **two** passages contain the word **iniquity**?
-A) Psalm 51:9-12 and Ecclesiastes 3:9-17  B) Genesis 50:16-20 and Luke 2:41-52  C) Joshua 2:8-11 and Joshua 23:3-14  D) Exodus 4:4-5 and 1 Kings 18:36-39
+A) Psalm 51:9-12 and Ecclesiastes 3:9-17  B) Joshua 2:8-11 and Joshua 23:3-14  C) Exodus 4:4-5 and 1 Kings 18:36-39  D) Genesis 50:16-20 and Luke 2:41-52
 
 **18.** Which **two** passages contain the word **Isaac**?
-A) Exodus 4:4-5 and 1 Kings 18:36-39  B) Joshua 17:3-4 and Haggai 2:2-9  C) Joshua 2:8-11 and Joshua 23:3-14  D) Genesis 50:16-20 and Luke 2:41-52
+A) Genesis 50:16-20 and Luke 2:41-52  B) Joshua 17:3-4 and Haggai 2:2-9  C) Joshua 2:8-11 and Joshua 23:3-14  D) Exodus 4:4-5 and 1 Kings 18:36-39
 
 **19.** Which **two** passages contain the word **Jordan**?
-A) Joshua 17:3-4 and Haggai 2:2-9  B) Joshua 2:8-11 and Joshua 23:3-14  C) Genesis 50:16-20 and Luke 2:41-52  D) Job 5:17-27 and Luke 6:20-31
+A) Job 5:17-27 and Luke 6:20-31  B) Joshua 2:8-11 and Joshua 23:3-14  C) Genesis 50:16-20 and Luke 2:41-52  D) Joshua 17:3-4 and Haggai 2:2-9
 
 **20.** Which **two** passages contain the word **Joseph**?
 A) Job 5:17-27 and Luke 6:20-31  B) Genesis 50:16-20 and Luke 2:41-52  C) Joshua 17:3-4 and Haggai 2:2-9  D) Luke 2:41-52 and Acts 10:34-43
 
 **21.** Which **two** passages contain the word **Joshua**?
-A) Luke 2:41-52 and Acts 10:34-43  B) Joshua 17:3-4 and Haggai 2:2-9  C) Leviticus 24:17-22 and James 2:8-10  D) Job 5:17-27 and Luke 6:20-31
+A) Job 5:17-27 and Luke 6:20-31  B) Leviticus 24:17-22 and James 2:8-10  C) Luke 2:41-52 and Acts 10:34-43  D) Joshua 17:3-4 and Haggai 2:2-9
 
 **22.** Which **two** passages contain the word **laugh**?
-A) Leviticus 24:17-22 and James 2:8-10  B) James 1:2-4 and James 5:7-11  C) Job 5:17-27 and Luke 6:20-31  D) Luke 2:41-52 and Acts 10:34-43
+A) James 1:2-4 and James 5:7-11  B) Luke 2:41-52 and Acts 10:34-43  C) Job 5:17-27 and Luke 6:20-31  D) Leviticus 24:17-22 and James 2:8-10
 
 **23.** Which **two** passages contain the word **Nazareth**?
-A) Leviticus 24:17-22 and James 2:8-10  B) James 5:7-11 and 1 Peter 2:15-25  C) James 1:2-4 and James 5:7-11  D) Luke 2:41-52 and Acts 10:34-43
+A) James 1:2-4 and James 5:7-11  B) Leviticus 24:17-22 and James 2:8-10  C) James 5:7-11 and 1 Peter 2:15-25  D) Luke 2:41-52 and Acts 10:34-43
 
 **24.** Which **two** passages contain the word **neighbor**?
-A) Leviticus 24:17-22 and James 2:8-10  B) Job 42:1-9 and Luke 17:1-4  C) James 1:2-4 and James 5:7-11  D) James 5:7-11 and 1 Peter 2:15-25
+A) Leviticus 24:17-22 and James 2:8-10  B) Job 42:1-9 and Luke 17:1-4  C) James 5:7-11 and 1 Peter 2:15-25  D) James 1:2-4 and James 5:7-11
 
 **25.** Which **two** passages contain the word **patience**?
-A) James 1:2-4 and James 5:7-11  B) Job 42:1-9 and Luke 17:1-4  C) James 5:7-11 and 1 Peter 2:15-25  D) Luke 6:20-31 and 2 Corinthians 8:1-17
+A) James 1:2-4 and James 5:7-11  B) Luke 6:20-31 and 2 Corinthians 8:1-17  C) Job 42:1-9 and Luke 17:1-4  D) James 5:7-11 and 1 Peter 2:15-25
 
 **26.** Which **two** passages contain the word **patient**?
-A) James 5:7-11 and 1 Peter 2:15-25  B) 2 Samuel 22:1-4 and Psalm 18:2-12  C) Luke 6:20-31 and 2 Corinthians 8:1-17  D) Job 42:1-9 and Luke 17:1-4
+A) James 5:7-11 and 1 Peter 2:15-25  B) 2 Samuel 22:1-4 and Psalm 18:2-12  C) Job 42:1-9 and Luke 17:1-4  D) Luke 6:20-31 and 2 Corinthians 8:1-17
 
 **27.** Which **two** passages contain the word **repent**?
-A) Malachi 3:10 and Matthew 6:6  B) 2 Samuel 22:1-4 and Psalm 18:2-12  C) Job 42:1-9 and Luke 17:1-4  D) Luke 6:20-31 and 2 Corinthians 8:1-17
+A) Job 42:1-9 and Luke 17:1-4  B) 2 Samuel 22:1-4 and Psalm 18:2-12  C) Malachi 3:10 and Matthew 6:6  D) Luke 6:20-31 and 2 Corinthians 8:1-17
 
 **28.** Which **two** passages contain the word **rich**?
-A) 2 Samuel 22:1-4 and Psalm 18:2-12  B) Mark 9:42-50 and James 3:7-13  C) Luke 6:20-31 and 2 Corinthians 8:1-17  D) Malachi 3:10 and Matthew 6:6
+A) Mark 9:42-50 and James 3:7-13  B) 2 Samuel 22:1-4 and Psalm 18:2-12  C) Malachi 3:10 and Matthew 6:6  D) Luke 6:20-31 and 2 Corinthians 8:1-17
 
 **29.** Which **two** passages contain the word **rock**?
-A) Mark 9:42-50 and James 3:7-13  B) Malachi 3:10 and Matthew 6:6  C) Psalm 126:3-6 and 2 Corinthians 9:1-13  D) 2 Samuel 22:1-4 and Psalm 18:2-12
+A) Mark 9:42-50 and James 3:7-13  B) Psalm 126:3-6 and 2 Corinthians 9:1-13  C) 2 Samuel 22:1-4 and Psalm 18:2-12  D) Malachi 3:10 and Matthew 6:6
 
 **30.** Which **two** passages contain the word **room**?
-A) Mark 9:42-50 and James 3:7-13  B) Psalm 18:2-12 and Proverbs 1:5-23  C) Psalm 126:3-6 and 2 Corinthians 9:1-13  D) Malachi 3:10 and Matthew 6:6
+A) Psalm 18:2-12 and Proverbs 1:5-23  B) Psalm 126:3-6 and 2 Corinthians 9:1-13  C) Mark 9:42-50 and James 3:7-13  D) Malachi 3:10 and Matthew 6:6
 
 **31.** Which **two** passages contain the word **salt**?
-A) Psalm 18:2-12 and Proverbs 1:5-23  B) 1 Kings 8:22-28 and 1 Timothy 5:1-6  C) Mark 9:42-50 and James 3:7-13  D) Psalm 126:3-6 and 2 Corinthians 9:1-13
+A) Psalm 126:3-6 and 2 Corinthians 9:1-13  B) Mark 9:42-50 and James 3:7-13  C) 1 Kings 8:22-28 and 1 Timothy 5:1-6  D) Psalm 18:2-12 and Proverbs 1:5-23
 
 **32.** Which **two** passages contain the word **seed**?
-A) Psalm 126:3-6 and 2 Corinthians 9:1-13  B) 1 Kings 8:22-28 and 1 Timothy 5:1-6  C) Luke 3:7-14 and Luke 6:35-43  D) Psalm 18:2-12 and Proverbs 1:5-23
+A) Psalm 18:2-12 and Proverbs 1:5-23  B) Psalm 126:3-6 and 2 Corinthians 9:1-13  C) 1 Kings 8:22-28 and 1 Timothy 5:1-6  D) Luke 3:7-14 and Luke 6:35-43
 
 **33.** Which **two** passages contain the word **Sheol**?
-A) Malachi 3:10 and Luke 18:9-17  B) 1 Kings 8:22-28 and 1 Timothy 5:1-6  C) Psalm 18:2-12 and Proverbs 1:5-23  D) Luke 3:7-14 and Luke 6:35-43
+A) Psalm 18:2-12 and Proverbs 1:5-23  B) Malachi 3:10 and Luke 18:9-17  C) Luke 3:7-14 and Luke 6:35-43  D) 1 Kings 8:22-28 and 1 Timothy 5:1-6
 
 **34.** Which **two** passages contain the word **supplication**?
-A) Luke 3:7-14 and Luke 6:35-43  B) Malachi 3:10 and Luke 18:9-17  C) 1 Kings 8:22-28 and 1 Timothy 5:1-6  D) Romans 2:8-11 and Revelation 7:9-16
+A) 1 Kings 8:22-28 and 1 Timothy 5:1-6  B) Romans 2:8-11 and Revelation 7:9-16  C) Luke 3:7-14 and Luke 6:35-43  D) Malachi 3:10 and Luke 18:9-17
 
 **35.** Which **two** passages contain the word **teacher**?
-A) Matthew 23:13-22 and 1 Timothy 5:1-6  B) Malachi 3:10 and Luke 18:9-17  C) Luke 3:7-14 and Luke 6:35-43  D) Romans 2:8-11 and Revelation 7:9-16
+A) Romans 2:8-11 and Revelation 7:9-16  B) Luke 3:7-14 and Luke 6:35-43  C) Malachi 3:10 and Luke 18:9-17  D) Matthew 23:13-22 and 1 Timothy 5:1-6
 
 **36.** Which **two** passages contain the word **tithes**?
-A) Malachi 3:10 and Luke 18:9-17  B) Matthew 23:13-22 and 1 Timothy 5:1-6  C) 2 Corinthians 9:1-13 and James 4:13-17  D) Romans 2:8-11 and Revelation 7:9-16
+A) Matthew 23:13-22 and 1 Timothy 5:1-6  B) Malachi 3:10 and Luke 18:9-17  C) Romans 2:8-11 and Revelation 7:9-16  D) 2 Corinthians 9:1-13 and James 4:13-17
 
 **37.** Which **two** passages contain the word **tribulation**?
-A) Ephesians 6:5-9 and 1 Peter 2:15-25  B) Romans 2:8-11 and Revelation 7:9-16  C) Matthew 23:13-22 and 1 Timothy 5:1-6  D) 2 Corinthians 9:1-13 and James 4:13-17
+A) 2 Corinthians 9:1-13 and James 4:13-17  B) Romans 2:8-11 and Revelation 7:9-16  C) Ephesians 6:5-9 and 1 Peter 2:15-25  D) Matthew 23:13-22 and 1 Timothy 5:1-6
 
 **38.** Which **two** passages contain the word **widow**?
-A) Jeremiah 20:7-13 and Matthew 23:25-28  B) Ephesians 6:5-9 and 1 Peter 2:15-25  C) Matthew 23:13-22 and 1 Timothy 5:1-6  D) 2 Corinthians 9:1-13 and James 4:13-17
+A) Ephesians 6:5-9 and 1 Peter 2:15-25  B) Jeremiah 20:7-13 and Matthew 23:25-28  C) Matthew 23:13-22 and 1 Timothy 5:1-6  D) 2 Corinthians 9:1-13 and James 4:13-17
 
-**Answer key — SET 15:** 1‑A, 2‑D, 3‑B, 4‑B, 5‑D, 6‑C, 7‑D, 8‑A, 9‑A, 10‑A, 11‑A, 12‑D, 13‑C, 14‑D, 15‑B, 16‑B, 17‑A, 18‑A, 19‑B, 20‑B, 21‑B, 22‑C, 23‑D, 24‑A, 25‑A, 26‑A, 27‑C, 28‑C, 29‑D, 30‑D, 31‑C, 32‑A, 33‑C, 34‑C, 35‑C, 36‑A, 37‑B, 38‑C
+**Answer key — SET 15:** 1‑B, 2‑A, 3‑B, 4‑D, 5‑B, 6‑D, 7‑B, 8‑B, 9‑C, 10‑D, 11‑C, 12‑A, 13‑B, 14‑B, 15‑D, 16‑D, 17‑A, 18‑D, 19‑B, 20‑B, 21‑D, 22‑C, 23‑D, 24‑A, 25‑A, 26‑A, 27‑A, 28‑D, 29‑C, 30‑D, 31‑B, 32‑B, 33‑A, 34‑A, 35‑B, 36‑B, 37‑B, 38‑C
 
 ---
 

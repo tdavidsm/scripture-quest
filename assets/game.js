@@ -234,7 +234,7 @@
   }
   function curProfile() { return STORE.profiles[S.profile]; }
   function makeProfile(name) {
-    STORE.profiles[name] = { created: Date.now(), best: {}, q: {}, runs: 0, lastPlayed: 0 };
+    STORE.profiles[name] = { created: Date.now(), best: {}, scopes: {}, q: {}, runs: 0, lastPlayed: 0 };
     saveStore();
   }
 
@@ -425,15 +425,45 @@
   /* ============================================================
      GAME
      ============================================================ */
+  // A run's score is multiplied by how broad its question pool is, so a narrow
+  // single-category run scores lower than one drawn from a broad bank — even if
+  // the broad run answered fewer correctly.  Log curve, clamped.
+  function breadthMultiplier(poolSize) {
+    const REF = 1200, FLOOR = 0.5, CAP = 1.25;
+    const m = Math.log(poolSize + 1) / Math.log(REF + 1);
+    return Math.max(FLOOR, Math.min(CAP, m));
+  }
+  // Identify the "subcategory" a run belongs to, for the per-category leaderboards.
+  // Only single-category (optionally single-chapter) custom runs get their own board.
+  function runScope() {
+    if (S.mode !== "custom") return { key: "overall", label: "Full Quest" };
+    const sel = QM.categories(S.division).map((c) => c.key).filter((c) => S.filters.cats.has(c));
+    if (sel.length === 1) {
+      const c = sel[0];
+      if (c === "random") {
+        const selCh = QM.chapters(S.division).filter((ch) => S.filters.chapters.has(ch));
+        if (selCh.length === 1) return { key: "random:" + selCh[0], label: "Random Access — " + selCh[0] };
+      }
+      return { key: c, label: QM.catName(c) };
+    }
+    return { key: "overall", label: "Custom (mixed)" };
+  }
+
   function startGame() {
     const cfg = diffCfg();
+    let poolSize;
     if (S.mode === "custom") {
       const pool = QM.filterPool(S.division, S.filters);
       if (!pool.length) return;              // nothing matches — shouldn't happen (guarded)
       S.bands = TIERS.map(() => pool);       // one filtered pool feeds every tier
+      poolSize = pool.length;
     } else {
       S.bands = buildPools(S.division);
+      poolSize = window.QUIZ_DATA.meta[S.division].count;  // full division
     }
+    S.poolSize = poolSize;
+    S.breadth = breadthMultiplier(poolSize);
+    S.scope = runScope();
     S.usedKeys = new Set();
     S.tier = 0; S.itemInTier = 0; S.qIndex = 0;
     S.score = 0; S.streak = 0; S.bestStreak = 0; S.correct = 0; S.attempts = 0;
@@ -443,6 +473,7 @@
     S.ended = false;
     S.startTime = Date.now();
     $("playerVal").textContent = S.profile || "—";
+    $("breadthVal").textContent = "×" + S.breadth.toFixed(2);
     buildCollection();
     renderLives();
     show("game");
@@ -615,7 +646,7 @@
       S.bestStreak = Math.max(S.bestStreak, S.streak);
       const timeBonus = Math.round((S.timeLeft / S.timeTotal) * 60);
       const streakBonus = Math.min(S.streak, 10) * 5;
-      const gained = 100 + timeBonus + streakBonus;
+      const gained = Math.round((100 + timeBonus + streakBonus) * S.breadth);
       S.score += gained;
       recordOutcome(true);
       const fb = $("feedback");
@@ -733,8 +764,15 @@
       ["Score", S.score],
       ["Treasures", `${itemsEarned}/${TOTAL_ITEMS}`],
       ["Accuracy", acc + "%"],
-      ["Best streak", S.bestStreak],
+      ["Breadth", "×" + S.breadth.toFixed(2)],
     ].map(([l, n]) => `<div class="end-stat"><span class="n">${n}</span><span class="l">${l}</span></div>`).join("");
+    // note the run's focus + breadth
+    const scopeNote = $("endScope");
+    if (scopeNote) {
+      scopeNote.textContent = (S.scope && S.scope.key !== "overall")
+        ? `Focused run: ${S.scope.label} · drawn from ${S.poolSize} questions (breadth ×${S.breadth.toFixed(2)})`
+        : `Broad run · drawn from ${S.poolSize} questions (breadth ×${S.breadth.toFixed(2)})`;
+    }
 
     // treasury display
     let tre = "";
@@ -750,6 +788,16 @@
       p.runs = (p.runs || 0) + 1;
       const prev = p.best[S.division];
       if (!prev || S.score > prev.score) p.best[S.division] = { score: S.score, items: itemsEarned, won: !!won };
+      // per-subcategory best (for the category leaderboards) — only narrow runs
+      if (S.scope && S.scope.key !== "overall") {
+        p.scopes = p.scopes || {};
+        const sk = S.division + "::" + S.scope.key;
+        const pv = p.scopes[sk];
+        if (!pv || S.score > pv.score) {
+          p.scopes[sk] = { score: S.score, items: itemsEarned, label: S.scope.label,
+            division: S.division, scope: S.scope.key };
+        }
+      }
       p.lastPlayed = Date.now();
       saveStore();
     }
@@ -810,6 +858,7 @@
       const msg = $("cloudMsg");
       msg.hidden = false; msg.className = "cloud-msg"; msg.textContent = "Saving turned off on this device.";
     });
+    $("lbScope").addEventListener("change", (e) => { LB_SCOPE = e.target.value; renderLeaderboard(); });
     updateCloudStatus();
   }
   async function loadLeaderboard() {
@@ -817,20 +866,53 @@
     renderLeaderboard();
     renderProfiles();
   }
+  let LB_SCOPE = "overall";      // which board is being viewed
   function bestOverall(summary) {
     let best = { score: -1, div: null };
     const b = summary.best || {};
     for (const d in b) if (b[d].score > best.score) best = { score: b[d].score, div: d };
     return best;
   }
+  // gather the distinct subcategory boards that have any recorded scores
+  function collectScopes() {
+    const scholars = (CLOUD_INDEX && CLOUD_INDEX.scholars) || {};
+    const seen = {};
+    Object.keys(scholars).forEach((slug) => {
+      const sc = scholars[slug].scopes || {};
+      Object.keys(sc).forEach((k) => { if (!seen[k]) seen[k] = { key: k, label: sc[k].label, division: sc[k].division }; });
+    });
+    return Object.values(seen).sort((a, b) =>
+      (a.division || "").localeCompare(b.division || "") || (a.label || "").localeCompare(b.label || ""));
+  }
+  function renderScopeSelect() {
+    const sel = $("lbScope");
+    if (!sel) return;
+    const scopes = collectScopes();
+    const opts = ['<option value="overall">Overall (all runs)</option>'];
+    scopes.forEach((s) =>
+      opts.push(`<option value="${escapeHtml(s.key)}">${escapeHtml(cap(s.division) + " · " + s.label)}</option>`));
+    sel.innerHTML = opts.join("");
+    if ([...sel.options].some((o) => o.value === LB_SCOPE)) sel.value = LB_SCOPE; else LB_SCOPE = "overall";
+    sel.style.display = scopes.length ? "" : "none";
+  }
   function renderLeaderboard() {
+    $("leaderboardCard").hidden = false;
+    renderScopeSelect();
     const list = $("lbList");
     const scholars = (CLOUD_INDEX && CLOUD_INDEX.scholars) || {};
-    const rows = Object.keys(scholars).map((slug) => {
-      const s = scholars[slug], bo = bestOverall(s);
-      return { name: s.name || slug, score: bo.score, div: bo.div };
-    }).filter((r) => r.score >= 0).sort((a, b) => b.score - a.score).slice(0, 8);
-    $("leaderboardCard").hidden = false;
+    let rows;
+    if (LB_SCOPE === "overall") {
+      rows = Object.keys(scholars).map((slug) => {
+        const s = scholars[slug], bo = bestOverall(s);
+        return { name: s.name || slug, score: bo.score, tag: bo.div ? cap(bo.div) : "" };
+      });
+    } else {
+      rows = Object.keys(scholars).map((slug) => {
+        const s = scholars[slug], e = (s.scopes || {})[LB_SCOPE];
+        return e ? { name: s.name || slug, score: e.score, tag: e.items != null ? e.items + "/" + TOTAL_ITEMS : "" } : null;
+      }).filter(Boolean);
+    }
+    rows = rows.filter((r) => r.score >= 0).sort((a, b) => b.score - a.score).slice(0, 8);
     if (rows.length === 0) {
       list.innerHTML = `<li class="lb-empty">No saved scores yet — enable saving and finish a run to appear here.</li>`;
       return;
@@ -838,7 +920,7 @@
     list.innerHTML = rows.map((r, i) =>
       `<li class="lb-row"><span class="lb-rank">${i + 1}</span>` +
       `<span class="lb-name">${escapeHtml(r.name)}</span>` +
-      `<span class="lb-div">${r.div ? cap(r.div) : ""}</span>` +
+      `<span class="lb-div">${escapeHtml(r.tag)}</span>` +
       `<span class="lb-score">${r.score}</span></li>`
     ).join("");
   }
@@ -853,7 +935,7 @@
     el.className = "end-cloud info"; el.textContent = "Saving to the cloud…";
     const forCloud = Object.assign({ name: S.profile }, p, { name: S.profile });
     const slug = Cloud.slugify(S.profile);
-    const summary = { name: S.profile, best: p.best, runs: p.runs, updatedAt: Date.now() };
+    const summary = { name: S.profile, best: p.best, scopes: p.scopes || {}, runs: p.runs, updatedAt: Date.now() };
     Cloud.saveProfile(slug, forCloud, summary).then(() => {
       el.className = "end-cloud ok";
       el.textContent = "✔ Saved to the cloud — other browsers can see it now.";

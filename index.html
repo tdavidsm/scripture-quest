@@ -111,7 +111,10 @@
     </div>
 
     <section class="leaderboard-card" id="leaderboardCard" hidden>
-      <h2 class="lb-title">Shared Leaderboard</h2>
+      <div class="lb-head">
+        <h2 class="lb-title">Shared Leaderboard</h2>
+        <select class="lb-scope" id="lbScope" aria-label="Leaderboard category"></select>
+      </div>
       <ol class="lb-list" id="lbList"></ol>
     </section>
 
@@ -135,6 +138,7 @@
           <div class="stat"><span class="stat-num" id="scoreVal">0</span><span class="stat-lbl">Score</span></div>
           <div class="stat"><span class="stat-num" id="streakVal">0</span><span class="stat-lbl">Streak</span></div>
           <div class="stat"><span class="stat-num" id="accVal">100%</span><span class="stat-lbl">Accuracy</span></div>
+          <div class="stat" title="Breadth multiplier — broader question pools score higher"><span class="stat-num" id="breadthVal">×1.00</span><span class="stat-lbl">Breadth</span></div>
           <div class="stat"><span class="stat-num" id="playerVal">—</span><span class="stat-lbl">Scholar</span></div>
         </div>
 
@@ -176,6 +180,7 @@
       <h1 class="end-title" id="endTitle">Quest Complete</h1>
       <p class="end-sub" id="endSub"></p>
       <div class="end-stats" id="endStats"></div>
+      <p class="end-scope" id="endScope"></p>
       <div class="end-treasury" id="endTreasury"></div>
       <p class="end-cloud" id="endCloud"></p>
       <div class="end-actions">

@@ -167,8 +167,13 @@ h1,h2,h3,.title,.tier-banner-name,.collection-title{font-family:"Cinzel", Georgi
 .leaderboard-card{width:min(680px,100%); margin:18px auto 0;
   background:linear-gradient(180deg,#2a1c10,#22160c); border:1px solid #4a361c; border-radius:var(--radius);
   padding:18px 20px 20px; color:#f3e7cf; box-shadow:0 20px 50px -30px rgba(0,0,0,.55)}
+.lb-head{display:flex; align-items:center; justify-content:space-between; gap:10px; margin-bottom:14px; flex-wrap:wrap}
 .lb-title{font-size:.95rem; letter-spacing:.22em; text-transform:uppercase; text-align:center;
-  color:var(--gold-bright); margin:0 0 14px}
+  color:var(--gold-bright); margin:0}
+.lb-scope{font-family:"EB Garamond",serif; font-size:.85rem; color:#f3e7cf; background:#3a2a17;
+  border:1px solid #6b4a26; border-radius:8px; padding:.35em .6em; cursor:pointer; max-width:60%}
+.lb-scope:focus{outline:none; border-color:var(--gold-bright)}
+.end-scope{font-size:.82rem; color:var(--ink-soft); font-style:italic; margin:.2em 0 0}
 .lb-list{list-style:none; margin:0; padding:0; display:flex; flex-direction:column; gap:6px}
 .lb-row{display:flex; align-items:center; gap:12px; padding:8px 12px; border-radius:10px;
   background:rgba(255,255,255,.04); border:1px solid rgba(255,255,255,.06)}

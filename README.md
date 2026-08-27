@@ -19,7 +19,7 @@ A live **Treasury** panel shows your collection filling up as you play.
 - **Adaptive review** — questions you've missed are re-asked about **3× more
   often** than fresh ones, and questions you've mastered fade out, so practice
   concentrates on your weak spots.
-- **Three divisions** — Primary (1,071 Qs), Junior (1,226 Qs), Senior (2,389 Qs).
+- **Three divisions** — Primary (1,035 Qs), Junior (1,204 Qs), Senior (2,355 Qs).
 - **Three difficulty levels**, each setting three limits at once:
 
   | Level | Per-question | Wrong answers allowed | Overall run time |
@@ -42,7 +42,17 @@ A live **Treasury** panel shows your collection filling up as you play.
   - **Any Bible book/chapter** — limit to questions that reference a chosen chapter
     anywhere (e.g. only questions touching Matthew 5, or a range you pick), with a
     live "N questions match" count. The tiered treasure game runs on the filtered set.
-- **Scoring** — points for correct answers, plus time and streak bonuses.
+- **Scoring** — points for correct answers, plus time and streak bonuses, all
+  multiplied by a **breadth factor** (~0.5× up to ~1.1×) based on how broad the
+  question pool the run draws from is. A narrow single-category run scores lower
+  than a broad one — even if the broad run answered fewer correctly — so the
+  breadth multiplier is shown live in the HUD and on the end screen.
+- **Subcategory leaderboards** — the shared leaderboard has a selector to switch
+  between "Overall" and a board for each subcategory people have played (e.g.
+  "Junior · Ten Commandments", "Senior · Random Access — Matthew 5"). A run earns
+  a place on a subcategory board when it's a Custom Run scoped to that single
+  category (or single category + single chapter). Because everyone on a board
+  drew from the same pool, breadth is equal and the scores are comparable.
 - Keyboard support (A–D or 1–4), fully responsive, works offline once loaded.
 - Entirely self-contained: no build step, no external code, no tracking.
 
@@ -138,7 +148,7 @@ assets/style.css               All styling and the parchment theme
 assets/game.js                 Game logic, treasure SVG icons, scoring
 assets/filters.js              Question categories/chapters/refs + Custom Run filtering
 assets/cloud.js                Shared cross-browser sync (repo files on `data` branch)
-assets/data.js                 4,686 parsed questions (generated from the banks)
+assets/data.js                 4,594 parsed questions (generated from the banks)
 build_data.py                  Rebuilds assets/data.js from the banks
 .nojekyll                      Serve files as-is on GitHub Pages
 *_Passages_Test_Bank.md        Source question banks (not needed at runtime)
