@@ -1,5 +1,5 @@
 {
- "updatedAt": 1787937155558,
+ "updatedAt": 1787961521525,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -61,6 +61,32 @@
    },
    "runs": 13,
    "updatedAt": 1787937153261
+  },
+  "joseph": {
+   "name": "Joseph",
+   "best": {
+    "senior": {
+     "score": 1911,
+     "items": 12,
+     "won": false
+    },
+    "primary": {
+     "score": 300,
+     "items": 3,
+     "won": false
+    }
+   },
+   "scopes": {
+    "primary::theme": {
+     "score": 300,
+     "items": 3,
+     "label": "Theme of the Passage",
+     "division": "primary",
+     "scope": "theme"
+    }
+   },
+   "runs": 7,
+   "updatedAt": 1787961519995
   }
  }
 }
