@@ -1,5 +1,5 @@
 {
- "updatedAt": 1787932422593,
+ "updatedAt": 1787932743436,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -38,14 +38,22 @@
    "name": "Ezekiel",
    "best": {
     "junior": {
-     "score": 3460,
-     "items": 22,
-     "won": false
+     "score": 4081,
+     "items": 42,
+     "won": true
     }
    },
-   "scopes": {},
-   "runs": 7,
-   "updatedAt": 1787932421106
+   "scopes": {
+    "junior::feasts": {
+     "score": 4081,
+     "items": 42,
+     "label": "Jewish Feasts",
+     "division": "junior",
+     "scope": "feasts"
+    }
+   },
+   "runs": 8,
+   "updatedAt": 1787932741903
   }
  }
 }
