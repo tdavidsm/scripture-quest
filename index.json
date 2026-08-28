@@ -1,5 +1,5 @@
 {
- "updatedAt": 1787934185947,
+ "updatedAt": 1787934336202,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -50,10 +50,17 @@
      "label": "Jewish Feasts",
      "division": "junior",
      "scope": "feasts"
+    },
+    "junior::commandments": {
+     "score": 295,
+     "items": 4,
+     "label": "Ten Commandments",
+     "division": "junior",
+     "scope": "commandments"
     }
    },
-   "runs": 11,
-   "updatedAt": 1787934184365
+   "runs": 12,
+   "updatedAt": 1787934334364
   }
  }
 }
