@@ -1,1 +1,31 @@
-{"updatedAt": 0, "scholars": {}}
+{
+ "updatedAt": 1787925869034,
+ "scholars": {
+  "mumz": {
+   "name": "Mumz",
+   "best": {
+    "primary": {
+     "score": 3748,
+     "items": 42,
+     "won": true
+    },
+    "senior": {
+     "score": 291,
+     "items": 2,
+     "won": false
+    }
+   },
+   "scopes": {
+    "primary::feasts": {
+     "score": 3748,
+     "items": 42,
+     "label": "Jewish Feasts",
+     "division": "primary",
+     "scope": "feasts"
+    }
+   },
+   "runs": 41,
+   "updatedAt": 1787925867329
+  }
+ }
+}
