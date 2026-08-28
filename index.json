@@ -1,5 +1,5 @@
 {
- "updatedAt": 1787929207782,
+ "updatedAt": 1787932422593,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -33,6 +33,19 @@
    },
    "runs": 49,
    "updatedAt": 1787929206189
+  },
+  "ezekiel": {
+   "name": "Ezekiel",
+   "best": {
+    "junior": {
+     "score": 3460,
+     "items": 22,
+     "won": false
+    }
+   },
+   "scopes": {},
+   "runs": 7,
+   "updatedAt": 1787932421106
   }
  }
 }
