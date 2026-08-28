@@ -6,6 +6,11 @@
    "score": 1911,
    "items": 12,
    "won": false
+  },
+  "primary": {
+   "score": 300,
+   "items": 3,
+   "won": false
   }
  },
  "q": {
@@ -233,8 +238,57 @@
    "c": 0,
    "w": 1,
    "last": 1787772938711
+  },
+  "pbn169t": {
+   "c": 0,
+   "w": 1,
+   "last": 1787961467390
+  },
+  "pkkayby": {
+   "c": 1,
+   "w": 0,
+   "last": 1787961475156
+  },
+  "p1g69syb": {
+   "c": 0,
+   "w": 1,
+   "last": 1787961481240
+  },
+  "p1bt6wer": {
+   "c": 0,
+   "w": 1,
+   "last": 1787961486091
+  },
+  "p1lvp8f1": {
+   "c": 1,
+   "w": 0,
+   "last": 1787961496823
+  },
+  "pt1bhsf": {
+   "c": 1,
+   "w": 0,
+   "last": 1787961504840
+  },
+  "p198by69": {
+   "c": 0,
+   "w": 1,
+   "last": 1787961512158
+  },
+  "pqtuqt8": {
+   "c": 0,
+   "w": 1,
+   "last": 1787961518392
   }
  },
- "runs": 6,
- "lastPlayed": 1787772940314
+ "runs": 7,
+ "lastPlayed": 1787961519994,
+ "scopes": {
+  "primary::theme": {
+   "score": 300,
+   "items": 3,
+   "label": "Theme of the Passage",
+   "division": "primary",
+   "scope": "theme"
+  }
+ }
 }
