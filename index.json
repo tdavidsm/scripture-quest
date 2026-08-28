@@ -1,5 +1,5 @@
 {
- "updatedAt": 1787928904959,
+ "updatedAt": 1787929140964,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -24,15 +24,15 @@
      "scope": "feasts"
     },
     "primary::words2": {
-     "score": 232,
+     "score": 245,
      "items": 3,
      "label": "Words in Exactly Two Passages",
      "division": "primary",
      "scope": "words2"
     }
    },
-   "runs": 46,
-   "updatedAt": 1787928903131
+   "runs": 47,
+   "updatedAt": 1787929139428
   }
  }
 }
