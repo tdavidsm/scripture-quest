@@ -725,9 +725,9 @@
    "last": 1787929108036
   },
   "px63o7x": {
-   "c": 0,
+   "c": 1,
    "w": 2,
-   "last": 1787929142139
+   "last": 1787929188825
   },
   "p18bi90q": {
    "c": 1,
@@ -746,8 +746,8 @@
   },
   "pcy60kj": {
    "c": 0,
-   "w": 2,
-   "last": 1787929120715
+   "w": 3,
+   "last": 1787929184760
   },
   "p4fzlae": {
    "c": 0,
@@ -773,10 +773,35 @@
    "c": 0,
    "w": 1,
    "last": 1787929146489
+  },
+  "p9bi3uv": {
+   "c": 1,
+   "w": 0,
+   "last": 1787929167216
+  },
+  "p13vj9w5": {
+   "c": 0,
+   "w": 1,
+   "last": 1787929171498
+  },
+  "p1rjmvht": {
+   "c": 0,
+   "w": 1,
+   "last": 1787929177346
+  },
+  "p9dbrn0": {
+   "c": 1,
+   "w": 0,
+   "last": 1787929193690
+  },
+  "p7m6wzo": {
+   "c": 0,
+   "w": 1,
+   "last": 1787929204587
   }
  },
- "runs": 48,
- "lastPlayed": 1787929161771,
+ "runs": 49,
+ "lastPlayed": 1787929206188,
  "scopes": {
   "primary::feasts": {
    "score": 3748,
@@ -786,7 +811,7 @@
    "scope": "feasts"
   },
   "primary::words2": {
-   "score": 245,
+   "score": 248,
    "items": 3,
    "label": "Words in Exactly Two Passages",
    "division": "primary",
