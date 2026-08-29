@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788021105849,
+ "updatedAt": 1788021232707,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -10,8 +10,8 @@
      "won": true
     },
     "senior": {
-     "score": 443,
-     "items": 4,
+     "score": 504,
+     "items": 5,
      "won": false
     }
    },
@@ -45,15 +45,15 @@
      "scope": "commandments"
     },
     "senior::theme": {
-     "score": 443,
-     "items": 4,
+     "score": 504,
+     "items": 5,
      "label": "Theme of the Passage",
      "division": "senior",
      "scope": "theme"
     }
    },
-   "runs": 64,
-   "updatedAt": 1788020852405
+   "runs": 65,
+   "updatedAt": 1788021231082
   },
   "ezekiel": {
    "name": "Ezekiel",
