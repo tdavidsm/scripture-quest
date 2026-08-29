@@ -601,8 +601,8 @@
   },
   "p1mt8ryk": {
    "c": 0,
-   "w": 3,
-   "last": 1787799895219
+   "w": 4,
+   "last": 1788018731027
   },
   "pp8el31": {
    "c": 1,
@@ -621,8 +621,8 @@
   },
   "p1peds3e": {
    "c": 1,
-   "w": 1,
-   "last": 1787799867693
+   "w": 2,
+   "last": 1788018750453
   },
   "plznht5": {
    "c": 1,
@@ -630,9 +630,9 @@
    "last": 1787799826974
   },
   "p1o9ui3u": {
-   "c": 1,
+   "c": 2,
    "w": 1,
-   "last": 1787799856147
+   "last": 1788018723822
   },
   "p1ckznox": {
    "c": 0,
@@ -641,13 +641,13 @@
   },
   "pmtkn09": {
    "c": 1,
-   "w": 1,
-   "last": 1787799905664
+   "w": 2,
+   "last": 1788018760199
   },
   "pp31j7t": {
-   "c": 0,
+   "c": 1,
    "w": 2,
-   "last": 1787799902299
+   "last": 1788018737923
   },
   "pjl9px2": {
    "c": 7,
@@ -823,10 +823,15 @@
    "c": 1,
    "w": 0,
    "last": 1787932300639
+  },
+  "pl029ti": {
+   "c": 0,
+   "w": 1,
+   "last": 1788018745571
   }
  },
- "runs": 50,
- "lastPlayed": 1788018474220,
+ "runs": 51,
+ "lastPlayed": 1788018761810,
  "scopes": {
   "primary::feasts": {
    "score": 3770,
@@ -841,6 +846,13 @@
    "label": "Words in Exactly Two Passages",
    "division": "primary",
    "scope": "words2"
+  },
+  "primary::names": {
+   "score": 195,
+   "items": 2,
+   "label": "Names & Titles of God",
+   "division": "primary",
+   "scope": "names"
   }
  }
 }
