@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788020854032,
+ "updatedAt": 1788021105849,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -135,6 +135,11 @@
      "score": 4193,
      "items": 42,
      "won": true
+    },
+    "senior": {
+     "score": 1777,
+     "items": 16,
+     "won": false
     }
    },
    "scopes": {
@@ -144,10 +149,17 @@
      "label": "Jewish Feasts",
      "division": "primary",
      "scope": "feasts"
+    },
+    "senior::theme": {
+     "score": 1777,
+     "items": 16,
+     "label": "Theme of the Passage",
+     "division": "senior",
+     "scope": "theme"
     }
    },
-   "runs": 2,
-   "updatedAt": 1788020105621
+   "runs": 3,
+   "updatedAt": 1788021104339
   }
  }
 }
