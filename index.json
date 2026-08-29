@@ -1,11 +1,11 @@
 {
- "updatedAt": 1788018935608,
+ "updatedAt": 1788019158873,
  "scholars": {
   "mumz": {
    "name": "Mumz",
    "best": {
     "primary": {
-     "score": 3770,
+     "score": 4048,
      "items": 42,
      "won": true
     },
@@ -17,7 +17,7 @@
    },
    "scopes": {
     "primary::feasts": {
-     "score": 3770,
+     "score": 4048,
      "items": 42,
      "label": "Jewish Feasts",
      "division": "primary",
@@ -38,8 +38,8 @@
      "scope": "names"
     }
    },
-   "runs": 55,
-   "updatedAt": 1788018934200
+   "runs": 56,
+   "updatedAt": 1788019157261
   },
   "ezekiel": {
    "name": "Ezekiel",
