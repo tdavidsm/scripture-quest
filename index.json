@@ -1,5 +1,5 @@
 {
- "updatedAt": 1787961659594,
+ "updatedAt": 1787966637746,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -41,6 +41,11 @@
      "score": 4343,
      "items": 42,
      "won": true
+    },
+    "primary": {
+     "score": 4004,
+     "items": 42,
+     "won": true
     }
    },
    "scopes": {
@@ -57,10 +62,17 @@
      "label": "Ten Commandments",
      "division": "junior",
      "scope": "commandments"
+    },
+    "primary::feasts": {
+     "score": 4004,
+     "items": 42,
+     "label": "Jewish Feasts",
+     "division": "primary",
+     "scope": "feasts"
     }
    },
-   "runs": 13,
-   "updatedAt": 1787937153261
+   "runs": 14,
+   "updatedAt": 1787966636226
   },
   "joseph": {
    "name": "Joseph",
