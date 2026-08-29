@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788019905356,
+ "updatedAt": 1788019925380,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -120,6 +120,27 @@
    },
    "runs": 10,
    "updatedAt": 1788019673194
+  },
+  "bb-ace": {
+   "name": "BB Ace",
+   "best": {
+    "primary": {
+     "score": 895,
+     "items": 11,
+     "won": false
+    }
+   },
+   "scopes": {
+    "primary::feasts": {
+     "score": 895,
+     "items": 11,
+     "label": "Jewish Feasts",
+     "division": "primary",
+     "scope": "feasts"
+    }
+   },
+   "runs": 1,
+   "updatedAt": 1788019924018
   }
  }
 }
