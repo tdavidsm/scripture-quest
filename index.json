@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788020107010,
+ "updatedAt": 1788020854032,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -10,8 +10,8 @@
      "won": true
     },
     "senior": {
-     "score": 291,
-     "items": 2,
+     "score": 443,
+     "items": 4,
      "won": false
     }
    },
@@ -43,10 +43,17 @@
      "label": "Ten Commandments",
      "division": "primary",
      "scope": "commandments"
+    },
+    "senior::theme": {
+     "score": 443,
+     "items": 4,
+     "label": "Theme of the Passage",
+     "division": "senior",
+     "scope": "theme"
     }
    },
-   "runs": 63,
-   "updatedAt": 1788019904087
+   "runs": 64,
+   "updatedAt": 1788020852405
   },
   "ezekiel": {
    "name": "Ezekiel",
