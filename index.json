@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788019727754,
+ "updatedAt": 1788019762125,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -38,15 +38,15 @@
      "scope": "names"
     },
     "primary::commandments": {
-     "score": 0,
-     "items": 0,
+     "score": 292,
+     "items": 3,
      "label": "Ten Commandments",
      "division": "primary",
      "scope": "commandments"
     }
    },
-   "runs": 58,
-   "updatedAt": 1788019726548
+   "runs": 59,
+   "updatedAt": 1788019760401
   },
   "ezekiel": {
    "name": "Ezekiel",
