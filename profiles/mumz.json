@@ -8,8 +8,8 @@
    "won": true
   },
   "senior": {
-   "score": 291,
-   "items": 2,
+   "score": 443,
+   "items": 4,
    "won": false
   }
  },
@@ -90,9 +90,9 @@
    "last": 1788019038040
   },
   "p13fsvax": {
-   "c": 7,
+   "c": 8,
    "w": 2,
-   "last": 1788019110016
+   "last": 1788020758583
   },
   "pbuop2k": {
    "c": 7,
@@ -656,13 +656,13 @@
   },
   "p1ffezvm": {
    "c": 8,
-   "w": 2,
-   "last": 1788019122229
+   "w": 3,
+   "last": 1788020781657
   },
   "p7f2nus": {
-   "c": 7,
+   "c": 8,
    "w": 1,
-   "last": 1788019055635
+   "last": 1788020765537
   },
   "p10jrdj0": {
    "c": 8,
@@ -893,10 +893,50 @@
    "c": 0,
    "w": 1,
    "last": 1788019874627
+  },
+  "syrt29m": {
+   "c": 0,
+   "w": 1,
+   "last": 1788020837990
+  },
+  "s1ththk8": {
+   "c": 1,
+   "w": 0,
+   "last": 1788020840122
+  },
+  "s1dumgqb": {
+   "c": 0,
+   "w": 1,
+   "last": 1788020841791
+  },
+  "smvhdqf": {
+   "c": 1,
+   "w": 0,
+   "last": 1788020843771
+  },
+  "sa4j1xo": {
+   "c": 1,
+   "w": 0,
+   "last": 1788020845505
+  },
+  "s991f7u": {
+   "c": 1,
+   "w": 0,
+   "last": 1788020847173
+  },
+  "s1uhurvg": {
+   "c": 0,
+   "w": 1,
+   "last": 1788020848822
+  },
+  "s1xu8b14": {
+   "c": 0,
+   "w": 1,
+   "last": 1788020850788
   }
  },
- "runs": 63,
- "lastPlayed": 1788019904087,
+ "runs": 64,
+ "lastPlayed": 1788020852404,
  "scopes": {
   "primary::feasts": {
    "score": 4048,
@@ -925,6 +965,13 @@
    "label": "Ten Commandments",
    "division": "primary",
    "scope": "commandments"
+  },
+  "senior::theme": {
+   "score": 443,
+   "items": 4,
+   "label": "Theme of the Passage",
+   "division": "senior",
+   "scope": "theme"
   }
  }
 }
