@@ -216,13 +216,13 @@
   },
   "pgbztya": {
    "c": 3,
-   "w": 6,
-   "last": 1787792998435
+   "w": 7,
+   "last": 1788019709331
   },
   "pj7uwkc": {
    "c": 4,
-   "w": 6,
-   "last": 1787717487642
+   "w": 7,
+   "last": 1788019703718
   },
   "p10j13tw": {
    "c": 1,
@@ -236,8 +236,8 @@
   },
   "phb28xd": {
    "c": 4,
-   "w": 3,
-   "last": 1787717219429
+   "w": 4,
+   "last": 1788019707083
   },
   "pzqdwrm": {
    "c": 2,
@@ -848,10 +848,15 @@
    "c": 0,
    "w": 1,
    "last": 1788018932576
+  },
+  "p1hkavm3": {
+   "c": 0,
+   "w": 1,
+   "last": 1788019712381
   }
  },
- "runs": 56,
- "lastPlayed": 1788019157260,
+ "runs": 57,
+ "lastPlayed": 1788019713985,
  "scopes": {
   "primary::feasts": {
    "score": 4048,
@@ -873,6 +878,13 @@
    "label": "Names & Titles of God",
    "division": "primary",
    "scope": "names"
+  },
+  "primary::commandments": {
+   "score": 0,
+   "items": 0,
+   "label": "Ten Commandments",
+   "division": "primary",
+   "scope": "commandments"
   }
  }
 }
