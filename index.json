@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788215881776,
+ "updatedAt": 1788216154662,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -245,8 +245,8 @@
    "name": "Thomas Davidsmeier",
    "best": {
     "primary": {
-     "score": 2183,
-     "items": 15,
+     "score": 5235,
+     "items": 30,
      "won": false
     }
    },
@@ -259,15 +259,15 @@
      "scope": "theme"
     },
     "primary::feasts": {
-     "score": 2183,
-     "items": 15,
+     "score": 5235,
+     "items": 30,
      "label": "Jewish Feasts",
      "division": "primary",
      "scope": "feasts"
     }
    },
-   "runs": 3,
-   "updatedAt": 1788215877683
+   "runs": 4,
+   "updatedAt": 1788216150703
   }
  }
 }
