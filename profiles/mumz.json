@@ -13,8 +13,8 @@
    "won": false
   },
   "junior": {
-   "score": 122,
-   "items": 1,
+   "score": 224,
+   "items": 2,
    "won": false
   }
  },
@@ -1083,10 +1083,40 @@
    "c": 0,
    "w": 1,
    "last": 1788208341636
+  },
+  "jtgqilu": {
+   "c": 1,
+   "w": 0,
+   "last": 1788210295081
+  },
+  "jc9szty": {
+   "c": 0,
+   "w": 1,
+   "last": 1788210300276
+  },
+  "j1b45nr3": {
+   "c": 0,
+   "w": 1,
+   "last": 1788210308976
+  },
+  "j1na68xs": {
+   "c": 0,
+   "w": 1,
+   "last": 1788210313638
+  },
+  "j1b45nwl": {
+   "c": 1,
+   "w": 0,
+   "last": 1788210317558
+  },
+  "j1dxhh2p": {
+   "c": 0,
+   "w": 1,
+   "last": 1788210322585
   }
  },
- "runs": 69,
- "lastPlayed": 1788208343244,
+ "runs": 70,
+ "lastPlayed": 1788210324189,
  "scopes": {
   "primary::feasts": {
    "score": 8049,
@@ -1122,6 +1152,13 @@
    "label": "Theme of the Passage",
    "division": "senior",
    "scope": "theme"
+  },
+  "junior::declaw:Matthew 5": {
+   "score": 224,
+   "items": 2,
+   "label": "Decalogue & OT Legal — Matthew 5",
+   "division": "junior",
+   "scope": "declaw:Matthew 5"
   }
  }
 }
