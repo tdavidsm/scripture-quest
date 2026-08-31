@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788215001853,
+ "updatedAt": 1788215314927,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -71,7 +71,7 @@
    "name": "Ezekiel",
    "best": {
     "junior": {
-     "score": 4343,
+     "score": 8467,
      "items": 42,
      "won": true
     },
@@ -83,7 +83,7 @@
    },
    "scopes": {
     "junior::feasts": {
-     "score": 4343,
+     "score": 8467,
      "items": 42,
      "label": "Jewish Feasts",
      "division": "junior",
@@ -102,10 +102,17 @@
      "label": "Jewish Feasts",
      "division": "primary",
      "scope": "feasts"
+    },
+    "junior::theme": {
+     "score": 166,
+     "items": 1,
+     "label": "Theme of the Passage",
+     "division": "junior",
+     "scope": "theme"
     }
    },
-   "runs": 14,
-   "updatedAt": 1787966636226
+   "runs": 17,
+   "updatedAt": 1788215310007
   },
   "joseph": {
    "name": "Joseph",
