@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788210536636,
+ "updatedAt": 1788211695681,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -172,6 +172,46 @@
    },
    "runs": 3,
    "updatedAt": 1788021104339
+  },
+  "nineveh": {
+   "name": "Nineveh",
+   "best": {
+    "primary": {
+     "score": 5699,
+     "items": 42,
+     "won": true
+    },
+    "junior": {
+     "score": 0,
+     "items": 0,
+     "won": false
+    }
+   },
+   "scopes": {
+    "primary::feasts": {
+     "score": 5699,
+     "items": 42,
+     "label": "Jewish Feasts",
+     "division": "primary",
+     "scope": "feasts"
+    },
+    "primary::theme": {
+     "score": 1179,
+     "items": 12,
+     "label": "Theme of the Passage",
+     "division": "primary",
+     "scope": "theme"
+    },
+    "junior::commandments": {
+     "score": 0,
+     "items": 0,
+     "label": "Ten Commandments",
+     "division": "junior",
+     "scope": "commandments"
+    }
+   },
+   "runs": 8,
+   "updatedAt": 1788211694081
   }
  }
 }
