@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788214207731,
+ "updatedAt": 1788214373646,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -168,10 +168,17 @@
      "label": "Theme of the Passage",
      "division": "senior",
      "scope": "theme"
+    },
+    "primary::words2": {
+     "score": 0,
+     "items": 0,
+     "label": "Words in Exactly Two Passages",
+     "division": "primary",
+     "scope": "words2"
     }
    },
-   "runs": 4,
-   "updatedAt": 1788213972404
+   "runs": 5,
+   "updatedAt": 1788214372002
   },
   "nineveh": {
    "name": "Nineveh",
