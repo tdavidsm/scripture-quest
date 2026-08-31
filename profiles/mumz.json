@@ -11,6 +11,11 @@
    "score": 790,
    "items": 8,
    "won": false
+  },
+  "junior": {
+   "score": 122,
+   "items": 1,
+   "won": false
   }
  },
  "q": {
@@ -1053,10 +1058,35 @@
    "c": 1,
    "w": 0,
    "last": 1788021698668
+  },
+  "j1wspkgp": {
+   "c": 0,
+   "w": 1,
+   "last": 1788208332376
+  },
+  "jaratpu": {
+   "c": 0,
+   "w": 1,
+   "last": 1788208335620
+  },
+  "jd8rop3": {
+   "c": 1,
+   "w": 0,
+   "last": 1788208337754
+  },
+  "jd8tzvu": {
+   "c": 0,
+   "w": 1,
+   "last": 1788208339652
+  },
+  "j1jmcfo0": {
+   "c": 0,
+   "w": 1,
+   "last": 1788208341636
   }
  },
- "runs": 68,
- "lastPlayed": 1788190354172,
+ "runs": 69,
+ "lastPlayed": 1788208343244,
  "scopes": {
   "primary::feasts": {
    "score": 8049,
