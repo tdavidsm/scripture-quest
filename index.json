@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788211892573,
+ "updatedAt": 1788212002676,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -182,8 +182,8 @@
      "won": true
     },
     "junior": {
-     "score": 217,
-     "items": 3,
+     "score": 625,
+     "items": 8,
      "won": false
     }
    },
@@ -203,15 +203,15 @@
      "scope": "theme"
     },
     "junior::commandments": {
-     "score": 217,
-     "items": 3,
+     "score": 625,
+     "items": 8,
      "label": "Ten Commandments",
      "division": "junior",
      "scope": "commandments"
     }
    },
-   "runs": 10,
-   "updatedAt": 1788211889760
+   "runs": 11,
+   "updatedAt": 1788212000743
   }
  }
 }
