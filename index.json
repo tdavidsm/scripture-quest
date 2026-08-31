@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788212002676,
+ "updatedAt": 1788213762210,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -208,10 +208,17 @@
      "label": "Ten Commandments",
      "division": "junior",
      "scope": "commandments"
+    },
+    "primary::words2": {
+     "score": 642,
+     "items": 8,
+     "label": "Words in Exactly Two Passages",
+     "division": "primary",
+     "scope": "words2"
     }
    },
-   "runs": 11,
-   "updatedAt": 1788212000743
+   "runs": 12,
+   "updatedAt": 1788213759724
   }
  }
 }
