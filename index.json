@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788214373646,
+ "updatedAt": 1788214513845,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -175,10 +175,17 @@
      "label": "Words in Exactly Two Passages",
      "division": "primary",
      "scope": "words2"
+    },
+    "primary::random:Proverbs 3": {
+     "score": 135,
+     "items": 2,
+     "label": "Random Access — Proverbs 3",
+     "division": "primary",
+     "scope": "random:Proverbs 3"
     }
    },
-   "runs": 5,
-   "updatedAt": 1788214372002
+   "runs": 6,
+   "updatedAt": 1788214512341
   },
   "nineveh": {
    "name": "Nineveh",
