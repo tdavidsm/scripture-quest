@@ -16,17 +16,25 @@ window.QM = (function () {
     unique: "Unique Words",
     words3: "Words in 3–4 Passages",
     words2: "Words in Exactly Two Passages",
+    // new (from the Distinctive Words / Direct Quotes workbooks)
+    words: "Distinctive Words",
+    parallel: "Parallel Passages",
+    sectitle: "Section Titles",
+    declaw: "Decalogue & OT Legal",
     other: "Other",
   };
   const CAT_ORDER = ["random", "xref", "commandments", "theme", "geo", "names",
-    "feasts", "unique", "words3", "words2", "other"];
+    "feasts", "unique", "words3", "words2",
+    "words", "parallel", "sectitle", "declaw", "other"];
 
   // "1 Corinthians 6:10", "Song of Solomon 2:1", "Matthew 5:4"
   const REF_G = /((?:[1-3]\s)?[A-Z][a-z]+(?:\sof\s[A-Z][a-z]+)?)\s(\d+):\d+/g;
   const REF_1 = /((?:[1-3]\s)?[A-Z][a-z]+(?:\sof\s[A-Z][a-z]+)?)\s(\d+):\d+/;
 
   const setMeta = (div) => (window.QUIZ_DATA.meta[div].setMeta || {});
-  const catOf = (div, q) => { const m = setMeta(div)[q.s]; return m ? m.c : "other"; };
+  // new (xlsx) questions carry their category directly on q.c; markdown ones
+  // resolve it from their set number via setMeta.
+  const catOf = (div, q) => q.c || ((setMeta(div)[q.s] || {}).c) || "other";
 
   // caches keyed by question object
   const _refs = new WeakMap();
@@ -43,9 +51,11 @@ window.QM = (function () {
     _refs.set(q, arr);
     return arr;
   }
-  // the study chapter a random-access question belongs to (from its options,
-  // which are all in one chapter) — precise even for the "Mixed" set
+  // the study chapter a question belongs to. New (xlsx) questions carry it on
+  // q.ch; random-access questions derive it from their options (all one chapter,
+  // precise even for the "Mixed" set); other markdown questions have no chapter.
   function chapterOf(div, q) {
+    if (q.ch) return q.ch;
     if (catOf(div, q) !== "random") return null;
     if (_chap.has(q)) return _chap.get(q);
     let ch = null;
@@ -61,6 +71,7 @@ window.QM = (function () {
   function categories(div) {
     const present = new Set();
     for (const s in setMeta(div)) present.add(setMeta(div)[s].c);
+    window.QUIZ_DATA.data[div].forEach((q) => { if (q.c) present.add(q.c); });
     return CAT_ORDER.filter((c) => present.has(c)).map((c) => ({ key: c, name: CAT_NAMES[c] }));
   }
   function chapters(div) {
@@ -89,9 +100,11 @@ window.QM = (function () {
     // types & chapters use explicit selection (a chip must be ON to pass);
     // references are additive (empty set = no restriction).
     if (f.cats && !f.cats.has(cat)) return false;
-    if (cat === "random" && f.chapters) {
+    // chapter filter gates any question that has a chapter (random-access and the
+    // per-chapter workbook questions); chapterless questions are unaffected.
+    if (f.chapters) {
       const ch = chapterOf(div, q);
-      if (!f.chapters.has(ch)) return false;
+      if (ch != null && !f.chapters.has(ch)) return false;
     }
     if (cat === "commandments" && f.summary && f.summary !== "all") {
       const has = hasSummary(q);

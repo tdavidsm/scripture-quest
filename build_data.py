@@ -89,6 +89,105 @@ def parse(path):
         set_meta[str(s)] = {"t": title, "c": cat, "ch": chap}
     return out, (max(sets) if sets else 0), set_meta
 
+# ============================================================
+#  XLSX test banks (Distinctive Words / Direct Quotes workbooks)
+# ============================================================
+XLSX_DIR = "xlsx_banks"
+DIVS = ("primary", "junior", "senior")
+
+# sheet-name kind -> grouped game category (family)
+SHEET_KIND_TO_CAT = {
+    "vocab": "words", "strongs": "words", "vines": "words",
+    "verseloc": "words", "wordxref": "words", "sectionref": "words",
+    "parallel": "parallel", "noparallel": "parallel", "provxref": "parallel",
+    "sectitle": "sectitle",
+    "decalogue": "declaw", "otlegal": "declaw",
+}
+
+def sheet_kind(sheet):
+    s = sheet.lower()
+    if "nkjv-greek" in s or "nkjv-hebrew" in s: return "vocab"
+    if "verse location" in s: return "verseloc"
+    if "strongs" in s: return "strongs"
+    if "vines" in s or "outline" in s: return "vines"
+    if "section refs" in s: return "sectionref"
+    if "which is not a cr" in s or re.search(r"\bref \(", s): return "wordxref"
+    if "section titles" in s: return "sectitle"
+    if "decalogue" in s: return "decalogue"
+    if "ot legal" in s: return "otlegal"
+    if "no-parallel" in s: return "noparallel"
+    if "crossref to passage" in s or "passage to crossref" in s: return "provxref"
+    if ("crossref to matt" in s or "matt passage to crossref" in s
+            or "to matt" in s or "matt to" in s): return "parallel"
+    return None
+
+def sheet_division(sheet):
+    s = sheet.lower()
+    if "junior" in s: return "junior"
+    if "primary" in s: return "primary"
+    if "senior" in s: return "senior"
+    return None
+
+def file_chapter(fname):
+    m = re.match(r"(Matthew|Proverbs)(\d)", os.path.basename(fname))
+    return f"{m.group(1)} {m.group(2)}" if m else None
+
+def text_chapter(text):
+    t = str(text)
+    m = re.search(r"Matt(?:hew|\.)?\s*([567])\b", t)
+    if m: return "Matthew " + m.group(1)
+    m = re.search(r"Prov(?:erbs|\.)?\s*([34])\b", t)
+    if m: return "Proverbs " + m.group(1)
+    return None
+
+def parse_xlsx(here):
+    """Return {division: [question dicts]} from the xlsx workbooks, or {} if the
+    folder or the openpyxl dependency is absent."""
+    xdir = os.path.join(here, XLSX_DIR)
+    if not os.path.isdir(xdir):
+        return {}
+    try:
+        import openpyxl
+    except ImportError:
+        print("  ! xlsx banks present but openpyxl is not installed — skipping them.")
+        print("    Run:  pip install openpyxl   (then re-run build_data.py)")
+        return {}
+    import glob
+    out = {d: [] for d in DIVS}
+    for f in sorted(glob.glob(os.path.join(xdir, "*.xlsx"))):
+        filech = file_chapter(f)
+        wb = openpyxl.load_workbook(f, read_only=True, data_only=True)
+        for sh in wb.sheetnames:
+            if sh == "Overview":
+                continue
+            kind = sheet_kind(sh)
+            if not kind:
+                continue
+            cat = SHEET_KIND_TO_CAT[kind]
+            sdiv = sheet_division(sh)
+            for row in wb[sh].iter_rows(min_row=2, values_only=True):
+                if not row or len(row) < 6:
+                    continue
+                q, a, b, c, d, letter = row[0], row[1], row[2], row[3], row[4], row[5]
+                opts = [a, b, c, d]
+                if not q or letter not in ("A", "B", "C", "D"):
+                    continue
+                if any(o is None or str(o).strip() == "" for o in opts):
+                    continue
+                ans = row[6] if len(row) > 6 else ""
+                ch = filech or text_chapter(str(ans) + " " + str(q))
+                divs = [sdiv] if sdiv else list(DIVS)
+                if ch == "Proverbs 4":                    # Primary doesn't study Prov 4
+                    divs = [x for x in divs if x != "primary"]
+                item = {"q": str(q).strip(), "o": [str(o).strip() for o in opts],
+                        "a": ["A", "B", "C", "D"].index(letter), "c": cat}
+                if ch:
+                    item["ch"] = ch
+                for dv in divs:
+                    out[dv].append(dict(item))
+        wb.close()
+    return out
+
 def main():
     here = os.path.dirname(os.path.abspath(__file__))
     data, meta = {}, {}
@@ -96,7 +195,16 @@ def main():
         qs, maxset, set_meta = parse(os.path.join(here, fname))
         data[div] = qs
         meta[div] = {"sets": maxset, "count": len(qs), "setMeta": set_meta}
-        print(f"{div:8s} {len(qs):5d} questions across {maxset} sets")
+        print(f"{div:8s} {len(qs):5d} md questions across {maxset} sets")
+
+    # merge in the xlsx workbooks (new categories, tagged with c/ch directly)
+    xlsx = parse_xlsx(here)
+    for div in BANKS:
+        add = xlsx.get(div, [])
+        if add:
+            data[div].extend(add)
+            meta[div]["count"] = len(data[div])
+            print(f"{div:8s} +{len(add):5d} xlsx questions  ->  {len(data[div])} total")
     payload = {"meta": meta, "data": data}
     js = "window.QUIZ_DATA=" + json.dumps(payload, ensure_ascii=False,
                                           separators=(",", ":")) + ";"

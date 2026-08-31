@@ -19,34 +19,45 @@ A live **Treasury** panel shows your collection filling up as you play.
 - **Adaptive review** — questions you've missed are re-asked about **3× more
   often** than fresh ones, and questions you've mastered fade out, so practice
   concentrates on your weak spots.
-- **Three divisions** — Primary (1,035 Qs), Junior (1,204 Qs), Senior (2,355 Qs).
-- **Three difficulty levels**, each setting three limits at once:
+- **Three divisions** — Primary (2,631 Qs), Junior (3,246 Qs), Senior (4,085 Qs),
+  combining the passage test banks with the Distinctive Words / Direct Quotes
+  workbooks (~9,960 questions in all).
+- **Three difficulty levels**, each setting three limits at once and worth more
+  points the harder it is:
 
-  | Level | Per-question | Wrong answers allowed | Overall run time |
-  |---|---|---|---|
-  | Scribe | 25s | 5 | 10:00 |
-  | Pilgrim | 15s | 4 | 7:00 |
-  | Champion | 10s | 3 | 5:00 |
+  | Level | Per-question | Wrong answers allowed | Overall run time | Points |
+  |---|---|---|---|---|
+  | Scribe | 25s | 5 | 10:00 | ×1.0 |
+  | Pilgrim | 15s | 4 | 7:00 | ×1.5 |
+  | Champion | 10s | 3 | 5:00 | ×2.0 |
 
   Running out of wrong-answer chances **or** overall time ends the run.
 - **Difficulty ramp** — in the Full Quest, easier passage sets feed the early tiers
   and the hardest feed the gemstones, so the quest gets tougher as you climb.
 - **Custom Run builder** — scope a run to exactly the questions you want to drill:
   - **Question types** (Random Access, Cross-References, Ten Commandments, Theme,
-    Geographical Location, Names & Titles of God, Jewish Feasts, Unique Words, and
-    the words-in-N-passages types).
-  - **Study chapters** (Proverbs 3/4, Matthew 5/6/7 — each question's chapter is read
-    from its answer options, so it's exact even in the "mixed" set).
+    Geographical Location, Names & Titles of God, Jewish Feasts, Unique Words, the
+    words-in-N-passages types, plus the workbook categories **Distinctive Words**
+    — Greek/Hebrew vocabulary, Strong's, Vine's, verse locations — **Parallel
+    Passages**, **Section Titles**, and **Decalogue & OT Legal**).
+  - **Study chapters** (Proverbs 3/4, Matthew 5/6/7). This now limits every
+    chapter-tagged category — Random Access and all the workbook categories —
+    so "Distinctive Words · Matthew 5" is a valid drill.
   - **Ten Commandments summary** — choose the easier "Commandment #5 — Honor your
     father and mother" variant, the harder "Commandment #5" (number only), or both.
   - **Any Bible book/chapter** — limit to questions that reference a chosen chapter
     anywhere (e.g. only questions touching Matthew 5, or a range you pick), with a
     live "N questions match" count. The tiered treasure game runs on the filtered set.
 - **Scoring** — points for correct answers, plus time and streak bonuses, all
-  multiplied by a **breadth factor** (~0.5× up to ~1.1×) based on how broad the
-  question pool the run draws from is. A narrow single-category run scores lower
-  than a broad one — even if the broad run answered fewer correctly — so the
-  breadth multiplier is shown live in the HUD and on the end screen.
+  multiplied by a **points multiplier = breadth × difficulty**:
+  - **breadth** (~0.5× up to ~1.2×) grows with how broad the run's question pool
+    is, so a narrow single-category run scores lower than a broad one — even if the
+    broad run answered fewer correctly;
+  - **difficulty** (×1.0 / ×1.5 / ×2.0 for Scribe / Pilgrim / Champion) makes the
+    harder clock-and-lives settings worth more.
+
+  The combined multiplier shows live in the HUD ("Points ×") and is broken down on
+  the end screen.
 - **Subcategory leaderboards** — the shared leaderboard has a selector to switch
   between "Overall" and a board for each subcategory people have played (e.g.
   "Junior · Ten Commandments", "Senior · Random Access — Matthew 5"). A run earns
@@ -148,16 +159,25 @@ assets/style.css               All styling and the parchment theme
 assets/game.js                 Game logic, treasure SVG icons, scoring
 assets/filters.js              Question categories/chapters/refs + Custom Run filtering
 assets/cloud.js                Shared cross-browser sync (repo files on `data` branch)
-assets/data.js                 4,594 parsed questions (generated from the banks)
+assets/data.js                 ~9,960 parsed questions (generated from the banks)
 build_data.py                  Rebuilds assets/data.js from the banks
 .nojekyll                      Serve files as-is on GitHub Pages
-*_Passages_Test_Bank.md        Source question banks (not needed at runtime)
+*_Passages_Test_Bank.md        Markdown passage banks (source; not needed at runtime)
+xlsx_banks/*.xlsx              Distinctive Words / Direct Quotes workbooks (source)
 ```
 
 ## Regenerating the question data
 
-`assets/data.js` is generated from the three `*_Passages_Test_Bank.md` files. If you
-edit a bank, re-run the parser to rebuild the data:
+`assets/data.js` is generated from the three `*_Passages_Test_Bank.md` files **and**
+the `xlsx_banks/*.xlsx` workbooks. The markdown parser is pure standard library, but
+reading the `.xlsx` workbooks needs `openpyxl` (if it's missing, the build prints a
+note and simply skips the workbooks):
+
+```bash
+pip install openpyxl
+```
+
+If you edit a bank, re-run the parser to rebuild the data:
 
 ```bash
 python3 build_data.py

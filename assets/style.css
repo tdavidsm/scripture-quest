@@ -114,6 +114,7 @@ h1,h2,h3,.title,.tier-banner-name,.collection-title{font-family:"Cinzel", Georgi
   box-shadow:0 0 0 2px rgba(198,154,62,.35), 0 8px 18px -10px var(--shadow)}
 .opt-name{font-family:"Cinzel"; font-weight:600; font-size:1.02rem; display:block; color:var(--ink)}
 .opt-desc{font-size:.82rem; color:var(--ink-soft); margin-top:.15em; display:block}
+.opt-mult{font-size:.72rem; color:var(--gold-deep); font-weight:700; margin-top:.2em; display:block; letter-spacing:.04em}
 
 /* profiles */
 .profile-picker{margin:1.4em 0}

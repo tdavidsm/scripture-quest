@@ -117,10 +117,11 @@
   // perQ  = seconds per question
   // maxWrong = wrong answers allowed before the run ends
   // runTime = overall seconds for the whole run
+  // mult = score multiplier — harder clock / fewer lives is worth more
   const DIFFICULTIES = [
-    { key: "scribe",   name: "Scribe",   perQ: 25, maxWrong: 5, runTime: 600 },
-    { key: "pilgrim",  name: "Pilgrim",  perQ: 15, maxWrong: 4, runTime: 420 },
-    { key: "champion", name: "Champion", perQ: 10, maxWrong: 3, runTime: 300 },
+    { key: "scribe",   name: "Scribe",   perQ: 25, maxWrong: 5, runTime: 600, mult: 1.0 },
+    { key: "pilgrim",  name: "Pilgrim",  perQ: 15, maxWrong: 4, runTime: 420, mult: 1.5 },
+    { key: "champion", name: "Champion", perQ: 10, maxWrong: 3, runTime: 300, mult: 2.0 },
   ];
   const diffCfg = () => DIFFICULTIES.find((d) => d.key === S.difficulty);
   function fmtTime(sec) {
@@ -388,7 +389,8 @@
       el.className = "opt-card";
       el.dataset.key = f.key;
       el.innerHTML = `<span class="opt-name">${f.name}</span>` +
-        `<span class="opt-desc">${f.perQ}s each · ${f.maxWrong} lives · ${fmtTime(f.runTime)}</span>`;
+        `<span class="opt-desc">${f.perQ}s each · ${f.maxWrong} lives · ${fmtTime(f.runTime)}</span>` +
+        `<span class="opt-mult">×${f.mult.toFixed(1)} points</span>`;
       el.addEventListener("click", () => {
         S.difficulty = f.key;
         fc.querySelectorAll(".opt-card").forEach((x) => x.classList.remove("selected"));
@@ -435,14 +437,15 @@
   }
   // Identify the "subcategory" a run belongs to, for the per-category leaderboards.
   // Only single-category (optionally single-chapter) custom runs get their own board.
+  const CHAPTERED_CATS = new Set(["random", "words", "parallel", "sectitle", "declaw"]);
   function runScope() {
     if (S.mode !== "custom") return { key: "overall", label: "Full Quest" };
     const sel = QM.categories(S.division).map((c) => c.key).filter((c) => S.filters.cats.has(c));
     if (sel.length === 1) {
       const c = sel[0];
-      if (c === "random") {
+      if (CHAPTERED_CATS.has(c)) {
         const selCh = QM.chapters(S.division).filter((ch) => S.filters.chapters.has(ch));
-        if (selCh.length === 1) return { key: "random:" + selCh[0], label: "Random Access — " + selCh[0] };
+        if (selCh.length === 1) return { key: c + ":" + selCh[0], label: QM.catName(c) + " — " + selCh[0] };
       }
       return { key: c, label: QM.catName(c) };
     }
@@ -463,6 +466,8 @@
     }
     S.poolSize = poolSize;
     S.breadth = breadthMultiplier(poolSize);
+    S.diffMult = cfg.mult;
+    S.scoreMult = S.breadth * S.diffMult;   // total points multiplier
     S.scope = runScope();
     S.usedKeys = new Set();
     S.tier = 0; S.itemInTier = 0; S.qIndex = 0;
@@ -473,7 +478,7 @@
     S.ended = false;
     S.startTime = Date.now();
     $("playerVal").textContent = S.profile || "—";
-    $("breadthVal").textContent = "×" + S.breadth.toFixed(2);
+    $("breadthVal").textContent = "×" + S.scoreMult.toFixed(2);
     buildCollection();
     renderLives();
     show("game");
@@ -646,7 +651,7 @@
       S.bestStreak = Math.max(S.bestStreak, S.streak);
       const timeBonus = Math.round((S.timeLeft / S.timeTotal) * 60);
       const streakBonus = Math.min(S.streak, 10) * 5;
-      const gained = Math.round((100 + timeBonus + streakBonus) * S.breadth);
+      const gained = Math.round((100 + timeBonus + streakBonus) * S.scoreMult);
       S.score += gained;
       recordOutcome(true);
       const fb = $("feedback");
@@ -764,14 +769,16 @@
       ["Score", S.score],
       ["Treasures", `${itemsEarned}/${TOTAL_ITEMS}`],
       ["Accuracy", acc + "%"],
-      ["Breadth", "×" + S.breadth.toFixed(2)],
+      ["Points ×", "×" + S.scoreMult.toFixed(2)],
     ].map(([l, n]) => `<div class="end-stat"><span class="n">${n}</span><span class="l">${l}</span></div>`).join("");
-    // note the run's focus + breadth
+    // note the run's focus + how the points multiplier was formed
     const scopeNote = $("endScope");
     if (scopeNote) {
-      scopeNote.textContent = (S.scope && S.scope.key !== "overall")
-        ? `Focused run: ${S.scope.label} · drawn from ${S.poolSize} questions (breadth ×${S.breadth.toFixed(2)})`
-        : `Broad run · drawn from ${S.poolSize} questions (breadth ×${S.breadth.toFixed(2)})`;
+      const focus = (S.scope && S.scope.key !== "overall")
+        ? `Focused run: ${S.scope.label} · ${S.poolSize} questions`
+        : `Broad run · ${S.poolSize} questions`;
+      scopeNote.textContent =
+        `${focus}.  Points ×${S.scoreMult.toFixed(2)} = breadth ×${S.breadth.toFixed(2)} × ${cap(S.difficulty)} ×${S.diffMult.toFixed(1)}`;
     }
 
     // treasury display
