@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788210325883,
+ "updatedAt": 1788210536636,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -15,9 +15,9 @@
      "won": false
     },
     "junior": {
-     "score": 224,
-     "items": 2,
-     "won": false
+     "score": 5918,
+     "items": 42,
+     "won": true
     }
    },
    "scopes": {
@@ -57,15 +57,15 @@
      "scope": "theme"
     },
     "junior::declaw:Matthew 5": {
-     "score": 224,
-     "items": 2,
+     "score": 5918,
+     "items": 42,
      "label": "Decalogue & OT Legal — Matthew 5",
      "division": "junior",
      "scope": "declaw:Matthew 5"
     }
    },
-   "runs": 70,
-   "updatedAt": 1788210324193
+   "runs": 71,
+   "updatedAt": 1788210534918
   },
   "ezekiel": {
    "name": "Ezekiel",
