@@ -108,6 +108,7 @@
 
       <button id="startBtn" class="btn btn-primary btn-lg" disabled>Begin the Quest</button>
       <p id="bestLine" class="best-line" hidden></p>
+      <button id="progressBtn" class="btn btn-ghost btn-sm" hidden>📈 View my progress</button>
     </div>
 
     <section class="leaderboard-card" id="leaderboardCard" hidden>
@@ -173,6 +174,25 @@
     </div>
   </section>
 
+  <!-- ===================== PROGRESS SCREEN ===================== -->
+  <section id="screen-progress" class="screen">
+    <div class="progress-card">
+      <div class="prog-head">
+        <button id="progBack" class="btn btn-ghost btn-sm">‹ Back</button>
+        <h1 class="prog-title" id="progTitle">Progress</h1>
+      </div>
+      <p class="prog-intro">Each point is one run. The line climbs toward the gold
+        <strong>100%</strong> mastery mark as you improve in that category.</p>
+      <div class="prog-controls">
+        <label for="progScope" class="prog-lbl">Category</label>
+        <select id="progScope"></select>
+      </div>
+      <p class="prog-summary" id="progSummary"></p>
+      <div class="prog-chart" id="progChart"></div>
+      <p class="prog-empty" id="progEmpty" hidden>No runs recorded yet — finish a run and it will appear here.</p>
+    </div>
+  </section>
+
   <!-- ===================== END SCREEN ===================== -->
   <section id="screen-end" class="screen">
     <div class="end-card">
@@ -185,6 +205,7 @@
       <p class="end-cloud" id="endCloud"></p>
       <div class="end-actions">
         <button id="againBtn" class="btn btn-primary btn-lg">Play Again</button>
+        <button id="endProgressBtn" class="btn btn-ghost btn-lg">📈 Progress</button>
         <button id="homeBtn" class="btn btn-ghost btn-lg">Home</button>
       </div>
     </div>

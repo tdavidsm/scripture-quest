@@ -357,6 +357,45 @@ h1,h2,h3,.title,.tier-banner-name,.collection-title{font-family:"Cinzel", Georgi
 .tier-row.active .tier-head{filter:drop-shadow(0 0 6px rgba(230,189,92,.35))}
 
 /* ============================================================
+   PROGRESS SCREEN
+   ============================================================ */
+.progress-card{
+  width:min(760px,100%);
+  background:linear-gradient(180deg,var(--panel),#f6ecd4);
+  border:1px solid var(--panel-line); border-radius:var(--radius);
+  padding:clamp(20px,3vw,34px); text-align:center;
+  box-shadow:0 24px 60px -30px var(--shadow), inset 0 1px 0 rgba(255,255,255,.6);
+}
+.prog-head{display:flex; align-items:center; gap:12px; margin-bottom:6px}
+.prog-head .btn{flex:0 0 auto}
+.prog-title{flex:1; text-align:center; font-size:clamp(1.4rem,4vw,2rem); margin:0;
+  background:linear-gradient(180deg,#8a6a2c,#c69a3e 60%,#e6bd5c);
+  -webkit-background-clip:text; background-clip:text; color:transparent}
+.prog-intro{color:var(--ink-soft); font-style:italic; font-size:.95rem; margin:.2em auto 1.2em; max-width:52ch; line-height:1.5}
+.prog-intro strong{color:var(--gold-deep)}
+.prog-controls{display:flex; align-items:center; justify-content:center; gap:10px; margin-bottom:10px; flex-wrap:wrap}
+.prog-lbl{font-size:.74rem; letter-spacing:.14em; text-transform:uppercase; color:var(--gold-deep); font-weight:700}
+#progScope{font-family:"EB Garamond",serif; font-size:.98rem; color:var(--ink); background:#fff;
+  border:1.5px solid var(--panel-line); border-radius:10px; padding:.45em .7em; cursor:pointer; max-width:100%}
+#progScope:focus{outline:none; border-color:var(--gold)}
+.prog-summary{font-family:"Cinzel",serif; font-size:.95rem; color:var(--ink); margin:.3em 0 1em}
+.prog-summary b{color:var(--gold-deep)}
+.prog-chart{width:100%}
+.prog-empty{color:var(--ink-soft); font-style:italic; margin:2em 0}
+
+.linechart{width:100%; height:auto; display:block}
+.linechart .grid{stroke:rgba(58,42,23,.14); stroke-width:1}
+.linechart .ylab,.linechart .xlab{fill:var(--ink-soft); font-family:"EB Garamond",serif; font-size:12px}
+.linechart .ylab{text-anchor:end}
+.linechart .target{stroke:var(--gold); stroke-width:2; stroke-dasharray:6 4}
+.linechart .tlab{fill:var(--gold-deep); font-family:"Cinzel",serif; font-size:12px; font-weight:700}
+.linechart .area{fill:rgba(63,107,69,.14)}
+.linechart .pline{fill:none; stroke:var(--green); stroke-width:2.5; stroke-linejoin:round; stroke-linecap:round}
+.linechart .pt{fill:var(--green)}
+.linechart .pt.last{fill:var(--gold); stroke:#fff; stroke-width:1.5}
+.linechart .ptlab{fill:var(--gold-deep); font-family:"Cinzel",serif; font-size:13px; font-weight:700}
+
+/* ============================================================
    END SCREEN
    ============================================================ */
 .end-card{

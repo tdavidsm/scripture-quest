@@ -151,7 +151,8 @@
 
   /* ---------- dom ---------- */
   const $ = (id) => document.getElementById(id);
-  const screens = { start: $("screen-start"), game: $("screen-game"), end: $("screen-end") };
+  const screens = { start: $("screen-start"), game: $("screen-game"),
+    end: $("screen-end"), progress: $("screen-progress") };
   function show(name) {
     Object.values(screens).forEach((s) => s.classList.remove("is-active"));
     screens[name].classList.add("is-active");
@@ -196,10 +197,18 @@
     const maxSet = window.QUIZ_DATA.meta[divKey].sets;
     const nTiers = TIERS.length;
     const buckets = Array.from({ length: nTiers }, () => []);
+    let rr = 0;   // round-robin cursor for questions with no set number
     all.forEach((q) => {
-      let band = Math.floor(((q.s - 1) / maxSet) * nTiers);
+      let band;
+      if (q.s == null) {
+        // xlsx workbook questions have no difficulty set — spread them evenly
+        // across the tiers so a Full Quest draws them throughout
+        band = rr % nTiers; rr++;
+      } else {
+        band = Math.floor(((q.s - 1) / maxSet) * nTiers);
+      }
+      if (!(band >= 0)) band = 0;          // guards NaN
       if (band >= nTiers) band = nTiers - 1;
-      if (band < 0) band = 0;
       buckets[band].push(q);
     });
     // guarantee every tier has enough questions; borrow from neighbours if sparse
@@ -235,7 +244,7 @@
   }
   function curProfile() { return STORE.profiles[S.profile]; }
   function makeProfile(name) {
-    STORE.profiles[name] = { created: Date.now(), best: {}, scopes: {}, q: {}, runs: 0, lastPlayed: 0 };
+    STORE.profiles[name] = { created: Date.now(), best: {}, scopes: {}, history: [], q: {}, runs: 0, lastPlayed: 0 };
     saveStore();
   }
 
@@ -410,6 +419,8 @@
     let ok = !!(S.profile && S.division && S.difficulty);
     if (ok && S.mode === "custom") ok = QM.count(S.division, S.filters) > 0;
     $("startBtn").disabled = !ok;
+    const pb = $("progressBtn");
+    if (pb) pb.hidden = !S.profile;
     const bl = $("bestLine");
     const p = curProfile();
     if (p && S.division && p.best[S.division]) {
@@ -811,6 +822,14 @@
             division: S.division, scope: S.scope.key };
         }
       }
+      // per-run history for the progress charts (accuracy over time per category)
+      p.history = p.history || [];
+      p.history.push({
+        t: Date.now(), d: S.division, k: S.scope.key,
+        l: (S.scope.key === "overall" ? "Full Quest" : S.scope.label),
+        a: acc, s: S.score, won: !!won,
+      });
+      if (p.history.length > 300) p.history = p.history.slice(-300);
       p.lastPlayed = Date.now();
       saveStore();
     }
@@ -1072,8 +1091,91 @@
     });
   }
 
+  /* ============================================================
+     PROGRESS CHARTS  (per-category accuracy over time)
+     ============================================================ */
+  function openProgress() {
+    if (!S.profile) return;
+    $("progTitle").textContent = S.profile + " — Progress";
+    renderProgressScopes();
+    show("progress");
+  }
+  function progressGroups() {
+    const p = curProfile();
+    const h = (p && p.history) || [];
+    const groups = {};
+    h.forEach((r) => {
+      const key = r.d + "::" + r.k;
+      (groups[key] = groups[key] || { label: r.l, div: r.d, runs: [] }).runs.push(r);
+    });
+    return groups;
+  }
+  function renderProgressScopes() {
+    const sel = $("progScope"), groups = progressGroups();
+    const keys = Object.keys(groups).sort((a, b) => groups[b].runs.length - groups[a].runs.length);
+    if (keys.length === 0) {
+      sel.innerHTML = ""; sel.style.display = "none";
+      $("progEmpty").hidden = false; $("progChart").innerHTML = ""; $("progSummary").textContent = "";
+      return;
+    }
+    $("progEmpty").hidden = true; sel.style.display = "";
+    sel.innerHTML = keys.map((k) =>
+      `<option value="${escapeHtml(k)}">${escapeHtml(cap(groups[k].div) + " · " + groups[k].label)} (${groups[k].runs.length})</option>`
+    ).join("");
+    drawProgress(sel.value);
+  }
+  function drawProgress(fullKey) {
+    const g = progressGroups()[fullKey];
+    if (!g) return;
+    const runs = g.runs.slice().sort((a, b) => a.t - b.t);
+    const accs = runs.map((r) => r.a);
+    const best = Math.max.apply(null, accs), latest = accs[accs.length - 1];
+    const first = accs[0];
+    const trend = runs.length > 1 ? (latest - first >= 0 ? "▲ +" + (latest - first) : "▼ " + (latest - first)) + "% since first" : "first run";
+    $("progSummary").innerHTML =
+      `Best <b>${best}%</b> · Latest <b>${latest}%</b> · ${runs.length} run${runs.length > 1 ? "s" : ""}` +
+      ` · <b>${100 - latest}%</b> to mastery · ${trend}`;
+    $("progChart").innerHTML = lineChartSVG(runs);
+  }
+  function lineChartSVG(runs) {
+    const W = 640, H = 320, padL = 42, padR = 22, padT = 26, padB = 34;
+    const n = runs.length;
+    const x = (i) => n <= 1 ? padL + (W - padL - padR) / 2 : padL + (W - padL - padR) * (i / (n - 1));
+    const y = (v) => padT + (H - padT - padB) * (1 - v / 100);
+    let g = "";
+    [0, 25, 50, 75, 100].forEach((v) => {
+      const yy = y(v);
+      if (v !== 100) g += `<line class="grid" x1="${padL}" y1="${yy}" x2="${W - padR}" y2="${yy}"/>`;
+      g += `<text class="ylab" x="${padL - 8}" y="${yy + 4}">${v}</text>`;
+    });
+    // prominent 100% mastery target
+    g += `<line class="target" x1="${padL}" y1="${y(100)}" x2="${W - padR}" y2="${y(100)}"/>` +
+         `<text class="tlab" x="${W - padR}" y="${y(100) - 6}" text-anchor="end">100% — mastery</text>`;
+    const pts = runs.map((r, i) => [x(i), y(r.a)]);
+    // area under the line
+    let area = `M ${pts[0][0]} ${y(0)} ` + pts.map((p) => `L ${p[0]} ${p[1]}`).join(" ") +
+               ` L ${pts[pts.length - 1][0]} ${y(0)} Z`;
+    g += `<path class="area" d="${area}"/>`;
+    // the line
+    g += `<path class="pline" d="${pts.map((p, i) => (i ? "L" : "M") + ` ${p[0]} ${p[1]}`).join(" ")}"/>`;
+    // points; emphasise the latest
+    pts.forEach((p, i) => {
+      const last = i === pts.length - 1;
+      g += `<circle class="pt${last ? " last" : ""}" cx="${p[0]}" cy="${p[1]}" r="${last ? 5 : 3.5}"/>`;
+      if (last) g += `<text class="ptlab" x="${p[0]}" y="${p[1] - 11}" text-anchor="middle">${runs[i].a}%</text>`;
+    });
+    const fmt = (t) => { const d = new Date(t); return (d.getMonth() + 1) + "/" + d.getDate(); };
+    g += `<text class="xlab" x="${x(0)}" y="${H - 12}" text-anchor="start">${fmt(runs[0].t)}</text>`;
+    if (n > 1) g += `<text class="xlab" x="${x(n - 1)}" y="${H - 12}" text-anchor="end">${fmt(runs[n - 1].t)}</text>`;
+    return `<svg class="linechart" viewBox="0 0 ${W} ${H}" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Accuracy over time">${g}</svg>`;
+  }
+
   /* ---------- wire up ---------- */
   $("startBtn").addEventListener("click", startGame);
+  $("progressBtn").addEventListener("click", openProgress);
+  $("endProgressBtn").addEventListener("click", openProgress);
+  $("progBack").addEventListener("click", () => { show("start"); refreshStart(); });
+  $("progScope").addEventListener("change", (e) => drawProgress(e.target.value));
   $("quitBtn").addEventListener("click", () => {
     S.ended = true; clearInterval(S.timer); clearInterval(S.runTimer);
     show("start"); refreshStart();

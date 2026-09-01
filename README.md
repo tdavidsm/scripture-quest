@@ -62,6 +62,11 @@ A live **Treasury** panel shows your collection filling up as you play.
 
   The combined multiplier shows live in the HUD ("Points ×") and is broken down on
   the end screen.
+- **Progress charts** — each scholar has a **View my progress** screen with a per-run
+  accuracy line chart, one category at a time (pick from a dropdown), showing how each
+  run's percentage climbs toward the gold **100% mastery** line, with best / latest /
+  "% to mastery" / trend called out. Every finished run is logged to the scholar's
+  profile (and synced with it), so the history follows them across devices.
 - **Subcategory leaderboards** — the shared leaderboard has a selector to switch
   between "Overall" and a board for each subcategory people have played (e.g.
   "Junior · Ten Commandments", "Senior · Random Access — Matthew 5"). A run earns
