@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788294525172,
+ "updatedAt": 1788294746758,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -280,15 +280,15 @@
      "scope": "commandments"
     },
     "primary::random:Proverbs 3": {
-     "score": 252,
-     "items": 3,
+     "score": 290,
+     "items": 4,
      "label": "Random Access — Proverbs 3",
      "division": "primary",
      "scope": "random:Proverbs 3"
     }
    },
-   "runs": 25,
-   "updatedAt": 1788294523605
+   "runs": 26,
+   "updatedAt": 1788294745151
   },
   "thomas-davidsmeier": {
    "name": "Thomas Davidsmeier",
