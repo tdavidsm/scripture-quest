@@ -1516,13 +1516,13 @@
   },
   "s2ye7nw": {
    "c": 0,
-   "w": 1,
-   "last": 1788300532911
+   "w": 2,
+   "last": 1788300575330
   },
   "svs80cc": {
    "c": 0,
-   "w": 1,
-   "last": 1788300535810
+   "w": 2,
+   "last": 1788300572481
   },
   "s1nh9c11": {
    "c": 1,
@@ -1533,10 +1533,30 @@
    "c": 0,
    "w": 1,
    "last": 1788300540107
+  },
+  "sjp6qy1": {
+   "c": 1,
+   "w": 0,
+   "last": 1788300558153
+  },
+  "sd8qwyu": {
+   "c": 0,
+   "w": 1,
+   "last": 1788300561636
+  },
+  "s4g3854": {
+   "c": 1,
+   "w": 0,
+   "last": 1788300564699
+  },
+  "sd8rop3": {
+   "c": 1,
+   "w": 0,
+   "last": 1788300567666
   }
  },
- "runs": 79,
- "lastPlayed": 1788300541711,
+ "runs": 80,
+ "lastPlayed": 1788300576934,
  "scopes": {
   "primary::feasts": {
    "score": 8049,
@@ -1602,8 +1622,8 @@
    "scope": "hbword:Proverbs 3"
   },
   "senior::commandments": {
-   "score": 232,
-   "items": 1,
+   "score": 656,
+   "items": 3,
    "label": "Ten Commandments",
    "division": "senior",
    "scope": "commandments"
@@ -1617,6 +1637,15 @@
    "l": "Ten Commandments",
    "a": 25,
    "s": 232,
+   "won": false
+  },
+  {
+   "t": 1788300576934,
+   "d": "senior",
+   "k": "commandments",
+   "l": "Ten Commandments",
+   "a": 50,
+   "s": 656,
    "won": false
   }
  ]
