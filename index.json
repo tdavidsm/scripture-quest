@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788223465488,
+ "updatedAt": 1788223664908,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -238,8 +238,8 @@
      "scope": "words2"
     }
    },
-   "runs": 17,
-   "updatedAt": 1788216367512
+   "runs": 18,
+   "updatedAt": 1788223660841
   },
   "thomas-davidsmeier": {
    "name": "Thomas Davidsmeier",
