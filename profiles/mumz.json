@@ -1083,10 +1083,45 @@
    "c": 0,
    "w": 1,
    "last": 1788208341636
+  },
+  "p133imz1": {
+   "c": 0,
+   "w": 1,
+   "last": 1788224285304
+  },
+  "ppy3cde": {
+   "c": 0,
+   "w": 1,
+   "last": 1788224287920
+  },
+  "pcy86qi": {
+   "c": 0,
+   "w": 1,
+   "last": 1788225742460
+  },
+  "p5xe0nr": {
+   "c": 0,
+   "w": 1,
+   "last": 1788225752289
+  },
+  "pthdyc1": {
+   "c": 1,
+   "w": 0,
+   "last": 1788225757836
+  },
+  "p120tsnc": {
+   "c": 0,
+   "w": 1,
+   "last": 1788225761385
+  },
+  "p118v2dm": {
+   "c": 0,
+   "w": 1,
+   "last": 1788225763702
   }
  },
- "runs": 70,
- "lastPlayed": 1788223463126,
+ "runs": 71,
+ "lastPlayed": 1788225765306,
  "scopes": {
   "primary::feasts": {
    "score": 8049,
@@ -1129,6 +1164,13 @@
    "label": "Theme of the Passage",
    "division": "junior",
    "scope": "theme"
+  },
+  "primary::parallel": {
+   "score": 151,
+   "items": 1,
+   "label": "Parallel Passages",
+   "division": "primary",
+   "scope": "parallel"
   }
  }
 }
