@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788295257612,
+ "updatedAt": 1788295298534,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -294,15 +294,15 @@
      "scope": "names"
     },
     "primary::parallel:Matthew 5": {
-     "score": 0,
-     "items": 0,
+     "score": 442,
+     "items": 4,
      "label": "Parallel Passages — Matthew 5",
      "division": "primary",
      "scope": "parallel:Matthew 5"
     }
    },
-   "runs": 29,
-   "updatedAt": 1788295255950
+   "runs": 30,
+   "updatedAt": 1788295295869
   },
   "thomas-davidsmeier": {
    "name": "Thomas Davidsmeier",
