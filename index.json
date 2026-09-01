@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788223664908,
+ "updatedAt": 1788223683404,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -142,10 +142,17 @@
      "label": "Theme of the Passage",
      "division": "senior",
      "scope": "theme"
+    },
+    "senior::feasts": {
+     "score": 2145,
+     "items": 12,
+     "label": "Jewish Feasts",
+     "division": "senior",
+     "scope": "feasts"
     }
    },
-   "runs": 12,
-   "updatedAt": 1788021668804
+   "runs": 13,
+   "updatedAt": 1788223681457
   },
   "bb-ace": {
    "name": "BB Ace",
