@@ -1443,10 +1443,25 @@
    "c": 1,
    "w": 0,
    "last": 1788282565400
+  },
+  "sj1x987": {
+   "c": 0,
+   "w": 1,
+   "last": 1788282611484
+  },
+  "st5rfhm": {
+   "c": 0,
+   "w": 1,
+   "last": 1788282618081
+  },
+  "sbp657i": {
+   "c": 0,
+   "w": 1,
+   "last": 1788282622613
   }
  },
- "runs": 74,
- "lastPlayed": 1788282575369,
+ "runs": 75,
+ "lastPlayed": 1788282624218,
  "scopes": {
   "primary::feasts": {
    "score": 8049,
@@ -1503,6 +1518,13 @@
    "label": "English ↔ Greek Word — Matthew 5",
    "division": "senior",
    "scope": "gkword:Matthew 5"
+  },
+  "senior::hbword:Proverbs 3": {
+   "score": 0,
+   "items": 0,
+   "label": "English ↔ Hebrew Word — Proverbs 3",
+   "division": "senior",
+   "scope": "hbword:Proverbs 3"
   }
  }
 }
