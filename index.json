@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788294007844,
+ "updatedAt": 1788294162347,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -273,8 +273,8 @@
      "scope": "gkword:Matthew 5"
     }
    },
-   "runs": 21,
-   "updatedAt": 1788293800145
+   "runs": 22,
+   "updatedAt": 1788294160875
   },
   "thomas-davidsmeier": {
    "name": "Thomas Davidsmeier",
