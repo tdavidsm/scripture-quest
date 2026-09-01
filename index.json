@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788224133481,
+ "updatedAt": 1788225767103,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -62,10 +62,17 @@
      "label": "Theme of the Passage",
      "division": "junior",
      "scope": "theme"
+    },
+    "primary::parallel": {
+     "score": 151,
+     "items": 1,
+     "label": "Parallel Passages",
+     "division": "primary",
+     "scope": "parallel"
     }
    },
-   "runs": 70,
-   "updatedAt": 1788223463127
+   "runs": 71,
+   "updatedAt": 1788225765307
   },
   "ezekiel": {
    "name": "Ezekiel",
