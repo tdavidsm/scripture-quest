@@ -437,7 +437,13 @@
   }
   // Identify the "subcategory" a run belongs to, for the per-category leaderboards.
   // Only single-category (optionally single-chapter) custom runs get their own board.
-  const CHAPTERED_CATS = new Set(["random", "words", "parallel", "sectitle", "declaw"]);
+  // categories whose questions are chapter-tagged — a single-chapter run of one of
+  // these gets a chapter-specific leaderboard, e.g. "English ↔ Greek Word — Matthew 5"
+  const CHAPTERED_CATS = new Set([
+    "random", "gkword", "hbword", "verseloc", "gkstrong", "hbstrong", "gkvine",
+    "hboutline", "wordxref", "sectionref", "parallel", "provxref", "sectitle",
+    "decalogue", "otlegal", "noparallel",
+  ]);
   function runScope() {
     if (S.mode !== "custom") return { key: "overall", label: "Full Quest" };
     const sel = QM.categories(S.division).map((c) => c.key).filter((c) => S.filters.cats.has(c));

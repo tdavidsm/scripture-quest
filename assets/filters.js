@@ -16,16 +16,31 @@ window.QM = (function () {
     unique: "Unique Words",
     words3: "Words in 3–4 Passages",
     words2: "Words in Exactly Two Passages",
-    // new (from the Distinctive Words / Direct Quotes workbooks)
-    words: "Distinctive Words",
+    // new — one per subsheet of the Distinctive Words / Direct Quotes workbooks
+    // (forward + reverse combined); pair with a Study-chapter chip to get, e.g.,
+    // "English ↔ Greek Word — Matthew 5".
+    gkword: "English ↔ Greek Word",
+    hbword: "English ↔ Hebrew Word",
+    verseloc: "Word ↔ Verse Location",
+    gkstrong: "Strong's ↔ Greek",
+    hbstrong: "Strong's ↔ Hebrew",
+    gkvine: "Vine's ↔ Greek",
+    hboutline: "Outline ↔ Hebrew",
+    wordxref: "Cross-Reference → Word",
+    sectionref: "Section Cross-References",
     parallel: "Parallel Passages",
+    provxref: "Proverbs Cross-References",
     sectitle: "Section Titles",
-    declaw: "Decalogue & OT Legal",
+    decalogue: "Decalogue Commandments",
+    otlegal: "OT Legal Principles",
+    noparallel: "No-Parallel Sections",
     other: "Other",
   };
   const CAT_ORDER = ["random", "xref", "commandments", "theme", "geo", "names",
     "feasts", "unique", "words3", "words2",
-    "words", "parallel", "sectitle", "declaw", "other"];
+    "gkword", "hbword", "verseloc", "gkstrong", "hbstrong", "gkvine", "hboutline",
+    "wordxref", "sectionref", "parallel", "provxref", "sectitle",
+    "decalogue", "otlegal", "noparallel", "other"];
 
   // "1 Corinthians 6:10", "Song of Solomon 2:1", "Matthew 5:4"
   const REF_G = /((?:[1-3]\s)?[A-Z][a-z]+(?:\sof\s[A-Z][a-z]+)?)\s(\d+):\d+/g;

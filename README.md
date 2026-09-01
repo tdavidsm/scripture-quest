@@ -35,14 +35,18 @@ A live **Treasury** panel shows your collection filling up as you play.
 - **Difficulty ramp** — in the Full Quest, easier passage sets feed the early tiers
   and the hardest feed the gemstones, so the quest gets tougher as you climb.
 - **Custom Run builder** — scope a run to exactly the questions you want to drill:
-  - **Question types** (Random Access, Cross-References, Ten Commandments, Theme,
-    Geographical Location, Names & Titles of God, Jewish Feasts, Unique Words, the
-    words-in-N-passages types, plus the workbook categories **Distinctive Words**
-    — Greek/Hebrew vocabulary, Strong's, Vine's, verse locations — **Parallel
-    Passages**, **Section Titles**, and **Decalogue & OT Legal**).
-  - **Study chapters** (Proverbs 3/4, Matthew 5/6/7). This now limits every
-    chapter-tagged category — Random Access and all the workbook categories —
-    so "Distinctive Words · Matthew 5" is a valid drill.
+  - **Question types** — the passage-bank types (Random Access, Cross-References,
+    Ten Commandments, Theme, Geographical Location, Names & Titles of God, Jewish
+    Feasts, Unique Words, words-in-N-passages) plus one category per workbook
+    subsheet (forward and reverse combined): English ↔ Greek Word, English ↔ Hebrew
+    Word, Word ↔ Verse Location, Strong's ↔ Greek, Strong's ↔ Hebrew, Vine's ↔ Greek,
+    Outline ↔ Hebrew, Cross-Reference → Word, Section Cross-References, Parallel
+    Passages, Proverbs Cross-References, Section Titles, Decalogue Commandments,
+    OT Legal Principles, and No-Parallel Sections.
+  - **Study chapters** (Proverbs 3/4, Matthew 5/6/7). This limits every
+    chapter-tagged category, so pairing a category with a chapter gives units like
+    **"English ↔ Greek Word — Matthew 5"** — which is also how that run's
+    subcategory leaderboard is named.
   - **Ten Commandments summary** — choose the easier "Commandment #5 — Honor your
     father and mother" variant, the harder "Commandment #5" (number only), or both.
   - **Any Bible book/chapter** — limit to questions that reference a chosen chapter

@@ -95,21 +95,18 @@ def parse(path):
 XLSX_DIR = "xlsx_banks"
 DIVS = ("primary", "junior", "senior")
 
-# sheet-name kind -> grouped game category (family)
-SHEET_KIND_TO_CAT = {
-    "vocab": "words", "strongs": "words", "vines": "words",
-    "verseloc": "words", "wordxref": "words", "sectionref": "words",
-    "parallel": "parallel", "noparallel": "parallel", "provxref": "parallel",
-    "sectitle": "sectitle",
-    "decalogue": "declaw", "otlegal": "declaw",
-}
-
+# Each subsheet type is its own game category (forward + reverse share a kind, so
+# they merge automatically). Greek (Matthew) and Hebrew (Proverbs) word-study types
+# are kept distinct so the names can say which language.
 def sheet_kind(sheet):
     s = sheet.lower()
-    if "nkjv-greek" in s or "nkjv-hebrew" in s: return "vocab"
+    if "nkjv-greek" in s: return "gkword"
+    if "nkjv-hebrew" in s: return "hbword"
     if "verse location" in s: return "verseloc"
-    if "strongs" in s: return "strongs"
-    if "vines" in s or "outline" in s: return "vines"
+    if "strongs-greek" in s: return "gkstrong"
+    if "strongs-hebrew" in s: return "hbstrong"
+    if "vines" in s: return "gkvine"        # Vine's definitions (Greek / Matthew)
+    if "outline" in s: return "hboutline"   # Outline definitions (Hebrew / Proverbs)
     if "section refs" in s: return "sectionref"
     if "which is not a cr" in s or re.search(r"\bref \(", s): return "wordxref"
     if "section titles" in s: return "sectitle"
@@ -163,7 +160,7 @@ def parse_xlsx(here):
             kind = sheet_kind(sh)
             if not kind:
                 continue
-            cat = SHEET_KIND_TO_CAT[kind]
+            cat = kind                     # one category per subsheet type
             sdiv = sheet_division(sh)
             for row in wb[sh].iter_rows(min_row=2, values_only=True):
                 if not row or len(row) < 6:
