@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788282577013,
+ "updatedAt": 1788282625809,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -76,10 +76,17 @@
      "label": "English ↔ Greek Word — Matthew 5",
      "division": "senior",
      "scope": "gkword:Matthew 5"
+    },
+    "senior::hbword:Proverbs 3": {
+     "score": 0,
+     "items": 0,
+     "label": "English ↔ Hebrew Word — Proverbs 3",
+     "division": "senior",
+     "scope": "hbword:Proverbs 3"
     }
    },
-   "runs": 74,
-   "updatedAt": 1788282575370
+   "runs": 75,
+   "updatedAt": 1788282624219
   },
   "ezekiel": {
    "name": "Ezekiel",
