@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788282349864,
+ "updatedAt": 1788282577013,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -78,8 +78,8 @@
      "scope": "gkword:Matthew 5"
     }
    },
-   "runs": 73,
-   "updatedAt": 1788282348144
+   "runs": 74,
+   "updatedAt": 1788282575370
   },
   "ezekiel": {
    "name": "Ezekiel",
