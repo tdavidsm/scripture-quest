@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788294347608,
+ "updatedAt": 1788294525172,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -278,10 +278,17 @@
      "label": "Ten Commandments",
      "division": "primary",
      "scope": "commandments"
+    },
+    "primary::random:Proverbs 3": {
+     "score": 252,
+     "items": 3,
+     "label": "Random Access — Proverbs 3",
+     "division": "primary",
+     "scope": "random:Proverbs 3"
     }
    },
-   "runs": 24,
-   "updatedAt": 1788294345513
+   "runs": 25,
+   "updatedAt": 1788294523605
   },
   "thomas-davidsmeier": {
    "name": "Thomas Davidsmeier",
