@@ -69,6 +69,13 @@
    "label": "Names & Titles of God",
    "division": "primary",
    "scope": "names"
+  },
+  "primary::parallel:Matthew 5": {
+   "score": 0,
+   "items": 0,
+   "label": "Parallel Passages — Matthew 5",
+   "division": "primary",
+   "scope": "parallel:Matthew 5"
   }
  },
  "q": {
@@ -721,10 +728,30 @@
    "c": 0,
    "w": 1,
    "last": 1788295130887
+  },
+  "pb4e4wj": {
+   "c": 0,
+   "w": 1,
+   "last": 1788295239850
+  },
+  "p1scjk9d": {
+   "c": 0,
+   "w": 1,
+   "last": 1788295243598
+  },
+  "p120tsnc": {
+   "c": 0,
+   "w": 1,
+   "last": 1788295247647
+  },
+  "pi56qum": {
+   "c": 0,
+   "w": 1,
+   "last": 1788295254345
   }
  },
- "runs": 28,
- "lastPlayed": 1788295132491,
+ "runs": 29,
+ "lastPlayed": 1788295255948,
  "history": [
   {
    "t": 1788293800143,
@@ -796,6 +823,15 @@
    "l": "Full Quest",
    "a": 29,
    "s": 143,
+   "won": false
+  },
+  {
+   "t": 1788295255948,
+   "d": "primary",
+   "k": "parallel:Matthew 5",
+   "l": "Parallel Passages — Matthew 5",
+   "a": 0,
+   "s": 0,
    "won": false
   }
  ]
