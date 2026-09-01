@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788296144318,
+ "updatedAt": 1788296222136,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -301,8 +301,8 @@
      "scope": "parallel:Matthew 5"
     }
    },
-   "runs": 34,
-   "updatedAt": 1788296142420
+   "runs": 35,
+   "updatedAt": 1788296220531
   },
   "thomas-davidsmeier": {
    "name": "Thomas Davidsmeier",
