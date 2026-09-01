@@ -50,8 +50,8 @@
    "scope": "gkword:Matthew 5"
   },
   "primary::commandments": {
-   "score": 116,
-   "items": 1,
+   "score": 510,
+   "items": 4,
    "label": "Ten Commandments",
    "division": "primary",
    "scope": "commandments"
@@ -60,8 +60,8 @@
  "q": {
   "pj7uwkc": {
    "c": 0,
-   "w": 1,
-   "last": 1788204587586
+   "w": 2,
+   "last": 1788294293976
   },
   "paig7td": {
    "c": 1,
@@ -69,9 +69,9 @@
    "last": 1788204597932
   },
   "paratpu": {
-   "c": 0,
+   "c": 1,
    "w": 2,
-   "last": 1788294247724
+   "last": 1788294304705
   },
   "p48c9um": {
    "c": 11,
@@ -519,9 +519,9 @@
    "last": 1788294159270
   },
   "p1ibgcjj": {
-   "c": 0,
+   "c": 1,
    "w": 1,
-   "last": 1788294221768
+   "last": 1788294339711
   },
   "pd8qwyu": {
    "c": 1,
@@ -530,17 +530,32 @@
   },
   "pbemnb8": {
    "c": 0,
-   "w": 1,
-   "last": 1788294254189
+   "w": 2,
+   "last": 1788294330430
   },
   "pgbztya": {
    "c": 0,
+   "w": 2,
+   "last": 1788294343908
+  },
+  "pd8nu1u": {
+   "c": 0,
    "w": 1,
-   "last": 1788294268767
+   "last": 1788294282879
+  },
+  "pd8t85l": {
+   "c": 1,
+   "w": 0,
+   "last": 1788294316784
+  },
+  "ppy2d03": {
+   "c": 1,
+   "w": 0,
+   "last": 1788294324499
   }
  },
- "runs": 23,
- "lastPlayed": 1788294270370,
+ "runs": 24,
+ "lastPlayed": 1788294345512,
  "history": [
   {
    "t": 1788293800143,
@@ -567,6 +582,15 @@
    "l": "Ten Commandments",
    "a": 20,
    "s": 116,
+   "won": false
+  },
+  {
+   "t": 1788294345512,
+   "d": "primary",
+   "k": "commandments",
+   "l": "Ten Commandments",
+   "a": 50,
+   "s": 510,
    "won": false
   }
  ]
