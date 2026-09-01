@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788296504458,
+ "updatedAt": 1788296551897,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -226,7 +226,7 @@
    "name": "Nineveh",
    "best": {
     "primary": {
-     "score": 7363,
+     "score": 7383,
      "items": 42,
      "won": true
     },
@@ -238,7 +238,7 @@
    },
    "scopes": {
     "primary::feasts": {
-     "score": 7363,
+     "score": 7383,
      "items": 42,
      "label": "Jewish Feasts",
      "division": "primary",
@@ -301,8 +301,8 @@
      "scope": "parallel:Matthew 5"
     }
    },
-   "runs": 35,
-   "updatedAt": 1788296220531
+   "runs": 36,
+   "updatedAt": 1788296549428
   },
   "thomas-davidsmeier": {
    "name": "Thomas Davidsmeier",
