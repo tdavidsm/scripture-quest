@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788281392234,
+ "updatedAt": 1788282349864,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -10,9 +10,9 @@
      "won": true
     },
     "senior": {
-     "score": 3176,
-     "items": 15,
-     "won": false
+     "score": 9490,
+     "items": 42,
+     "won": true
     },
     "junior": {
      "score": 8475,
@@ -71,15 +71,15 @@
      "scope": "parallel"
     },
     "senior::gkword:Matthew 5": {
-     "score": 3176,
-     "items": 15,
+     "score": 9490,
+     "items": 42,
      "label": "English ↔ Greek Word — Matthew 5",
      "division": "senior",
      "scope": "gkword:Matthew 5"
     }
    },
-   "runs": 72,
-   "updatedAt": 1788281390462
+   "runs": 73,
+   "updatedAt": 1788282348144
   },
   "ezekiel": {
    "name": "Ezekiel",
