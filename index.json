@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788293802248,
+ "updatedAt": 1788294007844,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -299,10 +299,17 @@
      "label": "Jewish Feasts",
      "division": "primary",
      "scope": "feasts"
+    },
+    "primary::words2": {
+     "score": 248,
+     "items": 3,
+     "label": "Words in Exactly Two Passages",
+     "division": "primary",
+     "scope": "words2"
     }
    },
-   "runs": 4,
-   "updatedAt": 1788216150703
+   "runs": 5,
+   "updatedAt": 1788294006245
   }
  }
 }
