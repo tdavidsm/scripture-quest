@@ -57,8 +57,8 @@
    "scope": "commandments"
   },
   "primary::random:Proverbs 3": {
-   "score": 252,
-   "items": 3,
+   "score": 290,
+   "items": 4,
    "label": "Random Access — Proverbs 3",
    "division": "primary",
    "scope": "random:Proverbs 3"
@@ -196,14 +196,14 @@
    "last": 1788205391107
   },
   "pklttlb": {
-   "c": 0,
+   "c": 1,
    "w": 1,
-   "last": 1788205402237
+   "last": 1788294691117
   },
   "p1lutjxe": {
-   "c": 0,
+   "c": 1,
    "w": 1,
-   "last": 1788205413034
+   "last": 1788294636864
   },
   "p92p4fx": {
    "c": 1,
@@ -599,10 +599,45 @@
    "c": 0,
    "w": 1,
    "last": 1788294522001
+  },
+  "p1uvg946": {
+   "c": 0,
+   "w": 1,
+   "last": 1788294654425
+  },
+  "p5v7lal": {
+   "c": 1,
+   "w": 0,
+   "last": 1788294673436
+  },
+  "p1kfnzgm": {
+   "c": 0,
+   "w": 1,
+   "last": 1788294701325
+  },
+  "p1jx0hc0": {
+   "c": 0,
+   "w": 1,
+   "last": 1788294717586
+  },
+  "p18g63ey": {
+   "c": 1,
+   "w": 0,
+   "last": 1788294728181
+  },
+  "p109n0r4": {
+   "c": 0,
+   "w": 1,
+   "last": 1788294735735
+  },
+  "pwj66i1": {
+   "c": 0,
+   "w": 1,
+   "last": 1788294743545
   }
  },
- "runs": 25,
- "lastPlayed": 1788294523604,
+ "runs": 26,
+ "lastPlayed": 1788294745149,
  "history": [
   {
    "t": 1788293800143,
@@ -647,6 +682,15 @@
    "l": "Random Access — Proverbs 3",
    "a": 38,
    "s": 252,
+   "won": false
+  },
+  {
+   "t": 1788294745149,
+   "d": "primary",
+   "k": "random:Proverbs 3",
+   "l": "Random Access — Proverbs 3",
+   "a": 44,
+   "s": 290,
    "won": false
   }
  ]
