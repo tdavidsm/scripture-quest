@@ -8,8 +8,8 @@
    "won": true
   },
   "senior": {
-   "score": 790,
-   "items": 8,
+   "score": 3176,
+   "items": 15,
    "won": false
   },
   "junior": {
@@ -1118,10 +1118,100 @@
    "c": 0,
    "w": 1,
    "last": 1788225763702
+  },
+  "s6eqhq": {
+   "c": 1,
+   "w": 0,
+   "last": 1788281288007
+  },
+  "s1qybnoo": {
+   "c": 1,
+   "w": 0,
+   "last": 1788281291269
+  },
+  "sdxlgtj": {
+   "c": 1,
+   "w": 0,
+   "last": 1788281294967
+  },
+  "s1510wik": {
+   "c": 1,
+   "w": 0,
+   "last": 1788281298066
+  },
+  "s1jxjp5y": {
+   "c": 1,
+   "w": 0,
+   "last": 1788281304647
+  },
+  "s1j3u2ts": {
+   "c": 1,
+   "w": 0,
+   "last": 1788281309929
+  },
+  "s19a1ce2": {
+   "c": 1,
+   "w": 0,
+   "last": 1788281313696
+  },
+  "s153t7z": {
+   "c": 1,
+   "w": 0,
+   "last": 1788281319793
+  },
+  "s15q7uyk": {
+   "c": 1,
+   "w": 0,
+   "last": 1788281325609
+  },
+  "sgnpmnq": {
+   "c": 1,
+   "w": 0,
+   "last": 1788281328907
+  },
+  "s18b0uu0": {
+   "c": 1,
+   "w": 0,
+   "last": 1788281335004
+  },
+  "scpdz9n": {
+   "c": 1,
+   "w": 0,
+   "last": 1788281338670
+  },
+  "st6ovo3": {
+   "c": 1,
+   "w": 0,
+   "last": 1788281341919
+  },
+  "s18fjnld": {
+   "c": 1,
+   "w": 0,
+   "last": 1788281349434
+  },
+  "sa23wq9": {
+   "c": 1,
+   "w": 0,
+   "last": 1788281353266
+  },
+  "s1moyg53": {
+   "c": 0,
+   "w": 1,
+   "last": 1788281365328
+  },
+  "stz13lt": {
+   "c": 0,
+   "w": 1,
+   "last": 1788281377088
+  },
+  "sykc5c6": {
+   "c": 0,
+   "w": 1,
+   "last": 1788281388853
   }
  },
- "runs": 71,
- "lastPlayed": 1788225765306,
+ "runs": 72,
+ "lastPlayed": 1788281390460,
  "scopes": {
   "primary::feasts": {
    "score": 8049,
@@ -1171,6 +1261,13 @@
    "label": "Parallel Passages",
    "division": "primary",
    "scope": "parallel"
+  },
+  "senior::gkword:Matthew 5": {
+   "score": 3176,
+   "items": 15,
+   "label": "English ↔ Greek Word — Matthew 5",
+   "division": "senior",
+   "scope": "gkword:Matthew 5"
   }
  }
 }
