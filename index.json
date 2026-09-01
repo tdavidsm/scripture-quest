@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788294272003,
+ "updatedAt": 1788294347608,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -273,15 +273,15 @@
      "scope": "gkword:Matthew 5"
     },
     "primary::commandments": {
-     "score": 116,
-     "items": 1,
+     "score": 510,
+     "items": 4,
      "label": "Ten Commandments",
      "division": "primary",
      "scope": "commandments"
     }
    },
-   "runs": 23,
-   "updatedAt": 1788294270372
+   "runs": 24,
+   "updatedAt": 1788294345513
   },
   "thomas-davidsmeier": {
    "name": "Thomas Davidsmeier",
