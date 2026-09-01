@@ -71,8 +71,8 @@
    "scope": "names"
   },
   "primary::parallel:Matthew 5": {
-   "score": 0,
-   "items": 0,
+   "score": 442,
+   "items": 4,
    "label": "Parallel Passages — Matthew 5",
    "division": "primary",
    "scope": "parallel:Matthew 5"
@@ -731,27 +731,47 @@
   },
   "pb4e4wj": {
    "c": 0,
-   "w": 1,
-   "last": 1788295239850
+   "w": 2,
+   "last": 1788295274821
   },
   "p1scjk9d": {
    "c": 0,
-   "w": 1,
-   "last": 1788295243598
+   "w": 2,
+   "last": 1788295270172
   },
   "p120tsnc": {
-   "c": 0,
+   "c": 1,
    "w": 1,
-   "last": 1788295247647
+   "last": 1788295267123
   },
   "pi56qum": {
    "c": 0,
+   "w": 2,
+   "last": 1788295294263
+  },
+  "p14p4bb": {
+   "c": 1,
+   "w": 0,
+   "last": 1788295277204
+  },
+  "p1a5mgn": {
+   "c": 1,
+   "w": 0,
+   "last": 1788295279236
+  },
+  "p1s0hmc2": {
+   "c": 0,
    "w": 1,
-   "last": 1788295254345
+   "last": 1788295281252
+  },
+  "pmro8oe": {
+   "c": 1,
+   "w": 0,
+   "last": 1788295290632
   }
  },
- "runs": 29,
- "lastPlayed": 1788295255948,
+ "runs": 30,
+ "lastPlayed": 1788295295867,
  "history": [
   {
    "t": 1788293800143,
@@ -832,6 +852,15 @@
    "l": "Parallel Passages — Matthew 5",
    "a": 0,
    "s": 0,
+   "won": false
+  },
+  {
+   "t": 1788295295867,
+   "d": "primary",
+   "k": "parallel:Matthew 5",
+   "l": "Parallel Passages — Matthew 5",
+   "a": 50,
+   "s": 442,
    "won": false
   }
  ]
