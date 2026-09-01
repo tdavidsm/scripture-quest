@@ -1513,10 +1513,30 @@
    "c": 0,
    "w": 1,
    "last": 1788296342999
+  },
+  "s2ye7nw": {
+   "c": 0,
+   "w": 1,
+   "last": 1788300532911
+  },
+  "svs80cc": {
+   "c": 0,
+   "w": 1,
+   "last": 1788300535810
+  },
+  "s1nh9c11": {
+   "c": 1,
+   "w": 0,
+   "last": 1788300537926
+  },
+  "sd8pdic": {
+   "c": 0,
+   "w": 1,
+   "last": 1788300540107
   }
  },
- "runs": 78,
- "lastPlayed": 1788296502869,
+ "runs": 79,
+ "lastPlayed": 1788300541711,
  "scopes": {
   "primary::feasts": {
    "score": 8049,
@@ -1580,6 +1600,24 @@
    "label": "English ↔ Hebrew Word — Proverbs 3",
    "division": "senior",
    "scope": "hbword:Proverbs 3"
+  },
+  "senior::commandments": {
+   "score": 232,
+   "items": 1,
+   "label": "Ten Commandments",
+   "division": "senior",
+   "scope": "commandments"
   }
- }
+ },
+ "history": [
+  {
+   "t": 1788300541711,
+   "d": "senior",
+   "k": "commandments",
+   "l": "Ten Commandments",
+   "a": 25,
+   "s": 232,
+   "won": false
+  }
+ ]
 }
