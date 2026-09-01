@@ -41,6 +41,13 @@
    "label": "Words in Exactly Two Passages",
    "division": "primary",
    "scope": "words2"
+  },
+  "primary::gkword:Matthew 5": {
+   "score": 580,
+   "items": 4,
+   "label": "English ↔ Greek Word — Matthew 5",
+   "division": "primary",
+   "scope": "gkword:Matthew 5"
   }
  },
  "q": {
@@ -448,8 +455,54 @@
    "c": 0,
    "w": 1,
    "last": 1788223694852
+  },
+  "p3bbxxj": {
+   "c": 1,
+   "w": 0,
+   "last": 1788293739142
+  },
+  "p1yuak3g": {
+   "c": 1,
+   "w": 0,
+   "last": 1788293748405
+  },
+  "p1fkpcbk": {
+   "c": 0,
+   "w": 1,
+   "last": 1788293757021
+  },
+  "pt6ovo3": {
+   "c": 1,
+   "w": 0,
+   "last": 1788293766398
+  },
+  "p1j3u2ts": {
+   "c": 1,
+   "w": 0,
+   "last": 1788293775863
+  },
+  "pshyv1c": {
+   "c": 0,
+   "w": 1,
+   "last": 1788293786942
+  },
+  "p1br8pd6": {
+   "c": 0,
+   "w": 1,
+   "last": 1788293798538
   }
  },
- "runs": 20,
- "lastPlayed": 1788224131989
+ "runs": 21,
+ "lastPlayed": 1788293800143,
+ "history": [
+  {
+   "t": 1788293800143,
+   "d": "primary",
+   "k": "gkword:Matthew 5",
+   "l": "English ↔ Greek Word — Matthew 5",
+   "a": 57,
+   "s": 580,
+   "won": false
+  }
+ ]
 }
