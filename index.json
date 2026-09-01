@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788223836874,
+ "updatedAt": 1788223873710,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -118,9 +118,9 @@
    "name": "Joseph",
    "best": {
     "senior": {
-     "score": 4223,
-     "items": 36,
-     "won": false
+     "score": 8026,
+     "items": 42,
+     "won": true
     },
     "primary": {
      "score": 628,
@@ -144,15 +144,15 @@
      "scope": "theme"
     },
     "senior::feasts": {
-     "score": 2145,
-     "items": 12,
+     "score": 8026,
+     "items": 42,
      "label": "Jewish Feasts",
      "division": "senior",
      "scope": "feasts"
     }
    },
-   "runs": 13,
-   "updatedAt": 1788223681457
+   "runs": 14,
+   "updatedAt": 1788223870751
   },
   "bb-ace": {
    "name": "BB Ace",
