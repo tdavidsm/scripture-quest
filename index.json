@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788282662014,
+ "updatedAt": 1788293802248,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -264,10 +264,17 @@
      "label": "Words in Exactly Two Passages",
      "division": "primary",
      "scope": "words2"
+    },
+    "primary::gkword:Matthew 5": {
+     "score": 580,
+     "items": 4,
+     "label": "English ↔ Greek Word — Matthew 5",
+     "division": "primary",
+     "scope": "gkword:Matthew 5"
     }
    },
-   "runs": 20,
-   "updatedAt": 1788224131991
+   "runs": 21,
+   "updatedAt": 1788293800145
   },
   "thomas-davidsmeier": {
    "name": "Thomas Davidsmeier",
