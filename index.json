@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788300495906,
+ "updatedAt": 1788300543631,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -83,10 +83,17 @@
      "label": "English ↔ Hebrew Word — Proverbs 3",
      "division": "senior",
      "scope": "hbword:Proverbs 3"
+    },
+    "senior::commandments": {
+     "score": 232,
+     "items": 1,
+     "label": "Ten Commandments",
+     "division": "senior",
+     "scope": "commandments"
     }
    },
-   "runs": 78,
-   "updatedAt": 1788296502870
+   "runs": 79,
+   "updatedAt": 1788300541713
   },
   "ezekiel": {
    "name": "Ezekiel",
