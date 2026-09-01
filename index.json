@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788294162347,
+ "updatedAt": 1788294272003,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -271,10 +271,17 @@
      "label": "English ↔ Greek Word — Matthew 5",
      "division": "primary",
      "scope": "gkword:Matthew 5"
+    },
+    "primary::commandments": {
+     "score": 116,
+     "items": 1,
+     "label": "Ten Commandments",
+     "division": "primary",
+     "scope": "commandments"
     }
    },
-   "runs": 22,
-   "updatedAt": 1788294160875
+   "runs": 23,
+   "updatedAt": 1788294270372
   },
   "thomas-davidsmeier": {
    "name": "Thomas Davidsmeier",
