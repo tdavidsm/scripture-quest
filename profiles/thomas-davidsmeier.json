@@ -22,6 +22,13 @@
    "label": "Jewish Feasts",
    "division": "primary",
    "scope": "feasts"
+  },
+  "primary::words2": {
+   "score": 248,
+   "items": 3,
+   "label": "Words in Exactly Two Passages",
+   "division": "primary",
+   "scope": "words2"
   }
  },
  "q": {
@@ -209,8 +216,59 @@
    "c": 3,
    "w": 0,
    "last": 1788215992478
+  },
+  "p13vj9w5": {
+   "c": 0,
+   "w": 1,
+   "last": 1788293952706
+  },
+  "p7m6wzo": {
+   "c": 0,
+   "w": 1,
+   "last": 1788293965468
+  },
+  "p1apv4l2": {
+   "c": 0,
+   "w": 1,
+   "last": 1788293975963
+  },
+  "p1y9qfxq": {
+   "c": 1,
+   "w": 0,
+   "last": 1788293985695
+  },
+  "pa6gvvj": {
+   "c": 1,
+   "w": 0,
+   "last": 1788293996488
+  },
+  "p9bi3uv": {
+   "c": 1,
+   "w": 0,
+   "last": 1788294000155
+  },
+  "p1poajle": {
+   "c": 0,
+   "w": 1,
+   "last": 1788294002322
+  },
+  "pcy60kj": {
+   "c": 0,
+   "w": 1,
+   "last": 1788294004638
   }
  },
- "runs": 4,
- "lastPlayed": 1788216150702
+ "runs": 5,
+ "lastPlayed": 1788294006244,
+ "history": [
+  {
+   "t": 1788294006244,
+   "d": "primary",
+   "k": "words2",
+   "l": "Words in Exactly Two Passages",
+   "a": 38,
+   "s": 248,
+   "won": false
+  }
+ ]
 }
