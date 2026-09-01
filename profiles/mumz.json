@@ -13,7 +13,7 @@
    "won": false
   },
   "junior": {
-   "score": 5918,
+   "score": 8475,
    "items": 42,
    "won": true
   }
@@ -825,9 +825,9 @@
    "last": 1787932296758
   },
   "j1ghy1xx": {
-   "c": 1,
-   "w": 0,
-   "last": 1787932300639
+   "c": 43,
+   "w": 1,
+   "last": 1788223461920
   },
   "pl029ti": {
    "c": 0,
@@ -1083,60 +1083,10 @@
    "c": 0,
    "w": 1,
    "last": 1788208341636
-  },
-  "jtgqilu": {
-   "c": 8,
-   "w": 0,
-   "last": 1788210529425
-  },
-  "jc9szty": {
-   "c": 6,
-   "w": 1,
-   "last": 1788210518475
-  },
-  "j1b45nr3": {
-   "c": 4,
-   "w": 1,
-   "last": 1788210410395
-  },
-  "j1na68xs": {
-   "c": 4,
-   "w": 1,
-   "last": 1788210503366
-  },
-  "j1b45nwl": {
-   "c": 6,
-   "w": 0,
-   "last": 1788210522106
-  },
-  "j1dxhh2p": {
-   "c": 5,
-   "w": 2,
-   "last": 1788210491985
-  },
-  "j1r36nq7": {
-   "c": 3,
-   "w": 0,
-   "last": 1788210533708
-  },
-  "j3co3ct": {
-   "c": 1,
-   "w": 0,
-   "last": 1788210365440
-  },
-  "jc9t0jm": {
-   "c": 5,
-   "w": 0,
-   "last": 1788210514879
-  },
-  "j9eyyo6": {
-   "c": 2,
-   "w": 0,
-   "last": 1788210487350
   }
  },
- "runs": 71,
- "lastPlayed": 1788210534916,
+ "runs": 70,
+ "lastPlayed": 1788223463126,
  "scopes": {
   "primary::feasts": {
    "score": 8049,
@@ -1173,12 +1123,12 @@
    "division": "senior",
    "scope": "theme"
   },
-  "junior::declaw:Matthew 5": {
-   "score": 5918,
+  "junior::theme": {
+   "score": 8475,
    "items": 42,
-   "label": "Decalogue & OT Legal — Matthew 5",
+   "label": "Theme of the Passage",
    "division": "junior",
-   "scope": "declaw:Matthew 5"
+   "scope": "theme"
   }
  }
 }
