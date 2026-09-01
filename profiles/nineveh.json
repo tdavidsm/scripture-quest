@@ -48,6 +48,13 @@
    "label": "English ↔ Greek Word — Matthew 5",
    "division": "primary",
    "scope": "gkword:Matthew 5"
+  },
+  "primary::commandments": {
+   "score": 116,
+   "items": 1,
+   "label": "Ten Commandments",
+   "division": "primary",
+   "scope": "commandments"
   }
  },
  "q": {
@@ -63,8 +70,8 @@
   },
   "paratpu": {
    "c": 0,
-   "w": 1,
-   "last": 1788204603662
+   "w": 2,
+   "last": 1788294247724
   },
   "p48c9um": {
    "c": 11,
@@ -510,10 +517,30 @@
    "c": 0,
    "w": 1,
    "last": 1788294159270
+  },
+  "p1ibgcjj": {
+   "c": 0,
+   "w": 1,
+   "last": 1788294221768
+  },
+  "pd8qwyu": {
+   "c": 1,
+   "w": 0,
+   "last": 1788294233895
+  },
+  "pbemnb8": {
+   "c": 0,
+   "w": 1,
+   "last": 1788294254189
+  },
+  "pgbztya": {
+   "c": 0,
+   "w": 1,
+   "last": 1788294268767
   }
  },
- "runs": 22,
- "lastPlayed": 1788294160873,
+ "runs": 23,
+ "lastPlayed": 1788294270370,
  "history": [
   {
    "t": 1788293800143,
@@ -531,6 +558,15 @@
    "l": "English ↔ Greek Word — Matthew 5",
    "a": 33,
    "s": 274,
+   "won": false
+  },
+  {
+   "t": 1788294270370,
+   "d": "primary",
+   "k": "commandments",
+   "l": "Ten Commandments",
+   "a": 20,
+   "s": 116,
    "won": false
   }
  ]
