@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788366000839,
+ "updatedAt": 1788366198267,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -10,7 +10,7 @@
      "won": true
     },
     "senior": {
-     "score": 9490,
+     "score": 9800,
      "items": 42,
      "won": true
     },
@@ -92,8 +92,8 @@
      "scope": "commandments"
     }
    },
-   "runs": 83,
-   "updatedAt": 1788365999078
+   "runs": 84,
+   "updatedAt": 1788366196481
   },
   "ezekiel": {
    "name": "Ezekiel",
