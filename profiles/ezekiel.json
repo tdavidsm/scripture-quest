@@ -1153,10 +1153,45 @@
    "c": 1,
    "w": 0,
    "last": 1788365752090
+  },
+  "j16h69u7": {
+   "c": 1,
+   "w": 0,
+   "last": 1788365850012
+  },
+  "jboktaf": {
+   "c": 0,
+   "w": 1,
+   "last": 1788365855270
+  },
+  "j1ihdbt5": {
+   "c": 0,
+   "w": 1,
+   "last": 1788365859851
+  },
+  "j1ooq1ni": {
+   "c": 1,
+   "w": 0,
+   "last": 1788365866610
+  },
+  "j1kgrxc2": {
+   "c": 0,
+   "w": 1,
+   "last": 1788365872332
+  },
+  "jlb4cit": {
+   "c": 1,
+   "w": 0,
+   "last": 1788365880789
+  },
+  "jsmbhbd": {
+   "c": 0,
+   "w": 1,
+   "last": 1788365890638
   }
  },
- "runs": 23,
- "lastPlayed": 1788365756005,
+ "runs": 24,
+ "lastPlayed": 1788365892239,
  "scopes": {
   "junior::feasts": {
    "score": 8467,
@@ -1192,6 +1227,13 @@
    "label": "Random Access",
    "division": "junior",
    "scope": "random"
+  },
+  "junior::hbword": {
+   "score": 438,
+   "items": 3,
+   "label": "English ↔ Hebrew Word",
+   "division": "junior",
+   "scope": "hbword"
   }
  },
  "history": [
@@ -1248,6 +1290,15 @@
    "a": 95,
    "s": 9823,
    "won": true
+  },
+  {
+   "t": 1788365892239,
+   "d": "junior",
+   "k": "hbword",
+   "l": "English ↔ Hebrew Word",
+   "a": 43,
+   "s": 438,
+   "won": false
   }
  ]
 }
