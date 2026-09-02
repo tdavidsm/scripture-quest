@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788368716657,
+ "updatedAt": 1788370031028,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -222,6 +222,11 @@
      "score": 1777,
      "items": 16,
      "won": false
+    },
+    "junior": {
+     "score": 0,
+     "items": 0,
+     "won": false
     }
    },
    "scopes": {
@@ -252,10 +257,17 @@
      "label": "Random Access — Proverbs 3",
      "division": "primary",
      "scope": "random:Proverbs 3"
+    },
+    "junior::hbword": {
+     "score": 0,
+     "items": 0,
+     "label": "English ↔ Hebrew Word",
+     "division": "junior",
+     "scope": "hbword"
     }
    },
-   "runs": 7,
-   "updatedAt": 1788214651829
+   "runs": 8,
+   "updatedAt": 1788370029036
   },
   "nineveh": {
    "name": "Nineveh",
