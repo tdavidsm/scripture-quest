@@ -11,6 +11,11 @@
    "score": 1777,
    "items": 16,
    "won": false
+  },
+  "junior": {
+   "score": 0,
+   "items": 0,
+   "won": false
   }
  },
  "scopes": {
@@ -41,6 +46,13 @@
    "label": "Random Access — Proverbs 3",
    "division": "primary",
    "scope": "random:Proverbs 3"
+  },
+  "junior::hbword": {
+   "score": 0,
+   "items": 0,
+   "label": "English ↔ Hebrew Word",
+   "division": "junior",
+   "scope": "hbword"
   }
  },
  "q": {
@@ -403,8 +415,39 @@
    "c": 0,
    "w": 1,
    "last": 1788214650224
+  },
+  "j1bkcxcs": {
+   "c": 0,
+   "w": 1,
+   "last": 1788370020792
+  },
+  "j1kgrxc2": {
+   "c": 0,
+   "w": 1,
+   "last": 1788370023842
+  },
+  "jnwdhrg": {
+   "c": 0,
+   "w": 1,
+   "last": 1788370025661
+  },
+  "j1amn5a4": {
+   "c": 0,
+   "w": 1,
+   "last": 1788370027435
   }
  },
- "runs": 7,
- "lastPlayed": 1788214651827
+ "runs": 8,
+ "lastPlayed": 1788370029036,
+ "history": [
+  {
+   "t": 1788370029036,
+   "d": "junior",
+   "k": "hbword",
+   "l": "English ↔ Hebrew Word",
+   "a": 0,
+   "s": 0,
+   "won": false
+  }
+ ]
 }
