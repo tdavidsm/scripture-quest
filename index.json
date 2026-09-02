@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788309435165,
+ "updatedAt": 1788309694863,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -139,15 +139,15 @@
      "scope": "theme"
     },
     "junior::random": {
-     "score": 1886,
-     "items": 12,
+     "score": 4671,
+     "items": 27,
      "label": "Random Access",
      "division": "junior",
      "scope": "random"
     }
    },
-   "runs": 18,
-   "updatedAt": 1788309432389
+   "runs": 19,
+   "updatedAt": 1788309692938
   },
   "joseph": {
    "name": "Joseph",
