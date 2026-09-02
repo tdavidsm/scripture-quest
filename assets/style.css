@@ -211,9 +211,14 @@ h1,h2,h3,.title,.tier-banner-name,.collection-title{font-family:"Cinzel", Georgi
 .filter-all:hover{border-color:var(--gold); color:var(--ink)}
 .chipset{display:flex; flex-wrap:wrap; gap:7px}
 .fchip{font-family:"EB Garamond",serif; font-size:.88rem; padding:.34em .8em; border-radius:999px;
-  border:1.5px solid var(--panel-line); background:#fff; color:var(--ink-soft); cursor:pointer; transition:all .12s ease}
+  border:1.5px solid var(--panel-line); background:#fff; color:var(--ink-soft); cursor:pointer; transition:all .12s ease;
+  display:inline-flex; align-items:center; gap:.45em}
 .fchip:hover{border-color:var(--gold)}
 .fchip.on{border-color:var(--gold-deep); background:linear-gradient(180deg,#fff6df,#f6e7c2); color:var(--ink); font-weight:600}
+.cat-pct{font-family:"Cinzel",serif; font-size:.7rem; font-weight:700; color:var(--gold-deep);
+  background:rgba(198,154,62,.16); border:1px solid rgba(198,154,62,.4); border-radius:999px;
+  padding:.02em .45em; line-height:1.5; font-variant-numeric:tabular-nums}
+.cat-pct.mastered{background:var(--green); color:#fff; border-color:var(--green)}
 .chipset.seg{gap:0; border:1.5px solid var(--panel-line); border-radius:10px; overflow:hidden; display:inline-flex; background:#fff}
 .seg-btn{font-family:"EB Garamond",serif; font-size:.85rem; padding:.4em .9em; border:none; background:transparent;
   color:var(--ink-soft); cursor:pointer; border-right:1px solid var(--panel-line)}

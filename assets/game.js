@@ -349,6 +349,7 @@
     saveStore();
     renderProfiles();
     refreshStart();
+    if (S.mode === "custom" && S.division) updateCategoryBadges();
   }
   function addProfile() {
     const input = $("newProfileInput");
@@ -980,6 +981,35 @@
   /* ============================================================
      CUSTOM RUN BUILDER
      ============================================================ */
+  // the current scholar's highest-ever run accuracy for a category (any chapter)
+  // in the given division, from their run history; null if never played
+  function bestPctForCat(div, catKey) {
+    const p = curProfile();
+    if (!p || !p.history) return null;
+    let best = null;
+    for (const r of p.history) {
+      if (r.d === div && String(r.k).split(":")[0] === catKey) {
+        if (best === null || r.a > best) best = r.a;
+      }
+    }
+    return best;
+  }
+  function updateCategoryBadges() {
+    if (!S.division) return;
+    $("catChips").querySelectorAll(".fchip").forEach((chip) => {
+      const badge = chip.querySelector(".cat-pct");
+      if (!badge) return;
+      const best = bestPctForCat(S.division, chip.dataset.cat);
+      if (best == null) { badge.hidden = true; badge.textContent = ""; badge.title = ""; }
+      else {
+        badge.hidden = false;
+        badge.textContent = best + "%";
+        badge.title = "Your best run in this category: " + best + "%";
+        badge.classList.toggle("mastered", best >= 100);
+      }
+    });
+  }
+
   function defaultFilters(div) {
     return {
       cats: new Set(QM.categories(div).map((c) => c.key)),
@@ -999,10 +1029,13 @@
     const catBox = $("catChips"); catBox.innerHTML = "";
     QM.categories(div).forEach((c) => {
       const b = document.createElement("button");
-      b.type = "button"; b.className = "fchip on"; b.textContent = c.name; b.dataset.cat = c.key;
+      b.type = "button"; b.className = "fchip on"; b.dataset.cat = c.key;
+      b.innerHTML = `<span class="fchip-name">${escapeHtml(c.name)}</span>` +
+        `<span class="cat-pct" hidden></span>`;
       b.addEventListener("click", () => { toggleChip(S.filters.cats, c.key, b); afterFilterChange(); });
       catBox.appendChild(b);
     });
+    updateCategoryBadges();
 
     const chs = QM.chapters(div);
     $("chapterGroup").style.display = chs.length ? "" : "none";
