@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788365507160,
+ "updatedAt": 1788365758143,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -99,7 +99,7 @@
    "name": "Ezekiel",
    "best": {
     "junior": {
-     "score": 8467,
+     "score": 9823,
      "items": 42,
      "won": true
     },
@@ -139,15 +139,15 @@
      "scope": "theme"
     },
     "junior::random": {
-     "score": 7957,
-     "items": 35,
+     "score": 9823,
+     "items": 42,
      "label": "Random Access",
      "division": "junior",
      "scope": "random"
     }
    },
-   "runs": 22,
-   "updatedAt": 1788365505529
+   "runs": 23,
+   "updatedAt": 1788365756005
   },
   "joseph": {
    "name": "Joseph",
