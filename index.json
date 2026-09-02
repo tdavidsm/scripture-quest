@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788367907222,
+ "updatedAt": 1788368080156,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -97,10 +97,17 @@
      "label": "Strong's ↔ Greek — Matthew 5",
      "division": "senior",
      "scope": "gkstrong:Matthew 5"
+    },
+    "senior::gkvine": {
+     "score": 3726,
+     "items": 17,
+     "label": "Vine's ↔ Greek",
+     "division": "senior",
+     "scope": "gkvine"
     }
    },
-   "runs": 92,
-   "updatedAt": 1788367905379
+   "runs": 93,
+   "updatedAt": 1788368078109
   },
   "ezekiel": {
    "name": "Ezekiel",
