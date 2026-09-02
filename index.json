@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788365758143,
+ "updatedAt": 1788365893934,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -144,10 +144,17 @@
      "label": "Random Access",
      "division": "junior",
      "scope": "random"
+    },
+    "junior::hbword": {
+     "score": 438,
+     "items": 3,
+     "label": "English ↔ Hebrew Word",
+     "division": "junior",
+     "scope": "hbword"
     }
    },
-   "runs": 23,
-   "updatedAt": 1788365756005
+   "runs": 24,
+   "updatedAt": 1788365892239
   },
   "joseph": {
    "name": "Joseph",
