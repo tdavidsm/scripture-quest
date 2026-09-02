@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788367644008,
+ "updatedAt": 1788367907222,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -90,10 +90,17 @@
      "label": "Ten Commandments",
      "division": "senior",
      "scope": "commandments"
+    },
+    "senior::gkstrong:Matthew 5": {
+     "score": 8973,
+     "items": 42,
+     "label": "Strong's ↔ Greek — Matthew 5",
+     "division": "senior",
+     "scope": "gkstrong:Matthew 5"
     }
    },
-   "runs": 91,
-   "updatedAt": 1788367642209
+   "runs": 92,
+   "updatedAt": 1788367905379
   },
   "ezekiel": {
    "name": "Ezekiel",
