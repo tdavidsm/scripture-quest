@@ -135,9 +135,9 @@
    "last": 1787861343769
   },
   "j14ixi9": {
-   "c": 0,
+   "c": 1,
    "w": 1,
-   "last": 1787861367360
+   "last": 1788374067681
   },
   "j1bw8j24": {
    "c": 0,
@@ -1223,10 +1223,45 @@
    "c": 0,
    "w": 1,
    "last": 1788374035628
+  },
+  "j1mb4z3r": {
+   "c": 1,
+   "w": 0,
+   "last": 1788374048428
+  },
+  "jcy1smc": {
+   "c": 1,
+   "w": 0,
+   "last": 1788374052832
+  },
+  "j6l78ct": {
+   "c": 1,
+   "w": 0,
+   "last": 1788374060525
+  },
+  "jneudh9": {
+   "c": 0,
+   "w": 1,
+   "last": 1788374075897
+  },
+  "jnlvcz9": {
+   "c": 0,
+   "w": 1,
+   "last": 1788374081357
+  },
+  "je3burm": {
+   "c": 1,
+   "w": 0,
+   "last": 1788374090064
+  },
+  "j37mmvb": {
+   "c": 0,
+   "w": 1,
+   "last": 1788374100772
   }
  },
- "runs": 25,
- "lastPlayed": 1788374037230,
+ "runs": 26,
+ "lastPlayed": 1788374102373,
  "scopes": {
   "junior::feasts": {
    "score": 8467,
@@ -1271,8 +1306,8 @@
    "scope": "hbword"
   },
   "junior::words3": {
-   "score": 819,
-   "items": 4,
+   "score": 1047,
+   "items": 5,
    "label": "Words in 3–4 Passages",
    "division": "junior",
    "scope": "words3"
@@ -1349,6 +1384,15 @@
    "l": "Words in 3–4 Passages",
    "a": 57,
    "s": 819,
+   "won": false
+  },
+  {
+   "t": 1788374102373,
+   "d": "junior",
+   "k": "words3",
+   "l": "Words in 3–4 Passages",
+   "a": 63,
+   "s": 1047,
    "won": false
   }
  ]
