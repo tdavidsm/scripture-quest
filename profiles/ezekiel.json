@@ -1188,10 +1188,45 @@
    "c": 0,
    "w": 1,
    "last": 1788365890638
+  },
+  "j10t898n": {
+   "c": 1,
+   "w": 0,
+   "last": 1788373985543
+  },
+  "j1gge7z7": {
+   "c": 1,
+   "w": 0,
+   "last": 1788373994882
+  },
+  "j1yapn6r": {
+   "c": 1,
+   "w": 0,
+   "last": 1788374001026
+  },
+  "j17zi0dp": {
+   "c": 0,
+   "w": 1,
+   "last": 1788374007541
+  },
+  "j22rcof": {
+   "c": 1,
+   "w": 0,
+   "last": 1788374016955
+  },
+  "j1qwkl70": {
+   "c": 0,
+   "w": 1,
+   "last": 1788374025238
+  },
+  "j1krljhp": {
+   "c": 0,
+   "w": 1,
+   "last": 1788374035628
   }
  },
- "runs": 24,
- "lastPlayed": 1788365892239,
+ "runs": 25,
+ "lastPlayed": 1788374037230,
  "scopes": {
   "junior::feasts": {
    "score": 8467,
@@ -1234,6 +1269,13 @@
    "label": "English ↔ Hebrew Word",
    "division": "junior",
    "scope": "hbword"
+  },
+  "junior::words3": {
+   "score": 819,
+   "items": 4,
+   "label": "Words in 3–4 Passages",
+   "division": "junior",
+   "scope": "words3"
   }
  },
  "history": [
@@ -1298,6 +1340,15 @@
    "l": "English ↔ Hebrew Word",
    "a": 43,
    "s": 438,
+   "won": false
+  },
+  {
+   "t": 1788374037230,
+   "d": "junior",
+   "k": "words3",
+   "l": "Words in 3–4 Passages",
+   "a": 57,
+   "s": 819,
    "won": false
   }
  ]
