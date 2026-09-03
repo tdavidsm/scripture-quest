@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788471763611,
+ "updatedAt": 1788471978382,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -202,7 +202,7 @@
    "name": "Joseph",
    "best": {
     "senior": {
-     "score": 14564,
+     "score": 15000,
      "items": 42,
      "won": true
     },
@@ -235,8 +235,8 @@
      "scope": "feasts"
     }
    },
-   "runs": 61,
-   "updatedAt": 1788471756698
+   "runs": 62,
+   "updatedAt": 1788471976349
   },
   "bb-ace": {
    "name": "BB Ace",
