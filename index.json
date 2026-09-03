@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788463250327,
+ "updatedAt": 1788463356761,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -111,10 +111,17 @@
      "label": "Geographical Location",
      "division": "senior",
      "scope": "geo"
+    },
+    "senior::feasts": {
+     "score": 312,
+     "items": 2,
+     "label": "Jewish Feasts",
+     "division": "senior",
+     "scope": "feasts"
     }
    },
-   "runs": 128,
-   "updatedAt": 1788463247617
+   "runs": 129,
+   "updatedAt": 1788463354497
   },
   "ezekiel": {
    "name": "Ezekiel",
