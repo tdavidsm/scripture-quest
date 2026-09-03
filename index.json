@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788467982444,
+ "updatedAt": 1788468092736,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -120,15 +120,15 @@
      "scope": "feasts"
     },
     "senior::hbword": {
-     "score": 2780,
-     "items": 15,
+     "score": 8293,
+     "items": 42,
      "label": "English ↔ Hebrew Word",
      "division": "senior",
      "scope": "hbword"
     }
    },
-   "runs": 144,
-   "updatedAt": 1788467885163
+   "runs": 145,
+   "updatedAt": 1788468090902
   },
   "ezekiel": {
    "name": "Ezekiel",
