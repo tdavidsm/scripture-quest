@@ -1455,14 +1455,14 @@
    "last": 1788282647572
   },
   "sbp657i": {
-   "c": 0,
+   "c": 1,
    "w": 1,
-   "last": 1788282622613
+   "last": 1788467519577
   },
   "s106m2l4": {
-   "c": 0,
+   "c": 1,
    "w": 2,
-   "last": 1788458021702
+   "last": 1788467523927
   },
   "s188sfnl": {
    "c": 0,
@@ -2806,8 +2806,8 @@
   },
   "s1fbnuqp": {
    "c": 0,
-   "w": 1,
-   "last": 1788458100509
+   "w": 2,
+   "last": 1788467552032
   },
   "s9bo1wo": {
    "c": 9,
@@ -3888,10 +3888,30 @@
    "c": 1,
    "w": 0,
    "last": 1788467447649
+  },
+  "sj3gvq": {
+   "c": 1,
+   "w": 0,
+   "last": 1788467530022
+  },
+  "s16h69u7": {
+   "c": 0,
+   "w": 1,
+   "last": 1788467537719
+  },
+  "s1iwvzt4": {
+   "c": 0,
+   "w": 1,
+   "last": 1788467543804
+  },
+  "sjzusp1": {
+   "c": 1,
+   "w": 0,
+   "last": 1788467547652
   }
  },
- "runs": 137,
- "lastPlayed": 1788467452306,
+ "runs": 138,
+ "lastPlayed": 1788467553635,
  "scopes": {
   "primary::feasts": {
    "score": 8049,
@@ -3990,6 +4010,13 @@
    "label": "Jewish Feasts",
    "division": "senior",
    "scope": "feasts"
+  },
+  "senior::hbword": {
+   "score": 674,
+   "items": 4,
+   "label": "English ↔ Hebrew Word",
+   "division": "senior",
+   "scope": "hbword"
   }
  },
  "history": [
@@ -4523,6 +4550,15 @@
    "a": 100,
    "s": 14638,
    "won": true
+  },
+  {
+   "t": 1788467553634,
+   "d": "senior",
+   "k": "hbword",
+   "l": "English ↔ Hebrew Word",
+   "a": 57,
+   "s": 674,
+   "won": false
   }
  ]
 }
