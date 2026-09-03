@@ -76,6 +76,13 @@
    "label": "Parallel Passages — Matthew 5",
    "division": "primary",
    "scope": "parallel:Matthew 5"
+  },
+  "primary::provxref:Proverbs 3": {
+   "score": 101,
+   "items": 1,
+   "label": "Proverbs Cross-References — Proverbs 3",
+   "division": "primary",
+   "scope": "provxref:Proverbs 3"
   }
  },
  "q": {
@@ -985,18 +992,38 @@
    "last": 1788464966630
   },
   "p13dr8ym": {
-   "c": 0,
+   "c": 1,
    "w": 1,
-   "last": 1788464974488
+   "last": 1788465366328
   },
   "jcy86qi": {
    "c": 3,
    "w": 4,
    "last": 1788465216843
+  },
+  "p1aaq7pn": {
+   "c": 0,
+   "w": 1,
+   "last": 1788465377424
+  },
+  "p5xe0nr": {
+   "c": 0,
+   "w": 1,
+   "last": 1788465381572
+  },
+  "p1v5th1j": {
+   "c": 0,
+   "w": 1,
+   "last": 1788465383805
+  },
+  "p16m53tg": {
+   "c": 0,
+   "w": 1,
+   "last": 1788465388220
   }
  },
- "runs": 54,
- "lastPlayed": 1788465218448,
+ "runs": 55,
+ "lastPlayed": 1788465389823,
  "history": [
   {
    "t": 1788293800143,
@@ -1302,6 +1329,15 @@
    "l": "Full Quest",
    "a": 43,
    "s": 335,
+   "won": false
+  },
+  {
+   "t": 1788465389823,
+   "d": "primary",
+   "k": "provxref:Proverbs 3",
+   "l": "Proverbs Cross-References — Proverbs 3",
+   "a": 20,
+   "s": 101,
    "won": false
   }
  ]
