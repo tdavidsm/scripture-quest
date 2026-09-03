@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788459373989,
+ "updatedAt": 1788459443170,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -113,8 +113,8 @@
      "scope": "geo"
     }
    },
-   "runs": 115,
-   "updatedAt": 1788459371829
+   "runs": 116,
+   "updatedAt": 1788459441217
   },
   "ezekiel": {
    "name": "Ezekiel",
