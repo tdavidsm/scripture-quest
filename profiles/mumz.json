@@ -3323,10 +3323,35 @@
    "c": 1,
    "w": 0,
    "last": 1788463238580
+  },
+  "s4gil95": {
+   "c": 1,
+   "w": 0,
+   "last": 1788463333233
+  },
+  "sd2gatr": {
+   "c": 0,
+   "w": 1,
+   "last": 1788463340564
+  },
+  "s136s3so": {
+   "c": 0,
+   "w": 1,
+   "last": 1788463343996
+  },
+  "sm76s6z": {
+   "c": 1,
+   "w": 0,
+   "last": 1788463349195
+  },
+  "s1so4odk": {
+   "c": 0,
+   "w": 1,
+   "last": 1788463352893
   }
  },
- "runs": 128,
- "lastPlayed": 1788463247615,
+ "runs": 129,
+ "lastPlayed": 1788463354495,
  "scopes": {
   "primary::feasts": {
    "score": 8049,
@@ -3418,6 +3443,13 @@
    "label": "Geographical Location",
    "division": "senior",
    "scope": "geo"
+  },
+  "senior::feasts": {
+   "score": 312,
+   "items": 2,
+   "label": "Jewish Feasts",
+   "division": "senior",
+   "scope": "feasts"
   }
  },
  "history": [
@@ -3870,6 +3902,15 @@
    "a": 95,
    "s": 13339,
    "won": true
+  },
+  {
+   "t": 1788463354495,
+   "d": "senior",
+   "k": "feasts",
+   "l": "Jewish Feasts",
+   "a": 40,
+   "s": 312,
+   "won": false
   }
  ]
 }
