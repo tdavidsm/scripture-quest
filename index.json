@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788397651022,
+ "updatedAt": 1788397884978,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -207,15 +207,15 @@
      "scope": "theme"
     },
     "senior::feasts": {
-     "score": 8026,
+     "score": 8063,
      "items": 42,
      "label": "Jewish Feasts",
      "division": "senior",
      "scope": "feasts"
     }
    },
-   "runs": 15,
-   "updatedAt": 1788397649471
+   "runs": 16,
+   "updatedAt": 1788397883620
   },
   "bb-ace": {
    "name": "BB Ace",
