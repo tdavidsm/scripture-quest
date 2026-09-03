@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788398158908,
+ "updatedAt": 1788398367752,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -214,8 +214,8 @@
      "scope": "feasts"
     }
    },
-   "runs": 20,
-   "updatedAt": 1788398157516
+   "runs": 21,
+   "updatedAt": 1788398364532
   },
   "bb-ace": {
    "name": "BB Ace",
