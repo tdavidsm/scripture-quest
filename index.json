@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788460444641,
+ "updatedAt": 1788460586070,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -106,15 +106,15 @@
      "scope": "gkvine"
     },
     "senior::geo": {
-     "score": 2718,
-     "items": 14,
+     "score": 3176,
+     "items": 16,
      "label": "Geographical Location",
      "division": "senior",
      "scope": "geo"
     }
    },
-   "runs": 118,
-   "updatedAt": 1788460442274
+   "runs": 119,
+   "updatedAt": 1788460584078
   },
   "ezekiel": {
    "name": "Ezekiel",
