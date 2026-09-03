@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788465220278,
+ "updatedAt": 1788465392800,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -367,10 +367,17 @@
      "label": "Parallel Passages — Matthew 5",
      "division": "primary",
      "scope": "parallel:Matthew 5"
+    },
+    "primary::provxref:Proverbs 3": {
+     "score": 101,
+     "items": 1,
+     "label": "Proverbs Cross-References — Proverbs 3",
+     "division": "primary",
+     "scope": "provxref:Proverbs 3"
     }
    },
-   "runs": 54,
-   "updatedAt": 1788465218450
+   "runs": 55,
+   "updatedAt": 1788465389825
   },
   "thomas-davidsmeier": {
    "name": "Thomas Davidsmeier",
