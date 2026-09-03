@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788458723711,
+ "updatedAt": 1788458807245,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -120,9 +120,9 @@
    "name": "Ezekiel",
    "best": {
     "junior": {
-     "score": 9823,
-     "items": 42,
-     "won": true
+     "score": 9994,
+     "items": 38,
+     "won": false
     },
     "primary": {
      "score": 4004,
@@ -181,8 +181,8 @@
      "scope": "words3"
     }
    },
-   "runs": 27,
-   "updatedAt": 1788458571521
+   "runs": 28,
+   "updatedAt": 1788458805588
   },
   "joseph": {
    "name": "Joseph",
