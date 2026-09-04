@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788547140034,
+ "updatedAt": 1788548910716,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -214,10 +214,17 @@
      "label": "No-Parallel Sections — Matthew 7",
      "division": "junior",
      "scope": "noparallel:Matthew 7"
+    },
+    "junior::random:Matthew 6": {
+     "score": 4175,
+     "items": 42,
+     "label": "Random Access — Matthew 6",
+     "division": "junior",
+     "scope": "random:Matthew 6"
     }
    },
-   "runs": 34,
-   "updatedAt": 1788545129600
+   "runs": 35,
+   "updatedAt": 1788548907674
   },
   "joseph": {
    "name": "Joseph",
