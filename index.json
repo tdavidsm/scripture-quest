@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788557066355,
+ "updatedAt": 1788557507174,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -228,10 +228,17 @@
      "label": "Geographical Location",
      "division": "junior",
      "scope": "geo"
+    },
+    "junior::decalogue:Matthew 5": {
+     "score": 8272,
+     "items": 42,
+     "label": "Decalogue Commandments — Matthew 5",
+     "division": "junior",
+     "scope": "decalogue:Matthew 5"
     }
    },
-   "runs": 38,
-   "updatedAt": 1788557064329
+   "runs": 39,
+   "updatedAt": 1788557505443
   },
   "joseph": {
    "name": "Joseph",
