@@ -1413,10 +1413,45 @@
    "c": 0,
    "w": 1,
    "last": 1788477424079
+  },
+  "jwa07nl": {
+   "c": 1,
+   "w": 0,
+   "last": 1788544748115
+  },
+  "j1e1u01m": {
+   "c": 1,
+   "w": 0,
+   "last": 1788544754610
+  },
+  "j1scjk9d": {
+   "c": 1,
+   "w": 0,
+   "last": 1788544766727
+  },
+  "j1vktbbw": {
+   "c": 0,
+   "w": 1,
+   "last": 1788544780922
+  },
+  "j1cnp86s": {
+   "c": 0,
+   "w": 1,
+   "last": 1788544789299
+  },
+  "j1a5mgn": {
+   "c": 0,
+   "w": 1,
+   "last": 1788544799614
+  },
+  "jyfmo9t": {
+   "c": 0,
+   "w": 1,
+   "last": 1788544814391
   }
  },
- "runs": 31,
- "lastPlayed": 1788544697576,
+ "runs": 32,
+ "lastPlayed": 1788544815992,
  "scopes": {
   "junior::feasts": {
    "score": 8467,
@@ -1466,6 +1501,13 @@
    "label": "Words in 3–4 Passages",
    "division": "junior",
    "scope": "words3"
+  },
+  "junior::parallel": {
+   "score": 324,
+   "items": 3,
+   "label": "Parallel Passages",
+   "division": "junior",
+   "scope": "parallel"
   }
  },
  "history": [
@@ -1594,6 +1636,15 @@
    "a": 100,
    "s": 6482,
    "won": true
+  },
+  {
+   "t": 1788544815992,
+   "d": "junior",
+   "k": "parallel",
+   "l": "Parallel Passages",
+   "a": 43,
+   "s": 324,
+   "won": false
   }
  ]
 }
