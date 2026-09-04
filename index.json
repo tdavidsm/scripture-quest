@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788544699275,
+ "updatedAt": 1788544818744,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -200,10 +200,17 @@
      "label": "Words in 3–4 Passages",
      "division": "junior",
      "scope": "words3"
+    },
+    "junior::parallel": {
+     "score": 324,
+     "items": 3,
+     "label": "Parallel Passages",
+     "division": "junior",
+     "scope": "parallel"
     }
    },
-   "runs": 31,
-   "updatedAt": 1788544697577
+   "runs": 32,
+   "updatedAt": 1788544815992
   },
   "joseph": {
    "name": "Joseph",
