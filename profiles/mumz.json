@@ -4785,14 +4785,14 @@
    "last": 1788477859466
   },
   "s1ihdbt5": {
-   "c": 1,
+   "c": 2,
    "w": 0,
-   "last": 1788528728846
+   "last": 1788528755985
   },
   "sqmkx59": {
-   "c": 0,
+   "c": 1,
    "w": 1,
-   "last": 1788528733660
+   "last": 1788528812633
   },
   "s1vvrcnj": {
    "c": 0,
@@ -4803,10 +4803,65 @@
    "c": 0,
    "w": 1,
    "last": 1788528746257
+  },
+  "s1qs7s3i": {
+   "c": 1,
+   "w": 0,
+   "last": 1788528752071
+  },
+  "s1lykm12": {
+   "c": 0,
+   "w": 1,
+   "last": 1788528760901
+  },
+  "s1kyt89f": {
+   "c": 1,
+   "w": 0,
+   "last": 1788528766332
+  },
+  "sdntnb0": {
+   "c": 1,
+   "w": 0,
+   "last": 1788528772081
+  },
+  "sxhsf0u": {
+   "c": 1,
+   "w": 0,
+   "last": 1788528776764
+  },
+  "skzbtjo": {
+   "c": 1,
+   "w": 0,
+   "last": 1788528781911
+  },
+  "s10jjb5z": {
+   "c": 1,
+   "w": 0,
+   "last": 1788528786792
+  },
+  "s8of9r8": {
+   "c": 0,
+   "w": 1,
+   "last": 1788528792392
+  },
+  "s1gn18b": {
+   "c": 1,
+   "w": 0,
+   "last": 1788528799123
+  },
+  "spedlc7": {
+   "c": 1,
+   "w": 0,
+   "last": 1788528803702
+  },
+  "s8zoy6o": {
+   "c": 0,
+   "w": 1,
+   "last": 1788528818698
   }
  },
- "runs": 158,
- "lastPlayed": 1788528747863,
+ "runs": 159,
+ "lastPlayed": 1788528820303,
  "scopes": {
   "primary::feasts": {
    "score": 8049,
@@ -4914,8 +4969,8 @@
    "scope": "hbword"
   },
   "senior::hbword:Proverbs 4": {
-   "score": 179,
-   "items": 1,
+   "score": 1765,
+   "items": 10,
    "label": "English ↔ Hebrew Word — Proverbs 4",
    "division": "senior",
    "scope": "hbword:Proverbs 4"
@@ -5640,6 +5695,15 @@
    "l": "English ↔ Hebrew Word — Proverbs 4",
    "a": 25,
    "s": 179,
+   "won": false
+  },
+  {
+   "t": 1788528820303,
+   "d": "senior",
+   "k": "hbword:Proverbs 4",
+   "l": "English ↔ Hebrew Word — Proverbs 4",
+   "a": 77,
+   "s": 1765,
    "won": false
   }
  ]
