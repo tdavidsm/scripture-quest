@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788545399521,
+ "updatedAt": 1788545902094,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -10,7 +10,7 @@
      "won": true
     },
     "senior": {
-     "score": 14638,
+     "score": 14892,
      "items": 42,
      "won": true
     },
@@ -134,8 +134,8 @@
      "scope": "hbword:Proverbs 4"
     }
    },
-   "runs": 169,
-   "updatedAt": 1788545397487
+   "runs": 170,
+   "updatedAt": 1788545899603
   },
   "ezekiel": {
    "name": "Ezekiel",
