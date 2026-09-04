@@ -4858,10 +4858,25 @@
    "c": 0,
    "w": 1,
    "last": 1788528818698
+  },
+  "s13hijmw": {
+   "c": 0,
+   "w": 1,
+   "last": 1788528823763
+  },
+  "s1q87r1i": {
+   "c": 0,
+   "w": 1,
+   "last": 1788528827844
+  },
+  "s1amn5a4": {
+   "c": 0,
+   "w": 1,
+   "last": 1788528833043
   }
  },
- "runs": 159,
- "lastPlayed": 1788528820303,
+ "runs": 160,
+ "lastPlayed": 1788528834646,
  "scopes": {
   "primary::feasts": {
    "score": 8049,
@@ -5704,6 +5719,15 @@
    "l": "English ↔ Hebrew Word — Proverbs 4",
    "a": 77,
    "s": 1765,
+   "won": false
+  },
+  {
+   "t": 1788528834646,
+   "d": "senior",
+   "k": "hbword:Proverbs 4",
+   "l": "English ↔ Hebrew Word — Proverbs 4",
+   "a": 0,
+   "s": 0,
    "won": false
   }
  ]
