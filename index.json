@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788528836667,
+ "updatedAt": 1788528899575,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -127,15 +127,15 @@
      "scope": "hbword"
     },
     "senior::hbword:Proverbs 4": {
-     "score": 1765,
+     "score": 1883,
      "items": 10,
      "label": "English ↔ Hebrew Word — Proverbs 4",
      "division": "senior",
      "scope": "hbword:Proverbs 4"
     }
    },
-   "runs": 160,
-   "updatedAt": 1788528834650
+   "runs": 161,
+   "updatedAt": 1788528897446
   },
   "ezekiel": {
    "name": "Ezekiel",
