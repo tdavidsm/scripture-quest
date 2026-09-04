@@ -1603,10 +1603,65 @@
    "c": 1,
    "w": 0,
    "last": 1788548781652
+  },
+  "jpdq1pw": {
+   "c": 0,
+   "w": 1,
+   "last": 1788549089295
+  },
+  "jbsqhb": {
+   "c": 1,
+   "w": 0,
+   "last": 1788549093651
+  },
+  "j180k7qc": {
+   "c": 1,
+   "w": 0,
+   "last": 1788549097595
+  },
+  "jfgah0h": {
+   "c": 1,
+   "w": 0,
+   "last": 1788549106445
+  },
+  "jdnv6sv": {
+   "c": 1,
+   "w": 0,
+   "last": 1788549109765
+  },
+  "j10ya8gc": {
+   "c": 1,
+   "w": 0,
+   "last": 1788549114823
+  },
+  "ja53nqi": {
+   "c": 0,
+   "w": 1,
+   "last": 1788549121589
+  },
+  "j1ltvdfx": {
+   "c": 1,
+   "w": 0,
+   "last": 1788549127029
+  },
+  "j9bo1wo": {
+   "c": 0,
+   "w": 1,
+   "last": 1788549133787
+  },
+  "j184vxi4": {
+   "c": 1,
+   "w": 0,
+   "last": 1788549140504
+  },
+  "j80avs1": {
+   "c": 0,
+   "w": 1,
+   "last": 1788549154510
   }
  },
- "runs": 35,
- "lastPlayed": 1788548907673,
+ "runs": 36,
+ "lastPlayed": 1788549156111,
  "scopes": {
   "junior::feasts": {
    "score": 8467,
@@ -1677,6 +1732,13 @@
    "label": "Random Access — Matthew 6",
    "division": "junior",
    "scope": "random:Matthew 6"
+  },
+  "junior::geo": {
+   "score": 1073,
+   "items": 7,
+   "label": "Geographical Location",
+   "division": "junior",
+   "scope": "geo"
   }
  },
  "history": [
@@ -1841,6 +1903,15 @@
    "a": 100,
    "s": 4175,
    "won": true
+  },
+  {
+   "t": 1788549156111,
+   "d": "junior",
+   "k": "geo",
+   "l": "Geographical Location",
+   "a": 64,
+   "s": 1073,
+   "won": false
   }
  ]
 }
