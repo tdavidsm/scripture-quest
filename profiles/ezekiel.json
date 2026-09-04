@@ -1898,10 +1898,20 @@
    "c": 0,
    "w": 1,
    "last": 1788557062727
+  },
+  "j1b45nwl": {
+   "c": 25,
+   "w": 0,
+   "last": 1788557504241
+  },
+  "j1b45nr3": {
+   "c": 32,
+   "w": 1,
+   "last": 1788557496090
   }
  },
- "runs": 38,
- "lastPlayed": 1788557064329,
+ "runs": 39,
+ "lastPlayed": 1788557505443,
  "scopes": {
   "junior::feasts": {
    "score": 8467,
@@ -1979,6 +1989,13 @@
    "label": "Geographical Location",
    "division": "junior",
    "scope": "geo"
+  },
+  "junior::decalogue:Matthew 5": {
+   "score": 8272,
+   "items": 42,
+   "label": "Decalogue Commandments — Matthew 5",
+   "division": "junior",
+   "scope": "decalogue:Matthew 5"
   }
  },
  "history": [
@@ -2170,6 +2187,15 @@
    "a": 81,
    "s": 4144,
    "won": false
+  },
+  {
+   "t": 1788557505443,
+   "d": "junior",
+   "k": "decalogue:Matthew 5",
+   "l": "Decalogue Commandments — Matthew 5",
+   "a": 100,
+   "s": 8272,
+   "won": true
   }
  ]
 }
