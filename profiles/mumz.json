@@ -6136,13 +6136,13 @@
   },
   "s3a3k33": {
    "c": 1,
-   "w": 1,
-   "last": 1788595904497
+   "w": 2,
+   "last": 1788595945450
   },
   "s1nqmr4q": {
-   "c": 0,
+   "c": 1,
    "w": 2,
-   "last": 1788595925875
+   "last": 1788595958029
   },
   "s1it72cd": {
    "c": 1,
@@ -6150,14 +6150,14 @@
    "last": 1788595885686
   },
   "s1f0p8i2": {
-   "c": 0,
+   "c": 1,
    "w": 3,
-   "last": 1788595931772
+   "last": 1788595975941
   },
   "s1ttq5ko": {
-   "c": 0,
+   "c": 1,
    "w": 1,
-   "last": 1788595899998
+   "last": 1788595951983
   },
   "s1w8zaqg": {
    "c": 0,
@@ -6168,10 +6168,30 @@
    "c": 0,
    "w": 1,
    "last": 1788595935854
+  },
+  "s1t3lmqf": {
+   "c": 1,
+   "w": 0,
+   "last": 1788595942284
+  },
+  "s1f3v6z1": {
+   "c": 1,
+   "w": 0,
+   "last": 1788595964978
+  },
+  "s1ucsgb9": {
+   "c": 0,
+   "w": 1,
+   "last": 1788595971107
+  },
+  "s1ue7akc": {
+   "c": 0,
+   "w": 1,
+   "last": 1788595980972
   }
  },
- "runs": 186,
- "lastPlayed": 1788595937456,
+ "runs": 187,
+ "lastPlayed": 1788595982575,
  "scopes": {
   "primary::feasts": {
    "score": 8049,
@@ -6293,8 +6313,8 @@
    "scope": "otlegal"
   },
   "senior::sectitle": {
-   "score": 467,
-   "items": 3,
+   "score": 769,
+   "items": 5,
    "label": "Section Titles",
    "division": "senior",
    "scope": "sectitle"
@@ -7271,6 +7291,15 @@
    "l": "Section Titles",
    "a": 0,
    "s": 0,
+   "won": false
+  },
+  {
+   "t": 1788595982575,
+   "d": "senior",
+   "k": "sectitle",
+   "l": "Section Titles",
+   "a": 63,
+   "s": 769,
    "won": false
   }
  ]
