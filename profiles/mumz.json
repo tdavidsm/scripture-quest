@@ -6123,10 +6123,40 @@
    "c": 1,
    "w": 0,
    "last": 1788595654944
+  },
+  "s4188x4": {
+   "c": 1,
+   "w": 0,
+   "last": 1788595863194
+  },
+  "spfjq07": {
+   "c": 1,
+   "w": 0,
+   "last": 1788595868959
+  },
+  "s3a3k33": {
+   "c": 0,
+   "w": 1,
+   "last": 1788595875757
+  },
+  "s1nqmr4q": {
+   "c": 0,
+   "w": 1,
+   "last": 1788595880321
+  },
+  "s1it72cd": {
+   "c": 1,
+   "w": 0,
+   "last": 1788595885686
+  },
+  "s1f0p8i2": {
+   "c": 0,
+   "w": 1,
+   "last": 1788595890720
   }
  },
- "runs": 183,
- "lastPlayed": 1788595830979,
+ "runs": 184,
+ "lastPlayed": 1788595892326,
  "scopes": {
   "primary::feasts": {
    "score": 8049,
@@ -6246,6 +6276,13 @@
    "label": "OT Legal Principles",
    "division": "senior",
    "scope": "otlegal"
+  },
+  "senior::sectitle": {
+   "score": 467,
+   "items": 3,
+   "label": "Section Titles",
+   "division": "senior",
+   "scope": "sectitle"
   }
  },
  "history": [
@@ -7193,6 +7230,15 @@
    "a": 100,
    "s": 15120,
    "won": true
+  },
+  {
+   "t": 1788595892326,
+   "d": "senior",
+   "k": "sectitle",
+   "l": "Section Titles",
+   "a": 50,
+   "s": 467,
+   "won": false
   }
  ]
 }
