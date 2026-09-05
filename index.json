@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788599749206,
+ "updatedAt": 1788599831042,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -153,10 +153,17 @@
      "label": "Decalogue Commandments",
      "division": "senior",
      "scope": "decalogue"
+    },
+    "senior::random:Matthew 5": {
+     "score": 640,
+     "items": 4,
+     "label": "Random Access — Matthew 5",
+     "division": "senior",
+     "scope": "random:Matthew 5"
     }
    },
-   "runs": 224,
-   "updatedAt": 1788599747076
+   "runs": 225,
+   "updatedAt": 1788599828796
   },
   "ezekiel": {
    "name": "Ezekiel",
