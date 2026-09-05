@@ -6343,10 +6343,20 @@
    "c": 1,
    "w": 1,
    "last": 1788597478966
+  },
+  "s1b45nwl": {
+   "c": 26,
+   "w": 1,
+   "last": 1788597778221
+  },
+  "s1b45nr3": {
+   "c": 16,
+   "w": 0,
+   "last": 1788597785517
   }
  },
- "runs": 216,
- "lastPlayed": 1788597631359,
+ "runs": 217,
+ "lastPlayed": 1788597786727,
  "scopes": {
   "primary::feasts": {
    "score": 8049,
@@ -6473,6 +6483,13 @@
    "label": "Section Titles",
    "division": "senior",
    "scope": "sectitle"
+  },
+  "senior::decalogue": {
+   "score": 8189,
+   "items": 42,
+   "label": "Decalogue Commandments",
+   "division": "senior",
+   "scope": "decalogue"
   }
  },
  "history": [
@@ -7717,6 +7734,15 @@
    "a": 81,
    "s": 2177,
    "won": false
+  },
+  {
+   "t": 1788597786727,
+   "d": "senior",
+   "k": "decalogue",
+   "l": "Decalogue Commandments",
+   "a": 98,
+   "s": 8189,
+   "won": true
   }
  ]
 }
