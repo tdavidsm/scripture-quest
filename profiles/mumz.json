@@ -6058,10 +6058,50 @@
    "c": 1,
    "w": 0,
    "last": 1788567896605
+  },
+  "s1r36nq7": {
+   "c": 2,
+   "w": 0,
+   "last": 1788593874838
+  },
+  "s1na68xs": {
+   "c": 3,
+   "w": 1,
+   "last": 1788593904380
+  },
+  "sc9t0jm": {
+   "c": 4,
+   "w": 0,
+   "last": 1788593915059
+  },
+  "s1dxhh2p": {
+   "c": 3,
+   "w": 1,
+   "last": 1788593920192
+  },
+  "sc9szty": {
+   "c": 2,
+   "w": 0,
+   "last": 1788593892318
+  },
+  "s9eyyo6": {
+   "c": 1,
+   "w": 0,
+   "last": 1788593854113
+  },
+  "s3co3ct": {
+   "c": 1,
+   "w": 0,
+   "last": 1788593860812
+  },
+  "stgqilu": {
+   "c": 2,
+   "w": 1,
+   "last": 1788593924208
   }
  },
- "runs": 180,
- "lastPlayed": 1788568206992,
+ "runs": 181,
+ "lastPlayed": 1788593925813,
  "scopes": {
   "primary::feasts": {
    "score": 8049,
@@ -6174,6 +6214,13 @@
    "label": "English ↔ Hebrew Word — Proverbs 4",
    "division": "senior",
    "scope": "hbword:Proverbs 4"
+  },
+  "senior::otlegal": {
+   "score": 3085,
+   "items": 18,
+   "label": "OT Legal Principles",
+   "division": "senior",
+   "scope": "otlegal"
   }
  },
  "history": [
@@ -7094,6 +7141,15 @@
    "a": 100,
    "s": 15689,
    "won": true
+  },
+  {
+   "t": 1788593925813,
+   "d": "senior",
+   "k": "otlegal",
+   "l": "OT Legal Principles",
+   "a": 86,
+   "s": 3085,
+   "won": false
   }
  ]
 }
