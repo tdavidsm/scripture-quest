@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788600579864,
+ "updatedAt": 1788600673461,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -155,15 +155,15 @@
      "scope": "decalogue"
     },
     "senior::random:Matthew 5": {
-     "score": 1704,
+     "score": 1716,
      "items": 10,
      "label": "Random Access — Matthew 5",
      "division": "senior",
      "scope": "random:Matthew 5"
     }
    },
-   "runs": 242,
-   "updatedAt": 1788600577749
+   "runs": 243,
+   "updatedAt": 1788600671018
   },
   "ezekiel": {
    "name": "Ezekiel",
