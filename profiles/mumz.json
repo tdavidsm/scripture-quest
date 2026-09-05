@@ -5430,9 +5430,9 @@
    "last": 1788598075726
   },
   "s1vf9av3": {
-   "c": 3,
+   "c": 4,
    "w": 0,
-   "last": 1788599015082
+   "last": 1788599763276
   },
   "sul2vtt": {
    "c": 3,
@@ -6416,8 +6416,8 @@
   },
   "s1w6r57w": {
    "c": 0,
-   "w": 1,
-   "last": 1788599662193
+   "w": 2,
+   "last": 1788599788253
   },
   "s17z02dg": {
    "c": 0,
@@ -6448,10 +6448,45 @@
    "c": 0,
    "w": 1,
    "last": 1788599745466
+  },
+  "sxt5niu": {
+   "c": 0,
+   "w": 1,
+   "last": 1788599757263
+  },
+  "sx1rvds": {
+   "c": 0,
+   "w": 1,
+   "last": 1788599793168
+  },
+  "s188ykcw": {
+   "c": 1,
+   "w": 0,
+   "last": 1788599802865
+  },
+  "s1txwz7x": {
+   "c": 1,
+   "w": 0,
+   "last": 1788599807096
+  },
+  "s1j0olq1": {
+   "c": 1,
+   "w": 0,
+   "last": 1788599814177
+  },
+  "srjra9m": {
+   "c": 1,
+   "w": 0,
+   "last": 1788599820242
+  },
+  "svoozz1": {
+   "c": 0,
+   "w": 1,
+   "last": 1788599827189
   }
  },
- "runs": 224,
- "lastPlayed": 1788599747073,
+ "runs": 225,
+ "lastPlayed": 1788599828793,
  "scopes": {
   "primary::feasts": {
    "score": 8049,
@@ -6585,6 +6620,13 @@
    "label": "Decalogue Commandments",
    "division": "senior",
    "scope": "decalogue"
+  },
+  "senior::random:Matthew 5": {
+   "score": 640,
+   "items": 4,
+   "label": "Random Access — Matthew 5",
+   "division": "senior",
+   "scope": "random:Matthew 5"
   }
  },
  "history": [
@@ -7900,6 +7942,15 @@
    "l": "Full Quest",
    "a": 67,
    "s": 1812,
+   "won": false
+  },
+  {
+   "t": 1788599828793,
+   "d": "senior",
+   "k": "random:Matthew 5",
+   "l": "Random Access — Matthew 5",
+   "a": 57,
+   "s": 640,
    "won": false
   }
  ]
