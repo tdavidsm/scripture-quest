@@ -6456,8 +6456,8 @@
   },
   "sx1rvds": {
    "c": 0,
-   "w": 2,
-   "last": 1788600833359
+   "w": 3,
+   "last": 1788600855304
   },
   "s188ykcw": {
    "c": 3,
@@ -6551,13 +6551,13 @@
   },
   "spy3cde": {
    "c": 2,
-   "w": 4,
-   "last": 1788600746871
+   "w": 5,
+   "last": 1788600861840
   },
   "s58nxng": {
    "c": 1,
-   "w": 2,
-   "last": 1788600669411
+   "w": 3,
+   "last": 1788600850454
   },
   "s1g8s2ft": {
    "c": 2,
@@ -6660,8 +6660,8 @@
    "last": 1788600822545
   }
  },
- "runs": 246,
- "lastPlayed": 1788600845843,
+ "runs": 247,
+ "lastPlayed": 1788600863443,
  "scopes": {
   "primary::feasts": {
    "score": 8049,
@@ -8315,6 +8315,15 @@
    "l": "Random Access — Matthew 5",
    "a": 70,
    "s": 1112,
+   "won": false
+  },
+  {
+   "t": 1788600863443,
+   "d": "senior",
+   "k": "random:Matthew 5",
+   "l": "Random Access — Matthew 5",
+   "a": 0,
+   "s": 0,
    "won": false
   }
  ]
