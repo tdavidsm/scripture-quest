@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788597633957,
+ "updatedAt": 1788597788873,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -146,10 +146,17 @@
      "label": "Section Titles",
      "division": "senior",
      "scope": "sectitle"
+    },
+    "senior::decalogue": {
+     "score": 8189,
+     "items": 42,
+     "label": "Decalogue Commandments",
+     "division": "senior",
+     "scope": "decalogue"
     }
    },
-   "runs": 216,
-   "updatedAt": 1788597631364
+   "runs": 217,
+   "updatedAt": 1788597786732
   },
   "ezekiel": {
    "name": "Ezekiel",
