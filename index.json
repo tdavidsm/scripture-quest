@@ -1,5 +1,5 @@
 {
- "updatedAt": 1788596173949,
+ "updatedAt": 1788596216858,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -141,15 +141,15 @@
      "scope": "otlegal"
     },
     "senior::sectitle": {
-     "score": 769,
+     "score": 846,
      "items": 5,
      "label": "Section Titles",
      "division": "senior",
      "scope": "sectitle"
     }
    },
-   "runs": 193,
-   "updatedAt": 1788596171998
+   "runs": 194,
+   "updatedAt": 1788596214783
   },
   "ezekiel": {
    "name": "Ezekiel",
