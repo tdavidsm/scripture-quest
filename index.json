@@ -1,5 +1,5 @@
 {
- "updatedAt": 1789429975173,
+ "updatedAt": 1789430187477,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -265,15 +265,15 @@
      "scope": "decalogue:Matthew 5"
     },
     "junior::otlegal": {
-     "score": 1351,
-     "items": 16,
+     "score": 7926,
+     "items": 42,
      "label": "OT Legal Principles",
      "division": "junior",
      "scope": "otlegal"
     }
    },
-   "runs": 40,
-   "updatedAt": 1789429973182
+   "runs": 41,
+   "updatedAt": 1789430185570
   },
   "joseph": {
    "name": "Joseph",
