@@ -1385,9 +1385,9 @@
    "last": 1788458956589
   },
   "jhdnd8e": {
-   "c": 0,
+   "c": 1,
    "w": 1,
-   "last": 1788458967978
+   "last": 1789413937348
   },
   "j1aqbtbr": {
    "c": 0,
@@ -1908,10 +1908,100 @@
    "c": 32,
    "w": 1,
    "last": 1788557496090
+  },
+  "jdqov7m": {
+   "c": 1,
+   "w": 0,
+   "last": 1789413876453
+  },
+  "j16ei9zj": {
+   "c": 1,
+   "w": 0,
+   "last": 1789413887318
+  },
+  "j1poajle": {
+   "c": 1,
+   "w": 0,
+   "last": 1789413895206
+  },
+  "jrbqphu": {
+   "c": 1,
+   "w": 0,
+   "last": 1789413900818
+  },
+  "j1izydzf": {
+   "c": 1,
+   "w": 0,
+   "last": 1789413909284
+  },
+  "j1qk9n31": {
+   "c": 0,
+   "w": 1,
+   "last": 1789413921482
+  },
+  "j1ht9it8": {
+   "c": 1,
+   "w": 0,
+   "last": 1789413930193
+  },
+  "j1rbpwh3": {
+   "c": 1,
+   "w": 0,
+   "last": 1789413940953
+  },
+  "j56hbiv": {
+   "c": 1,
+   "w": 0,
+   "last": 1789413945857
+  },
+  "jd2lgia": {
+   "c": 1,
+   "w": 0,
+   "last": 1789413953371
+  },
+  "j1r36nq7": {
+   "c": 2,
+   "w": 0,
+   "last": 1789429943638
+  },
+  "j9eyyo6": {
+   "c": 1,
+   "w": 0,
+   "last": 1789429882055
+  },
+  "j3co3ct": {
+   "c": 2,
+   "w": 2,
+   "last": 1789429967324
+  },
+  "jc9szty": {
+   "c": 1,
+   "w": 1,
+   "last": 1789429971580
+  },
+  "jtgqilu": {
+   "c": 2,
+   "w": 1,
+   "last": 1789429957636
+  },
+  "j1dxhh2p": {
+   "c": 4,
+   "w": 0,
+   "last": 1789429953489
+  },
+  "j1na68xs": {
+   "c": 2,
+   "w": 0,
+   "last": 1789429939232
+  },
+  "jc9t0jm": {
+   "c": 2,
+   "w": 1,
+   "last": 1789429935143
   }
  },
- "runs": 39,
- "lastPlayed": 1788557505443,
+ "runs": 40,
+ "lastPlayed": 1789429973182,
  "scopes": {
   "junior::feasts": {
    "score": 8467,
@@ -1996,6 +2086,13 @@
    "label": "Decalogue Commandments — Matthew 5",
    "division": "junior",
    "scope": "decalogue:Matthew 5"
+  },
+  "junior::otlegal": {
+   "score": 1351,
+   "items": 16,
+   "label": "OT Legal Principles",
+   "division": "junior",
+   "scope": "otlegal"
   }
  },
  "history": [
@@ -2196,6 +2293,15 @@
    "a": 100,
    "s": 8272,
    "won": true
+  },
+  {
+   "t": 1789429973182,
+   "d": "junior",
+   "k": "otlegal",
+   "l": "OT Legal Principles",
+   "a": 76,
+   "s": 1351,
+   "won": false
   }
  ]
 }
