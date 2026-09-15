@@ -1,5 +1,5 @@
 {
- "updatedAt": 1789430796040,
+ "updatedAt": 1789430903561,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -272,8 +272,8 @@
      "scope": "otlegal"
     }
    },
-   "runs": 45,
-   "updatedAt": 1789430794287
+   "runs": 46,
+   "updatedAt": 1789430901754
   },
   "joseph": {
    "name": "Joseph",
