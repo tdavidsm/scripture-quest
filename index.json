@@ -1,5 +1,5 @@
 {
- "updatedAt": 1789500606136,
+ "updatedAt": 1789503510013,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -277,10 +277,17 @@
      "label": "Section Titles",
      "division": "junior",
      "scope": "sectitle"
+    },
+    "junior::provxref:Matthew 6": {
+     "score": 8455,
+     "items": 42,
+     "label": "Proverbs Cross-References — Matthew 6",
+     "division": "junior",
+     "scope": "provxref:Matthew 6"
     }
    },
-   "runs": 49,
-   "updatedAt": 1789500603960
+   "runs": 50,
+   "updatedAt": 1789503508088
   },
   "joseph": {
    "name": "Joseph",
