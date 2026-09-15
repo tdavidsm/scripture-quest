@@ -1536,8 +1536,8 @@
   },
   "j85kn1w": {
    "c": 0,
-   "w": 1,
-   "last": 1788545294375
+   "w": 2,
+   "last": 1789500305698
   },
   "j1i6lo5y": {
    "c": 1,
@@ -1576,8 +1576,8 @@
   },
   "j1ex64g8": {
    "c": 0,
-   "w": 1,
-   "last": 1788545397717
+   "w": 2,
+   "last": 1789500295118
   },
   "j9j748e": {
    "c": 2,
@@ -2263,10 +2263,30 @@
    "c": 0,
    "w": 1,
    "last": 1789433140446
+  },
+  "j1fo01qq": {
+   "c": 1,
+   "w": 0,
+   "last": 1789500196998
+  },
+  "j1phrnp3": {
+   "c": 0,
+   "w": 1,
+   "last": 1789500318113
+  },
+  "j1fl6de2": {
+   "c": 0,
+   "w": 1,
+   "last": 1789500324177
+  },
+  "jwtb1er": {
+   "c": 0,
+   "w": 1,
+   "last": 1789500330813
   }
  },
- "runs": 47,
- "lastPlayed": 1789433142047,
+ "runs": 48,
+ "lastPlayed": 1789500332414,
  "scopes": {
   "junior::feasts": {
    "score": 8467,
@@ -2358,6 +2378,13 @@
    "label": "OT Legal Principles",
    "division": "junior",
    "scope": "otlegal"
+  },
+  "junior::sectitle": {
+   "score": 0,
+   "items": 0,
+   "label": "Section Titles",
+   "division": "junior",
+   "scope": "sectitle"
   }
  },
  "history": [
@@ -2629,6 +2656,15 @@
    "l": "Full Quest",
    "a": 43,
    "s": 651,
+   "won": false
+  },
+  {
+   "t": 1789500332414,
+   "d": "junior",
+   "k": "sectitle",
+   "l": "Section Titles",
+   "a": 0,
+   "s": 0,
    "won": false
   }
  ]
