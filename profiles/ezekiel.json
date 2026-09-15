@@ -1535,9 +1535,9 @@
    "last": 1788545370058
   },
   "j85kn1w": {
-   "c": 0,
-   "w": 2,
-   "last": 1789500305698
+   "c": 23,
+   "w": 3,
+   "last": 1789500602757
   },
   "j1i6lo5y": {
    "c": 1,
@@ -2281,12 +2281,32 @@
   },
   "jwtb1er": {
    "c": 0,
+   "w": 2,
+   "last": 1789500334711
+  },
+  "j1e8ggf8": {
+   "c": 0,
    "w": 1,
-   "last": 1789500330813
+   "last": 1789500336957
+  },
+  "j1ucsgb9": {
+   "c": 0,
+   "w": 1,
+   "last": 1789500339257
+  },
+  "j7hkeun": {
+   "c": 22,
+   "w": 1,
+   "last": 1789500596899
+  },
+  "j9izz8h": {
+   "c": 16,
+   "w": 2,
+   "last": 1789500587393
   }
  },
- "runs": 48,
- "lastPlayed": 1789500332414,
+ "runs": 49,
+ "lastPlayed": 1789500603959,
  "scopes": {
   "junior::feasts": {
    "score": 8467,
@@ -2380,8 +2400,8 @@
    "scope": "otlegal"
   },
   "junior::sectitle": {
-   "score": 0,
-   "items": 0,
+   "score": 4224,
+   "items": 42,
    "label": "Section Titles",
    "division": "junior",
    "scope": "sectitle"
@@ -2666,6 +2686,15 @@
    "a": 0,
    "s": 0,
    "won": false
+  },
+  {
+   "t": 1789500603959,
+   "d": "junior",
+   "k": "sectitle",
+   "l": "Section Titles",
+   "a": 100,
+   "s": 4224,
+   "won": true
   }
  ]
 }
