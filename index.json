@@ -1,5 +1,5 @@
 {
- "updatedAt": 1789433144073,
+ "updatedAt": 1789500334522,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -270,10 +270,17 @@
      "label": "OT Legal Principles",
      "division": "junior",
      "scope": "otlegal"
+    },
+    "junior::sectitle": {
+     "score": 0,
+     "items": 0,
+     "label": "Section Titles",
+     "division": "junior",
+     "scope": "sectitle"
     }
    },
-   "runs": 47,
-   "updatedAt": 1789433142048
+   "runs": 48,
+   "updatedAt": 1789500332415
   },
   "joseph": {
    "name": "Joseph",
