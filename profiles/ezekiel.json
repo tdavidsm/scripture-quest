@@ -2333,10 +2333,40 @@
    "c": 27,
    "w": 0,
    "last": 1789503506884
+  },
+  "j1e5qywh": {
+   "c": 0,
+   "w": 1,
+   "last": 1789503547102
+  },
+  "jnipfv5": {
+   "c": 1,
+   "w": 0,
+   "last": 1789503551174
+  },
+  "j1ynnklw": {
+   "c": 0,
+   "w": 1,
+   "last": 1789503558753
+  },
+  "j1b7ho3e": {
+   "c": 1,
+   "w": 0,
+   "last": 1789503568416
+  },
+  "j12njgtz": {
+   "c": 1,
+   "w": 0,
+   "last": 1789503572523
+  },
+  "j969mpb": {
+   "c": 0,
+   "w": 1,
+   "last": 1789503582491
   }
  },
- "runs": 50,
- "lastPlayed": 1789503508087,
+ "runs": 51,
+ "lastPlayed": 1789503584092,
  "scopes": {
   "junior::feasts": {
    "score": 8467,
@@ -2442,6 +2472,13 @@
    "label": "Proverbs Cross-References — Matthew 6",
    "division": "junior",
    "scope": "provxref:Matthew 6"
+  },
+  "junior::hboutline": {
+   "score": 568,
+   "items": 3,
+   "label": "Outline ↔ Hebrew",
+   "division": "junior",
+   "scope": "hboutline"
   }
  },
  "history": [
@@ -2741,6 +2778,15 @@
    "a": 100,
    "s": 8455,
    "won": true
+  },
+  {
+   "t": 1789503584092,
+   "d": "junior",
+   "k": "hboutline",
+   "l": "Outline ↔ Hebrew",
+   "a": 50,
+   "s": 568,
+   "won": false
   }
  ]
 }
