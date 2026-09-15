@@ -1490,9 +1490,9 @@
    "last": 1788544958745
   },
   "jcy86qi": {
-   "c": 47,
+   "c": 57,
    "w": 1,
-   "last": 1788545128397
+   "last": 1789503269952
   },
   "j1k30d6a": {
    "c": 1,
@@ -2303,10 +2303,40 @@
    "c": 16,
    "w": 2,
    "last": 1789500587393
+  },
+  "j1geyp97": {
+   "c": 1,
+   "w": 1,
+   "last": 1789503307989
+  },
+  "jmqzqp9": {
+   "c": 20,
+   "w": 0,
+   "last": 1789503499470
+  },
+  "jvj8a81": {
+   "c": 2,
+   "w": 0,
+   "last": 1789503325734
+  },
+  "jx13anu": {
+   "c": 1,
+   "w": 1,
+   "last": 1789503312892
+  },
+  "jmovgnc": {
+   "c": 0,
+   "w": 1,
+   "last": 1789503322312
+  },
+  "jm6ikz0": {
+   "c": 27,
+   "w": 0,
+   "last": 1789503506884
   }
  },
- "runs": 49,
- "lastPlayed": 1789500603959,
+ "runs": 50,
+ "lastPlayed": 1789503508087,
  "scopes": {
   "junior::feasts": {
    "score": 8467,
@@ -2405,6 +2435,13 @@
    "label": "Section Titles",
    "division": "junior",
    "scope": "sectitle"
+  },
+  "junior::provxref:Matthew 6": {
+   "score": 8455,
+   "items": 42,
+   "label": "Proverbs Cross-References — Matthew 6",
+   "division": "junior",
+   "scope": "provxref:Matthew 6"
   }
  },
  "history": [
@@ -2694,6 +2731,15 @@
    "l": "Section Titles",
    "a": 100,
    "s": 4224,
+   "won": true
+  },
+  {
+   "t": 1789503508087,
+   "d": "junior",
+   "k": "provxref:Matthew 6",
+   "l": "Proverbs Cross-References — Matthew 6",
+   "a": 100,
+   "s": 8455,
    "won": true
   }
  ]
