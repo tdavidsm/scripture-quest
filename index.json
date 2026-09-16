@@ -1,5 +1,5 @@
 {
- "updatedAt": 1789590789209,
+ "updatedAt": 1789601623161,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -340,10 +340,17 @@
      "label": "Names & Titles of God",
      "division": "junior",
      "scope": "names"
+    },
+    "junior::gkword": {
+     "score": 1309,
+     "items": 11,
+     "label": "English ↔ Greek Word",
+     "division": "junior",
+     "scope": "gkword"
     }
    },
-   "runs": 67,
-   "updatedAt": 1789589813712
+   "runs": 68,
+   "updatedAt": 1789601621141
   },
   "joseph": {
    "name": "Joseph",
