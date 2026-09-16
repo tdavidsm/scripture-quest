@@ -1,5 +1,5 @@
 {
- "updatedAt": 1789589399492,
+ "updatedAt": 1789589535916,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -202,8 +202,8 @@
      "scope": "feasts"
     },
     "junior::theme": {
-     "score": 166,
-     "items": 1,
+     "score": 8524,
+     "items": 42,
      "label": "Theme of the Passage",
      "division": "junior",
      "scope": "theme"
@@ -342,8 +342,8 @@
      "scope": "names"
     }
    },
-   "runs": 65,
-   "updatedAt": 1789589397490
+   "runs": 66,
+   "updatedAt": 1789589532443
   },
   "joseph": {
    "name": "Joseph",
