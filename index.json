@@ -1,5 +1,5 @@
 {
- "updatedAt": 1789577898873,
+ "updatedAt": 1789578091329,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -312,10 +312,17 @@
      "label": "Section Cross-References — Matthew 5",
      "division": "junior",
      "scope": "sectionref:Matthew 5"
+    },
+    "junior::hboutline:Proverbs 3": {
+     "score": 695,
+     "items": 8,
+     "label": "Outline ↔ Hebrew — Proverbs 3",
+     "division": "junior",
+     "scope": "hboutline:Proverbs 3"
     }
    },
-   "runs": 57,
-   "updatedAt": 1789577895967
+   "runs": 58,
+   "updatedAt": 1789578088818
   },
   "joseph": {
    "name": "Joseph",
