@@ -1,5 +1,5 @@
 {
- "updatedAt": 1789579680309,
+ "updatedAt": 1789579906076,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -326,10 +326,17 @@
      "label": "Words in Exactly Two Passages",
      "division": "junior",
      "scope": "words2"
+    },
+    "junior::unique": {
+     "score": 8184,
+     "items": 42,
+     "label": "Unique Words",
+     "division": "junior",
+     "scope": "unique"
     }
    },
-   "runs": 61,
-   "updatedAt": 1789579677958
+   "runs": 62,
+   "updatedAt": 1789579903961
   },
   "joseph": {
    "name": "Joseph",
