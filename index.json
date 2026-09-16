@@ -1,5 +1,5 @@
 {
- "updatedAt": 1789579981671,
+ "updatedAt": 1789589253969,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -333,10 +333,17 @@
      "label": "Unique Words",
      "division": "junior",
      "scope": "unique"
+    },
+    "junior::names": {
+     "score": 6421,
+     "items": 42,
+     "label": "Names & Titles of God",
+     "division": "junior",
+     "scope": "names"
     }
    },
-   "runs": 63,
-   "updatedAt": 1789579979386
+   "runs": 64,
+   "updatedAt": 1789589251609
   },
   "joseph": {
    "name": "Joseph",
