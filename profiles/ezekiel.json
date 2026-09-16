@@ -2245,9 +2245,9 @@
    "last": 1789433096342
   },
   "j1e0c43t": {
-   "c": 0,
+   "c": 1,
    "w": 1,
-   "last": 1789433107313
+   "last": 1789578006978
   },
   "jsph45o": {
    "c": 1,
@@ -2361,8 +2361,8 @@
   },
   "j969mpb": {
    "c": 0,
-   "w": 1,
-   "last": 1789503582491
+   "w": 2,
+   "last": 1789578087211
   },
   "jgll2g3": {
    "c": 0,
@@ -2448,10 +2448,65 @@
    "c": 1,
    "w": 0,
    "last": 1789577769418
+  },
+  "j1b6s4tw": {
+   "c": 1,
+   "w": 0,
+   "last": 1789577995514
+  },
+  "j181ql0f": {
+   "c": 1,
+   "w": 0,
+   "last": 1789578002242
+  },
+  "j1w7tr6w": {
+   "c": 0,
+   "w": 1,
+   "last": 1789578015054
+  },
+  "j1pb9lgk": {
+   "c": 0,
+   "w": 1,
+   "last": 1789578020470
+  },
+  "j11wilqv": {
+   "c": 1,
+   "w": 0,
+   "last": 1789578027386
+  },
+  "j1ww5s0s": {
+   "c": 0,
+   "w": 1,
+   "last": 1789578044828
+  },
+  "ja34a7t": {
+   "c": 1,
+   "w": 0,
+   "last": 1789578049421
+  },
+  "j271aei": {
+   "c": 1,
+   "w": 0,
+   "last": 1789578053811
+  },
+  "jzdlzin": {
+   "c": 1,
+   "w": 0,
+   "last": 1789578062440
+  },
+  "j12i1uyq": {
+   "c": 0,
+   "w": 1,
+   "last": 1789578067646
+  },
+  "jrg8r0y": {
+   "c": 1,
+   "w": 0,
+   "last": 1789578082263
   }
  },
- "runs": 57,
- "lastPlayed": 1789577895965,
+ "runs": 58,
+ "lastPlayed": 1789578088815,
  "scopes": {
   "junior::feasts": {
    "score": 8467,
@@ -2585,6 +2640,13 @@
    "label": "Section Cross-References — Matthew 5",
    "division": "junior",
    "scope": "sectionref:Matthew 5"
+  },
+  "junior::hboutline:Proverbs 3": {
+   "score": 695,
+   "items": 8,
+   "label": "Outline ↔ Hebrew — Proverbs 3",
+   "division": "junior",
+   "scope": "hboutline:Proverbs 3"
   }
  },
  "history": [
@@ -2946,6 +3008,15 @@
    "l": "Section Cross-References — Matthew 5",
    "a": 44,
    "s": 320,
+   "won": false
+  },
+  {
+   "t": 1789578088815,
+   "d": "junior",
+   "k": "hboutline:Proverbs 3",
+   "l": "Outline ↔ Hebrew — Proverbs 3",
+   "a": 62,
+   "s": 695,
    "won": false
   }
  ]
