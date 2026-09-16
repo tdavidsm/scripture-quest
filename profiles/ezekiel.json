@@ -1425,9 +1425,9 @@
    "last": 1788544754610
   },
   "j1scjk9d": {
-   "c": 2,
-   "w": 0,
-   "last": 1788544885103
+   "c": 9,
+   "w": 1,
+   "last": 1789514580200
   },
   "j1vktbbw": {
    "c": 0,
@@ -1450,9 +1450,9 @@
    "last": 1788544814391
   },
   "j1avv217": {
-   "c": 1,
+   "c": 2,
    "w": 0,
-   "last": 1788544854282
+   "last": 1789576964029
   },
   "j3fuy20": {
    "c": 0,
@@ -2363,10 +2363,15 @@
    "c": 0,
    "w": 1,
    "last": 1789503582491
+  },
+  "jgll2g3": {
+   "c": 0,
+   "w": 4,
+   "last": 1789576974591
   }
  },
- "runs": 51,
- "lastPlayed": 1789503584092,
+ "runs": 52,
+ "lastPlayed": 1789576976195,
  "scopes": {
   "junior::feasts": {
    "score": 8467,
@@ -2479,6 +2484,13 @@
    "label": "Outline ↔ Hebrew",
    "division": "junior",
    "scope": "hboutline"
+  },
+  "junior::parallel:Matthew 7": {
+   "score": 113,
+   "items": 1,
+   "label": "Parallel Passages — Matthew 7",
+   "division": "junior",
+   "scope": "parallel:Matthew 7"
   }
  },
  "history": [
@@ -2786,6 +2798,15 @@
    "l": "Outline ↔ Hebrew",
    "a": 50,
    "s": 568,
+   "won": false
+  },
+  {
+   "t": 1789576976195,
+   "d": "junior",
+   "k": "parallel:Matthew 7",
+   "l": "Parallel Passages — Matthew 7",
+   "a": 20,
+   "s": 113,
    "won": false
   }
  ]
