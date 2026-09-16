@@ -1,5 +1,5 @@
 {
- "updatedAt": 1789579436998,
+ "updatedAt": 1789579680309,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -223,8 +223,8 @@
      "scope": "hbword"
     },
     "junior::words3": {
-     "score": 2103,
-     "items": 16,
+     "score": 8086,
+     "items": 42,
      "label": "Words in 3–4 Passages",
      "division": "junior",
      "scope": "words3"
@@ -328,8 +328,8 @@
      "scope": "words2"
     }
    },
-   "runs": 60,
-   "updatedAt": 1789579434889
+   "runs": 61,
+   "updatedAt": 1789579677958
   },
   "joseph": {
    "name": "Joseph",
