@@ -1930,9 +1930,9 @@
    "last": 1789413900818
   },
   "j1izydzf": {
-   "c": 1,
+   "c": 9,
    "w": 0,
-   "last": 1789413909284
+   "last": 1789578296149
   },
   "j1qk9n31": {
    "c": 0,
@@ -1945,9 +1945,9 @@
    "last": 1789413930193
   },
   "j1rbpwh3": {
-   "c": 1,
+   "c": 6,
    "w": 0,
-   "last": 1789413940953
+   "last": 1789578334189
   },
   "j56hbiv": {
    "c": 1,
@@ -2503,10 +2503,40 @@
    "c": 1,
    "w": 0,
    "last": 1789578082263
+  },
+  "j1xumwq8": {
+   "c": 7,
+   "w": 1,
+   "last": 1789578338863
+  },
+  "j1j70klx": {
+   "c": 6,
+   "w": 1,
+   "last": 1789578326127
+  },
+  "j13gjlsf": {
+   "c": 4,
+   "w": 0,
+   "last": 1789578315297
+  },
+  "j1jr7ayg": {
+   "c": 5,
+   "w": 0,
+   "last": 1789578298919
+  },
+  "j1tyrr5z": {
+   "c": 5,
+   "w": 0,
+   "last": 1789578307897
+  },
+  "j1y35gxq": {
+   "c": 5,
+   "w": 0,
+   "last": 1789578331455
   }
  },
- "runs": 58,
- "lastPlayed": 1789578088815,
+ "runs": 59,
+ "lastPlayed": 1789578340068,
  "scopes": {
   "junior::feasts": {
    "score": 8467,
@@ -2647,6 +2677,13 @@
    "label": "Outline ↔ Hebrew — Proverbs 3",
    "division": "junior",
    "scope": "hboutline:Proverbs 3"
+  },
+  "junior::words2": {
+   "score": 4169,
+   "items": 42,
+   "label": "Words in Exactly Two Passages",
+   "division": "junior",
+   "scope": "words2"
   }
  },
  "history": [
@@ -3018,6 +3055,15 @@
    "a": 62,
    "s": 695,
    "won": false
+  },
+  {
+   "t": 1789578340068,
+   "d": "junior",
+   "k": "words2",
+   "l": "Words in Exactly Two Passages",
+   "a": 100,
+   "s": 4169,
+   "won": true
   }
  ]
 }
