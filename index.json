@@ -1,5 +1,5 @@
 {
- "updatedAt": 1789589253969,
+ "updatedAt": 1789589399492,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -251,8 +251,8 @@
      "scope": "random:Matthew 6"
     },
     "junior::geo": {
-     "score": 1073,
-     "items": 7,
+     "score": 6347,
+     "items": 42,
      "label": "Geographical Location",
      "division": "junior",
      "scope": "geo"
@@ -342,8 +342,8 @@
      "scope": "names"
     }
    },
-   "runs": 64,
-   "updatedAt": 1789589251609
+   "runs": 65,
+   "updatedAt": 1789589397490
   },
   "joseph": {
    "name": "Joseph",
