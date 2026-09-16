@@ -2071,8 +2071,8 @@
   },
   "j1lqddfu": {
    "c": 1,
-   "w": 0,
-   "last": 1789430402014
+   "w": 1,
+   "last": 1789577738110
   },
   "jhovup6": {
    "c": 1,
@@ -2380,14 +2380,14 @@
    "last": 1789577068768
   },
   "j1v939tf": {
-   "c": 1,
+   "c": 2,
    "w": 0,
-   "last": 1789577545777
+   "last": 1789577781162
   },
   "j1rzbsvk": {
    "c": 1,
-   "w": 0,
-   "last": 1789577548334
+   "w": 1,
+   "last": 1789577764606
   },
   "jw2q0ae": {
    "c": 0,
@@ -2395,28 +2395,63 @@
    "last": 1789577557255
   },
   "j1vb48en": {
-   "c": 1,
-   "w": 0,
-   "last": 1789577559685
+   "c": 2,
+   "w": 1,
+   "last": 1789577786994
   },
   "j72biok": {
-   "c": 0,
+   "c": 2,
    "w": 1,
-   "last": 1789577561365
+   "last": 1789577773170
   },
   "jdalphm": {
-   "c": 0,
+   "c": 1,
    "w": 1,
-   "last": 1789577566234
+   "last": 1789577726488
   },
   "j60kgob": {
+   "c": 1,
+   "w": 2,
+   "last": 1789577722591
+  },
+  "j15udyph": {
+   "c": 1,
+   "w": 0,
+   "last": 1789577597908
+  },
+  "jidngyo": {
+   "c": 1,
+   "w": 1,
+   "last": 1789577742062
+  },
+  "j1u3tx98": {
    "c": 0,
    "w": 1,
-   "last": 1789577574124
+   "last": 1789577715460
+  },
+  "j1qgpyhv": {
+   "c": 1,
+   "w": 0,
+   "last": 1789577732912
+  },
+  "jbbnwp9": {
+   "c": 1,
+   "w": 0,
+   "last": 1789577746874
+  },
+  "jwmyhjd": {
+   "c": 1,
+   "w": 0,
+   "last": 1789577754542
+  },
+  "j1k04w6q": {
+   "c": 1,
+   "w": 0,
+   "last": 1789577769418
   }
  },
- "runs": 55,
- "lastPlayed": 1789577575727,
+ "runs": 56,
+ "lastPlayed": 1789577788598,
  "scopes": {
   "junior::feasts": {
    "score": 8467,
@@ -2545,8 +2580,8 @@
    "scope": "parallel:Matthew 5"
   },
   "junior::sectionref:Matthew 5": {
-   "score": 359,
-   "items": 3,
+   "score": 1164,
+   "items": 10,
    "label": "Section Cross-References — Matthew 5",
    "division": "junior",
    "scope": "sectionref:Matthew 5"
@@ -2893,6 +2928,15 @@
    "l": "Section Cross-References — Matthew 5",
    "a": 43,
    "s": 359,
+   "won": false
+  },
+  {
+   "t": 1789577788598,
+   "d": "junior",
+   "k": "sectionref:Matthew 5",
+   "l": "Section Cross-References — Matthew 5",
+   "a": 71,
+   "s": 1164,
    "won": false
   }
  ]
