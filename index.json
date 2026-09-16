@@ -1,5 +1,5 @@
 {
- "updatedAt": 1789577072484,
+ "updatedAt": 1789577177855,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -298,10 +298,17 @@
      "label": "Parallel Passages — Matthew 7",
      "division": "junior",
      "scope": "parallel:Matthew 7"
+    },
+    "junior::parallel:Matthew 5": {
+     "score": 8461,
+     "items": 42,
+     "label": "Parallel Passages — Matthew 5",
+     "division": "junior",
+     "scope": "parallel:Matthew 5"
     }
    },
-   "runs": 53,
-   "updatedAt": 1789577070374
+   "runs": 54,
+   "updatedAt": 1789577175905
   },
   "joseph": {
    "name": "Joseph",
