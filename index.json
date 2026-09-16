@@ -1,5 +1,5 @@
 {
- "updatedAt": 1789578091329,
+ "updatedAt": 1789578342131,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -319,10 +319,17 @@
      "label": "Outline ↔ Hebrew — Proverbs 3",
      "division": "junior",
      "scope": "hboutline:Proverbs 3"
+    },
+    "junior::words2": {
+     "score": 4169,
+     "items": 42,
+     "label": "Words in Exactly Two Passages",
+     "division": "junior",
+     "scope": "words2"
     }
    },
-   "runs": 58,
-   "updatedAt": 1789578088818
+   "runs": 59,
+   "updatedAt": 1789578340071
   },
   "joseph": {
    "name": "Joseph",
