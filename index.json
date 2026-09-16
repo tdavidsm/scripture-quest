@@ -1,5 +1,5 @@
 {
- "updatedAt": 1789577577942,
+ "updatedAt": 1789577790418,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -307,15 +307,15 @@
      "scope": "parallel:Matthew 5"
     },
     "junior::sectionref:Matthew 5": {
-     "score": 359,
-     "items": 3,
+     "score": 1164,
+     "items": 10,
      "label": "Section Cross-References — Matthew 5",
      "division": "junior",
      "scope": "sectionref:Matthew 5"
     }
    },
-   "runs": 55,
-   "updatedAt": 1789577575730
+   "runs": 56,
+   "updatedAt": 1789577788601
   },
   "joseph": {
    "name": "Joseph",
