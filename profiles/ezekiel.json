@@ -2030,9 +2030,9 @@
    "last": 1789430328295
   },
   "j1b2he4v": {
-   "c": 1,
+   "c": 2,
    "w": 0,
-   "last": 1789430333254
+   "last": 1789580179461
   },
   "jssoa5j": {
    "c": 1,
@@ -2578,10 +2578,60 @@
    "c": 1,
    "w": 0,
    "last": 1789579928777
+  },
+  "j13fcphs": {
+   "c": 1,
+   "w": 0,
+   "last": 1789580058478
+  },
+  "jg7c1bn": {
+   "c": 0,
+   "w": 1,
+   "last": 1789580064364
+  },
+  "ji2gctj": {
+   "c": 43,
+   "w": 2,
+   "last": 1789589250401
+  },
+  "j8dloc6": {
+   "c": 2,
+   "w": 0,
+   "last": 1789580255189
+  },
+  "jb2t96k": {
+   "c": 1,
+   "w": 0,
+   "last": 1789580201285
+  },
+  "j116t8ak": {
+   "c": 1,
+   "w": 0,
+   "last": 1789580205823
+  },
+  "j13sndrg": {
+   "c": 3,
+   "w": 0,
+   "last": 1789580264429
+  },
+  "jr375il": {
+   "c": 1,
+   "w": 0,
+   "last": 1789580224649
+  },
+  "j61m9w6": {
+   "c": 2,
+   "w": 0,
+   "last": 1789580259109
+  },
+  "j4qibel": {
+   "c": 2,
+   "w": 0,
+   "last": 1789580241652
   }
  },
- "runs": 63,
- "lastPlayed": 1789579979382,
+ "runs": 64,
+ "lastPlayed": 1789589251606,
  "scopes": {
   "junior::feasts": {
    "score": 8467,
@@ -2736,6 +2786,13 @@
    "label": "Unique Words",
    "division": "junior",
    "scope": "unique"
+  },
+  "junior::names": {
+   "score": 6421,
+   "items": 42,
+   "label": "Names & Titles of God",
+   "division": "junior",
+   "scope": "names"
   }
  },
  "history": [
@@ -3152,6 +3209,15 @@
    "a": 33,
    "s": 248,
    "won": false
+  },
+  {
+   "t": 1789589251606,
+   "d": "junior",
+   "k": "names",
+   "l": "Names & Titles of God",
+   "a": 100,
+   "s": 6421,
+   "won": true
   }
  ]
 }
