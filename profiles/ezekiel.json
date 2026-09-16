@@ -2553,10 +2553,30 @@
    "c": 16,
    "w": 0,
    "last": 1789579670929
+  },
+  "j145li15": {
+   "c": 9,
+   "w": 0,
+   "last": 1789579893783
+  },
+  "j1877bb5": {
+   "c": 13,
+   "w": 2,
+   "last": 1789579890563
+  },
+  "juygxrc": {
+   "c": 13,
+   "w": 0,
+   "last": 1789579897673
+  },
+  "j1pgtjhx": {
+   "c": 14,
+   "w": 2,
+   "last": 1789579902754
   }
  },
- "runs": 61,
- "lastPlayed": 1789579677955,
+ "runs": 62,
+ "lastPlayed": 1789579903958,
  "scopes": {
   "junior::feasts": {
    "score": 8467,
@@ -2704,6 +2724,13 @@
    "label": "Words in Exactly Two Passages",
    "division": "junior",
    "scope": "words2"
+  },
+  "junior::unique": {
+   "score": 8184,
+   "items": 42,
+   "label": "Unique Words",
+   "division": "junior",
+   "scope": "unique"
   }
  },
  "history": [
@@ -3101,6 +3128,15 @@
    "l": "Words in 3–4 Passages",
    "a": 100,
    "s": 8086,
+   "won": true
+  },
+  {
+   "t": 1789579903958,
+   "d": "junior",
+   "k": "unique",
+   "l": "Unique Words",
+   "a": 100,
+   "s": 8184,
    "won": true
   }
  ]
