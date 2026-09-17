@@ -1,5 +1,5 @@
 {
- "updatedAt": 1789601876358,
+ "updatedAt": 1789680587525,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -188,8 +188,8 @@
      "scope": "feasts"
     },
     "junior::commandments": {
-     "score": 295,
-     "items": 4,
+     "score": 4230,
+     "items": 42,
      "label": "Ten Commandments",
      "division": "junior",
      "scope": "commandments"
@@ -349,8 +349,8 @@
      "scope": "gkword"
     }
    },
-   "runs": 70,
-   "updatedAt": 1789601874271
+   "runs": 71,
+   "updatedAt": 1789680582925
   },
   "joseph": {
    "name": "Joseph",
