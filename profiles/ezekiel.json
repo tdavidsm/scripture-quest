@@ -20,9 +20,9 @@
    "last": 1787861433273
   },
   "jd8qwyu": {
-   "c": 3,
+   "c": 26,
    "w": 2,
-   "last": 1787934304902
+   "last": 1789680581717
   },
   "jz284cr": {
    "c": 0,
@@ -2838,10 +2838,15 @@
    "c": 0,
    "w": 1,
    "last": 1789601872664
+  },
+  "j1kxi7mh": {
+   "c": 19,
+   "w": 0,
+   "last": 1789680579351
   }
  },
- "runs": 70,
- "lastPlayed": 1789601874268,
+ "runs": 71,
+ "lastPlayed": 1789680582922,
  "scopes": {
   "junior::feasts": {
    "score": 8467,
@@ -2851,8 +2856,8 @@
    "scope": "feasts"
   },
   "junior::commandments": {
-   "score": 295,
-   "items": 4,
+   "score": 4230,
+   "items": 42,
    "label": "Ten Commandments",
    "division": "junior",
    "scope": "commandments"
@@ -3489,6 +3494,15 @@
    "a": 62,
    "s": 928,
    "won": false
+  },
+  {
+   "t": 1789680582922,
+   "d": "junior",
+   "k": "commandments",
+   "l": "Ten Commandments",
+   "a": 100,
+   "s": 4230,
+   "won": true
   }
  ]
 }
