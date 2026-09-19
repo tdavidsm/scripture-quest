@@ -1,5 +1,5 @@
 {
- "updatedAt": 1789777840092,
+ "updatedAt": 1789848677146,
  "scholars": {
   "mumz": {
    "name": "Mumz",
@@ -347,10 +347,17 @@
      "label": "English ↔ Greek Word",
      "division": "junior",
      "scope": "gkword"
+    },
+    "junior::xref": {
+     "score": 4226,
+     "items": 42,
+     "label": "Cross-References",
+     "division": "junior",
+     "scope": "xref"
     }
    },
-   "runs": 72,
-   "updatedAt": 1789777837542
+   "runs": 73,
+   "updatedAt": 1789848675140
   },
   "joseph": {
    "name": "Joseph",
