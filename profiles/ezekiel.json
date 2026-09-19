@@ -2888,10 +2888,30 @@
    "c": 1,
    "w": 0,
    "last": 1789777830709
+  },
+  "j417y9i": {
+   "c": 0,
+   "w": 1,
+   "last": 1789847408663
+  },
+  "j13px9ww": {
+   "c": 17,
+   "w": 1,
+   "last": 1789848649549
+  },
+  "j1pwpg78": {
+   "c": 13,
+   "w": 1,
+   "last": 1789848670394
+  },
+  "j1afsx80": {
+   "c": 18,
+   "w": 1,
+   "last": 1789848673933
   }
  },
- "runs": 72,
- "lastPlayed": 1789777837538,
+ "runs": 73,
+ "lastPlayed": 1789848675137,
  "scopes": {
   "junior::feasts": {
    "score": 8467,
@@ -3060,6 +3080,13 @@
    "label": "English ↔ Greek Word",
    "division": "junior",
    "scope": "gkword"
+  },
+  "junior::xref": {
+   "score": 4226,
+   "items": 42,
+   "label": "Cross-References",
+   "division": "junior",
+   "scope": "xref"
   }
  },
  "history": [
@@ -3557,6 +3584,15 @@
    "a": 44,
    "s": 684,
    "won": false
+  },
+  {
+   "t": 1789848675137,
+   "d": "junior",
+   "k": "xref",
+   "l": "Cross-References",
+   "a": 100,
+   "s": 4226,
+   "won": true
   }
  ]
 }
